@@ -43,11 +43,11 @@ jobs:
             - 'website/**'
 
 
-  release-helm:
+  release-website:
     permissions:
       pull-requests: write
     name: "${{ github.ref == 'refs/heads/master' && '(Production)' || '(Preview)' }}"
-    runs-on: actions-runners
+    runs-on: ubuntu-latest
     needs: check_changes
     steps:
       - name: Checkout
