@@ -1,0 +1,6 @@
+{
+  "server_name": "matrix.trueforge.org",
+  "verify_keys": {
+    "ed25519:a_uWOp": "dyyljokYs5gz+nax/Mt0R7+tgVNocfWUNG5KJ2fC7yc"
+  }
+}
