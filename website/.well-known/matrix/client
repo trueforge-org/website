@@ -4,7 +4,7 @@
   },
   "m.identity_server": {
     "base_url": "https://vector.im"
-  }
+  },
     "org.matrix.msc2965.authentication": {
         "issuer": "https://trueforge.org",
         "account": "https://mas.trueforge.org/account"
