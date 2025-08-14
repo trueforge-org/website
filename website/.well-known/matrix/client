@@ -6,7 +6,7 @@
     "base_url": "https://vector.im"
   }
     "org.matrix.msc2965.authentication": {
-        "issuer": "https://account.example.com/",
-        "account": "https://account.example.com"
+        "issuer": "https://mas.trueforge.org/",
+        "account": "https://mas.trueforge.org"
     }
 }
