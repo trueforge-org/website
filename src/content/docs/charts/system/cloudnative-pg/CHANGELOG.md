@@ -18,8 +18,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 8.1.1 • [Train: system]
 
 - chore(deps): update ignored by renovate (patch) (#26180) • [`2da6d7d`](https://github.com/trueforge-org/truecharts/commit/2da6d7d99702fef6d3efdf39ec6aab0bbd519b7a) • [@TrueCharts Bot] (2024-10-02)
-- chore(deps): lock file maintenance helm system by renovate (#24247) • [`30311a5`](https://github.com/trueforge-org/truecharts/commit/30311a57f33e611fbd21aea7a4fc0ba3cb90cf8a) • [@TrueCharts Bot] (2024-09-09)
 - chore(deps): update ignored by renovate (patch) (#25560) • [`866009d`](https://github.com/trueforge-org/truecharts/commit/866009d9b3dff8e93e5d9fc55080942887b09eee) • [@TrueCharts Bot] (2024-09-09)
+- chore(deps): lock file maintenance helm system by renovate (#24247) • [`30311a5`](https://github.com/trueforge-org/truecharts/commit/30311a57f33e611fbd21aea7a4fc0ba3cb90cf8a) • [@TrueCharts Bot] (2024-09-09)
 - chore(deps): update ignored by renovate (patch) (#24139) • [`51504b7`](https://github.com/trueforge-org/truecharts/commit/51504b7b0045e75470a34b20fdfe9004bbf3c081) • [@TrueCharts Bot] (2024-07-24)
 - Commit daily changes • [`9c6cf1b`](https://github.com/trueforge-org/truecharts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)
 - chore(deps): lock file maintenance helm system by renovate (#22792) • [`58e2395`](https://github.com/trueforge-org/truecharts/commit/58e2395dfda33cd2ed02cc91dda8e4e0cf8bb86a) • [@TrueCharts Bot] (2024-06-30)
@@ -39,13 +39,13 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 7.0.5 • [Train: system]
 
 - Commit daily changes • [`f522aad`](https://github.com/trueforge-org/truecharts/commit/f522aadebb53e1ca8416df2aa992281858533d9d) • [@TrueCharts-Bot] (2024-06-02)
-- Commit daily changes • [`ca008eb`](https://github.com/trueforge-org/truecharts/commit/ca008eb2afe01c75e63679218a2f8514f756d67e) • [@TrueCharts-Bot] (2024-06-01)
 - chore(deps): update ignored updates to v23.0.11@11fa61c by renovate (#22750) • [`529f653`](https://github.com/trueforge-org/truecharts/commit/529f65306b5e36c3b022317ea00d8e52815d9400) • [@TrueCharts Bot] (2024-06-01)
-- chore(deps): update ignored by renovate (patch) (#21659) • [`3a07b9f`](https://github.com/trueforge-org/truecharts/commit/3a07b9f9794a4debbd6ede53e3e0095060c8c9a2) • [@TrueCharts Bot] (2024-05-31)
+- Commit daily changes • [`ca008eb`](https://github.com/trueforge-org/truecharts/commit/ca008eb2afe01c75e63679218a2f8514f756d67e) • [@TrueCharts-Bot] (2024-06-01)
 - Commit daily changes • [`4357b53`](https://github.com/trueforge-org/truecharts/commit/4357b533a97aa77ffa16998ce8b568336e3892a9) • [@TrueCharts-Bot] (2024-05-31)
+- chore(deps): update ignored by renovate (patch) (#21659) • [`3a07b9f`](https://github.com/trueforge-org/truecharts/commit/3a07b9f9794a4debbd6ede53e3e0095060c8c9a2) • [@TrueCharts Bot] (2024-05-31)
 - chore(deps): lock file maintenance helm system by renovate (#21663) • [`ce99999`](https://github.com/trueforge-org/truecharts/commit/ce999995345c0d473eaad6045a60777dd30feab1) • [@TrueCharts Bot] (2024-05-30)
-- Commit daily changes • [`e50357a`](https://github.com/trueforge-org/truecharts/commit/e50357a154422a397a11141869f0973293102e49) • [@TrueCharts-Bot] (2024-05-26)
 - Commit daily changes • [`529340b`](https://github.com/trueforge-org/truecharts/commit/529340b7575e8cd6d00d2499271dc62e58a8d18d) • [@TrueCharts-Bot] (2024-05-26)
+- Commit daily changes • [`e50357a`](https://github.com/trueforge-org/truecharts/commit/e50357a154422a397a11141869f0973293102e49) • [@TrueCharts-Bot] (2024-05-26)
 - chore: bump CloudNative-PG to release idiotproofing credentials • [`cbeaefd`](https://github.com/trueforge-org/truecharts/commit/cbeaefdd0a96bcd7a95819fb299ca98ac16ab97a) • [@Kjeld Schouten] (2024-05-19)
 
 ## 7.0.4 • [Train: system]
@@ -78,8 +78,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.10.2 • [Train: system]
 
-- chore(cnpg): bump correctly • [`8f7441e`](https://github.com/trueforge-org/truecharts/commit/8f7441ea61557d2b727071904cec6811eea4b4be) • [@Kjeld Schouten] (2024-04-27)
 - Revert &#34;chore(deps): update helm chart cloudnative-pg to 0.21.0 by renovate (#21431)&#34; • [`c1073cc`](https://github.com/trueforge-org/truecharts/commit/c1073cce20a094bcf81064d3231dec755f9044e3) • [@Kjeld Schouten] (2024-04-27)
+- chore(cnpg): bump correctly • [`8f7441e`](https://github.com/trueforge-org/truecharts/commit/8f7441ea61557d2b727071904cec6811eea4b4be) • [@Kjeld Schouten] (2024-04-27)
 
 ## 6.10.1 • [Train: system]
 
@@ -353,10 +353,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.2.0 • [Train: operators]
 
-- chore: move everything to consume OCI-hosted common-chart dependency • [`0eae972`](https://github.com/trueforge-org/truecharts/commit/0eae972794d2fe164dc298993e899508639d2f2b) • [@Kjeld Schouten] (2024-01-01)
 - Commit daily changes • [`92663fd`](https://github.com/trueforge-org/truecharts/commit/92663fd20508f148c3750c79de3f37f44530a18a) • [@TrueCharts-Bot] (2024-01-01)
-- chore(docs): standardize ./img references (#16704) • [`6986224`](https://github.com/trueforge-org/truecharts/commit/698622495ce0dccf9f0dbbb324d5df196d3eba3c) • [@Stavros Kois] (2023-12-31)
+- chore: move everything to consume OCI-hosted common-chart dependency • [`0eae972`](https://github.com/trueforge-org/truecharts/commit/0eae972794d2fe164dc298993e899508639d2f2b) • [@Kjeld Schouten] (2024-01-01)
 - Commit daily changes • [`bf535bc`](https://github.com/trueforge-org/truecharts/commit/bf535bc529cd11f520ea04d08751f4b3083b8c91) • [@TrueCharts-Bot] (2023-12-31)
+- chore(docs): standardize ./img references (#16704) • [`6986224`](https://github.com/trueforge-org/truecharts/commit/698622495ce0dccf9f0dbbb324d5df196d3eba3c) • [@Stavros Kois] (2023-12-31)
 - chore(deps): update helm general minor by renovate (#16579) • [`9eddcd9`](https://github.com/trueforge-org/truecharts/commit/9eddcd99d3acbcf55a2f3e67b046a8f288d56a59) • [@TrueCharts Bot] (2023-12-30)
 
 ## 5.1.1 • [Train: operators]
@@ -449,10 +449,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 3.0.0 • [Train: operators]
 
 - Commit daily changes • [`a75ade9`](https://github.com/trueforge-org/truecharts/commit/a75ade9cecec94cdb45441704c760cdb51054a57) • [@TrueCharts-Bot] (2023-12-15)
-- Commit daily changes • [`836a202`](https://github.com/trueforge-org/truecharts/commit/836a202222e70213ddd12fcecb0b4a74bfa88631) • [@TrueCharts-Bot] (2023-12-14)
 - Merge branch &#39;master&#39; of github.com:truecharts/charts • [`d85f6a7`](https://github.com/trueforge-org/truecharts/commit/d85f6a76ea5ed62e71514fc874b4b8b1e6c73230) • [@Kjeld Schouten] (2023-12-14)
-- Commit daily changes • [`b9f4cca`](https://github.com/trueforge-org/truecharts/commit/b9f4ccaee6a5612110484ca4e8e91c6ede3465c8) • [@TrueCharts-Bot] (2023-12-12)
+- Commit daily changes • [`836a202`](https://github.com/trueforge-org/truecharts/commit/836a202222e70213ddd12fcecb0b4a74bfa88631) • [@TrueCharts-Bot] (2023-12-14)
 - Commit daily changes • [`3ac7442`](https://github.com/trueforge-org/truecharts/commit/3ac7442c25a2d0d2648f9de45f218f95fec3d062) • [@TrueCharts-Bot] (2023-12-12)
+- Commit daily changes • [`b9f4cca`](https://github.com/trueforge-org/truecharts/commit/b9f4ccaee6a5612110484ca4e8e91c6ede3465c8) • [@TrueCharts-Bot] (2023-12-12)
 - Commit daily changes • [`84eca1f`](https://github.com/trueforge-org/truecharts/commit/84eca1fd32b6dd0181feeca73f43ba861d2459b2) • [@TrueCharts-Bot] (2023-12-11)
 - Commit daily changes • [`c43b045`](https://github.com/trueforge-org/truecharts/commit/c43b0458e73c91b2a55e3592670299e068729950) • [@TrueCharts-Bot] (2023-12-10)
 - Commit daily changes • [`9edb8f3`](https://github.com/trueforge-org/truecharts/commit/9edb8f34a2c42615d9769c78aab806ed32594375) • [@TrueCharts-Bot] (2023-12-09)
@@ -460,11 +460,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 - Commit daily changes • [`394da26`](https://github.com/trueforge-org/truecharts/commit/394da26ab82f36b5b0e312037f4e8245b006fef5) • [@TrueCharts-Bot] (2023-12-06)
 - Commit daily changes • [`c5c271c`](https://github.com/trueforge-org/truecharts/commit/c5c271cb7efffb1c7200f9e6818a445658fa3890) • [@TrueCharts-Bot] (2023-12-03)
 - Commit daily changes • [`a39b2b8`](https://github.com/trueforge-org/truecharts/commit/a39b2b8d1969c1135816d0dce4bf233918fb3010) • [@TrueCharts-Bot] (2023-12-03)
-- Commit daily changes • [`57a03f8`](https://github.com/trueforge-org/truecharts/commit/57a03f87318553c6d549bb9ae286dcd3cb3d8d5e) • [@TrueCharts-Bot] (2023-12-02)
 - Commit daily changes • [`4029aea`](https://github.com/trueforge-org/truecharts/commit/4029aea090973758ef3c4f7952ae41c2cf78bcb0) • [@TrueCharts-Bot] (2023-12-02)
-- chore: fix annotations again • [`968da8e`](https://github.com/trueforge-org/truecharts/commit/968da8ed456fb6015744404b9cd21b832b0f9b38) • [@Kjeld Schouten] (2023-12-02)
-- chore: update annotations • [`5e194fb`](https://github.com/trueforge-org/truecharts/commit/5e194fb0bb5e2db19f02aac9cfd3cf32f28694f2) • [@Kjeld Schouten] (2023-12-02)
+- Commit daily changes • [`57a03f8`](https://github.com/trueforge-org/truecharts/commit/57a03f87318553c6d549bb9ae286dcd3cb3d8d5e) • [@TrueCharts-Bot] (2023-12-02)
 - Commit daily changes • [`a0cab80`](https://github.com/trueforge-org/truecharts/commit/a0cab8013532aa7e3751411c7a16cc020866fa8d) • [@TrueCharts-Bot] (2023-12-02)
+- chore: update annotations • [`5e194fb`](https://github.com/trueforge-org/truecharts/commit/5e194fb0bb5e2db19f02aac9cfd3cf32f28694f2) • [@Kjeld Schouten] (2023-12-02)
+- chore: fix annotations again • [`968da8e`](https://github.com/trueforge-org/truecharts/commit/968da8ed456fb6015744404b9cd21b832b0f9b38) • [@Kjeld Schouten] (2023-12-02)
 - Commit daily changes • [`e75af59`](https://github.com/trueforge-org/truecharts/commit/e75af597d02003f3848de446c0b2f0c9dc4c10a1) • [@TrueCharts-Bot] (2023-12-01)
 - chore: cleanup chart.yaml and add min-max scale version • [`286f68a`](https://github.com/trueforge-org/truecharts/commit/286f68aed0da4d274bcd7e7266934adee6667c6c) • [@Kjeld Schouten] (2023-11-30)
 - Commit daily changes • [`0027f37`](https://github.com/trueforge-org/truecharts/commit/0027f3756f8bc222b262970613f7465d746b0548) • [@TrueCharts-Bot] (2023-11-28)

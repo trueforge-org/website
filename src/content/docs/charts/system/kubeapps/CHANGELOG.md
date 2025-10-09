@@ -60,8 +60,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 - Commit daily changes • [`ca008eb`](https://github.com/trueforge-org/truecharts/commit/ca008eb2afe01c75e63679218a2f8514f756d67e) • [@TrueCharts-Bot] (2024-06-01)
 - chore(deps): update ignored by renovate (patch) (#21659) • [`3a07b9f`](https://github.com/trueforge-org/truecharts/commit/3a07b9f9794a4debbd6ede53e3e0095060c8c9a2) • [@TrueCharts Bot] (2024-05-31)
 - Commit daily changes • [`4357b53`](https://github.com/trueforge-org/truecharts/commit/4357b533a97aa77ffa16998ce8b568336e3892a9) • [@TrueCharts-Bot] (2024-05-31)
-- Commit daily changes • [`529340b`](https://github.com/trueforge-org/truecharts/commit/529340b7575e8cd6d00d2499271dc62e58a8d18d) • [@TrueCharts-Bot] (2024-05-26)
 - Commit daily changes • [`e50357a`](https://github.com/trueforge-org/truecharts/commit/e50357a154422a397a11141869f0973293102e49) • [@TrueCharts-Bot] (2024-05-26)
+- Commit daily changes • [`529340b`](https://github.com/trueforge-org/truecharts/commit/529340b7575e8cd6d00d2499271dc62e58a8d18d) • [@TrueCharts-Bot] (2024-05-26)
 - chore(deps): update container image kubeapps to v15.0.3@6979b89 by renovate (#21582) • [`59f294a`](https://github.com/trueforge-org/truecharts/commit/59f294aff09b24ec9a5a04a1e4551e7cb7664b7e) • [@TrueCharts Bot] (2024-05-05)
 
 ## 3.0.4 • [Train: system]
@@ -129,8 +129,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.10.6 • [Train: system]
 
-- chore(deps): update container image common to v20.3.7@8cf9fc9 by renovate (#20819) • [`4413ae4`](https://github.com/trueforge-org/truecharts/commit/4413ae4d1cdd32a9d5f70d57f0c01e429ee90298) • [@TrueCharts Bot] (2024-04-16)
 - Webp icons2 (#20851) • [`8b489f4`](https://github.com/trueforge-org/truecharts/commit/8b489f48bb8f4f6a01050a08ad544323375bce74) • [@Kjeld Schouten] (2024-04-16)
+- chore(deps): update container image common to v20.3.7@8cf9fc9 by renovate (#20819) • [`4413ae4`](https://github.com/trueforge-org/truecharts/commit/4413ae4d1cdd32a9d5f70d57f0c01e429ee90298) • [@TrueCharts Bot] (2024-04-16)
 
 ## 2.10.5 • [Train: system]
 
@@ -156,8 +156,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.10.0 • [Train: system]
 
-- chore(deps): update container image kubeapps to v15.0.1@12bfab1 by renovate (#20289) • [`72e083f`](https://github.com/trueforge-org/truecharts/commit/72e083fd4c0838c3b9331ea37cb9f482bffdcde1) • [@TrueCharts Bot] (2024-04-08)
 - chore(deps): update container image common to v20.3.2@0722ebb by renovate (#20334) • [`36a8308`](https://github.com/trueforge-org/truecharts/commit/36a83081e8a2a0f9c0a7d36ae5398e55264c1798) • [@TrueCharts Bot] (2024-04-08)
+- chore(deps): update container image kubeapps to v15.0.1@12bfab1 by renovate (#20289) • [`72e083f`](https://github.com/trueforge-org/truecharts/commit/72e083fd4c0838c3b9331ea37cb9f482bffdcde1) • [@TrueCharts Bot] (2024-04-08)
 
 ## 2.9.5 • [Train: system]
 

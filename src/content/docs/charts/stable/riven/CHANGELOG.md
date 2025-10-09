@@ -141,8 +141,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.1.7 • [Train: stable]
 
-- chore(helm): update image ghcr.io/elfhosted/riven v0.21.5 → v0.21.9 (#33221) • [`b4d714f`](https://github.com/trueforge-org/truecharts/commit/b4d714f12fe3cab3ca10faf07a32f63ce1b75215) • [@TrueCharts Bot] (2025-03-14)
 - chore(helm): update image ghcr.io/elfhosted/riven-frontend v0.18.0 → v0.18.1 (#33222) • [`5cf1b1e`](https://github.com/trueforge-org/truecharts/commit/5cf1b1ef3e6e57d89c7e23bedb0826b8827fdd12) • [@TrueCharts Bot] (2025-03-14)
+- chore(helm): update image ghcr.io/elfhosted/riven v0.21.5 → v0.21.9 (#33221) • [`b4d714f`](https://github.com/trueforge-org/truecharts/commit/b4d714f12fe3cab3ca10faf07a32f63ce1b75215) • [@TrueCharts Bot] (2025-03-14)
 
 ## 1.1.6 • [Train: stable]
 
