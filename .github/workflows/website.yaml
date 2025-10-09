@@ -46,7 +46,7 @@ jobs:
   release-website:
     permissions:
       pull-requests: write
-    name: "${{ github.ref == 'refs/heads/master' && '(Production)' || '(Preview)' }}"
+    name: "${{ github.ref == 'refs/heads/main' && '(Production)' || '(Preview)' }}"
     runs-on:
       group: default
     needs: check_changes
