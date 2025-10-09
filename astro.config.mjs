@@ -20,7 +20,7 @@ import betterImageService from "astro-better-image-service";
 import playformCompress from "@playform/compress";
 // Configure global authors here
 import { authors } from "./src/content/docs/news/authors";
-const site = "https://truecharts.org";
+const site = "https://trueforge.org";
 
 // https://astro.build/config
 export default defineConfig({
@@ -84,7 +84,7 @@ export default defineConfig({
         patreon: "https://patreon.com/truecharts",
       },
       editLink: {
-        baseUrl: "https://github.com/trueforge-org/website/tree/master/website",
+        baseUrl: "https://github.com/trueforge-org/website/tree/main",
       },
       components: {
         Header: "./src/components/CustomHeader.astro",
