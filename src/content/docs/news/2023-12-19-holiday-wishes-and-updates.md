@@ -7,7 +7,7 @@ tags:
   - "2023"
 ---
 
-As the holiday season sparkles around us, we at [TrueCharts](https://truecharts.org) want to extend our warmest wishes for a Merry Christmas to our incredible community. This year has been a remarkable journey, and we couldn't have done it without you!
+As the holiday season sparkles around us, we at [TrueCharts](https://trueforge.org) want to extend our warmest wishes for a Merry Christmas to our incredible community. This year has been a remarkable journey, and we couldn't have done it without you!
 
 ## 🚀 Major Milestone Achieved! 🚀
 

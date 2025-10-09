@@ -21,7 +21,7 @@ But with all this growth comes a shift.
 
 As life changes on my end too, I’ve come to realize I simply can’t do it all — not if we want to keep doing things right. So it’s time for a new phase.
 
-You’ll notice on the [team page](https://truecharts.org/team) that I’m officially stepping back from day-to-day involvement with the general chart catalog. That means fewer interactions from me on community chart PRs and general contributions.
+You’ll notice on the [team page](https://trueforge.org/team) that I’m officially stepping back from day-to-day involvement with the general chart catalog. That means fewer interactions from me on community chart PRs and general contributions.
 
 Instead, I’ll be focusing 100% of my energy on what matters most for the long-term success of the project:
 

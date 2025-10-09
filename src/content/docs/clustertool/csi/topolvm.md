@@ -28,7 +28,7 @@ Most important highlights of above are the:
 All are implemented and setup in Clustertool for your convenience.
 
 To prepare the disk for a thin pool, use TrueCharts' LVM_disk_watcher chart and container, which can do these steps to a disk you configure.
-Chart information at: https://truecharts.org/charts/system/lvm-disk-watcher/
+Chart information at: https://trueforge.org/charts/system/lvm-disk-watcher/
 
 Find the name of the disk you want to use for TopoLVM. With Talos OS, use `talosctl disks` to list the names of the available disks. You may need to install another disk to your VM or your bare-metal server.
 
