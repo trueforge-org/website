@@ -9,12 +9,12 @@ on:
   #pull_request:
   #  paths:
   #    - "charts/**"
-  #    - "website/**"
+  #    - "/**"
   push:
     branches:
       - main
     paths:
-      - "website/**"
+      - "/**"
       - ".github/workflows/website.yaml"
 
 # Use `bash --noprofile --norc -exo pipefail` by default for all `run` steps in this workflow:
@@ -40,7 +40,7 @@ jobs:
           list-files: json
           filters: |
             changed:
-            - 'website/**'
+            - '/**'
 
 
   release-website:
@@ -51,9 +51,73 @@ jobs:
     needs: check_changes
     steps:
       - name: Checkout
-        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
+        uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5
         with:
-          fetch-depth: 0
+          fetch-depth: 1
+
+      - name: Comment deploy start
+        if: github.event_name != 'push' && needs.check_changes.outputs.changes_detected == 'true'
+        continue-on-error: true
+        uses: mshick/add-pr-comment@b8f338c590a895d50bcbfa6c5859251edc8952fc # v2
+        with:
+          message-id: cloudflare-deploy
+          message: |
+            ### 🚧 Deploy Preview building...
+
+            |  Name               | Link                                                                          |
+            |---------------------|-------------------------------------------------------------------------------|
+            |🔨 Latest commit     | ${{ github.sha }}                                                             |
+            |🔍 Latest deploy log | https:/github.com/${{ github.repository }}/actions/runs/${{ github.run_id }} |
+            ---
+
+      - name: Setup Node
+        if: needs.check_changes.outputs.changes_detected == 'true' && needs.check_changes.outputs.changes_detected == 'true'
+        uses: actions/setup-node@a0853c24544627f65ddf259abe73b1d18a591444 # v5
+        with:
+          node-version-file: ./.nvmrc
+
+      - name: Fix Package-Lock
+        if: needs.check_changes.outputs.changes_detected == 'true'
+        run: cd website && npm i --package-lock-only
+
+      - name: Setup astro Cache
+        if: needs.check_changes.outputs.changes_detected == 'true'
+        uses: actions/cache@0057852bfaa89a56745cba8c7296529d2fc39830 # v4
+        with:
+          # Cache for build and optimized images.
+          key: astro-${{ hashFiles('/package-lock.json') }}
+          path: ./.astro
+          restore-keys: astro-
+
+      - name: Setup npm Cache
+        if: needs.check_changes.outputs.changes_detected == 'true'
+        uses: actions/cache@0057852bfaa89a56745cba8c7296529d2fc39830 # v4
+        with:
+          # Cache for npm
+          path: ~/.npm
+          key: npm-${{ hashFiles('/package-lock.json') }}
+          restore-keys: npm-
+
+      - name: Setup node_modules Cache
+        id: modulescache
+        if: needs.check_changes.outputs.changes_detected == 'true'
+        uses: actions/cache@0057852bfaa89a56745cba8c7296529d2fc39830 # v4
+        with:
+          # Cache for npm and optimized images.
+          path: ./node_modules
+          key: modules-${{ hashFiles('/package-lock.json') }}
+
+      - name: Install Packages
+        if: steps.modulescache.outputs.cache-hit != 'true' && needs.check_changes.outputs.changes_detected == 'true'
+        run: cd website && npm ci
+
+      - name: Check
+        if: needs.check_changes.outputs.changes_detected == 'true'
+        run: cd website && npm run check
+
+      - name: Build
+        if: needs.check_changes.outputs.changes_detected == 'true'
+        run: cd website && npm run build
 
       - name: Comment deploy start
         if: github.event_name != 'push' && needs.check_changes.outputs.changes_detected == 'true'
