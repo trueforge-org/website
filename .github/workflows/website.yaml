@@ -80,7 +80,7 @@ jobs:
 
       - name: Fix Package-Lock
         if: needs.check_changes.outputs.changes_detected == 'true'
-        run: cd website && npm i --package-lock-only
+        run: npm i --package-lock-only
 
       - name: Setup astro Cache
         if: needs.check_changes.outputs.changes_detected == 'true'
@@ -111,15 +111,15 @@ jobs:
 
       - name: Install Packages
         if: steps.modulescache.outputs.cache-hit != 'true' && needs.check_changes.outputs.changes_detected == 'true'
-        run: cd website && npm ci
+        run: npm ci
 
       - name: Check
         if: needs.check_changes.outputs.changes_detected == 'true'
-        run: cd website && npm run check
+        run: npm run check
 
       - name: Build
         if: needs.check_changes.outputs.changes_detected == 'true'
-        run: cd website && npm run build
+        run: npm run build
 
       - name: Comment deploy start
         if: github.event_name != 'push' && needs.check_changes.outputs.changes_detected == 'true'
