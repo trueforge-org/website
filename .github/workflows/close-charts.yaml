@@ -1,0 +1,33 @@
+name: close-charts
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  check-and-close:
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+      contents: read
+
+    steps:
+      - name: Check for modified chart doc files
+        id: check
+        run: |
+          echo "Checking for modified files..."
+          CHANGED_FILES=$(gh api repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/files --jq '.[].filename')
+
+          echo "$CHANGED_FILES" | grep -E '^src/content/docs/charts/' && echo "found=true" >> $GITHUB_OUTPUT || echo "found=false" >> $GITHUB_OUTPUT
+        env:
+          GH_TOKEN: ${{ github.token }}
+
+      - name: Close PR if chart docs were modified
+        if: steps.check.outputs.found == 'true'
+        run: |
+          gh pr comment ${{ github.event.pull_request.number }} --body 'Changes to chart docs cannot be submitted here. 
+          They need to be submitted to https://github.com/trueforge-org/truecharts instead'
+
+          gh pr close ${{ github.event.pull_request.number }}
+        env:
+          GH_TOKEN: ${{ github.token }}
