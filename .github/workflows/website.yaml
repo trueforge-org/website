@@ -149,7 +149,7 @@ jobs:
           branch: ${{ github.ref == 'refs/heads/main' && 'main' || github.head_ref }}
           # The project name in Cloudflare
           projectName: trueforge-website
-          directory: ./website
+          directory: .
           wranglerVersion: "3"
 
       - name: Comment deploy url
