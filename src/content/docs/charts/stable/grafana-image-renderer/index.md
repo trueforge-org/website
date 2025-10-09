@@ -2,13 +2,14 @@
 title: grafana-image-renderer
 ---
 
-![Version: 8.8.0](https://img.shields.io/badge/Version-8.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 8.8.1](https://img.shields.io/badge/Version-8.8.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 A Grafana remote image renderer that handles rendering panels &amp; dashboards to PNGs using headless chrome.
 
 ## Chart Sources
 
 - https://github.com/grafana/grafana-image-renderer/blob/master/docs/remote_rendering_using_docker.md
+- https://github.com/truecharts/charts/tree/master/charts/stable/grafana-image-renderer
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/grafana-image-renderer
 - https://hub.docker.com/r/grafana/grafana-image-renderer
 
