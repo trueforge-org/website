@@ -47,7 +47,8 @@ jobs:
     permissions:
       pull-requests: write
     name: "${{ github.ref == 'refs/heads/master' && '(Production)' || '(Preview)' }}"
-    runs-on: ubuntu-latest
+    runs-on:
+      group: default
     needs: check_changes
     steps:
       - name: Checkout
