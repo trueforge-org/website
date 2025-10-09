@@ -60,7 +60,7 @@ jobs:
         uses: actions/cache@0057852bfaa89a56745cba8c7296529d2fc39830 # v4
         with:
           # Cache for build and optimized images.
-          key: astro-${{ hashFiles('/package-lock.json') }}
+          key: astro-${{ hashFiles('package-lock.json') }}
           path: ./.astro
           restore-keys: astro-
 
@@ -69,7 +69,7 @@ jobs:
         with:
           # Cache for npm
           path: ~/.npm
-          key: npm-${{ hashFiles('/package-lock.json') }}
+          key: npm-${{ hashFiles('package-lock.json') }}
           restore-keys: npm-
 
       - name: Setup node_modules Cache
@@ -78,7 +78,7 @@ jobs:
         with:
           # Cache for npm and optimized images.
           path: ./node_modules
-          key: modules-${{ hashFiles('/package-lock.json') }}
+          key: modules-${{ hashFiles('package-lock.json') }}
 
       - name: Install Packages
         if: steps.modulescache.outputs.cache-hit != 'true'
