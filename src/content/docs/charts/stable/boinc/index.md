@@ -2,13 +2,14 @@
 title: boinc
 ---
 
-![Version: 12.8.0](https://img.shields.io/badge/Version-12.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 12.8.1](https://img.shields.io/badge/Version-12.8.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 BOINC is a platform for high-throughput computing on a large scale (thousands or millions of computers).
 
 ## Chart Sources
 
 - https://ghcr.io/linuxserver/boinc
+- https://github.com/truecharts/charts/tree/master/charts/stable/boinc
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/boinc
 
 ## Available Documentation
