@@ -40,7 +40,7 @@ jobs:
           list-files: json
           filters: |
             changed:
-            - '/**'
+            - '**'
 
 
   release-website:
