@@ -143,9 +143,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.26.2 • [Train: stable]
 
-- hmm • [`2ec6932`](https://github.com/trueforge-org/truecharts/commit/2ec6932556467294b337207fc3a5ea5993806f19) • [@Kjeld Schouten] (2025-04-09)
 - fix(renovate): use our container BETA • [`afd99cc`](https://github.com/trueforge-org/truecharts/commit/afd99cc2921c7e748207a8a718713c6bc851103c) • [@Kjeld Schouten] (2025-04-09)
 - chore: update clustertool version everywhere • [`bb99174`](https://github.com/trueforge-org/truecharts/commit/bb991743f2c9d580bc4097334aebe393333dc6d7) • [@Kjeld Schouten] (2025-04-09)
+- hmm • [`2ec6932`](https://github.com/trueforge-org/truecharts/commit/2ec6932556467294b337207fc3a5ea5993806f19) • [@Kjeld Schouten] (2025-04-09)
 
 ## 1.26.1 • [Train: stable]
 
@@ -248,8 +248,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.11.5 • [Train: incubator]
 
-- bump • [`2bac9fe`](https://github.com/trueforge-org/truecharts/commit/2bac9fe04fa3536845e4e5cd7db2b6eb6190934c) • [@Kjeld Schouten] (2025-02-08)
 - move renovate cache mountpoint • [`1b178e6`](https://github.com/trueforge-org/truecharts/commit/1b178e670e704acdd2649a55b12b41bb0dd8bf9b) • [@Kjeld Schouten] (2025-02-08)
+- bump • [`2bac9fe`](https://github.com/trueforge-org/truecharts/commit/2bac9fe04fa3536845e4e5cd7db2b6eb6190934c) • [@Kjeld Schouten] (2025-02-08)
 
 ## 1.11.4 • [Train: incubator]
 
@@ -261,8 +261,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.11.2 • [Train: incubator]
 
-- Update values.yaml • [`0a26285`](https://github.com/trueforge-org/truecharts/commit/0a262859c5c45a3171ffc57c86a53c8dfa8eaaeb) • [@Kjeld Schouten] (2025-02-07)
 - Update Chart.yaml • [`88d7cab`](https://github.com/trueforge-org/truecharts/commit/88d7cabda1ef993b9113b5cf0363dd9b6791aa6c) • [@Kjeld Schouten] (2025-02-07)
+- Update values.yaml • [`0a26285`](https://github.com/trueforge-org/truecharts/commit/0a262859c5c45a3171ffc57c86a53c8dfa8eaaeb) • [@Kjeld Schouten] (2025-02-07)
 
 ## 1.11.1 • [Train: incubator]
 
