@@ -13,9 +13,6 @@ on:
   push:
     branches:
       - main
-    paths:
-      - "**"
-
 # Use `bash --noprofile --norc -exo pipefail` by default for all `run` steps in this workflow:
 # https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions#defaultsrun
 defaults:
@@ -36,7 +33,7 @@ jobs:
           fetch-depth: 1
 
       - name: Comment deploy start
-        if: github.event_name != 'push' && needs.check_changes.outputs.changes_detected == 'true'
+        if: github.event_name != 'push'
         continue-on-error: true
         uses: mshick/add-pr-comment@b8f338c590a895d50bcbfa6c5859251edc8952fc # v2
         with:
@@ -51,17 +48,14 @@ jobs:
             ---
 
       - name: Setup Node
-        if: needs.check_changes.outputs.changes_detected == 'true' && needs.check_changes.outputs.changes_detected == 'true'
         uses: actions/setup-node@a0853c24544627f65ddf259abe73b1d18a591444 # v5
         with:
           node-version-file: ./.nvmrc
 
       - name: Fix Package-Lock
-        if: needs.check_changes.outputs.changes_detected == 'true'
         run: npm i --package-lock-only
 
       - name: Setup astro Cache
-        if: needs.check_changes.outputs.changes_detected == 'true'
         uses: actions/cache@0057852bfaa89a56745cba8c7296529d2fc39830 # v4
         with:
           # Cache for build and optimized images.
@@ -70,7 +64,6 @@ jobs:
           restore-keys: astro-
 
       - name: Setup npm Cache
-        if: needs.check_changes.outputs.changes_detected == 'true'
         uses: actions/cache@0057852bfaa89a56745cba8c7296529d2fc39830 # v4
         with:
           # Cache for npm
@@ -80,7 +73,6 @@ jobs:
 
       - name: Setup node_modules Cache
         id: modulescache
-        if: needs.check_changes.outputs.changes_detected == 'true'
         uses: actions/cache@0057852bfaa89a56745cba8c7296529d2fc39830 # v4
         with:
           # Cache for npm and optimized images.
@@ -88,19 +80,17 @@ jobs:
           key: modules-${{ hashFiles('/package-lock.json') }}
 
       - name: Install Packages
-        if: steps.modulescache.outputs.cache-hit != 'true' && needs.check_changes.outputs.changes_detected == 'true'
+        if: steps.modulescache.outputs.cache-hit != 'true'
         run: npm ci
 
       - name: Check
-        if: needs.check_changes.outputs.changes_detected == 'true'
         run: npm run check
 
       - name: Build
-        if: needs.check_changes.outputs.changes_detected == 'true'
         run: npm run build
 
       - name: Comment deploy start
-        if: github.event_name != 'push' && needs.check_changes.outputs.changes_detected == 'true'
+        if: github.event_name != 'push'
         continue-on-error: true
         uses: mshick/add-pr-comment@b8f338c590a895d50bcbfa6c5859251edc8952fc # v2
         with:
@@ -115,7 +105,6 @@ jobs:
             ---
 
       - name: Publish to Cloudflare Pages
-        if: needs.check_changes.outputs.changes_detected == 'true'
         id: cloudflare
         continue-on-error: true
         uses: cloudflare/pages-action@f0a1cd58cd66095dee69bfa18fa5efd1dde93bca # v1
@@ -131,7 +120,7 @@ jobs:
           wranglerVersion: "3"
 
       - name: Comment deploy url
-        if: github.event_name != 'push' && needs.check_changes.outputs.changes_detected == 'true'
+        if: github.event_name != 'push'
         continue-on-error: true
         uses: mshick/add-pr-comment@b8f338c590a895d50bcbfa6c5859251edc8952fc # v2
         with:
@@ -148,5 +137,5 @@ jobs:
             ---
 
       - name: Release-and-Website Completed
-        if: needs.check_changes.outputs.changes_detected == 'true'
+
         run: echo "DONE"
