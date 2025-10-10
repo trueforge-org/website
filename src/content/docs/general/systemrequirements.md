@@ -76,7 +76,7 @@ Systems complying with these recommended specifications will likely be able to r
 
 ### VM Creation Instructions
 
-You can find the VM install instructions [here](https://trueforge.org/clustertool/virtual-machines/truenas-scale/)
+You can find the VM install instructions [here](https://trueforge.org/truetool/virtual-machines/truenas-scale/)
 
 ### Best Effort CPU Recommendations
 
