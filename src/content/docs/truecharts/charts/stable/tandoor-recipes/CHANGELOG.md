@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 20.9.1 • [Train: stable]
 
+- more tc to tf • [`70f87d4`](https://github.com/trueforge-org/truecharts/commit/70f87d44a930f912f6ba4eead6cdda9ca993572f) • [@Kjeld Schouten] (2025-10-10)
 - chore(helm): update image docker.io/vabene1111/recipes 2.2.7 → 2.3.1 (#40417) • [`1a9e47d`](https://github.com/trueforge-org/truecharts/commit/1a9e47dc8d8db270162e4c7bcee787d334010dc3) • [@TrueCharts Bot] (2025-10-09)
 
 ## 20.8.0 • [Train: stable]
@@ -91,8 +92,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 20.2.1 • [Train: stable]
 
-- chore(helm): update chart common 28.16.5 → 28.16.6 (#39145) • [`827fa3c`](https://github.com/trueforge-org/truecharts/commit/827fa3cc55b82b3d292228d8b331331b863ffb3b) • [@TrueCharts Bot] (2025-09-07)
 - chore: fix links • [`1c28a12`](https://github.com/trueforge-org/truecharts/commit/1c28a127898e7db3a350e07a42810acd8eaa4c30) • [@Kjeld Schouten] (2025-09-07)
+- chore(helm): update chart common 28.16.5 → 28.16.6 (#39145) • [`827fa3c`](https://github.com/trueforge-org/truecharts/commit/827fa3cc55b82b3d292228d8b331331b863ffb3b) • [@TrueCharts Bot] (2025-09-07)
 
 ## 20.2.0 • [Train: stable]
 

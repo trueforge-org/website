@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.6.1 • [Train: stable]
 
+- more tc to tf • [`70f87d4`](https://github.com/trueforge-org/truecharts/commit/70f87d44a930f912f6ba4eead6cdda9ca993572f) • [@Kjeld Schouten] (2025-10-10)
 - Commit daily changes • [`c35dfa3`](https://github.com/trueforge-org/truecharts/commit/c35dfa3d783ce558547097c290239bebe97635a4) • [@TrueCharts-Bot] (2025-10-08)
 - chore(helm): update image ghcr.io/g0ldyy/comet digest to b0340bd (#40475) • [`d1d6ea0`](https://github.com/trueforge-org/truecharts/commit/d1d6ea066f4d1cafbf835f3961365e072bd3c946) • [@TrueCharts Bot] (2025-10-07)
 
