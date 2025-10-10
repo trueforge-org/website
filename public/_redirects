@@ -42,3 +42,6 @@
 
 # HELM is now found under "Guides"
 /helm /guides
+
+# Clustertool will be truetool in the future
+/clustertool /truetool
