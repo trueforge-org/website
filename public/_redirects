@@ -44,4 +44,6 @@
 /helm /guides
 
 # Clustertool will be truetool in the future
-/clustertool /truetool
+/clustertool/* /truetool
+
+/charts/* /truecharts/charts

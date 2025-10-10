@@ -1,5 +1,5 @@
 ---
-title: Staff Cluster
+title: Staff Clusters
 sidebar:
   order: 1
 ---
