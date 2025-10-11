@@ -2,7 +2,7 @@
 title: minecraft-java
 ---
 
-![Version: 23.41.1](https://img.shields.io/badge/Version-23.41.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2025.10.1](https://img.shields.io/badge/AppVersion-2025.10.1-informational?style=flat-square)
+![Version: 23.41.2](https://img.shields.io/badge/Version-23.41.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2025.10.1](https://img.shields.io/badge/AppVersion-2025.10.1-informational?style=flat-square)
 
 Minecraft Java Dedicated Server
 
@@ -10,6 +10,7 @@ Minecraft Java Dedicated Server
 
 - https://ghcr.io/itzg/minecraft-server
 - https://github.com/itzg/docker-minecraft-server
+- https://github.com/truecharts/charts/tree/master/charts/stable/minecraft-java
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/minecraft-java
 - https://hub.docker.com/r/itzg/mc-backup
 
