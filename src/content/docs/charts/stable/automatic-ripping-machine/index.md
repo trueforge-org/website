@@ -2,13 +2,14 @@
 title: automatic-ripping-machine
 ---
 
-![Version: 6.12.1](https://img.shields.io/badge/Version-6.12.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.20.5](https://img.shields.io/badge/AppVersion-2.20.5-informational?style=flat-square)
+![Version: 6.12.2](https://img.shields.io/badge/Version-6.12.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.20.5](https://img.shields.io/badge/AppVersion-2.20.5-informational?style=flat-square)
 
 Automatic Ripping Machine (ARM) Scripts.
 
 ## Chart Sources
 
 - https://github.com/automatic-ripping-machine/automatic-ripping-machine
+- https://github.com/truecharts/charts/tree/master/charts/stable/automatic-ripping-machine
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/automatic-ripping-machine
 - https://hub.docker.com/r/automaticrippingmachine/automatic-ripping-machine
 
