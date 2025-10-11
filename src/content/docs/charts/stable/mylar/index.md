@@ -2,7 +2,7 @@
 title: mylar
 ---
 
-![Version: 16.8.0](https://img.shields.io/badge/Version-16.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.8.3](https://img.shields.io/badge/AppVersion-0.8.3-informational?style=flat-square)
+![Version: 16.8.1](https://img.shields.io/badge/Version-16.8.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.8.3](https://img.shields.io/badge/AppVersion-0.8.3-informational?style=flat-square)
 
 Mylar is a automated Comic Book downloader
 
@@ -11,6 +11,7 @@ Mylar is a automated Comic Book downloader
 - https://fleet.linuxserver.io/image?name=linuxserver/mylar3
 - https://github.com/linuxserver/docker-mylar3
 - https://github.com/mylar3/mylar3
+- https://github.com/truecharts/charts/tree/master/charts/stable/mylar
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/mylar
 
 ## Available Documentation
