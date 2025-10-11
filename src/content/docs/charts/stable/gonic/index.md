@@ -2,13 +2,14 @@
 title: gonic
 ---
 
-![Version: 16.10.0](https://img.shields.io/badge/Version-16.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.18.0](https://img.shields.io/badge/AppVersion-0.18.0-informational?style=flat-square)
+![Version: 16.11.0](https://img.shields.io/badge/Version-16.11.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.19.0](https://img.shields.io/badge/AppVersion-0.19.0-informational?style=flat-square)
 
 Music streaming server / subsonic server API implementation
 
 ## Chart Sources
 
 - https://github.com/sentriz/gonic
+- https://github.com/truecharts/charts/tree/master/charts/stable/gonic
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/gonic
 - https://hub.docker.com/r/sentriz/gonic
 
