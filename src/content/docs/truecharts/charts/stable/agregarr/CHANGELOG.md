@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.6.0 • [Train: stable]
+
+- chore(helm): update image ghcr.io/agregarr/agregarr 1.3.1 → 1.4.0 (#40626) • [`b507f91`](https://github.com/trueforge-org/truecharts/commit/b507f91be0c590c862352829ed7aac7be9116335) • [@TrueCharts Bot] (2025-10-11)
+
 ## 1.5.0 • [Train: stable]
 
 - more tc to tf • [`70f87d4`](https://github.com/trueforge-org/truecharts/commit/70f87d44a930f912f6ba4eead6cdda9ca993572f) • [@Kjeld Schouten] (2025-10-10)

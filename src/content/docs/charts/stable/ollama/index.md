@@ -2,7 +2,7 @@
 title: ollama
 ---
 
-![Version: 8.12.1](https://img.shields.io/badge/Version-8.12.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.12.3](https://img.shields.io/badge/AppVersion-0.12.3-informational?style=flat-square)
+![Version: 8.12.3](https://img.shields.io/badge/Version-8.12.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.12.5](https://img.shields.io/badge/AppVersion-0.12.5-informational?style=flat-square)
 
 Get up and running with large language models locally.
 
@@ -11,6 +11,7 @@ Get up and running with large language models locally.
 - https://ghcr.io/open-webui/open-webui
 - https://github.com/ollama/ollama
 - https://github.com/open-webui/open-webui
+- https://github.com/truecharts/charts/tree/master/charts/stable/ollama
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/ollama
 - https://hub.docker.com/r/ollama/ollama
 
