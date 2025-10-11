@@ -2,7 +2,7 @@
 title: monero-node
 ---
 
-![Version: 9.8.0](https://img.shields.io/badge/Version-9.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.18.4.2](https://img.shields.io/badge/AppVersion-0.18.4.2-informational?style=flat-square)
+![Version: 9.8.1](https://img.shields.io/badge/Version-9.8.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.18.4.3](https://img.shields.io/badge/AppVersion-0.18.4.3-informational?style=flat-square)
 
 Chart to run a monero full network node
 
@@ -10,6 +10,7 @@ Chart to run a monero full network node
 
 - https://ghcr.io/sethforprivacy/simple-monerod
 - https://github.com/kannix/monero-full-node
+- https://github.com/truecharts/charts/tree/master/charts/stable/monero-node
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/monero-node
 
 ## Available Documentation

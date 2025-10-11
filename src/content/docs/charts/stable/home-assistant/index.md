@@ -2,7 +2,7 @@
 title: home-assistant
 ---
 
-![Version: 28.11.0](https://img.shields.io/badge/Version-28.11.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2025.10.1](https://img.shields.io/badge/AppVersion-2025.10.1-informational?style=flat-square)
+![Version: 28.11.1](https://img.shields.io/badge/Version-28.11.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2025.10.2](https://img.shields.io/badge/AppVersion-2025.10.2-informational?style=flat-square)
 
 Open source home automation that puts local control and privacy first.
 
@@ -10,6 +10,7 @@ Open source home automation that puts local control and privacy first.
 
 - https://github.com/cdr/code-server
 - https://github.com/home-assistant/home-assistant
+- https://github.com/truecharts/charts/tree/master/charts/stable/home-assistant
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/home-assistant
 - https://hub.docker.com/r/homeassistant/home-assistant
 

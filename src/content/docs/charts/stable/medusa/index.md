@@ -2,7 +2,7 @@
 title: medusa
 ---
 
-![Version: 13.8.0](https://img.shields.io/badge/Version-13.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.0.22](https://img.shields.io/badge/AppVersion-1.0.22-informational?style=flat-square)
+![Version: 13.8.1](https://img.shields.io/badge/Version-13.8.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.0.22](https://img.shields.io/badge/AppVersion-1.0.22-informational?style=flat-square)
 
 An automatic Video Library Manager for TV Shows
 
@@ -10,6 +10,7 @@ An automatic Video Library Manager for TV Shows
 
 - https://ghcr.io/linuxserver/medusa
 - https://github.com/linuxserver/docker-medusa
+- https://github.com/truecharts/charts/tree/master/charts/stable/medusa
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/medusa
 - https://pymedusa.com/
 

@@ -2,7 +2,7 @@
 title: mstream
 ---
 
-![Version: 13.8.0](https://img.shields.io/badge/Version-13.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.13.1](https://img.shields.io/badge/AppVersion-5.13.1-informational?style=flat-square)
+![Version: 13.8.1](https://img.shields.io/badge/Version-13.8.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.13.1](https://img.shields.io/badge/AppVersion-5.13.1-informational?style=flat-square)
 
 A personal music streaming server
 
@@ -10,6 +10,7 @@ A personal music streaming server
 
 - https://ghcr.io/linuxserver/mstream
 - https://github.com/linuxserver/docker-mstream
+- https://github.com/truecharts/charts/tree/master/charts/stable/mstream
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/mstream
 - https://mstream.io/
 

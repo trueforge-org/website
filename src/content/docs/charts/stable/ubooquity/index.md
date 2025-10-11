@@ -2,13 +2,14 @@
 title: ubooquity
 ---
 
-![Version: 14.5.0](https://img.shields.io/badge/Version-14.5.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.1.0](https://img.shields.io/badge/AppVersion-3.1.0-informational?style=flat-square)
+![Version: 14.5.1](https://img.shields.io/badge/Version-14.5.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.1.0](https://img.shields.io/badge/AppVersion-3.1.0-informational?style=flat-square)
 
 Ubooquity is a free, lightweight and easy-to-use home server for your comics and ebooks.
 
 ## Chart Sources
 
 - https://ghcr.io/linuxserver/ubooquity
+- https://github.com/truecharts/charts/tree/master/charts/stable/ubooquity
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/ubooquity
 
 ## Available Documentation

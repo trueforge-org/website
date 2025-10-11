@@ -2,15 +2,17 @@
 title: tandoor-recipes
 ---
 
-![Version: 20.9.1](https://img.shields.io/badge/Version-20.9.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.3.0](https://img.shields.io/badge/AppVersion-2.3.0-informational?style=flat-square)
+![Version: 20.9.2](https://img.shields.io/badge/Version-20.9.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.3.2](https://img.shields.io/badge/AppVersion-2.3.2-informational?style=flat-square)
 
 Tandoor Recipes is a Django application to manage, tag and search recipes using either built in models or external storage providers hosting PDF's, Images or other files.
 
 ## Chart Sources
 
-- https://github.com/trueforge-org/truecharts/tree/master/charts/stable/tandoor-recipes
+- https://ghcr.io/tandoorrecipes/recipes
 - https://github.com/TandoorRecipes/recipes
 - https://github.com/TandoorRecipes/recipes/pkgs/container/recipes
+- https://github.com/truecharts/charts/tree/master/charts/stable/tandoor-recipes
+- https://github.com/trueforge-org/truecharts/tree/master/charts/stable/tandoor-recipes
 
 ## Available Documentation
 

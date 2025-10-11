@@ -2,7 +2,7 @@
 title: nzbget
 ---
 
-![Version: 27.7.0](https://img.shields.io/badge/Version-27.7.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 25.3.0](https://img.shields.io/badge/AppVersion-25.3.0-informational?style=flat-square)
+![Version: 27.8.0](https://img.shields.io/badge/Version-27.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 25.4.0](https://img.shields.io/badge/AppVersion-25.4.0-informational?style=flat-square)
 
 NZBGet is a Usenet downloader client
 
@@ -10,6 +10,7 @@ NZBGet is a Usenet downloader client
 
 - https://ghcr.io/home-operations/nzbget
 - https://github.com/nzbgetcom/nzbget
+- https://github.com/truecharts/charts/tree/master/charts/stable/nzbget
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/nzbget
 - https://nzbget.net/
 

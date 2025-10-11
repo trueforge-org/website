@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.8.1 • [Train: stable]
+
+- chore(helm): update image ghcr.io/minekube/gate digest to b80cdd5 (#40597) • [`d870341`](https://github.com/trueforge-org/truecharts/commit/d8703411f9fba25f4ad3fc2986724e74858f52d2) • [@TrueCharts Bot] (2025-10-11)
+
 ## 2.8.0 • [Train: stable]
 
 - more tc to tf • [`70f87d4`](https://github.com/trueforge-org/truecharts/commit/70f87d44a930f912f6ba4eead6cdda9ca993572f) • [@Kjeld Schouten] (2025-10-10)

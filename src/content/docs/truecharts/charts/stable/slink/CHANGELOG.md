@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.10.1 • [Train: stable]
+
+- chore(helm): update image docker.io/anirdev/slink v1.7.0 → v1.7.1 (#40600) • [`74ffd90`](https://github.com/trueforge-org/truecharts/commit/74ffd9001391aac63db6a812f4daa052be96dd3f) • [@TrueCharts Bot] (2025-10-11)
+
 ## 5.10.0 • [Train: stable]
 
 - more tc to tf • [`70f87d4`](https://github.com/trueforge-org/truecharts/commit/70f87d44a930f912f6ba4eead6cdda9ca993572f) • [@Kjeld Schouten] (2025-10-10)

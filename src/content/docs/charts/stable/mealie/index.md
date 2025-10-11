@@ -2,7 +2,7 @@
 title: mealie
 ---
 
-![Version: 26.10.0](https://img.shields.io/badge/Version-26.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.3.1](https://img.shields.io/badge/AppVersion-3.3.1-informational?style=flat-square)
+![Version: 26.10.1](https://img.shields.io/badge/Version-26.10.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.3.2](https://img.shields.io/badge/AppVersion-3.3.2-informational?style=flat-square)
 
 Mealie is a self hosted recipe manager and meal planner with a RestAPI backend
 
@@ -10,6 +10,7 @@ Mealie is a self hosted recipe manager and meal planner with a RestAPI backend
 
 - https://ghcr.io/mealie-recipes/mealie
 - https://github.com/mealie-recipes/mealie
+- https://github.com/truecharts/charts/tree/master/charts/stable/mealie
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/mealie
 
 ## Available Documentation

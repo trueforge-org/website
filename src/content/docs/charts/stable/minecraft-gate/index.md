@@ -2,7 +2,7 @@
 title: minecraft-gate
 ---
 
-![Version: 2.8.0](https://img.shields.io/badge/Version-2.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 2.8.1](https://img.shields.io/badge/Version-2.8.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 An extensible, high performant & paralleled Minecraft proxy server.
 
@@ -10,6 +10,7 @@ An extensible, high performant & paralleled Minecraft proxy server.
 
 - https://ghcr.io/minekube/gate
 - https://github.com/minekube/gate
+- https://github.com/truecharts/charts/tree/master/charts/stable/minecraft-gate
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/minecraft-gate
 
 ## Available Documentation

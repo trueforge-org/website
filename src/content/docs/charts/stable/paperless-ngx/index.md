@@ -2,7 +2,7 @@
 title: paperless-ngx
 ---
 
-![Version: 11.21.0](https://img.shields.io/badge/Version-11.21.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.18.4](https://img.shields.io/badge/AppVersion-2.18.4-informational?style=flat-square)
+![Version: 11.22.0](https://img.shields.io/badge/Version-11.22.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.18.4](https://img.shields.io/badge/AppVersion-2.18.4-informational?style=flat-square)
 
 Paperless-ngx is an application by Daniel Quinn and contributors that indexes your scanned documents.
 
@@ -10,6 +10,7 @@ Paperless-ngx is an application by Daniel Quinn and contributors that indexes yo
 
 - https://ghcr.io/paperless-ngx/paperless-ngx
 - https://github.com/paperless-ngx/paperless-ngx
+- https://github.com/truecharts/charts/tree/master/charts/stable/paperless-ngx
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/paperless-ngx
 - https://hub.docker.com/r/apache/tika
 - https://hub.docker.com/r/gotenberg/gotenberg

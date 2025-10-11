@@ -2,12 +2,13 @@
 title: xen-orchestra
 ---
 
-![Version: 11.15.0](https://img.shields.io/badge/Version-11.15.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.190.0](https://img.shields.io/badge/AppVersion-5.190.0-informational?style=flat-square)
+![Version: 11.15.1](https://img.shields.io/badge/Version-11.15.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.190.1](https://img.shields.io/badge/AppVersion-5.190.1-informational?style=flat-square)
 
 Xen-Orchestra is a Web-UI for managing your existing XenServer infrastructure.
 
 ## Chart Sources
 
+- https://github.com/truecharts/charts/tree/master/charts/stable/xen-orchestra
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/xen-orchestra
 - https://hub.docker.com/r/ronivay/xen-orchestra
 

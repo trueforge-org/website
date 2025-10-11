@@ -355,8 +355,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.2.0 • [Train: stable]
 
-- Commit daily changes • [`e50357a`](https://github.com/trueforge-org/truecharts/commit/e50357a154422a397a11141869f0973293102e49) • [@TrueCharts-Bot] (2024-05-26)
 - Commit daily changes • [`529340b`](https://github.com/trueforge-org/truecharts/commit/529340b7575e8cd6d00d2499271dc62e58a8d18d) • [@TrueCharts-Bot] (2024-05-26)
+- Commit daily changes • [`e50357a`](https://github.com/trueforge-org/truecharts/commit/e50357a154422a397a11141869f0973293102e49) • [@TrueCharts-Bot] (2024-05-26)
 - chore(deps): update container image flowiseai/flowise to v1.8.0@674cb28 by renovate (#22421) • [`79b22fd`](https://github.com/trueforge-org/truecharts/commit/79b22fda9e7ab1b97720e0d3d3a9381a03038bf7) • [@TrueCharts Bot] (2024-05-25)
 
 ## 5.1.3 • [Train: stable]
@@ -408,8 +408,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 4.9.16 • [Train: stable]
 
 - Commit daily changes • [`4cfcfb0`](https://github.com/trueforge-org/truecharts/commit/4cfcfb0324596df0870511c656314b8af9e3f7ee) • [@TrueCharts-Bot] (2024-04-28)
-- Merge branch &#39;master&#39; of github.com:truecharts/charts • [`4093da1`](https://github.com/trueforge-org/truecharts/commit/4093da14198218d1cc87512febb19aae2d1e9e5c) • [@Kjeld Schouten] (2024-04-27)
 - chore(deps): update container image flowiseai/flowise to v1.6.6@0454223 by renovate (#21362) • [`b373785`](https://github.com/trueforge-org/truecharts/commit/b373785cf4da901a3107f99e893e3f5bca9fe016) • [@TrueCharts Bot] (2024-04-27)
+- Merge branch &#39;master&#39; of github.com:truecharts/charts • [`4093da1`](https://github.com/trueforge-org/truecharts/commit/4093da14198218d1cc87512febb19aae2d1e9e5c) • [@Kjeld Schouten] (2024-04-27)
 
 ## 4.9.15 • [Train: stable]
 
@@ -700,8 +700,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - chore: move everything to consume OCI-hosted common-chart dependency • [`0eae972`](https://github.com/trueforge-org/truecharts/commit/0eae972794d2fe164dc298993e899508639d2f2b) • [@Kjeld Schouten] (2024-01-01)
 - Commit daily changes • [`92663fd`](https://github.com/trueforge-org/truecharts/commit/92663fd20508f148c3750c79de3f37f44530a18a) • [@TrueCharts-Bot] (2024-01-01)
-- chore(deps): update container image flowiseai/flowise to v1.4.8@dd96e2f by renovate (#16653) • [`9b76bc7`](https://github.com/trueforge-org/truecharts/commit/9b76bc7dc386dcf4cc660e0112a9556ab8832790) • [@TrueCharts Bot] (2023-12-31)
 - chore(docs): standardize ./img references (#16704) • [`6986224`](https://github.com/trueforge-org/truecharts/commit/698622495ce0dccf9f0dbbb324d5df196d3eba3c) • [@Stavros Kois] (2023-12-31)
+- chore(deps): update container image flowiseai/flowise to v1.4.8@dd96e2f by renovate (#16653) • [`9b76bc7`](https://github.com/trueforge-org/truecharts/commit/9b76bc7dc386dcf4cc660e0112a9556ab8832790) • [@TrueCharts Bot] (2023-12-31)
 
 ## 3.1.0 • [Train: stable]
 
