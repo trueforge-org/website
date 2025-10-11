@@ -2,7 +2,7 @@
 title: stirling-pdf
 ---
 
-![Version: 5.17.0](https://img.shields.io/badge/Version-5.17.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.3.2](https://img.shields.io/badge/AppVersion-1.3.2-informational?style=flat-square)
+![Version: 5.20.0](https://img.shields.io/badge/Version-5.20.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.4.0](https://img.shields.io/badge/AppVersion-1.4.0-informational?style=flat-square)
 
 A robust, locally hosted web-based PDF manipulation tool.
 
@@ -10,6 +10,7 @@ A robust, locally hosted web-based PDF manipulation tool.
 
 - https://ghcr.io/stirling-tools/s-pdf
 - https://github.com/Stirling-Tools/Stirling-PDF
+- https://github.com/truecharts/charts/tree/master/charts/stable/stirling-pdf
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/stirling-pdf
 
 ## Available Documentation
