@@ -37,8 +37,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 20.6.4 • [Train: stable]
 
-- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 - chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
+- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 
 ## 20.6.3 • [Train: stable]
 
@@ -640,5 +640,5 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 14.0.0 • [Train: incubator]
 
-- chore: move all incubator to dev • [`ce92332`](https://github.com/trueforge-org/truecharts/commit/ce92332e6980fcbd48138b35a9723351005fc29a) • [@Kjeld Schouten] (2024-01-04)
 - fix(tandoor-recipes): change to new common and move to incubator (#16864) • [`e0f7445`](https://github.com/trueforge-org/truecharts/commit/e0f744500394f457e9d7850aa19823e11f020b11) • [@ZasX] (2024-01-04)
+- chore: move all incubator to dev • [`ce92332`](https://github.com/trueforge-org/truecharts/commit/ce92332e6980fcbd48138b35a9723351005fc29a) • [@Kjeld Schouten] (2024-01-04)
