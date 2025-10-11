@@ -2,7 +2,7 @@
 title: n8n
 ---
 
-![Version: 17.28.1](https://img.shields.io/badge/Version-17.28.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.115.1](https://img.shields.io/badge/AppVersion-1.115.1-informational?style=flat-square)
+![Version: 17.28.2](https://img.shields.io/badge/Version-17.28.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.115.2](https://img.shields.io/badge/AppVersion-1.115.2-informational?style=flat-square)
 
 n8n is an extendable workflow automation tool.
 
@@ -11,6 +11,7 @@ n8n is an extendable workflow automation tool.
 - https://docs.n8n.io/
 - https://ghcr.io/n8n-io/n8n
 - https://github.com/n8n-io/n8n
+- https://github.com/truecharts/charts/tree/master/charts/stable/n8n
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/n8n
 
 ## Available Documentation
