@@ -2,7 +2,7 @@
 title: common
 ---
 
-![Version: 28.24.0](https://img.shields.io/badge/Version-28.24.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.11.0](https://img.shields.io/badge/AppVersion-1.11.0-informational?style=flat-square)
+![Version: 28.25.0](https://img.shields.io/badge/Version-28.25.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.11.0](https://img.shields.io/badge/AppVersion-1.11.0-informational?style=flat-square)
 
 Function library for TrueCharts
 
@@ -12,20 +12,7 @@ Function library for TrueCharts
 - https://ghcr.io/cloudnative-pg/postgresql
 - https://ghcr.io/tensorchord/cloudnative-pgvecto.rs
 - https://ghcr.io/traefik/whoami
-- https://github.com/truecharts/containers/tree/master/apps/alpine
-- https://github.com/truecharts/containers/tree/master/apps/code-server
-- https://github.com/truecharts/containers/tree/master/apps/db-wait-mariadb
-- https://github.com/truecharts/containers/tree/master/apps/db-wait-mongodb
-- https://github.com/truecharts/containers/tree/master/apps/db-wait-postgres
-- https://github.com/truecharts/containers/tree/master/apps/db-wait-redis
-- https://github.com/truecharts/containers/tree/master/apps/gluetun
-- https://github.com/truecharts/containers/tree/master/apps/kubectl
-- https://github.com/truecharts/containers/tree/master/apps/netshoot
-- https://github.com/truecharts/containers/tree/master/apps/openvpn-client
-- https://github.com/truecharts/containers/tree/master/apps/scratch
-- https://github.com/truecharts/containers/tree/master/apps/tailscale
-- https://github.com/truecharts/containers/tree/master/apps/wget
-- https://github.com/truecharts/containers/tree/master/apps/wireguard
+- https://github.com/truecharts/charts/tree/master/charts/library/common
 - https://github.com/trueforge-org/truecharts/tree/master/charts/library/common
 - https://hub.docker.com/_/
 - https://hub.docker.com/r/mikefarah/yq
