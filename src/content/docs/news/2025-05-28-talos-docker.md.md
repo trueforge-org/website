@@ -27,4 +27,4 @@ on how to run Talos as a Docker container inside SCALE Apps.
 This approach provides a practical alternative for those affected by the VM backend changes,
 allowing continued experimentation and development with Talos despite the Incus limitations.
 
-To get started with Talos as a Docker-Compose App following the following [this](/guides/talos/docker).
+To get started with Talos as a Docker-Compose App following the following [this](/truecharts/guides/talos/docker).

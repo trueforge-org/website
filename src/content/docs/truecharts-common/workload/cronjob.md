@@ -56,7 +56,7 @@ Define the timezone
 | Type       | `string`                       |
 | Required   | ❌                             |
 | Helm `tpl` | ✅                             |
-| Default    | See [here](/common#tz) |
+| Default    | See [here](/truecharts-common#tz) |
 
 Example
 

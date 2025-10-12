@@ -6,7 +6,7 @@ This guide will walk you through setting up `clusterissuer`, certificate managem
 
 ## Prerequisites
 
-- [Cert-Mananger[(/guides/#cert-manager) and [Prometheus(-crds)]((/guides/#prometheus)
+- [Cert-Mananger[(/truecharts/guides/#cert-manager) and [Prometheus(-crds)]((/truecharts/guides/#prometheus)
 
 :::caution[DNS]
 

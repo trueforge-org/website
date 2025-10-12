@@ -35,7 +35,7 @@ To install TrueCharts Helm charts using Helm, you can use our OCI Repository.
 
 `helm install mychart oci://oci.trueforge.org/truecharts/arma3exilemod`
 
-For more information on how to install TrueCharts Helm charts, checkout the [instructions on the website](https://trueforge.org/guides/)
+For more information on how to install TrueCharts Helm charts, checkout the [instructions on the website](https://trueforge.org/truecharts/guides/)
 
 ### Chart Specific Guides and information
 

@@ -78,8 +78,8 @@ Clusters upgrading to v2 will need to account for several changes:
     pulled via an OCI mirror
 - 🔥 Traefik Removal:
   - Both Traefik and traefik-crds are no longer included and need to be removed
-  - [Ingress configurations](/guides/ingress/nginx/) now require annotation updates to work with NGINX
-  - [ingressClassName](/guides/ingress/) is recommended to be set for all ingresses. Additionally, you will need to disable the traefik integration.
+  - [Ingress configurations](/truecharts/guides/ingress/nginx/) now require annotation updates to work with NGINX
+  - [ingressClassName](/truecharts/guides/ingress/) is recommended to be set for all ingresses. Additionally, you will need to disable the traefik integration.
 - 🔄 IngressClass Management:
   - New support for using either internal or external ingress classes
   - Clusterenv now includes:
@@ -88,7 +88,7 @@ Clusters upgrading to v2 will need to account for several changes:
     - `TRAEFIK_IP` has been removed
 - 🧪 Upstream Chart Migrations:
   - Charts such as CloudNativePG, Cert-Manager, and Kube-Prometheus-Stack are now managed upstream
-  - 🧭 Check the [Quick Start Guide](/guides/) for integration examples
+  - 🧭 Check the [Quick Start Guide](/truecharts/guides/) for integration examples
 
 ## Clustertool as a CI Platform for Chart Testing
 

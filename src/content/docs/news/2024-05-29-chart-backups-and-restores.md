@@ -57,7 +57,7 @@ You can find our initial guides and documentation for how to take advantage of t
 
 We're committed to providing continual improvements and features to our users, thanks largely to those who have generously donated towards our project 💙. You allow TrueCharts to continue evolving.
 
-If you find our documentation/guides helpful or want to join the ranks of the over 250 people helping buy us Coffee ☕ you can do this via our Open Collective page here:
+If you find our documentation/truecharts/guides helpful or want to join the ranks of the over 250 people helping buy us Coffee ☕ you can do this via our Open Collective page here:
 
 [One time or recurring Coffee donations 🫶](https://opencollective.com/truecharts)
 

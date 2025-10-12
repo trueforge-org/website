@@ -5,7 +5,7 @@ title: Common Chart Documentation
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/common#full-examples) section for complete examples.
+- See the [Full Examples](/truecharts-common#full-examples) section for complete examples.
 
 :::
 

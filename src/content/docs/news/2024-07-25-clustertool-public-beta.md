@@ -29,7 +29,7 @@ Please note that in the early Beta phase, issues and bugs may still arise that l
 
 In tandem with ClusterTool development, over the course of the last month we've been focused on docs for our users to read regarding Talos, ClusterTool, minimum and recommended system requirements, and more. Here are some links to these docs, though please note some of them are continuing to evolve as we gather feedback throughout this transitory phase.
 
-- [Link](/guides/) to our new Helm-specific guides, including a quick-start guide for installing *charts*, guides for adding storage and backup/restore functionality to *charts*, example VPN setup instructions for your *charts* and more
+- [Link](/truecharts/guides/) to our new Helm-specific guides, including a quick-start guide for installing *charts*, guides for adding storage and backup/restore functionality to *charts*, example VPN setup instructions for your *charts* and more
 
 - [Link](/clustertool) to our all-new ClusterTool docs section which includes various sections on what ClusterTool is, what the various functions of it do and more
 

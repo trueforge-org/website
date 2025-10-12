@@ -156,7 +156,7 @@ Once deleted you can attempt the update (or if you were already updated to lates
 ## Operator-Related
 
 Truecharts charts usually require a certain set of "operators" to properly work and function. Usually missing operators will lead to errors.
-All required and recommended operators are listed in our [quick-start guide](/guides/)
+All required and recommended operators are listed in our [quick-start guide](/truecharts/guides/)
 
 ### "monitoring.coreos.com/v1" ensure CRDs are installed first
 
