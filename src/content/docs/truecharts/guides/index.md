@@ -28,14 +28,14 @@ Install the following charts if not already installed:
 
 ## Recommended Charts
 
-- [Blocky](https://trueforge.org/charts/stable/blocky/): Local DNS Resolving with k8s-gateway
-- [Clusterissuer](https://trueforge.org/charts/stable/clusterissuer/): Configuring Cert-Manager
-- [Kubernetes-Reflector](https://trueforge.org/charts/stable/kubernetes-reflector/): Reflect Resources across Namespaces
-- [Metallb](https://metallb.io/) with [Metallb-Config](https://trueforge.org/charts/stable/metallb-config/) as LoadBalancer
+- [Blocky](https://trueforge.org/truecharts/charts/stable/blocky/): Local DNS Resolving with k8s-gateway
+- [Clusterissuer](https://trueforge.org/truecharts/charts/stable/clusterissuer/): Configuring Cert-Manager
+- [Kubernetes-Reflector](https://trueforge.org/truecharts/charts/stable/kubernetes-reflector/): Reflect Resources across Namespaces
+- [Metallb](https://metallb.io/) with [Metallb-Config](https://trueforge.org/truecharts/charts/stable/metallb-config/) as LoadBalancer
 - [Node Feature Discovery](https://github.com/kubernetes-sigs/node-feature-discovery): For Node Discovery
 - [Nginx-Ingress](https://kubernetes.github.io/ingress-nginx/): For Ingress and Reverse Proxying
-- [Snapshot-Controller](https://trueforge.org/charts/stable/snapshot-controller/): Required for Volsync
-- [Volsync](https://trueforge.org/charts/stable/volsync/): For Backup and Restore of PVCs
+- [Snapshot-Controller](https://trueforge.org/truecharts/charts/stable/snapshot-controller/): Required for Volsync
+- [Volsync](https://trueforge.org/truecharts/charts/stable/volsync/): For Backup and Restore of PVCs
 
 ## Upstream Operators
 

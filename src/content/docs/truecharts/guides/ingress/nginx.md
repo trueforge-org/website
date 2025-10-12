@@ -166,7 +166,7 @@ annotations:
 ```
 
 For domain-level forward auth, you must configure the embedded outpost first (please refer to
-[Authentik's docs](https://trueforge.org/charts/stable/authentik/how_to/)). The basic steps are
+[Authentik's docs](https://trueforge.org/truecharts/charts/stable/authentik/how_to/)). The basic steps are
 to create a provider and application, then enable the embedded outpost for your newly created application.
 
 Once that has been done, configure each service you wish to place behind Authentik as follows:

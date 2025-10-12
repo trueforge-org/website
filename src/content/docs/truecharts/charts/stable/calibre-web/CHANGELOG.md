@@ -3,7 +3,7 @@ title: Changelog
 pagefind: false
 ---
 
-All history information can be found at [Github History](https://github.com/trueforge-org/truecharts/commits/master/charts/stable/calibre-web)
+All history information can be found at [Github History](https://github.com/trueforge-org/truecharts/commits/master/truecharts/charts/stable/calibre-web)
 
 :::tip
 

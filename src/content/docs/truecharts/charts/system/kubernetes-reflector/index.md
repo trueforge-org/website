@@ -10,7 +10,7 @@ Kubernetes-Reflector is a Kubernetes addon designed to monitor and reflect chang
 
 - https://ghcr.io/emberstack/kubernetes-reflector
 - https://github.com/emberstack/kubernetes-reflector
-- https://github.com/trueforge-org/truecharts/tree/master/charts/stable/kubernetes-reflector
+- https://github.com/trueforge-org/truecharts/tree/master/truecharts/charts/stable/kubernetes-reflector
 
 ## Available Documentation
 
@@ -23,7 +23,7 @@ Kubernetes-Reflector is a Kubernetes addon designed to monitor and reflect chang
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://truecharts.org/charts/stable/kubernetes-reflector)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://truecharts.org/truecharts/charts/stable/kubernetes-reflector)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 
@@ -41,12 +41,12 @@ For more information on how to install TrueCharts Helm charts, checkout the [ins
 
 All our charts have dedicated documentation pages.
 The documentation for this chart can be found here:
-https://truecharts.org/charts/stable/kubernetes-reflector
+https://truecharts.org/truecharts/charts/stable/kubernetes-reflector
 
 ### Configuration Options
 
 To view the chart specific options, please view Values.yaml included in the chart.
-The most recent version of which, is available here: https://github.com/trueforge-org/truecharts/blob/master/charts/stable/kubernetes-reflector/values.yaml
+The most recent version of which, is available here: https://github.com/trueforge-org/truecharts/blob/master/truecharts/charts/stable/kubernetes-reflector/values.yaml
 
 All our Charts use a shared "common" library chart that contains most of the templating and options.
 For the complete overview of all available options, please checkout the documentation for them on the [common docs on our website](https://truecharts.org/truecharts-common/)

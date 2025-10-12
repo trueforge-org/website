@@ -46,7 +46,7 @@ TrueCharts support will also **not** assist users with (including but not limite
 - Helm 101 (how to install, upgrade or edit a Helm Chart)
 - Configuring specific apps/software in TrueCharts Charts, e.g. Plex/Sonarr/etc. configuration.
 
-For more information, please review the updated support policy [here](/general/support-policy).
+For more information, please review the updated support policy [here](/truecharts/support-policy).
 
 ## Discontinuation of Support for TrueCharts App Installs on TrueNAS SCALE
 

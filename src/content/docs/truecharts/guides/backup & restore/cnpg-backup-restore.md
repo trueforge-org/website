@@ -97,5 +97,5 @@ This section shows some more-advanced configurations which may be useful in some
 If your S3 storage target is using a self-signed certificate, you can provide CNPG
 with a certificate to use when performing TLS validation.
 
-To do so, simply set the [`customCA`](/truecharts/common/credentials#customca) OR
+To do so, simply set the [`customCA`](/truecharts-common/credentials#customca) OR
 [`customCASecretRef`](/truecharts/common/credentials#customcasecretref) keys in your `credentials.$name`.

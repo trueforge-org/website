@@ -11,7 +11,7 @@ Blocky is a DNS proxy, DNS enhancer and ad-blocker for the local network written
 - https://0xerr0r.github.io/blocky/
 - https://github.com/0xERR0R/blocky
 - https://github.com/Mozart409/blocky-frontend
-- https://github.com/trueforge-org/truecharts/tree/master/charts/stable/blocky
+- https://github.com/trueforge-org/truecharts/tree/master/truecharts/charts/stable/blocky
 - https://hub.docker.com/r/spx01/blocky
 - https://quay.io/oriedge/k8s_gateway
 
@@ -29,7 +29,7 @@ Blocky is a DNS proxy, DNS enhancer and ad-blocker for the local network written
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://truecharts.org/charts/stable/blocky)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://truecharts.org/truecharts/charts/stable/blocky)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 
@@ -47,12 +47,12 @@ For more information on how to install TrueCharts Helm charts, checkout the [ins
 
 All our charts have dedicated documentation pages.
 The documentation for this chart can be found here:
-https://truecharts.org/charts/stable/blocky
+https://truecharts.org/truecharts/charts/stable/blocky
 
 ### Configuration Options
 
 To view the chart specific options, please view Values.yaml included in the chart.
-The most recent version of which, is available here: https://github.com/trueforge-org/truecharts/blob/master/charts/stable/blocky/values.yaml
+The most recent version of which, is available here: https://github.com/trueforge-org/truecharts/blob/master/truecharts/charts/stable/blocky/values.yaml
 
 All our Charts use a shared "common" library chart that contains most of the templating and options.
 For the complete overview of all available options, please checkout the documentation for them on the [common docs on our website](https://truecharts.org/truecharts-common/)
