@@ -14,7 +14,7 @@ First up, we are excited to announce the public Alpha release of ClusterTool! Th
 
 Please note that [KubeApps](https://kubeapps.dev/) is not yet compatible with ClusterTool, and we currently do not offer any migration tooling to facilitate the transition of TrueNAS SCALE apps to Talos. This will come in a future release, per the timeline we previously outlined [here](/news/clustertool-update).
 
-You can find and download the latest releases of ClusterTool [here](https://github.com/truecharts/clustertool-public/releases). We also have a `clustertool` channel available on our [Discord](https://discord.gg/tVsPTHWTtr) which users can use to discuss usage of the tool, and users can find our ClusterTool documentation [here](/clustertool).
+You can find and download the latest releases of ClusterTool [here](https://github.com/truecharts/clustertool-public/releases). We also have a `clustertool` channel available on our [Discord](https://discord.gg/tVsPTHWTtr) which users can use to discuss usage of the tool, and users can find our ClusterTool documentation [here](/truetool).
 
 ## Updated Support Policy
 

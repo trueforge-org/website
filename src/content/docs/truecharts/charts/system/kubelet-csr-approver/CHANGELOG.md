@@ -3,7 +3,7 @@ title: Changelog
 pagefind: false
 ---
 
-All history information can be found at [Github History](https://github.com/trueforge-org/truecharts/commits/master/charts/system/kubelet-csr-approver)
+All history information can be found at [Github History](https://github.com/trueforge-org/truecharts/commits/master/charts/stable/kubelet-csr-approver)
 
 :::tip
 

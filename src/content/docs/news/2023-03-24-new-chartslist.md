@@ -9,7 +9,7 @@ tags:
 
 After a lot of work by @xstar and review by our staff, we've finally officially released our new fancy charts list.
 It's now easier than ever to search and provides all the basics at a single glance!
-Check it out the [charts list](/charts/description-list)
+Check it out the [charts list](/truecharts/charts/description-list)
 
 At the same time, we've decided to remove/hide the list with default ports and paths.
 We feel that, in due time, this info should be added to our documentation on a per-application basis, on top of that it often lead to confusion as things like ports are not always as simple as they look in a spreadsheet.

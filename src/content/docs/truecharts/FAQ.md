@@ -87,7 +87,7 @@ It can sometimes take a few days for our automation tools to pick up updates, pl
 
 If it's not on our website or the Discord, we (sadly) do not have documentation available. There might be other sources for documentation however!
 
-If you'd like to create a guide for the website, please submit a PR as demonstrated in the [Contribution Example](/development/contibuting-example/).
+If you'd like to create a guide for the website, please submit a PR as demonstrated in the [Contribution Example](./development/contibuting-example/).
 
 ## I would like another application to be added, how do I do this?
 

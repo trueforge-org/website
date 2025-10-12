@@ -7,7 +7,7 @@ tags:
   - "2024"
 ---
 
-We’re thrilled to announce an all-new **Support Policy** led by our amazing support lead, @kqmaverick! You can ignore all previous announcements on scope and policies—no more "you need to be able to maintain your own cluster"! Check out the full policy here: [Support Policy](https://trueforge.org/general/support-policy/).
+We’re thrilled to announce an all-new **Support Policy** led by our amazing support lead, @kqmaverick! You can ignore all previous announcements on scope and policies—no more "you need to be able to maintain your own cluster"! Check out the full policy here: [Support Policy](https://trueforge.org/truecharts/support-policy/).
 
 ### What's New:
 - **Comprehensive Support**: Our support now covers both "technical support" for bug reports and code issues, as well as our free support service on Discord, thanks to our dedicated volunteer staff.

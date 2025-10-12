@@ -25,7 +25,7 @@ The MetalLB operator is only required for users of MetalLB, anyone who does not 
 
 1. Uninstall current metallb from Enterprise train.
 2. Run this in the system shell as **root**: `k3s kubectl delete  --grace-period 30 --v=4 -k https://github.com/truecharts/manifests/delete`
-3. Complete MetalLB installation [as outlined here](/charts/premium/metallb-config/setup-guide/)
+3. Complete MetalLB installation [as outlined here](/charts/stable/metallb-config/setup-guide/)
 
 ## Prometheus
 

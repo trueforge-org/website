@@ -10,7 +10,7 @@ We only support our own helm-charts. If you run anything outside the scope of ou
 
 ## Installing a Chart
 
-If you want to install a chart using helm, lookup the name of the chart in our [Chart list](/charts/description-list). Then, run this command to install it directly from our OCI repository:
+If you want to install a chart using helm, lookup the name of the chart in our [Chart list](/truecharts/charts/description-list). Then, run this command to install it directly from our OCI repository:
 
 ```shell title="Install Chart"
    helm install mychart oci://oci.trueforge.org/truecharts/CHARTNAME

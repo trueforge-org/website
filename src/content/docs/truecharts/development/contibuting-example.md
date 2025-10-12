@@ -24,7 +24,7 @@ You will need a [GitHub](https://github.com/login) account if you don't already 
 
 :::
 
-It's a good idea to familiarize yourself with the [Contribution Guidelines](/development/contributing/) before/after reading this guide, but definitely
+It's a good idea to familiarize yourself with the [Contribution Guidelines](/truecharts/development/contributing/) before/after reading this guide, but definitely
 before you actually make a pull request.
 
 ### Create a Fork

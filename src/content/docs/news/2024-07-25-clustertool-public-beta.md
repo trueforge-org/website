@@ -31,7 +31,7 @@ In tandem with ClusterTool development, over the course of the last month we've 
 
 - [Link](/truecharts/guides/) to our new Helm-specific guides, including a quick-start guide for installing *charts*, guides for adding storage and backup/restore functionality to *charts*, example VPN setup instructions for your *charts* and more
 
-- [Link](/clustertool) to our all-new ClusterTool docs section which includes various sections on what ClusterTool is, what the various functions of it do and more
+- [Link](/truetool) to our all-new ClusterTool docs section which includes various sections on what ClusterTool is, what the various functions of it do and more
 
 - [Link](/truetool/getting-started) to our ClusterTool getting started guide
 
