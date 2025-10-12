@@ -2,7 +2,7 @@
 title: batnoter
 ---
 
-![Version: 8.8.0](https://img.shields.io/badge/Version-8.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 8.9.0](https://img.shields.io/badge/Version-8.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 BatNoter is a web application that allows users to store notes in their git repository.
 
@@ -10,6 +10,7 @@ BatNoter is a web application that allows users to store notes in their git repo
 
 - https://ghcr.io/batnoter/batnoter/batnoter-ui
 - https://github.com/batnoter/batnoter
+- https://github.com/truecharts/charts/tree/master/charts/stable/batnoter
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/batnoter
 
 ## Available Documentation

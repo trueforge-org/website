@@ -2,12 +2,13 @@
 title: domoticz
 ---
 
-![Version: 15.8.0](https://img.shields.io/badge/Version-15.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2025.1.0](https://img.shields.io/badge/AppVersion-2025.1.0-informational?style=flat-square)
+![Version: 15.9.0](https://img.shields.io/badge/Version-15.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2025.1.0](https://img.shields.io/badge/AppVersion-2025.1.0-informational?style=flat-square)
 
 Domoticz is a Home Automation System that lets you monitor and configure various devices like Lights, Switches and much more.
 
 ## Chart Sources
 
+- https://github.com/truecharts/charts/tree/master/charts/stable/domoticz
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/domoticz
 - https://hub.docker.com/r/domoticz/domoticz
 

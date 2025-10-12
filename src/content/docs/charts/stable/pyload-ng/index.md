@@ -2,7 +2,7 @@
 title: pyload-ng
 ---
 
-![Version: 8.8.1](https://img.shields.io/badge/Version-8.8.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 8.9.0](https://img.shields.io/badge/Version-8.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 pyLoad(https://pyload.net/) is a Free and Open Source download manager written in Python and designed to be extremely lightweight, easily extensible and fully manageable via web.
 
@@ -11,6 +11,7 @@ pyLoad(https://pyload.net/) is a Free and Open Source download manager written i
 - https://fleet.linuxserver.io/image?name=linuxserver/pyload-ng
 - https://github.com/linuxserver/docker-pyload-ng#readme
 - https://github.com/orgs/linuxserver/packages/container/package/pyload-ng
+- https://github.com/truecharts/charts/tree/master/charts/stable/pyload-ng
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/pyload-ng
 - https://pyload.net/
 

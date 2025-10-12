@@ -2,7 +2,7 @@
 title: calendarr
 ---
 
-![Version: 1.7.0](https://img.shields.io/badge/Version-1.7.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 1.8.0](https://img.shields.io/badge/Version-1.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Fetches upcoming airings/releases for TV shows and movies from Sonarr and Radarr calendars and posts them to Discord on a schedule.
 
@@ -10,6 +10,7 @@ Fetches upcoming airings/releases for TV shows and movies from Sonarr and Radarr
 
 - https://ghcr.io/jordanlambrecht/calendarr
 - https://github.com/jordanlambrecht/calendarr
+- https://github.com/truecharts/charts/tree/master/charts/stable/calendarr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/calendarr
 
 ## Available Documentation

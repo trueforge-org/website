@@ -2,13 +2,14 @@
 title: prometheus-pve-exporter
 ---
 
-![Version: 2.8.0](https://img.shields.io/badge/Version-2.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.5.5](https://img.shields.io/badge/AppVersion-3.5.5-informational?style=flat-square)
+![Version: 2.9.0](https://img.shields.io/badge/Version-2.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.5.5](https://img.shields.io/badge/AppVersion-3.5.5-informational?style=flat-square)
 
 A Prometheus exporter for Proxmox Virtual Environment metrics.
 
 ## Chart Sources
 
 - https://github.com/prometheus-pve/prometheus-pve-exporter
+- https://github.com/truecharts/charts/tree/master/charts/stable/prometheus-pve-exporter
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/prometheus-pve-exporter
 - https://grafana.com/grafana/dashboards/10347-proxmox-via-prometheus/
 - https://hub.docker.com/r/prompve/prometheus-pve-exporter

@@ -2,13 +2,14 @@
 title: shlink-web-client
 ---
 
-![Version: 14.9.0](https://img.shields.io/badge/Version-14.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.5.1](https://img.shields.io/badge/AppVersion-4.5.1-informational?style=flat-square)
+![Version: 14.10.0](https://img.shields.io/badge/Version-14.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.5.1](https://img.shields.io/badge/AppVersion-4.5.1-informational?style=flat-square)
 
 A ReactJS-based progressive web application for Shlink.
 
 ## Chart Sources
 
 - https://github.com/shlinkio/shlink-web-client
+- https://github.com/truecharts/charts/tree/master/charts/stable/shlink-web-client
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/shlink-web-client
 - https://hub.docker.com/r/shlinkio/shlink-web-client
 

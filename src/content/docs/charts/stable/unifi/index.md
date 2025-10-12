@@ -2,7 +2,7 @@
 title: unifi
 ---
 
-![Version: 24.10.0](https://img.shields.io/badge/Version-24.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 9.4.19](https://img.shields.io/badge/AppVersion-9.4.19-informational?style=flat-square)
+![Version: 24.11.0](https://img.shields.io/badge/Version-24.11.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 9.4.19](https://img.shields.io/badge/AppVersion-9.4.19-informational?style=flat-square)
 
 Ubiquiti Network's Unifi Controller
 
@@ -10,6 +10,7 @@ Ubiquiti Network's Unifi Controller
 
 - https://ghcr.io/goofball222/unifi
 - https://github.com/jacobalberty/unifi-docker
+- https://github.com/truecharts/charts/tree/master/charts/stable/unifi
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/unifi
 - https://unifi-network.ui.com
 

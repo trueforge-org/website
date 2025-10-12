@@ -2,12 +2,13 @@
 title: kitchenowl
 ---
 
-![Version: 12.8.0](https://img.shields.io/badge/Version-12.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 12.9.0](https://img.shields.io/badge/Version-12.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 KitchenOwl is a smart self-hosted grocery list and recipe manager.
 
 ## Chart Sources
 
+- https://github.com/truecharts/charts/tree/master/charts/stable/kitchenowl
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/kitchenowl
 - https://hub.docker.com/r/tombursch/kitchenowl
 - https://hub.docker.com/r/tombursch/kitchenowl-web

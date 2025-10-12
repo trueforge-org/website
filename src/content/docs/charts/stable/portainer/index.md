@@ -2,7 +2,7 @@
 title: portainer
 ---
 
-![Version: 11.12.0](https://img.shields.io/badge/Version-11.12.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.34.0](https://img.shields.io/badge/AppVersion-2.34.0-informational?style=flat-square)
+![Version: 11.13.0](https://img.shields.io/badge/Version-11.13.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.34.0](https://img.shields.io/badge/AppVersion-2.34.0-informational?style=flat-square)
 
 Container management made easy
 
@@ -10,6 +10,7 @@ Container management made easy
 
 - https://docs.portainer.io/start/install-ce/server
 - https://docs.portainer.io/start/install/server
+- https://github.com/truecharts/charts/tree/master/charts/stable/portainer
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/portainer
 - https://hub.docker.com/r/portainer/portainer-ce
 - https://hub.docker.com/r/portainer/portainer-ee

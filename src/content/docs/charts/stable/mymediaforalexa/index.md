@@ -2,12 +2,13 @@
 title: mymediaforalexa
 ---
 
-![Version: 11.8.0](https://img.shields.io/badge/Version-11.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.3.152.3](https://img.shields.io/badge/AppVersion-1.3.152.3-informational?style=flat-square)
+![Version: 11.9.0](https://img.shields.io/badge/Version-11.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.3.152.3](https://img.shields.io/badge/AppVersion-1.3.152.3-informational?style=flat-square)
 
 This is the multi-platform Docker image for My Media for Alexa - https://www.mymediaalexa.com .
 
 ## Chart Sources
 
+- https://github.com/truecharts/charts/tree/master/charts/stable/mymediaforalexa
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/mymediaforalexa
 - https://hub.docker.com/r/bizmodeller/mymediaforalexa
 - https://www.mymediaalexa.com/home/docker#dockerhub

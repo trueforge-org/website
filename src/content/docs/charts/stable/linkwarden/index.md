@@ -2,7 +2,7 @@
 title: linkwarden
 ---
 
-![Version: 7.10.0](https://img.shields.io/badge/Version-7.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.13.0](https://img.shields.io/badge/AppVersion-2.13.0-informational?style=flat-square)
+![Version: 7.11.0](https://img.shields.io/badge/Version-7.11.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.13.0](https://img.shields.io/badge/AppVersion-2.13.0-informational?style=flat-square)
 
 Linkwarden is a self-hosted, open-source collaborative bookmark manager to collect, organize and archive webpages.
 
@@ -10,6 +10,7 @@ Linkwarden is a self-hosted, open-source collaborative bookmark manager to colle
 
 - https://ghcr.io/linkwarden/linkwarden
 - https://github.com/linkwarden/linkwarden
+- https://github.com/truecharts/charts/tree/master/charts/stable/linkwarden
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/linkwarden
 
 ## Available Documentation

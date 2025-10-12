@@ -2,7 +2,7 @@
 title: heimdall
 ---
 
-![Version: 24.8.0](https://img.shields.io/badge/Version-24.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.6.3](https://img.shields.io/badge/AppVersion-2.6.3-informational?style=flat-square)
+![Version: 24.9.0](https://img.shields.io/badge/Version-24.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.6.3](https://img.shields.io/badge/AppVersion-2.6.3-informational?style=flat-square)
 
 An Application dashboard and launcher
 
@@ -10,6 +10,7 @@ An Application dashboard and launcher
 
 - https://fleet.linuxserver.io/image?name=linuxserver/heimdall
 - https://github.com/linuxserver/Heimdall/
+- https://github.com/truecharts/charts/tree/master/charts/stable/heimdall
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/heimdall
 
 ## Available Documentation

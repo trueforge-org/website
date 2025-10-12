@@ -2,7 +2,7 @@
 title: piwigo
 ---
 
-![Version: 17.8.1](https://img.shields.io/badge/Version-17.8.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 15.6.0](https://img.shields.io/badge/AppVersion-15.6.0-informational?style=flat-square)
+![Version: 17.9.0](https://img.shields.io/badge/Version-17.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 15.6.0](https://img.shields.io/badge/AppVersion-15.6.0-informational?style=flat-square)
 
 A photo gallery software for the web.
 
@@ -10,6 +10,7 @@ A photo gallery software for the web.
 
 - https://ghcr.io/linuxserver/piwigo
 - https://github.com/linuxserver/docker-piwigo
+- https://github.com/truecharts/charts/tree/master/charts/stable/piwigo
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/piwigo
 
 ## Available Documentation

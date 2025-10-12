@@ -2,13 +2,14 @@
 title: bookstack
 ---
 
-![Version: 18.8.0](https://img.shields.io/badge/Version-18.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 25.07.20250804](https://img.shields.io/badge/AppVersion-25.07.20250804-informational?style=flat-square)
+![Version: 18.9.0](https://img.shields.io/badge/Version-18.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 25.07.20250804](https://img.shields.io/badge/AppVersion-25.07.20250804-informational?style=flat-square)
 
 A simple, self-hosted, easy-to-use platform for organising and storing information.
 
 ## Chart Sources
 
 - https://ghcr.io/linuxserver/bookstack
+- https://github.com/truecharts/charts/tree/master/charts/stable/bookstack
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/bookstack
 - https://www.bookstackapp.com/
 

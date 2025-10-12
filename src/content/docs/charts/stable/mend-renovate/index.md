@@ -2,7 +2,7 @@
 title: mend-renovate
 ---
 
-![Version: 4.10.0](https://img.shields.io/badge/Version-4.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 11.4.0](https://img.shields.io/badge/AppVersion-11.4.0-informational?style=flat-square)
+![Version: 4.11.0](https://img.shields.io/badge/Version-4.11.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 11.4.0](https://img.shields.io/badge/AppVersion-11.4.0-informational?style=flat-square)
 
 Selfhosted Mend Renovate App with included webhook and Github APP
 
@@ -10,6 +10,7 @@ Selfhosted Mend Renovate App with included webhook and Github APP
 
 - https://ghcr.io/mend/renovate-ce
 - https://github.com/mend/renovate-ce-ee
+- https://github.com/truecharts/charts/tree/master/charts/stable/mend-renovate
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/mend-renovate
 
 ## Available Documentation

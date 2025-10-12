@@ -2,13 +2,14 @@
 title: flame
 ---
 
-![Version: 8.8.0](https://img.shields.io/badge/Version-8.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.3.1](https://img.shields.io/badge/AppVersion-2.3.1-informational?style=flat-square)
+![Version: 8.9.0](https://img.shields.io/badge/Version-8.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.3.1](https://img.shields.io/badge/AppVersion-2.3.1-informational?style=flat-square)
 
 Flame is self-hosted start page for your server. Easily manage your apps and bookmarks with built-in editors.
 
 ## Chart Sources
 
 - https://github.com/pawelmalak/flame
+- https://github.com/truecharts/charts/tree/master/charts/stable/flame
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/flame
 - https://hub.docker.com/r/pawelmalak/flame
 

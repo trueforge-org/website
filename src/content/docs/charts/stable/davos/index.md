@@ -2,7 +2,7 @@
 title: davos
 ---
 
-![Version: 15.8.0](https://img.shields.io/badge/Version-15.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.2.2](https://img.shields.io/badge/AppVersion-2.2.2-informational?style=flat-square)
+![Version: 15.9.0](https://img.shields.io/badge/Version-15.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.2.2](https://img.shields.io/badge/AppVersion-2.2.2-informational?style=flat-square)
 
 An FTP automation tool that periodically scans given host locations for new files.
 
@@ -11,6 +11,7 @@ An FTP automation tool that periodically scans given host locations for new file
 - https://ghcr.io/linuxserver/davos
 - https://github.com/linuxserver/davos/
 - https://github.com/linuxserver/docker-davos
+- https://github.com/truecharts/charts/tree/master/charts/stable/davos
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/davos
 
 ## Available Documentation

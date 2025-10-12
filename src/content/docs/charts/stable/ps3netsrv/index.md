@@ -2,13 +2,14 @@
 title: ps3netsrv
 ---
 
-![Version: 3.8.0](https://img.shields.io/badge/Version-3.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.11.0](https://img.shields.io/badge/AppVersion-1.11.0-informational?style=flat-square)
+![Version: 3.9.0](https://img.shields.io/badge/Version-3.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.11.0](https://img.shields.io/badge/AppVersion-1.11.0-informational?style=flat-square)
 
 Allows Multiman or Webman to stream and play game backups over the network.
 
 ## Chart Sources
 
 - https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv
+- https://github.com/truecharts/charts/tree/master/charts/stable/ps3netsrv
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/ps3netsrv
 - https://hub.docker.com/r/shawly/ps3netsrv
 

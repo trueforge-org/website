@@ -2,13 +2,14 @@
 title: qbitrr
 ---
 
-![Version: 7.8.0](https://img.shields.io/badge/Version-7.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.10.24](https://img.shields.io/badge/AppVersion-4.10.24-informational?style=flat-square)
+![Version: 7.9.0](https://img.shields.io/badge/Version-7.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.10.24](https://img.shields.io/badge/AppVersion-4.10.24-informational?style=flat-square)
 
 A simple script to monitor qBit and communicate with Radarr and Sonarr.
 
 ## Chart Sources
 
 - https://github.com/Feramance/Qbitrr
+- https://github.com/truecharts/charts/tree/master/charts/stable/qbitrr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/qbitrr
 - https://hub.docker.com/r/feramance/qbitrr
 

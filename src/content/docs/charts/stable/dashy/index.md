@@ -2,7 +2,7 @@
 title: dashy
 ---
 
-![Version: 10.8.0](https://img.shields.io/badge/Version-10.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 10.9.0](https://img.shields.io/badge/Version-10.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Dashy helps you organize your self-hosted services by making them accessible from a single place
 
@@ -10,6 +10,7 @@ Dashy helps you organize your self-hosted services by making them accessible fro
 
 - https://ghcr.io/lissy93/dashy
 - https://github.com/Lissy93/dashy
+- https://github.com/truecharts/charts/tree/master/charts/stable/dashy
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/dashy
 
 ## Available Documentation

@@ -2,13 +2,14 @@
 title: fileshelter
 ---
 
-![Version: 9.9.0](https://img.shields.io/badge/Version-9.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.3.0](https://img.shields.io/badge/AppVersion-6.3.0-informational?style=flat-square)
+![Version: 9.10.0](https://img.shields.io/badge/Version-9.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.3.0](https://img.shields.io/badge/AppVersion-6.3.0-informational?style=flat-square)
 
 FileShelter is a self-hosted software that allows you to easily share files over the Internet. Just upload one or more files and get an URL back!
 
 ## Chart Sources
 
 - https://github.com/epoupon/fileshelter
+- https://github.com/truecharts/charts/tree/master/charts/stable/fileshelter
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/fileshelter
 - https://hub.docker.com/r/epoupon/fileshelter
 

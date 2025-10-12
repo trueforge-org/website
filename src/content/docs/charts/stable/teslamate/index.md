@@ -2,7 +2,7 @@
 title: teslamate
 ---
 
-![Version: 5.9.0](https://img.shields.io/badge/Version-5.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.1.1](https://img.shields.io/badge/AppVersion-2.1.1-informational?style=flat-square)
+![Version: 5.10.0](https://img.shields.io/badge/Version-5.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.1.1](https://img.shields.io/badge/AppVersion-2.1.1-informational?style=flat-square)
 
 A self-hosted data logger for your Tesla
 
@@ -10,6 +10,7 @@ A self-hosted data logger for your Tesla
 
 - https://docs.teslamate.org/docs/installation/docker
 - https://github.com/teslamate-org/teslamate
+- https://github.com/truecharts/charts/tree/master/charts/stable/teslamate
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/teslamate
 - https://hub.docker.com/r/teslamate/teslamate
 

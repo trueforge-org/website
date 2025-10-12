@@ -2,7 +2,7 @@
 title: jellyseerr
 ---
 
-![Version: 13.8.0](https://img.shields.io/badge/Version-13.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.7.3](https://img.shields.io/badge/AppVersion-2.7.3-informational?style=flat-square)
+![Version: 13.9.0](https://img.shields.io/badge/Version-13.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.7.3](https://img.shields.io/badge/AppVersion-2.7.3-informational?style=flat-square)
 
 Jellyseerr is a fork of Overseerr with support for Jellyfin and Emby. It can be used to manage requests for your media library.
 
@@ -10,6 +10,7 @@ Jellyseerr is a fork of Overseerr with support for Jellyfin and Emby. It can be 
 
 - https://ghcr.io/fallenbagel/jellyseerr
 - https://github.com/Fallenbagel/jellyseerr
+- https://github.com/truecharts/charts/tree/master/charts/stable/jellyseerr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/jellyseerr
 
 ## Available Documentation

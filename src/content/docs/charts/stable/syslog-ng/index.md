@@ -2,12 +2,13 @@
 title: syslog-ng
 ---
 
-![Version: 12.10.0](https://img.shields.io/badge/Version-12.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.10.1](https://img.shields.io/badge/AppVersion-4.10.1-informational?style=flat-square)
+![Version: 12.11.0](https://img.shields.io/badge/Version-12.11.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.10.1](https://img.shields.io/badge/AppVersion-4.10.1-informational?style=flat-square)
 
 syslog-ng allows you to flexibly collect, parse, classify, rewrite and correlate logs.
 
 ## Chart Sources
 
+- https://github.com/truecharts/charts/tree/master/charts/stable/syslog-ng
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/syslog-ng
 - https://hub.docker.com/r/balabit/syslog-ng
 

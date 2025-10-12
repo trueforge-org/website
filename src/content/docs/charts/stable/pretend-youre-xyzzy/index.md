@@ -2,7 +2,7 @@
 title: pretend-youre-xyzzy
 ---
 
-![Version: 16.8.0](https://img.shields.io/badge/Version-16.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.0.0](https://img.shields.io/badge/AppVersion-4.0.0-informational?style=flat-square)
+![Version: 16.9.0](https://img.shields.io/badge/Version-16.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.0.0](https://img.shields.io/badge/AppVersion-4.0.0-informational?style=flat-square)
 
 pretend-youre-xyzzy, a cards against humanity clone
 
@@ -10,6 +10,7 @@ pretend-youre-xyzzy, a cards against humanity clone
 
 - https://github.com/ajanata/PretendYoureXyzzy
 - https://github.com/emcniece/DockerYourXyzzy
+- https://github.com/truecharts/charts/tree/master/charts/stable/pretend-youre-xyzzy
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/pretend-youre-xyzzy
 - https://hub.docker.com/r/emcniece/dockeryourxyzzy
 

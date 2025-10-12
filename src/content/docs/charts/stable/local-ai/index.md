@@ -2,13 +2,14 @@
 title: local-ai
 ---
 
-![Version: 16.28.0](https://img.shields.io/badge/Version-16.28.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.6.0](https://img.shields.io/badge/AppVersion-3.6.0-informational?style=flat-square)
+![Version: 16.29.0](https://img.shields.io/badge/Version-16.29.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.6.0](https://img.shields.io/badge/AppVersion-3.6.0-informational?style=flat-square)
 
 Self-hosted, community-driven, local OpenAI-compatible API.
 
 ## Chart Sources
 
 - https://github.com/go-skynet/LocalAI
+- https://github.com/truecharts/charts/tree/master/charts/stable/local-ai
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/local-ai
 - https://hub.docker.com/r/localai/localai
 

@@ -2,7 +2,7 @@
 title: budge
 ---
 
-![Version: 12.8.1](https://img.shields.io/badge/Version-12.8.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.0.9](https://img.shields.io/badge/AppVersion-0.0.9-informational?style=flat-square)
+![Version: 12.9.0](https://img.shields.io/badge/Version-12.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.0.9](https://img.shields.io/badge/AppVersion-0.0.9-informational?style=flat-square)
 
 Budge is an open source 'budgeting with envelopes' personal finance app.
 
@@ -11,6 +11,7 @@ Budge is an open source 'budgeting with envelopes' personal finance app.
 - https://ghcr.io/linuxserver/budge
 - https://github.com/linuxserver/budge
 - https://github.com/linuxserver/docker-BudgE
+- https://github.com/truecharts/charts/tree/master/charts/stable/budge
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/budge
 
 ## Available Documentation

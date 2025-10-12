@@ -2,7 +2,7 @@
 title: czkawka
 ---
 
-![Version: 13.10.0](https://img.shields.io/badge/Version-13.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 25.08.1](https://img.shields.io/badge/AppVersion-25.08.1-informational?style=flat-square)
+![Version: 13.11.0](https://img.shields.io/badge/Version-13.11.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 25.08.1](https://img.shields.io/badge/AppVersion-25.08.1-informational?style=flat-square)
 
 Czkawka is a simple, fast and free app to remove unnecessary files from your computer.
 
@@ -10,6 +10,7 @@ Czkawka is a simple, fast and free app to remove unnecessary files from your com
 
 - https://github.com/jlesage/docker-czkawka
 - https://github.com/qarmin/czkawka
+- https://github.com/truecharts/charts/tree/master/charts/stable/czkawka
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/czkawka
 - https://hub.docker.com/r/jlesage/czkawka
 

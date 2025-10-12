@@ -2,7 +2,7 @@
 title: calibre
 ---
 
-![Version: 18.14.1](https://img.shields.io/badge/Version-18.14.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 8.12.0](https://img.shields.io/badge/AppVersion-8.12.0-informational?style=flat-square)
+![Version: 18.15.0](https://img.shields.io/badge/Version-18.15.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 8.12.0](https://img.shields.io/badge/AppVersion-8.12.0-informational?style=flat-square)
 
 Calibre is a powerful and easy to use e-book manager.
 
@@ -10,6 +10,7 @@ Calibre is a powerful and easy to use e-book manager.
 
 - https://ghcr.io/linuxserver/calibre
 - https://github.com/kovidgoyal/calibre/
+- https://github.com/truecharts/charts/tree/master/charts/stable/calibre
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/calibre
 
 ## Available Documentation

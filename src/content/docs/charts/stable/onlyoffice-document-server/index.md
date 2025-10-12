@@ -2,7 +2,7 @@
 title: onlyoffice-document-server
 ---
 
-![Version: 22.17.0](https://img.shields.io/badge/Version-22.17.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 9.0.4](https://img.shields.io/badge/AppVersion-9.0.4-informational?style=flat-square)
+![Version: 22.18.0](https://img.shields.io/badge/Version-22.18.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 9.0.4](https://img.shields.io/badge/AppVersion-9.0.4-informational?style=flat-square)
 
 ONLYOFFICE Document Server is an online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time.
 
@@ -10,6 +10,7 @@ ONLYOFFICE Document Server is an online office suite comprising viewers and edit
 
 - https://github.com/ONLYOFFICE/Docker-DocumentServer
 - https://github.com/ONLYOFFICE/DocumentServer
+- https://github.com/truecharts/charts/tree/master/charts/stable/onlyoffice-document-server
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/onlyoffice-document-server
 - https://hub.docker.com/r/onlyoffice/documentserver
 

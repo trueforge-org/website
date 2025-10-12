@@ -2,7 +2,7 @@
 title: watcharr
 ---
 
-![Version: 8.8.0](https://img.shields.io/badge/Version-8.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.1.1](https://img.shields.io/badge/AppVersion-2.1.1-informational?style=flat-square)
+![Version: 8.9.0](https://img.shields.io/badge/Version-8.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.1.1](https://img.shields.io/badge/AppVersion-2.1.1-informational?style=flat-square)
 
 Open source, self-hostable watched list
 
@@ -10,6 +10,7 @@ Open source, self-hostable watched list
 
 - https://ghcr.io/sbondco/watcharr
 - https://github.com/sbondCo/Watcharr
+- https://github.com/truecharts/charts/tree/master/charts/stable/watcharr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/watcharr
 
 ## Available Documentation

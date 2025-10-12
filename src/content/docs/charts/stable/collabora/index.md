@@ -2,13 +2,14 @@
 title: collabora
 ---
 
-![Version: 9.8.0](https://img.shields.io/badge/Version-9.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 25.04.6.1.1](https://img.shields.io/badge/AppVersion-25.04.6.1.1-informational?style=flat-square)
+![Version: 9.9.0](https://img.shields.io/badge/Version-9.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 25.04.6.1.1](https://img.shields.io/badge/AppVersion-25.04.6.1.1-informational?style=flat-square)
 
 An awesome, Online Office suite image suitable for home use.
 
 ## Chart Sources
 
 - https://github.com/CollaboraOnline/online
+- https://github.com/truecharts/charts/tree/master/charts/stable/collabora
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/collabora
 - https://hub.docker.com/r/collabora/code
 

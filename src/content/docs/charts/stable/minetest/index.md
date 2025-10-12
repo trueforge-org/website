@@ -2,13 +2,14 @@
 title: minetest
 ---
 
-![Version: 11.8.0](https://img.shields.io/badge/Version-11.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.10.0](https://img.shields.io/badge/AppVersion-5.10.0-informational?style=flat-square)
+![Version: 11.9.0](https://img.shields.io/badge/Version-11.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.10.0](https://img.shields.io/badge/AppVersion-5.10.0-informational?style=flat-square)
 
 Minetest (server) is a near-infinite-world block sandbox game and a game engine.
 
 ## Chart Sources
 
 - https://ghcr.io/linuxserver/minetest
+- https://github.com/truecharts/charts/tree/master/charts/stable/minetest
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/minetest
 
 ## Available Documentation

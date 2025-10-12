@@ -2,13 +2,14 @@
 title: airsonic-advanced
 ---
 
-![Version: 16.8.0](https://img.shields.io/badge/Version-16.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: edge-latest](https://img.shields.io/badge/AppVersion-edge-latest-informational?style=flat-square)
+![Version: 16.9.0](https://img.shields.io/badge/Version-16.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: edge-latest](https://img.shields.io/badge/AppVersion-edge-latest-informational?style=flat-square)
 
 Airsonic is a Free and Open Source community driven media server
 
 ## Chart Sources
 
 - https://github.com/airsonic/airsonic-advanced
+- https://github.com/truecharts/charts/tree/master/charts/stable/airsonic-advanced
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/airsonic-advanced
 - https://hub.docker.com/r/airsonicadvanced/airsonic-advanced
 

@@ -2,13 +2,14 @@
 title: synclounge
 ---
 
-![Version: 12.8.1](https://img.shields.io/badge/Version-12.8.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.2.35](https://img.shields.io/badge/AppVersion-5.2.35-informational?style=flat-square)
+![Version: 12.9.0](https://img.shields.io/badge/Version-12.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.2.35](https://img.shields.io/badge/AppVersion-5.2.35-informational?style=flat-square)
 
 Synclounge is a third party tool that allows you to watch Plex in sync with your friends/family, wherever you are.
 
 ## Chart Sources
 
 - https://ghcr.io/linuxserver/synclounge
+- https://github.com/truecharts/charts/tree/master/charts/stable/synclounge
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/synclounge
 
 ## Available Documentation

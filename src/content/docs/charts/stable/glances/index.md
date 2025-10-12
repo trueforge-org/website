@@ -2,13 +2,14 @@
 title: glances
 ---
 
-![Version: 2.8.0](https://img.shields.io/badge/Version-2.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.3.0.8](https://img.shields.io/badge/AppVersion-4.3.0.8-informational?style=flat-square)
+![Version: 2.9.0](https://img.shields.io/badge/Version-2.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.3.0.8](https://img.shields.io/badge/AppVersion-4.3.0.8-informational?style=flat-square)
 
 Glances is a monitoring software
 
 ## Chart Sources
 
 - https://github.com/nicolargo/glances
+- https://github.com/truecharts/charts/tree/master/charts/stable/glances
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/glances
 - https://hub.docker.com/r/nicolargo/glances
 

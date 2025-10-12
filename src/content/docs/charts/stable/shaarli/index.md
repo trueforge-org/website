@@ -2,13 +2,14 @@
 title: shaarli
 ---
 
-![Version: 8.9.0](https://img.shields.io/badge/Version-8.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.15.0](https://img.shields.io/badge/AppVersion-0.15.0-informational?style=flat-square)
+![Version: 8.10.0](https://img.shields.io/badge/Version-8.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.15.0](https://img.shields.io/badge/AppVersion-0.15.0-informational?style=flat-square)
 
 The personal, minimalist, super-fast, database free, bookmarking service.
 
 ## Chart Sources
 
 - https://github.com/shaarli/Shaarli
+- https://github.com/truecharts/charts/tree/master/charts/stable/shaarli
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/shaarli
 - https://hub.docker.com/r/shaarli/shaarli
 

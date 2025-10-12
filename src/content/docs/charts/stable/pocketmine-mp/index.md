@@ -2,7 +2,7 @@
 title: pocketmine-mp
 ---
 
-![Version: 6.13.0](https://img.shields.io/badge/Version-6.13.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.35.0](https://img.shields.io/badge/AppVersion-5.35.0-informational?style=flat-square)
+![Version: 6.14.0](https://img.shields.io/badge/Version-6.14.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.35.0](https://img.shields.io/badge/AppVersion-5.35.0-informational?style=flat-square)
 
 A server software for Minecraft Bedrock Edition in PHP.
 
@@ -10,6 +10,7 @@ A server software for Minecraft Bedrock Edition in PHP.
 
 - https://ghcr.io/pmmp/pocketmine-mp
 - https://github.com/pmmp/PocketMine-MP
+- https://github.com/truecharts/charts/tree/master/charts/stable/pocketmine-mp
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/pocketmine-mp
 
 ## Available Documentation

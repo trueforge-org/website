@@ -2,7 +2,7 @@
 title: pihole
 ---
 
-![Version: 20.10.0](https://img.shields.io/badge/Version-20.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2025.08.0](https://img.shields.io/badge/AppVersion-2025.08.0-informational?style=flat-square)
+![Version: 20.11.0](https://img.shields.io/badge/Version-20.11.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2025.08.0](https://img.shields.io/badge/AppVersion-2025.08.0-informational?style=flat-square)
 
 DNS and Ad-filtering for your network
 
@@ -11,6 +11,7 @@ DNS and Ad-filtering for your network
 - https://ghcr.io/pi-hole/pihole
 - https://github.com/pi-hole
 - https://github.com/pi-hole/docker-pi-hole
+- https://github.com/truecharts/charts/tree/master/charts/stable/pihole
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/pihole
 - https://pi-hole.net/
 

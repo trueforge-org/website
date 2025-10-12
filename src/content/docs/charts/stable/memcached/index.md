@@ -2,13 +2,14 @@
 title: memcached
 ---
 
-![Version: 16.9.0](https://img.shields.io/badge/Version-16.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 16.10.0](https://img.shields.io/badge/Version-16.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Memcached is a memory-backed database caching solution
 
 ## Chart Sources
 
 - https://github.com/bitnami/bitnami-docker-memcached
+- https://github.com/truecharts/charts/tree/master/charts/stable/memcached
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/memcached
 - https://hub.docker.com/r/bitnamisecure/memcached
 

@@ -2,13 +2,14 @@
 title: homebridge
 ---
 
-![Version: 11.9.0](https://img.shields.io/badge/Version-11.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2025.7.25](https://img.shields.io/badge/AppVersion-2025.7.25-informational?style=flat-square)
+![Version: 11.10.0](https://img.shields.io/badge/Version-11.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2025.7.25](https://img.shields.io/badge/AppVersion-2025.7.25-informational?style=flat-square)
 
 A lightweight NodeJS server that emulates the iOS HomeKit API
 
 ## Chart Sources
 
 - https://github.com/oznu/docker-homebridge
+- https://github.com/truecharts/charts/tree/master/charts/stable/homebridge
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/homebridge
 - https://homebridge.io/
 - https://hub.docker.com/r/homebridge/homebridge

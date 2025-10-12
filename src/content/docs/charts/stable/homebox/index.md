@@ -2,7 +2,7 @@
 title: homebox
 ---
 
-![Version: 9.9.0](https://img.shields.io/badge/Version-9.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.21.0](https://img.shields.io/badge/AppVersion-0.21.0-informational?style=flat-square)
+![Version: 9.10.0](https://img.shields.io/badge/Version-9.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.21.0](https://img.shields.io/badge/AppVersion-0.21.0-informational?style=flat-square)
 
 Inventory and organization system built for the Home User.
 
@@ -10,6 +10,7 @@ Inventory and organization system built for the Home User.
 
 - https://ghcr.io/sysadminsmedia/homebox
 - https://github.com/sysadminsmedia/homebox
+- https://github.com/truecharts/charts/tree/master/charts/stable/homebox
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/homebox
 
 ## Available Documentation

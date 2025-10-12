@@ -2,13 +2,14 @@
 title: plaxt
 ---
 
-![Version: 11.8.0](https://img.shields.io/badge/Version-11.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 11.9.0](https://img.shields.io/badge/Version-11.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 This Tools provides a way to keep your watched history synced FROM Plex Server To Trakt.tv
 
 ## Chart Sources
 
 - https://github.com/XanderStrike/goplaxt
+- https://github.com/truecharts/charts/tree/master/charts/stable/plaxt
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/plaxt
 - https://hub.docker.com/r/xanderstrike/goplaxt
 

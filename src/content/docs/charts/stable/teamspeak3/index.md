@@ -2,12 +2,13 @@
 title: teamspeak3
 ---
 
-![Version: 13.8.0](https://img.shields.io/badge/Version-13.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.13.7](https://img.shields.io/badge/AppVersion-3.13.7-informational?style=flat-square)
+![Version: 13.9.0](https://img.shields.io/badge/Version-13.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.13.7](https://img.shields.io/badge/AppVersion-3.13.7-informational?style=flat-square)
 
 TeamSpeak is software for quality voice communication via the Internet.
 
 ## Chart Sources
 
+- https://github.com/truecharts/charts/tree/master/charts/stable/teamspeak3
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/teamspeak3
 - https://hub.docker.com/_/teamspeak
 - https://www.teamspeak.com/en/

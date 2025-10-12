@@ -2,13 +2,14 @@
 title: fotosho
 ---
 
-![Version: 8.8.0](https://img.shields.io/badge/Version-8.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 8.9.0](https://img.shields.io/badge/Version-8.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 *BETA* Fotosho is a photo gallery for your home server. Organize your photos into albums internally and view as a slideshow. Free and open source. Does not require a database. Does not move, copy or modify your photos.
 
 ## Chart Sources
 
 - https://github.com/advplyr/fotosho
+- https://github.com/truecharts/charts/tree/master/charts/stable/fotosho
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/fotosho
 - https://hub.docker.com/r/advplyr/fotosho
 

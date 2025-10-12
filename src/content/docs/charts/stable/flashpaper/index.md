@@ -2,7 +2,7 @@
 title: flashpaper
 ---
 
-![Version: 5.8.0](https://img.shields.io/badge/Version-5.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: master](https://img.shields.io/badge/AppVersion-master-informational?style=flat-square)
+![Version: 5.9.0](https://img.shields.io/badge/Version-5.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: master](https://img.shields.io/badge/AppVersion-master-informational?style=flat-square)
 
 One-time encrypted password/secret sharing
 
@@ -11,6 +11,7 @@ One-time encrypted password/secret sharing
 - https://ghcr.io/andrewpaglusch/flashpaper
 - https://github.com/AndrewPaglusch/FlashPaper
 - https://github.com/andrewpaglusch/FlashPaper/pkgs/container/flashpaper
+- https://github.com/truecharts/charts/tree/master/charts/stable/flashpaper
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/flashpaper
 
 ## Available Documentation

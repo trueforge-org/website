@@ -2,7 +2,7 @@
 title: calibre-web
 ---
 
-![Version: 21.8.0](https://img.shields.io/badge/Version-21.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.6.25](https://img.shields.io/badge/AppVersion-0.6.25-informational?style=flat-square)
+![Version: 21.9.0](https://img.shields.io/badge/Version-21.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.6.25](https://img.shields.io/badge/AppVersion-0.6.25-informational?style=flat-square)
 
 Calibre-Web is a web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database.
 
@@ -10,6 +10,7 @@ Calibre-Web is a web app providing a clean interface for browsing, reading and d
 
 - https://fleet.linuxserver.io/image?name=linuxserver/calibre-web
 - https://github.com/janeczku/calibre-web
+- https://github.com/truecharts/charts/tree/master/charts/stable/calibre-web
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/calibre-web
 
 ## Available Documentation

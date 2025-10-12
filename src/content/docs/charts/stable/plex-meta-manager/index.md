@@ -2,13 +2,14 @@
 title: plex-meta-manager
 ---
 
-![Version: 9.8.0](https://img.shields.io/badge/Version-9.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.21.0](https://img.shields.io/badge/AppVersion-1.21.0-informational?style=flat-square)
+![Version: 9.9.0](https://img.shields.io/badge/Version-9.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.21.0](https://img.shields.io/badge/AppVersion-1.21.0-informational?style=flat-square)
 
 Python script to update metadata and automatically build collections.
 
 ## Chart Sources
 
 - https://github.com/meisnate12/Plex-Meta-Manager
+- https://github.com/truecharts/charts/tree/master/charts/stable/plex-meta-manager
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/plex-meta-manager
 - https://hub.docker.com/r/meisnate12/plex-meta-manager
 

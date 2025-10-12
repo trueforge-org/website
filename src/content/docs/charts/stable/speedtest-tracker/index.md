@@ -2,7 +2,7 @@
 title: speedtest-tracker
 ---
 
-![Version: 8.17.0](https://img.shields.io/badge/Version-8.17.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.6.8](https://img.shields.io/badge/AppVersion-1.6.8-informational?style=flat-square)
+![Version: 8.18.0](https://img.shields.io/badge/Version-8.18.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.6.8](https://img.shields.io/badge/AppVersion-1.6.8-informational?style=flat-square)
 
 Speedtest Tracker is a self-hosted internet performance tracking application that runs speedtest checks against Ookla's Speedtest service.
 
@@ -11,6 +11,7 @@ Speedtest Tracker is a self-hosted internet performance tracking application tha
 - https://ghcr.io/linuxserver/speedtest-tracker
 - https://github.com/alexjustesen/speedtest-tracker
 - https://github.com/linuxserver/docker-speedtest-tracker
+- https://github.com/truecharts/charts/tree/master/charts/stable/speedtest-tracker
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/speedtest-tracker
 
 ## Available Documentation

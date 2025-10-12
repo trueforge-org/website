@@ -2,7 +2,7 @@
 title: wizarr
 ---
 
-![Version: 11.10.0](https://img.shields.io/badge/Version-11.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2025.9.1](https://img.shields.io/badge/AppVersion-2025.9.1-informational?style=flat-square)
+![Version: 11.11.0](https://img.shields.io/badge/Version-11.11.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2025.9.1](https://img.shields.io/badge/AppVersion-2025.9.1-informational?style=flat-square)
 
 A automatic user invitation system for Plex.
 
@@ -10,6 +10,7 @@ A automatic user invitation system for Plex.
 
 - https://ghcr.io/wizarrrr/wizarr
 - https://github.com/Wizarrrr/wizarr
+- https://github.com/truecharts/charts/tree/master/charts/stable/wizarr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/wizarr
 
 ## Available Documentation

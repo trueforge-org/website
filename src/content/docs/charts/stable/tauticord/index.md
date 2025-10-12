@@ -2,7 +2,7 @@
 title: tauticord
 ---
 
-![Version: 9.10.0](https://img.shields.io/badge/Version-9.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.15.0](https://img.shields.io/badge/AppVersion-5.15.0-informational?style=flat-square)
+![Version: 9.11.0](https://img.shields.io/badge/Version-9.11.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.15.0](https://img.shields.io/badge/AppVersion-5.15.0-informational?style=flat-square)
 
 A Discord bot that displays live data from Tautulli.
 
@@ -10,6 +10,7 @@ A Discord bot that displays live data from Tautulli.
 
 - https://ghcr.io/nwithan8/tauticord
 - https://github.com/nwithan8/tauticord
+- https://github.com/truecharts/charts/tree/master/charts/stable/tauticord
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/tauticord
 
 ## Available Documentation

@@ -2,13 +2,13 @@
 title: renovate
 ---
 
-![Version: 2.8.0](https://img.shields.io/badge/Version-2.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.0.0](https://img.shields.io/badge/AppVersion-2.0.0-informational?style=flat-square)
+![Version: 2.9.0](https://img.shields.io/badge/Version-2.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.0.0](https://img.shields.io/badge/AppVersion-2.0.0-informational?style=flat-square)
 
 renovate self-hosted
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/apps/renovate
+- https://github.com/truecharts/charts/tree/master/charts/stable/renovate
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/renovate
 
 ## Available Documentation

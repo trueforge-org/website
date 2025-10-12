@@ -2,13 +2,14 @@
 title: misskey
 ---
 
-![Version: 13.21.0](https://img.shields.io/badge/Version-13.21.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2025.10.0](https://img.shields.io/badge/AppVersion-2025.10.0-informational?style=flat-square)
+![Version: 13.22.0](https://img.shields.io/badge/Version-13.22.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2025.10.0](https://img.shields.io/badge/AppVersion-2025.10.0-informational?style=flat-square)
 
 Open source decentralized social media platform that's free forever!
 
 ## Chart Sources
 
 - https://github.com/misskey-dev/misskey/
+- https://github.com/truecharts/charts/tree/master/charts/stable/misskey
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/misskey
 - https://hub.docker.com/r/misskey/misskey
 

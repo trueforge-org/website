@@ -2,7 +2,7 @@
 title: shorturl
 ---
 
-![Version: 13.8.0](https://img.shields.io/badge/Version-13.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.1.0](https://img.shields.io/badge/AppVersion-0.1.0-informational?style=flat-square)
+![Version: 13.9.0](https://img.shields.io/badge/Version-13.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.1.0](https://img.shields.io/badge/AppVersion-0.1.0-informational?style=flat-square)
 
 Self hosted web app for shortening urls (URL shortener)
 
@@ -11,6 +11,7 @@ Self hosted web app for shortening urls (URL shortener)
 - https://ghcr.io/nicholaswilde/shorturl
 - https://github.com/nicholaswilde/docker-shorturl
 - https://github.com/prologic/shorturl
+- https://github.com/truecharts/charts/tree/master/charts/stable/shorturl
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/shorturl
 
 ## Available Documentation

@@ -2,7 +2,7 @@
 title: joplin-server
 ---
 
-![Version: 21.9.0](https://img.shields.io/badge/Version-21.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.4.3](https://img.shields.io/badge/AppVersion-3.4.3-informational?style=flat-square)
+![Version: 21.10.0](https://img.shields.io/badge/Version-21.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.4.3](https://img.shields.io/badge/AppVersion-3.4.3-informational?style=flat-square)
 
 Allows you to sync any Joplin client.
 
@@ -10,6 +10,7 @@ Allows you to sync any Joplin client.
 
 - https://github.com/laurent22/joplin
 - https://github.com/laurent22/joplin/tree/dev/packages/server
+- https://github.com/truecharts/charts/tree/master/charts/stable/joplin-server
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/joplin-server
 - https://hub.docker.com/r/joplin/server
 

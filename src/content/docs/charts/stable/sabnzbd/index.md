@@ -2,7 +2,7 @@
 title: sabnzbd
 ---
 
-![Version: 22.9.0](https://img.shields.io/badge/Version-22.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.5.3](https://img.shields.io/badge/AppVersion-4.5.3-informational?style=flat-square)
+![Version: 22.10.0](https://img.shields.io/badge/Version-22.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.5.3](https://img.shields.io/badge/AppVersion-4.5.3-informational?style=flat-square)
 
 Free and easy binary newsreader
 
@@ -10,6 +10,7 @@ Free and easy binary newsreader
 
 - https://ghcr.io/home-operations/sabnzbd
 - https://ghcr.io/onedr0p/exportarr
+- https://github.com/truecharts/charts/tree/master/charts/stable/sabnzbd
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/sabnzbd
 - https://sabnzbd.org/
 

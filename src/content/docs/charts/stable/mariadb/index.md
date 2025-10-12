@@ -2,7 +2,7 @@
 title: mariadb
 ---
 
-![Version: 17.6.0](https://img.shields.io/badge/Version-17.6.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 17.7.0](https://img.shields.io/badge/Version-17.7.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Fast, reliable, scalable, and easy to use open-source relational database system.
 
@@ -10,6 +10,7 @@ Fast, reliable, scalable, and easy to use open-source relational database system
 
 - https://github.com/bitnami/bitnami-docker-mariadb
 - https://github.com/prometheus/mysqld_exporter
+- https://github.com/truecharts/charts/tree/master/charts/stable/mariadb
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/mariadb
 - https://hub.docker.com/r/bitnamisecure/mariadb
 - https://mariadb.org

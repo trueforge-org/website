@@ -2,13 +2,14 @@
 title: kavita
 ---
 
-![Version: 12.9.0](https://img.shields.io/badge/Version-12.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.8.7](https://img.shields.io/badge/AppVersion-0.8.7-informational?style=flat-square)
+![Version: 12.10.0](https://img.shields.io/badge/Version-12.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.8.7](https://img.shields.io/badge/AppVersion-0.8.7-informational?style=flat-square)
 
 Kavita is a rocket fueled self-hosted digital library which supports a vast array of file formats
 
 ## Chart Sources
 
 - https://ghcr.io/kareadita/kavita
+- https://github.com/truecharts/charts/tree/master/charts/stable/kavita
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/kavita
 - https://www.kavitareader.com
 

@@ -2,12 +2,13 @@
 title: nvidia-gpu-exporter
 ---
 
-![Version: 5.9.1](https://img.shields.io/badge/Version-5.9.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.4.1](https://img.shields.io/badge/AppVersion-1.4.1-informational?style=flat-square)
+![Version: 5.10.0](https://img.shields.io/badge/Version-5.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.4.1](https://img.shields.io/badge/AppVersion-1.4.1-informational?style=flat-square)
 
 Prometheus exporter for Nvidia GPU's using nvidia-smi binary to gather metrics.
 
 ## Chart Sources
 
+- https://github.com/truecharts/charts/tree/master/charts/stable/nvidia-gpu-exporter
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/nvidia-gpu-exporter
 - https://github.com/utkuozdemir/nvidia_gpu_exporter
 - https://hub.docker.com/r/utkuozdemir/nvidia_gpu_exporter

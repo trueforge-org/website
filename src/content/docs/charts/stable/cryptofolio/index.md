@@ -2,13 +2,14 @@
 title: cryptofolio
 ---
 
-![Version: 15.8.0](https://img.shields.io/badge/Version-15.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.2.0](https://img.shields.io/badge/AppVersion-2.2.0-informational?style=flat-square)
+![Version: 15.9.0](https://img.shields.io/badge/Version-15.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.2.0](https://img.shields.io/badge/AppVersion-2.2.0-informational?style=flat-square)
 
 Track your cryptocurrency holdings/portfolio
 
 ## Chart Sources
 
 - https://github.com/Xtrendence/cryptofolio
+- https://github.com/truecharts/charts/tree/master/charts/stable/cryptofolio
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/cryptofolio
 - https://hub.docker.com/r/xtrendence/cryptofolio
 

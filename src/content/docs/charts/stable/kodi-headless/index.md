@@ -2,12 +2,13 @@
 title: kodi-headless
 ---
 
-![Version: 12.8.0](https://img.shields.io/badge/Version-12.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 190.0.0](https://img.shields.io/badge/AppVersion-190.0.0-informational?style=flat-square)
+![Version: 12.9.0](https://img.shields.io/badge/Version-12.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 190.0.0](https://img.shields.io/badge/AppVersion-190.0.0-informational?style=flat-square)
 
 A headless install of kodi in a docker container.
 
 ## Chart Sources
 
+- https://github.com/truecharts/charts/tree/master/charts/stable/kodi-headless
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/kodi-headless
 - https://hub.docker.com/r/linuxserver/kodi-headless
 

@@ -2,14 +2,14 @@
 title: kubernetes-dashboard
 ---
 
-![Version: 2.8.0](https://img.shields.io/badge/Version-2.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 2.9.0](https://img.shields.io/badge/Version-2.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 The default Kubernetes Dashboard
 
 ## Chart Sources
 
 - https://github.com/kubernetes-dashboard/kubernetes-dashboard
-- https://github.com/truecharts/containers/tree/master/apps/kube-sa-proxy
+- https://github.com/truecharts/charts/tree/master/charts/stable/kubernetes-dashboard
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/kubernetes-dashboard
 - https://github.com/trueforge/truecharts/tree/master/charts/stable/kubernetes-dashboard
 - https://hub.docker.com/r/kubernetesui/dashboard-api

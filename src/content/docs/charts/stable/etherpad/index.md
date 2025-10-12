@@ -2,7 +2,7 @@
 title: etherpad
 ---
 
-![Version: 19.8.0](https://img.shields.io/badge/Version-19.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.8.14](https://img.shields.io/badge/AppVersion-1.8.14-informational?style=flat-square)
+![Version: 19.9.0](https://img.shields.io/badge/Version-19.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.8.14](https://img.shields.io/badge/AppVersion-1.8.14-informational?style=flat-square)
 
 A real-time collaborative editor scalable to thousands of simultaneous real time users.
 
@@ -11,6 +11,7 @@ A real-time collaborative editor scalable to thousands of simultaneous real time
 - https://etherpad.org/
 - https://ghcr.io/nicholaswilde/etherpad
 - https://github.com/ether/etherpad-lite
+- https://github.com/truecharts/charts/tree/master/charts/stable/etherpad
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/etherpad
 
 ## Available Documentation

@@ -2,7 +2,7 @@
 title: backuppc
 ---
 
-![Version: 9.8.0](https://img.shields.io/badge/Version-9.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.0.4](https://img.shields.io/badge/AppVersion-6.0.4-informational?style=flat-square)
+![Version: 9.9.0](https://img.shields.io/badge/Version-9.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.0.4](https://img.shields.io/badge/AppVersion-6.0.4-informational?style=flat-square)
 
 A high-performance, enterprise-grade system for backing up Linux, Windows and macOS PCs and laptops to a server's disk.
 
@@ -10,6 +10,7 @@ A high-performance, enterprise-grade system for backing up Linux, Windows and ma
 
 - https://backuppc.github.io/backuppc/index.html
 - https://github.com/tiredofit/docker-backuppc
+- https://github.com/truecharts/charts/tree/master/charts/stable/backuppc
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/backuppc
 - https://hub.docker.com/r/tiredofit/backuppc
 

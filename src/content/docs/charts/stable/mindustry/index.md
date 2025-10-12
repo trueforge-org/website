@@ -2,7 +2,7 @@
 title: mindustry
 ---
 
-![Version: 8.8.0](https://img.shields.io/badge/Version-8.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 8.9.0](https://img.shields.io/badge/Version-8.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 This is a Basic Mindustry Server. It will download the preferred version of Mindustry and run it.
 
@@ -10,6 +10,7 @@ This is a Basic Mindustry Server. It will download the preferred version of Mind
 
 - https://anuke.itch.io/mindustry
 - https://ghcr.io/ich777/mindustry-server
+- https://github.com/truecharts/charts/tree/master/charts/stable/mindustry
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/mindustry
 
 ## Available Documentation

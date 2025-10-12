@@ -2,13 +2,14 @@
 title: ddclient
 ---
 
-![Version: 13.8.1](https://img.shields.io/badge/Version-13.8.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.0.0](https://img.shields.io/badge/AppVersion-4.0.0-informational?style=flat-square)
+![Version: 13.9.0](https://img.shields.io/badge/Version-13.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.0.0](https://img.shields.io/badge/AppVersion-4.0.0-informational?style=flat-square)
 
 Ddclient is a Perl client used to update dynamic DNS entries for accounts on Dynamic DNS Network Service Provider.
 
 ## Chart Sources
 
 - https://ghcr.io/linuxserver/ddclient
+- https://github.com/truecharts/charts/tree/master/charts/stable/ddclient
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/ddclient
 
 ## Available Documentation

@@ -2,7 +2,7 @@
 title: booksonic-air
 ---
 
-![Version: 16.8.0](https://img.shields.io/badge/Version-16.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2201.1.0](https://img.shields.io/badge/AppVersion-2201.1.0-informational?style=flat-square)
+![Version: 16.9.0](https://img.shields.io/badge/Version-16.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2201.1.0](https://img.shields.io/badge/AppVersion-2201.1.0-informational?style=flat-square)
 
 Booksonic is a platform for accessing the audibooks you own wherever you are
 
@@ -10,6 +10,7 @@ Booksonic is a platform for accessing the audibooks you own wherever you are
 
 - https://ghcr.io/linuxserver/booksonic-air
 - https://github.com/popeen/Booksonic-Air
+- https://github.com/truecharts/charts/tree/master/charts/stable/booksonic-air
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/booksonic-air
 
 ## Available Documentation

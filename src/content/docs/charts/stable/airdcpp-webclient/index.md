@@ -2,7 +2,7 @@
 title: airdcpp-webclient
 ---
 
-![Version: 13.9.0](https://img.shields.io/badge/Version-13.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.14.0](https://img.shields.io/badge/AppVersion-2.14.0-informational?style=flat-square)
+![Version: 13.10.0](https://img.shields.io/badge/Version-13.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.14.0](https://img.shields.io/badge/AppVersion-2.14.0-informational?style=flat-square)
 
 AirDC++ Web Client is a locally installed application, which is designed for flexible sharing of files or directories within groups of people in a local network or over internet.
 
@@ -10,6 +10,7 @@ AirDC++ Web Client is a locally installed application, which is designed for fle
 
 - https://airdcpp-web.github.io/
 - https://github.com/airdcpp-web/airdcpp-webclient
+- https://github.com/truecharts/charts/tree/master/charts/stable/airdcpp-webclient
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/airdcpp-webclient
 - https://hub.docker.com/r/gangefors/airdcpp-webclient
 

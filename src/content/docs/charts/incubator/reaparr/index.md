@@ -2,13 +2,14 @@
 title: reaparr
 ---
 
-![Version: 0.0.1](https://img.shields.io/badge/Version-0.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.33.2](https://img.shields.io/badge/AppVersion-0.33.2-informational?style=flat-square)
+![Version: 0.1.0](https://img.shields.io/badge/Version-0.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.33.2](https://img.shields.io/badge/AppVersion-0.33.2-informational?style=flat-square)
 
 Plex downloader that brings content from any server to yours!
 
 ## Chart Sources
 
 - https://github.com/reaparr/reaparr/
+- https://github.com/truecharts/charts/tree/master/charts/incubator/reaparr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/incubator/reaparr
 - https://hub.docker.com/r/reaparr/reaparr
 

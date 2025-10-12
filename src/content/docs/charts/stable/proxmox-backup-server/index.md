@@ -2,12 +2,13 @@
 title: proxmox-backup-server
 ---
 
-![Version: 7.6.0](https://img.shields.io/badge/Version-7.6.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.0.13](https://img.shields.io/badge/AppVersion-4.0.13-informational?style=flat-square)
+![Version: 7.7.0](https://img.shields.io/badge/Version-7.7.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.0.13](https://img.shields.io/badge/AppVersion-4.0.13-informational?style=flat-square)
 
 Container for proxmox backup server
 
 ## Chart Sources
 
+- https://github.com/truecharts/charts/tree/master/charts/stable/proxmox-backup-server
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/proxmox-backup-server
 - https://hub.docker.com/r/ayufan/proxmox-backup-server
 

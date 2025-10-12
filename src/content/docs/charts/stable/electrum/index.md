@@ -2,7 +2,7 @@
 title: electrum
 ---
 
-![Version: 8.8.0](https://img.shields.io/badge/Version-8.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 8.9.0](https://img.shields.io/badge/Version-8.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Electrum is a Bitcoin wallet focused on speed and simplicity, with low resource usage. It uses remote servers that handle the most complicated parts of the Bitcoin system, and it allows you to recover your wallet from a secret phrase.
 
@@ -10,6 +10,7 @@ Electrum is a Bitcoin wallet focused on speed and simplicity, with low resource 
 
 - https://electrum.org/
 - https://ghcr.io/ich777/electrum
+- https://github.com/truecharts/charts/tree/master/charts/stable/electrum
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/electrum
 
 ## Available Documentation

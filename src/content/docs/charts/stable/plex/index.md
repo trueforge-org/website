@@ -2,7 +2,7 @@
 title: plex
 ---
 
-![Version: 20.9.0](https://img.shields.io/badge/Version-20.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.42.2.10156](https://img.shields.io/badge/AppVersion-1.42.2.10156-informational?style=flat-square)
+![Version: 20.10.0](https://img.shields.io/badge/Version-20.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.42.2.10156](https://img.shields.io/badge/AppVersion-1.42.2.10156-informational?style=flat-square)
 
 Plex Media Server
 
@@ -10,6 +10,7 @@ Plex Media Server
 
 - https://ghcr.io/home-operations/plex
 - https://github.com/k8s-at-home/container-images/pkgs/container/plex
+- https://github.com/truecharts/charts/tree/master/charts/stable/plex
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/plex
 
 ## Available Documentation

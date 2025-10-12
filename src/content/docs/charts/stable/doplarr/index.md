@@ -2,7 +2,7 @@
 title: doplarr
 ---
 
-![Version: 12.8.0](https://img.shields.io/badge/Version-12.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.6.3](https://img.shields.io/badge/AppVersion-3.6.3-informational?style=flat-square)
+![Version: 12.9.0](https://img.shields.io/badge/Version-12.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.6.3](https://img.shields.io/badge/AppVersion-3.6.3-informational?style=flat-square)
 
 An *arr Request Bot for Discord
 
@@ -10,6 +10,7 @@ An *arr Request Bot for Discord
 
 - https://ghcr.io/kiranshila/doplarr
 - https://github.com/kiranshila/Doplarr
+- https://github.com/truecharts/charts/tree/master/charts/stable/doplarr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/doplarr
 
 ## Available Documentation

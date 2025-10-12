@@ -2,12 +2,13 @@
 title: root
 ---
 
-![Version: 8.8.0](https://img.shields.io/badge/Version-8.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 8.9.0](https://img.shields.io/badge/Version-8.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 ROOT is a framework for data processing, born at CERN, at the heart of the research on high-energy physics. Every day, thousands of physicists use ROOT applications to analyze their data or to perform simulations.
 
 ## Chart Sources
 
+- https://github.com/truecharts/charts/tree/master/charts/stable/root
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/root
 - https://hub.docker.com/r/bgameiro/arch-cern-root
 - https://root.cern/

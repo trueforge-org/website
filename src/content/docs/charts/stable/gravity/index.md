@@ -2,7 +2,7 @@
 title: gravity
 ---
 
-![Version: 6.9.0](https://img.shields.io/badge/Version-6.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.28.1](https://img.shields.io/badge/AppVersion-0.28.1-informational?style=flat-square)
+![Version: 6.10.0](https://img.shields.io/badge/Version-6.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.28.1](https://img.shields.io/badge/AppVersion-0.28.1-informational?style=flat-square)
 
 Fully-replicated DNS and DHCP Server with ad-blocking powered by etcd.
 
@@ -10,6 +10,7 @@ Fully-replicated DNS and DHCP Server with ad-blocking powered by etcd.
 
 - https://ghcr.io/beryju/gravity
 - https://github.com/BeryJu/gravity
+- https://github.com/truecharts/charts/tree/master/charts/stable/gravity
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/gravity
 
 ## Available Documentation

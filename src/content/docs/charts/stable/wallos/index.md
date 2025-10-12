@@ -2,7 +2,7 @@
 title: wallos
 ---
 
-![Version: 9.9.0](https://img.shields.io/badge/Version-9.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.3.0](https://img.shields.io/badge/AppVersion-4.3.0-informational?style=flat-square)
+![Version: 9.10.0](https://img.shields.io/badge/Version-9.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.3.0](https://img.shields.io/badge/AppVersion-4.3.0-informational?style=flat-square)
 
 Wallos - Self Hosted Subscription tracker
 
@@ -10,6 +10,7 @@ Wallos - Self Hosted Subscription tracker
 
 - https://ghcr.io/ellite/wallos
 - https://github.com/ellite/Wallos
+- https://github.com/truecharts/charts/tree/master/charts/stable/wallos
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/wallos
 
 ## Available Documentation

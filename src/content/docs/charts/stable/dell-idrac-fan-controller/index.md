@@ -2,7 +2,7 @@
 title: dell-idrac-fan-controller
 ---
 
-![Version: 8.8.0](https://img.shields.io/badge/Version-8.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 8.9.0](https://img.shields.io/badge/Version-8.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Control your Dell PowerEdge fans via IPMI
 
@@ -10,6 +10,7 @@ Control your Dell PowerEdge fans via IPMI
 
 - https://ghcr.io/tigerblue77/dell_idrac_fan_controller
 - https://github.com/tigerblue77/Dell_iDRAC_fan_controller_Docker
+- https://github.com/truecharts/charts/tree/master/charts/stable/dell-idrac-fan-controller
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/dell-idrac-fan-controller
 
 ## Available Documentation

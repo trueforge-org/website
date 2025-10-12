@@ -2,13 +2,14 @@
 title: openvscode-server
 ---
 
-![Version: 12.10.0](https://img.shields.io/badge/Version-12.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.103.1](https://img.shields.io/badge/AppVersion-1.103.1-informational?style=flat-square)
+![Version: 12.11.0](https://img.shields.io/badge/Version-12.11.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.103.1](https://img.shields.io/badge/AppVersion-1.103.1-informational?style=flat-square)
 
 Openvscode-server provides a version of VS Code that runs a server on a remote machine.
 
 ## Chart Sources
 
 - https://ghcr.io/linuxserver/openvscode-server
+- https://github.com/truecharts/charts/tree/master/charts/stable/openvscode-server
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/openvscode-server
 
 ## Available Documentation

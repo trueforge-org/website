@@ -2,13 +2,14 @@
 title: whisper-asr-webservice
 ---
 
-![Version: 7.8.0](https://img.shields.io/badge/Version-7.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.9.1](https://img.shields.io/badge/AppVersion-1.9.1-informational?style=flat-square)
+![Version: 7.9.0](https://img.shields.io/badge/Version-7.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.9.1](https://img.shields.io/badge/AppVersion-1.9.1-informational?style=flat-square)
 
 Whisper is a general-purpose speech recognition model.
 
 ## Chart Sources
 
 - https://github.com/ahmetoner/whisper-asr-webservice
+- https://github.com/truecharts/charts/tree/master/charts/stable/whisper-asr-webservice
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/whisper-asr-webservice
 - https://hub.docker.com/r/onerahmet/openai-whisper-asr-webservice
 

@@ -2,7 +2,7 @@
 title: cs2
 ---
 
-![Version: 6.8.1](https://img.shields.io/badge/Version-6.8.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: cs2](https://img.shields.io/badge/AppVersion-cs2-informational?style=flat-square)
+![Version: 6.9.0](https://img.shields.io/badge/Version-6.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: cs2](https://img.shields.io/badge/AppVersion-cs2-informational?style=flat-square)
 
 A custom SteamCMD chart that runs CS2.
 
@@ -10,6 +10,7 @@ A custom SteamCMD chart that runs CS2.
 
 - https://ghcr.io/ich777/steamcmd
 - https://github.com/ich777/docker-steamcmd-server/tree/cs2
+- https://github.com/truecharts/charts/tree/master/charts/stable/cs2
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/cs2
 
 ## Available Documentation

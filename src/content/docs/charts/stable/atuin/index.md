@@ -2,7 +2,7 @@
 title: atuin
 ---
 
-![Version: 6.10.0](https://img.shields.io/badge/Version-6.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 18.8.0](https://img.shields.io/badge/AppVersion-18.8.0-informational?style=flat-square)
+![Version: 6.11.0](https://img.shields.io/badge/Version-6.11.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 18.8.0](https://img.shields.io/badge/AppVersion-18.8.0-informational?style=flat-square)
 
 Magical shell history.
 
@@ -10,6 +10,7 @@ Magical shell history.
 
 - https://ghcr.io/atuinsh/atuin
 - https://github.com/atuinsh/atuin
+- https://github.com/truecharts/charts/tree/master/charts/stable/atuin
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/atuin
 
 ## Available Documentation

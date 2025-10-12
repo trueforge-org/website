@@ -2,12 +2,13 @@
 title: tonido
 ---
 
-![Version: 8.8.0](https://img.shields.io/badge/Version-8.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 8.9.0](https://img.shields.io/badge/Version-8.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Tonido Server allows you to access all your files on your computer from a web browser, smartphone, tablet or even DLNA enabled devices. No setup necessary.
 
 ## Chart Sources
 
+- https://github.com/truecharts/charts/tree/master/charts/stable/tonido
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/tonido
 - https://hub.docker.com/r/captinsano/tonido
 - https://registry.hub.docker.com/r/captinsano/tonido/

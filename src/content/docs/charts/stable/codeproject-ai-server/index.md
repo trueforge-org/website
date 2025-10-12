@@ -2,13 +2,14 @@
 title: codeproject-ai-server
 ---
 
-![Version: 5.8.0](https://img.shields.io/badge/Version-5.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.6.5](https://img.shields.io/badge/AppVersion-2.6.5-informational?style=flat-square)
+![Version: 5.9.0](https://img.shields.io/badge/Version-5.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.6.5](https://img.shields.io/badge/AppVersion-2.6.5-informational?style=flat-square)
 
 A standalone, self-hosted, fast, free and Open Source Artificial Intelligence microserver for any platform, any language.
 
 ## Chart Sources
 
 - https://github.com/codeproject/CodeProject.AI-Server
+- https://github.com/truecharts/charts/tree/master/charts/stable/codeproject-ai-server
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/codeproject-ai-server
 - https://hub.docker.com/r/codeproject/ai-server
 

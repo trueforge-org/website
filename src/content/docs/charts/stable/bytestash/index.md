@@ -2,7 +2,7 @@
 title: bytestash
 ---
 
-![Version: 2.8.1](https://img.shields.io/badge/Version-2.8.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.5.9](https://img.shields.io/badge/AppVersion-1.5.9-informational?style=flat-square)
+![Version: 2.9.0](https://img.shields.io/badge/Version-2.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.5.9](https://img.shields.io/badge/AppVersion-1.5.9-informational?style=flat-square)
 
 ByteStash is a self-hosted web application designed to store, organise, and manage your code snippets efficiently. With support for creating, editing, and filtering snippets, ByteStash helps you keep track of your code in one secure place.
 
@@ -10,6 +10,7 @@ ByteStash is a self-hosted web application designed to store, organise, and mana
 
 - https://ghcr.io/jordan-dalby/bytestash
 - https://github.com/jordan-dalby/ByteStash
+- https://github.com/truecharts/charts/tree/master/charts/stable/bytestash
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/bytestash
 
 ## Available Documentation

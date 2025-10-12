@@ -2,12 +2,13 @@
 title: dizquetv
 ---
 
-![Version: 17.8.0](https://img.shields.io/badge/Version-17.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.5.5](https://img.shields.io/badge/AppVersion-1.5.5-informational?style=flat-square)
+![Version: 17.9.0](https://img.shields.io/badge/Version-17.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.5.5](https://img.shields.io/badge/AppVersion-1.5.5-informational?style=flat-square)
 
 Create live TV channel streams from media on your Plex servers.
 
 ## Chart Sources
 
+- https://github.com/truecharts/charts/tree/master/charts/stable/dizquetv
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/dizquetv
 - https://github.com/vexorian/dizquetv
 - https://hub.docker.com/r/vexorian/dizquetv

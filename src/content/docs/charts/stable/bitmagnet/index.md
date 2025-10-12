@@ -2,7 +2,7 @@
 title: bitmagnet
 ---
 
-![Version: 4.8.0](https://img.shields.io/badge/Version-4.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.10.0](https://img.shields.io/badge/AppVersion-0.10.0-informational?style=flat-square)
+![Version: 4.9.0](https://img.shields.io/badge/Version-4.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.10.0](https://img.shields.io/badge/AppVersion-0.10.0-informational?style=flat-square)
 
 A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
 
@@ -11,6 +11,7 @@ A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent se
 - https://bitmagnet.io
 - https://ghcr.io/bitmagnet-io/bitmagnet
 - https://github.com/bitmagnet-io/bitmagnet
+- https://github.com/truecharts/charts/tree/master/charts/stable/bitmagnet
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/bitmagnet
 
 ## Available Documentation

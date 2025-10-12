@@ -2,13 +2,14 @@
 title: ngircd
 ---
 
-![Version: 12.8.0](https://img.shields.io/badge/Version-12.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2021.11.21](https://img.shields.io/badge/AppVersion-2021.11.21-informational?style=flat-square)
+![Version: 12.9.0](https://img.shields.io/badge/Version-12.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2021.11.21](https://img.shields.io/badge/AppVersion-2021.11.21-informational?style=flat-square)
 
 Ngircd is a free, portable and lightweight Internet Relay Chat server for small or private networks.
 
 ## Chart Sources
 
 - https://ghcr.io/linuxserver/ngircd
+- https://github.com/truecharts/charts/tree/master/charts/stable/ngircd
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/ngircd
 
 ## Available Documentation

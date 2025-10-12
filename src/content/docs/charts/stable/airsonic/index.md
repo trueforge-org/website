@@ -2,7 +2,7 @@
 title: airsonic
 ---
 
-![Version: 16.8.0](https://img.shields.io/badge/Version-16.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 10.6.2](https://img.shields.io/badge/AppVersion-10.6.2-informational?style=flat-square)
+![Version: 16.9.0](https://img.shields.io/badge/Version-16.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 10.6.2](https://img.shields.io/badge/AppVersion-10.6.2-informational?style=flat-square)
 
 Airsonic is a Free and Open Source community driven media server
 
@@ -12,6 +12,7 @@ Airsonic is a Free and Open Source community driven media server
 - https://github.com/airsonic/airsonic
 - https://github.com/k8s-at-home/charts/tree/master/charts/airsonic
 - https://github.com/linuxserver/docker-airsonic
+- https://github.com/truecharts/charts/tree/master/charts/stable/airsonic
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/airsonic
 
 ## Available Documentation

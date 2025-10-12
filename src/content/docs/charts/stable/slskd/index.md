@@ -2,7 +2,7 @@
 title: slskd
 ---
 
-![Version: 4.9.0](https://img.shields.io/badge/Version-4.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.23.2](https://img.shields.io/badge/AppVersion-0.23.2-informational?style=flat-square)
+![Version: 4.10.0](https://img.shields.io/badge/Version-4.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.23.2](https://img.shields.io/badge/AppVersion-0.23.2-informational?style=flat-square)
 
 Slskd is a modern client-server application for the Soulseek file sharing network.
 
@@ -10,6 +10,7 @@ Slskd is a modern client-server application for the Soulseek file sharing networ
 
 - https://ghcr.io/slskd/slskd
 - https://github.com/ansible-slskd/slskd
+- https://github.com/truecharts/charts/tree/master/charts/stable/slskd
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/slskd
 
 ## Available Documentation

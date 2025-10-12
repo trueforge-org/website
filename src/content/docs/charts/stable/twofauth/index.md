@@ -2,13 +2,14 @@
 title: twofauth
 ---
 
-![Version: 4.8.0](https://img.shields.io/badge/Version-4.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.6.0](https://img.shields.io/badge/AppVersion-5.6.0-informational?style=flat-square)
+![Version: 4.9.0](https://img.shields.io/badge/Version-4.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.6.0](https://img.shields.io/badge/AppVersion-5.6.0-informational?style=flat-square)
 
 A Web app to manage your 2FA accounts and generate their security codes.
 
 ## Chart Sources
 
 - https://github.com/Bubka/2fauth
+- https://github.com/truecharts/charts/tree/master/charts/stable/twofauth
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/twofauth
 - https://hub.docker.com/r/2fauth/2fauth
 

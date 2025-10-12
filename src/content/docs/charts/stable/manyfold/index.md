@@ -2,13 +2,14 @@
 title: manyfold
 ---
 
-![Version: 4.24.0](https://img.shields.io/badge/Version-4.24.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.125.0](https://img.shields.io/badge/AppVersion-0.125.0-informational?style=flat-square)
+![Version: 4.25.0](https://img.shields.io/badge/Version-4.25.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.125.0](https://img.shields.io/badge/AppVersion-0.125.0-informational?style=flat-square)
 
 A Digital Asset Manager (DAM), specifically designed for 3D print files.
 
 ## Chart Sources
 
 - https://ghcr.io/manyfold3d/manyfold
+- https://github.com/truecharts/charts/tree/master/charts/stable/manyfold
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/manyfold
 
 ## Available Documentation

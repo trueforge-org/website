@@ -2,7 +2,7 @@
 title: snapshot-controller
 ---
 
-![Version: 4.8.0](https://img.shields.io/badge/Version-4.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 8.3.0](https://img.shields.io/badge/AppVersion-8.3.0-informational?style=flat-square)
+![Version: 4.9.0](https://img.shields.io/badge/Version-4.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 8.3.0](https://img.shields.io/badge/AppVersion-8.3.0-informational?style=flat-square)
 
 Deploys a Snapshot Controller in a cluster. Snapshot Controllers are often bundled with the Kubernetes distribution,
 this chart is meant for cases where it is not.
@@ -14,6 +14,7 @@ Also deploys the Snapshot Validation Webhook and configures your cluster to vali
 - https://github.com/kubernetes-csi/external-snapshotter/
 - https://github.com/snapshot-controller/snapshot-controller
 - https://github.com/snapshot-controller/snapshot-controller-helm-chart
+- https://github.com/truecharts/charts/tree/master/charts/stable/snapshot-controller
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/snapshot-controller
 
 ## Available Documentation

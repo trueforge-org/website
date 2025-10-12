@@ -2,13 +2,14 @@
 title: mixpost
 ---
 
-![Version: 6.11.0](https://img.shields.io/badge/Version-6.11.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.3.0](https://img.shields.io/badge/AppVersion-2.3.0-informational?style=flat-square)
+![Version: 6.12.0](https://img.shields.io/badge/Version-6.12.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.3.0](https://img.shields.io/badge/AppVersion-2.3.0-informational?style=flat-square)
 
 Mixpost it's the coolest Self hosted social media management software.
 
 ## Chart Sources
 
 - https://github.com/inovector/mixpost
+- https://github.com/truecharts/charts/tree/master/charts/stable/mixpost
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/mixpost
 - https://hub.docker.com/r/inovector/mixpost
 

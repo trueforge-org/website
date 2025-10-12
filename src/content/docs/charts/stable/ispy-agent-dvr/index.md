@@ -2,13 +2,14 @@
 title: ispy-agent-dvr
 ---
 
-![Version: 13.9.0](https://img.shields.io/badge/Version-13.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.6.6.0](https://img.shields.io/badge/AppVersion-6.6.6.0-informational?style=flat-square)
+![Version: 13.10.0](https://img.shields.io/badge/Version-13.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.6.6.0](https://img.shields.io/badge/AppVersion-6.6.6.0-informational?style=flat-square)
 
 iSpy's Agent DVR, a standalone DVR service to manage IP cameras.
 
 ## Chart Sources
 
 - https://github.com/doitandbedone/ispyagentdvr-docker
+- https://github.com/truecharts/charts/tree/master/charts/stable/ispy-agent-dvr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/ispy-agent-dvr
 - https://hub.docker.com/r/doitandbedone/ispyagentdvr
 

@@ -2,7 +2,7 @@
 title: grocy
 ---
 
-![Version: 21.8.1](https://img.shields.io/badge/Version-21.8.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.5.0](https://img.shields.io/badge/AppVersion-4.5.0-informational?style=flat-square)
+![Version: 21.9.0](https://img.shields.io/badge/Version-21.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.5.0](https://img.shields.io/badge/AppVersion-4.5.0-informational?style=flat-square)
 
 ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
 
@@ -10,6 +10,7 @@ ERP beyond your fridge - grocy is a web-based self-hosted groceries & household 
 
 - https://ghcr.io/linuxserver/grocy
 - https://github.com/grocy/grocy
+- https://github.com/truecharts/charts/tree/master/charts/stable/grocy
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/grocy
 
 ## Available Documentation

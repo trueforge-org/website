@@ -2,13 +2,14 @@
 title: profilarr
 ---
 
-![Version: 2.9.0](https://img.shields.io/badge/Version-2.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.1.3](https://img.shields.io/badge/AppVersion-1.1.3-informational?style=flat-square)
+![Version: 2.10.0](https://img.shields.io/badge/Version-2.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.1.3](https://img.shields.io/badge/AppVersion-1.1.3-informational?style=flat-square)
 
 Configuration management tool for Radarr/Sonarr that automates importing and version control of custom formats and quality profiles.
 
 ## Chart Sources
 
 - https://github.com/Dictionarry-Hub/profilarr
+- https://github.com/truecharts/charts/tree/master/charts/stable/profilarr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/profilarr
 - https://hub.docker.com/r/santiagosayshey/profilarr
 

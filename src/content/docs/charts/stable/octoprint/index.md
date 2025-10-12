@@ -2,13 +2,14 @@
 title: octoprint
 ---
 
-![Version: 16.8.0](https://img.shields.io/badge/Version-16.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.11.3](https://img.shields.io/badge/AppVersion-1.11.3-informational?style=flat-square)
+![Version: 16.9.0](https://img.shields.io/badge/Version-16.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.11.3](https://img.shields.io/badge/AppVersion-1.11.3-informational?style=flat-square)
 
 OctoPrint is the snappy web interface for your 3D printer
 
 ## Chart Sources
 
 - https://github.com/OctoPrint/OctoPrint
+- https://github.com/truecharts/charts/tree/master/charts/stable/octoprint
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/octoprint
 - https://hub.docker.com/r/octoprint/octoprint
 

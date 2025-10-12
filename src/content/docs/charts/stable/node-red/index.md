@@ -2,13 +2,14 @@
 title: node-red
 ---
 
-![Version: 22.9.0](https://img.shields.io/badge/Version-22.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.1.0](https://img.shields.io/badge/AppVersion-4.1.0-informational?style=flat-square)
+![Version: 22.10.0](https://img.shields.io/badge/Version-22.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.1.0](https://img.shields.io/badge/AppVersion-4.1.0-informational?style=flat-square)
 
 Node-RED is low-code programming for event-driven applications
 
 ## Chart Sources
 
 - https://github.com/node-red/node-red-docker
+- https://github.com/truecharts/charts/tree/master/charts/stable/node-red
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/node-red
 - https://hub.docker.com/r/nodered/node-red
 

@@ -2,7 +2,7 @@
 title: valheim
 ---
 
-![Version: 13.8.0](https://img.shields.io/badge/Version-13.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 13.9.0](https://img.shields.io/badge/Version-13.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Valheim dedicated gameserver with automatic update and world backup support
 
@@ -10,6 +10,7 @@ Valheim dedicated gameserver with automatic update and world backup support
 
 - https://ghcr.io/lloesche/valheim-server
 - https://github.com/lloesche/valheim-server-docker
+- https://github.com/truecharts/charts/tree/master/charts/stable/valheim
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/valheim
 
 ## Available Documentation

@@ -2,7 +2,7 @@
 title: raspberrymatic
 ---
 
-![Version: 8.8.0](https://img.shields.io/badge/Version-8.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 8.9.0](https://img.shields.io/badge/Version-8.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 A free and non-commercial open-source operating system alternative for running a cloud-free smart-home IoT.
 
@@ -11,6 +11,7 @@ A free and non-commercial open-source operating system alternative for running a
 - https://ghcr.io/jens-maus/raspberrymatic
 - https://github.com/jens-maus/RaspberryMatic
 - https://github.com/jens-maus/RaspberryMatic/pkgs/container/raspberrymatic
+- https://github.com/truecharts/charts/tree/master/charts/stable/raspberrymatic
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/raspberrymatic
 
 ## Available Documentation

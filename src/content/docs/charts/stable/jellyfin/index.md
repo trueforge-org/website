@@ -2,7 +2,7 @@
 title: jellyfin
 ---
 
-![Version: 21.8.0](https://img.shields.io/badge/Version-21.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 10.10.7](https://img.shields.io/badge/AppVersion-10.10.7-informational?style=flat-square)
+![Version: 21.9.0](https://img.shields.io/badge/Version-21.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 10.10.7](https://img.shields.io/badge/AppVersion-10.10.7-informational?style=flat-square)
 
 Jellyfin is a Free Software Media System
 
@@ -10,6 +10,7 @@ Jellyfin is a Free Software Media System
 
 - https://ghcr.io/jellyfin/jellyfin
 - https://github.com/jellyfin/jellyfin
+- https://github.com/truecharts/charts/tree/master/charts/stable/jellyfin
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/jellyfin
 - https://hub.docker.com/r/alpine/socat
 

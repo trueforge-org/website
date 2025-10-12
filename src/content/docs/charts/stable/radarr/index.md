@@ -2,7 +2,7 @@
 title: radarr
 ---
 
-![Version: 25.2.1](https://img.shields.io/badge/Version-25.2.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.0.2.10271](https://img.shields.io/badge/AppVersion-6.0.2.10271-informational?style=flat-square)
+![Version: 25.3.0](https://img.shields.io/badge/Version-25.3.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.0.2.10271](https://img.shields.io/badge/AppVersion-6.0.2.10271-informational?style=flat-square)
 
 A fork of Sonarr to work with movies à la Couchpotato
 
@@ -11,6 +11,7 @@ A fork of Sonarr to work with movies à la Couchpotato
 - https://ghcr.io/home-operations/radarr
 - https://ghcr.io/onedr0p/exportarr
 - https://github.com/Radarr/Radarr
+- https://github.com/truecharts/charts/tree/master/charts/stable/radarr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/radarr
 
 ## Available Documentation

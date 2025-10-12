@@ -2,7 +2,7 @@
 title: youtubedl-material
 ---
 
-![Version: 13.16.0](https://img.shields.io/badge/Version-13.16.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2024.10.01](https://img.shields.io/badge/AppVersion-2024.10.01-informational?style=flat-square)
+![Version: 13.17.0](https://img.shields.io/badge/Version-13.17.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2024.10.01](https://img.shields.io/badge/AppVersion-2024.10.01-informational?style=flat-square)
 
 YoutubeDL-Material is a Material Design frontend for youtube-dl.
 
@@ -10,6 +10,7 @@ YoutubeDL-Material is a Material Design frontend for youtube-dl.
 
 - https://ghcr.io/tzahi12345/youtubedl-material
 - https://github.com/Tzahi12345/YoutubeDL-Material
+- https://github.com/truecharts/charts/tree/master/charts/stable/youtubedl-material
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/youtubedl-material
 
 ## Available Documentation

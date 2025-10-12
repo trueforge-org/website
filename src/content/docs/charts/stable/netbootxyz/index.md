@@ -2,7 +2,7 @@
 title: netbootxyz
 ---
 
-![Version: 7.8.0](https://img.shields.io/badge/Version-7.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.7.6](https://img.shields.io/badge/AppVersion-0.7.6-informational?style=flat-square)
+![Version: 7.9.0](https://img.shields.io/badge/Version-7.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.7.6](https://img.shields.io/badge/AppVersion-0.7.6-informational?style=flat-square)
 
 Your favorite operating systems in one place!
 
@@ -10,6 +10,7 @@ Your favorite operating systems in one place!
 
 - https://ghcr.io/netbootxyz/netbootxyz
 - https://github.com/netbootxyz/netboot.xyz
+- https://github.com/truecharts/charts/tree/master/charts/stable/netbootxyz
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/netbootxyz
 
 ## Available Documentation

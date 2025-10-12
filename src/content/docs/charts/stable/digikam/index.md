@@ -2,7 +2,7 @@
 title: digikam
 ---
 
-![Version: 15.8.1](https://img.shields.io/badge/Version-15.8.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 8.7.0](https://img.shields.io/badge/AppVersion-8.7.0-informational?style=flat-square)
+![Version: 15.9.0](https://img.shields.io/badge/Version-15.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 8.7.0](https://img.shields.io/badge/AppVersion-8.7.0-informational?style=flat-square)
 
 Professional Photo Management with the Power of Open Source
 
@@ -10,6 +10,7 @@ Professional Photo Management with the Power of Open Source
 
 - https://ghcr.io/linuxserver/digikam
 - https://github.com/linuxserver/docker-digikam
+- https://github.com/truecharts/charts/tree/master/charts/stable/digikam
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/digikam
 - https://www.digikam.org/
 

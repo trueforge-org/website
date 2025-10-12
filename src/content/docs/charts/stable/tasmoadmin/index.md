@@ -2,7 +2,7 @@
 title: tasmoadmin
 ---
 
-![Version: 11.8.0](https://img.shields.io/badge/Version-11.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.3.1](https://img.shields.io/badge/AppVersion-4.3.1-informational?style=flat-square)
+![Version: 11.9.0](https://img.shields.io/badge/Version-11.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.3.1](https://img.shields.io/badge/AppVersion-4.3.1-informational?style=flat-square)
 
 A administrative platform for devices flashed with Tasmota.
 
@@ -10,6 +10,7 @@ A administrative platform for devices flashed with Tasmota.
 
 - https://ghcr.io/tasmoadmin/tasmoadmin
 - https://github.com/TasmoAdmin/TasmoAdmin
+- https://github.com/truecharts/charts/tree/master/charts/stable/tasmoadmin
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/tasmoadmin
 
 ## Available Documentation

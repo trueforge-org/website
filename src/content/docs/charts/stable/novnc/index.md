@@ -2,13 +2,14 @@
 title: novnc
 ---
 
-![Version: 13.8.0](https://img.shields.io/badge/Version-13.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.2.0](https://img.shields.io/badge/AppVersion-1.2.0-informational?style=flat-square)
+![Version: 13.9.0](https://img.shields.io/badge/Version-13.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.2.0](https://img.shields.io/badge/AppVersion-1.2.0-informational?style=flat-square)
 
 The open source VNC client
 
 ## Chart Sources
 
 - https://ghcr.io/nicholaswilde/novnc
+- https://github.com/truecharts/charts/tree/master/charts/stable/novnc
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/novnc
 - https://novnc.com/
 

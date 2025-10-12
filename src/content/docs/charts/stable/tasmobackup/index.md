@@ -2,13 +2,14 @@
 title: tasmobackup
 ---
 
-![Version: 9.8.0](https://img.shields.io/badge/Version-9.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.06.09](https://img.shields.io/badge/AppVersion-1.06.09-informational?style=flat-square)
+![Version: 9.9.0](https://img.shields.io/badge/Version-9.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.06.09](https://img.shields.io/badge/AppVersion-1.06.09-informational?style=flat-square)
 
 backup all your tasmota devices in one place.
 
 ## Chart Sources
 
 - https://github.com/danmed/TasmoBackupV1
+- https://github.com/truecharts/charts/tree/master/charts/stable/tasmobackup
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/tasmobackup
 - https://hub.docker.com/r/danmed/tasmobackupv1
 

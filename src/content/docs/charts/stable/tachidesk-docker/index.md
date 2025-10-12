@@ -2,7 +2,7 @@
 title: tachidesk-docker
 ---
 
-![Version: 9.8.1](https://img.shields.io/badge/Version-9.8.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: preiew](https://img.shields.io/badge/AppVersion-preiew-informational?style=flat-square)
+![Version: 9.9.0](https://img.shields.io/badge/Version-9.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: preiew](https://img.shields.io/badge/AppVersion-preiew-informational?style=flat-square)
 
 The official Tachidesk Chart-Chart.
 
@@ -11,6 +11,7 @@ The official Tachidesk Chart-Chart.
 - https://ghcr.io/suwayomi/tachidesk
 - https://github.com/Suwayomi/Tachidesk-Server
 - https://github.com/suwayomi/docker-tachidesk
+- https://github.com/truecharts/charts/tree/master/charts/stable/tachidesk-docker
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/tachidesk-docker
 
 ## Available Documentation

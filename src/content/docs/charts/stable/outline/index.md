@@ -2,13 +2,14 @@
 title: outline
 ---
 
-![Version: 16.19.0](https://img.shields.io/badge/Version-16.19.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.87.4](https://img.shields.io/badge/AppVersion-0.87.4-informational?style=flat-square)
+![Version: 16.20.0](https://img.shields.io/badge/Version-16.20.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.87.4](https://img.shields.io/badge/AppVersion-0.87.4-informational?style=flat-square)
 
 A fast, collaborative, knowledge base for your team built using React and Node.js.
 
 ## Chart Sources
 
 - https://github.com/outline/outline
+- https://github.com/truecharts/charts/tree/master/charts/stable/outline
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/outline
 - https://hub.docker.com/r/outlinewiki/outline
 

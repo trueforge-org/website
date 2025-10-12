@@ -2,7 +2,7 @@
 title: ctfd
 ---
 
-![Version: 9.11.0](https://img.shields.io/badge/Version-9.11.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.8.0](https://img.shields.io/badge/AppVersion-3.8.0-informational?style=flat-square)
+![Version: 9.12.0](https://img.shields.io/badge/Version-9.12.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.8.0](https://img.shields.io/badge/AppVersion-3.8.0-informational?style=flat-square)
 
 CTFd is a Capture The Flag framework focusing on ease of use and customizability.
 
@@ -10,6 +10,7 @@ CTFd is a Capture The Flag framework focusing on ease of use and customizability
 
 - https://ghcr.io/ctfd/ctfd
 - https://github.com/CTFd/CTFd
+- https://github.com/truecharts/charts/tree/master/charts/stable/ctfd
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/ctfd
 
 ## Available Documentation

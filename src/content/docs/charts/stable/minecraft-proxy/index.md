@@ -2,7 +2,7 @@
 title: minecraft-proxy
 ---
 
-![Version: 2.8.0](https://img.shields.io/badge/Version-2.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2025.1.0](https://img.shields.io/badge/AppVersion-2025.1.0-informational?style=flat-square)
+![Version: 2.9.0](https://img.shields.io/badge/Version-2.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2025.1.0](https://img.shields.io/badge/AppVersion-2025.1.0-informational?style=flat-square)
 
 the front-end of a cluster of minecraft-java containers.
 
@@ -10,6 +10,7 @@ the front-end of a cluster of minecraft-java containers.
 
 - https://ghcr.io/itzg/mc-proxy
 - https://github.com/itzg/docker-mc-proxy
+- https://github.com/truecharts/charts/tree/master/charts/stable/minecraft-proxy
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/minecraft-proxy
 
 ## Available Documentation

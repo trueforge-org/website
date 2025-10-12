@@ -2,13 +2,14 @@
 title: mongodb
 ---
 
-![Version: 16.9.1](https://img.shields.io/badge/Version-16.9.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 16.10.0](https://img.shields.io/badge/Version-16.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Fast, reliable, scalable, and easy to use open-source no-sql database system.
 
 ## Chart Sources
 
 - https://github.com/bitnami/bitnami-docker-mongodb
+- https://github.com/truecharts/charts/tree/master/charts/stable/mongodb
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/mongodb
 - https://hub.docker.com/r/bitnamisecure/mongodb
 - https://www.mongodb.com

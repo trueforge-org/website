@@ -2,13 +2,14 @@
 title: debian-bullseye
 ---
 
-![Version: 8.8.0](https://img.shields.io/badge/Version-8.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 8.9.0](https://img.shields.io/badge/Version-8.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 This Chart is a full Debian Bullseye Xfce4 Desktop environment with a noVNC webGUI and all the basic tools pre-installed.
 
 ## Chart Sources
 
 - https://ghcr.io/ich777/debian-bullseye
+- https://github.com/truecharts/charts/tree/master/charts/stable/debian-bullseye
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/debian-bullseye
 - https://www.debian.org/
 

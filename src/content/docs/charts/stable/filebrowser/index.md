@@ -2,7 +2,7 @@
 title: filebrowser
 ---
 
-![Version: 12.14.0](https://img.shields.io/badge/Version-12.14.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.44.0](https://img.shields.io/badge/AppVersion-2.44.0-informational?style=flat-square)
+![Version: 12.15.0](https://img.shields.io/badge/Version-12.15.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.44.0](https://img.shields.io/badge/AppVersion-2.44.0-informational?style=flat-square)
 
 Filebrowser provides a file managing interface within a specified directory
 
@@ -10,6 +10,7 @@ Filebrowser provides a file managing interface within a specified directory
 
 - https://filebrowser.org/cli/filebrowser
 - https://github.com/filebrowser/filebrowser
+- https://github.com/truecharts/charts/tree/master/charts/stable/filebrowser
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/filebrowser
 - https://hub.docker.com/r/filebrowser/filebrowser
 

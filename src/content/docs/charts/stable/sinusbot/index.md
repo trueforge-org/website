@@ -2,13 +2,14 @@
 title: sinusbot
 ---
 
-![Version: 8.8.0](https://img.shields.io/badge/Version-8.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 8.9.0](https://img.shields.io/badge/Version-8.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 SinusBot is a MusicBot that will let you listen to music together with your friends on either TeamSpeak 3 or Discord.
 
 ## Chart Sources
 
 - https://forum.sinusbot.com
+- https://github.com/truecharts/charts/tree/master/charts/stable/sinusbot
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/sinusbot
 - https://hub.docker.com/r/sinusbot/docker
 

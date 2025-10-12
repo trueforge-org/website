@@ -2,13 +2,14 @@
 title: minecraft-bedrock
 ---
 
-![Version: 12.10.0](https://img.shields.io/badge/Version-12.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2025.9.0](https://img.shields.io/badge/AppVersion-2025.9.0-informational?style=flat-square)
+![Version: 12.11.0](https://img.shields.io/badge/Version-12.11.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2025.9.0](https://img.shields.io/badge/AppVersion-2025.9.0-informational?style=flat-square)
 
 Minecraft Bedrock Dedicated Server
 
 ## Chart Sources
 
 - https://github.com/itzg/docker-minecraft-server
+- https://github.com/truecharts/charts/tree/master/charts/stable/minecraft-bedrock
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/minecraft-bedrock
 - https://hub.docker.com/r/itzg/minecraft-bedrock-server
 

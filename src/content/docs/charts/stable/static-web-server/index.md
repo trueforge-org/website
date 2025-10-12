@@ -2,7 +2,7 @@
 title: static-web-server
 ---
 
-![Version: 7.9.0](https://img.shields.io/badge/Version-7.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.38.1](https://img.shields.io/badge/AppVersion-2.38.1-informational?style=flat-square)
+![Version: 7.10.0](https://img.shields.io/badge/Version-7.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.38.1](https://img.shields.io/badge/AppVersion-2.38.1-informational?style=flat-square)
 
 A cross-platform, high-performance and asynchronous web server for static files-serving.
 
@@ -10,6 +10,7 @@ A cross-platform, high-performance and asynchronous web server for static files-
 
 - https://ghcr.io/static-web-server/static-web-server
 - https://github.com/static-web-server/static-web-server
+- https://github.com/truecharts/charts/tree/master/charts/stable/static-web-server
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/static-web-server
 - https://static-web-server.net
 

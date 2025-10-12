@@ -2,7 +2,7 @@
 title: handbrake
 ---
 
-![Version: 25.9.0](https://img.shields.io/badge/Version-25.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 25.09.2](https://img.shields.io/badge/AppVersion-25.09.2-informational?style=flat-square)
+![Version: 25.10.0](https://img.shields.io/badge/Version-25.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 25.09.2](https://img.shields.io/badge/AppVersion-25.09.2-informational?style=flat-square)
 
 HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
 
@@ -10,6 +10,7 @@ HandBrake is a tool for converting video from nearly any format to a selection o
 
 - https://ghcr.io/jlesage/handbrake
 - https://github.com/jlesage/docker-handbrake
+- https://github.com/truecharts/charts/tree/master/charts/stable/handbrake
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/handbrake
 - https://handbrake.fr/
 

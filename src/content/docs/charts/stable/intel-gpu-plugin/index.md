@@ -2,13 +2,14 @@
 title: intel-gpu-plugin
 ---
 
-![Version: 1.9.0](https://img.shields.io/badge/Version-1.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.34.0](https://img.shields.io/badge/AppVersion-0.34.0-informational?style=flat-square)
+![Version: 1.10.0](https://img.shields.io/badge/Version-1.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.34.0](https://img.shields.io/badge/AppVersion-0.34.0-informational?style=flat-square)
 
 The Intel GPU plugin facilitates offloading the processing of computation intensive workloads to GPU hardware.
 
 ## Chart Sources
 
 - https://github.com/intel
+- https://github.com/truecharts/charts/tree/master/charts/stable/intel-gpu-plugin
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/intel-gpu-plugin
 - https://hub.docker.com/r/intel/intel-gpu-plugin
 

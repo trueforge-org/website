@@ -2,7 +2,7 @@
 title: filezilla
 ---
 
-![Version: 14.8.1](https://img.shields.io/badge/Version-14.8.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.68.1](https://img.shields.io/badge/AppVersion-3.68.1-informational?style=flat-square)
+![Version: 14.9.0](https://img.shields.io/badge/Version-14.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.68.1](https://img.shields.io/badge/AppVersion-3.68.1-informational?style=flat-square)
 
 A Helm chart for Kubernetes
 
@@ -11,6 +11,7 @@ A Helm chart for Kubernetes
 - https://filezilla-project.org/
 - https://ghcr.io/linuxserver/filezilla
 - https://github.com/linuxserver/docker-filezilla
+- https://github.com/truecharts/charts/tree/master/charts/stable/filezilla
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/filezilla
 
 ## Available Documentation

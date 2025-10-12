@@ -2,7 +2,7 @@
 title: emby
 ---
 
-![Version: 25.7.0](https://img.shields.io/badge/Version-25.7.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.9.1.80](https://img.shields.io/badge/AppVersion-4.9.1.80-informational?style=flat-square)
+![Version: 25.8.0](https://img.shields.io/badge/Version-25.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.9.1.80](https://img.shields.io/badge/AppVersion-4.9.1.80-informational?style=flat-square)
 
 Emby Server is a home media server
 
@@ -10,6 +10,7 @@ Emby Server is a home media server
 
 - https://ghcr.io/home-operations/emby
 - https://github.com/linuxserver/docker-emby.git
+- https://github.com/truecharts/charts/tree/master/charts/stable/emby
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/emby
 - https://hub.docker.com/r/alpine/socat
 

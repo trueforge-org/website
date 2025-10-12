@@ -2,13 +2,14 @@
 title: nebula-sync
 ---
 
-![Version: 0.8.0](https://img.shields.io/badge/Version-0.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.11.1](https://img.shields.io/badge/AppVersion-0.11.1-informational?style=flat-square)
+![Version: 0.9.0](https://img.shields.io/badge/Version-0.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.11.1](https://img.shields.io/badge/AppVersion-0.11.1-informational?style=flat-square)
 
 Synchronize Pi-hole v6.x configuration to replicas.
 
 ## Chart Sources
 
 - https://ghcr.io/lovelaze/nebula-sync
+- https://github.com/truecharts/charts/tree/master/charts/stable/nebula-sync
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/nebula-sync
 
 ## Available Documentation

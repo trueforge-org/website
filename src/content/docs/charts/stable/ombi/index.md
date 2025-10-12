@@ -2,13 +2,14 @@
 title: ombi
 ---
 
-![Version: 22.8.0](https://img.shields.io/badge/Version-22.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.47.1](https://img.shields.io/badge/AppVersion-4.47.1-informational?style=flat-square)
+![Version: 22.9.0](https://img.shields.io/badge/Version-22.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.47.1](https://img.shields.io/badge/AppVersion-4.47.1-informational?style=flat-square)
 
 Want a Movie or TV Show on Plex or Emby? Use Ombi!
 
 ## Chart Sources
 
 - https://ghcr.io/linuxserver/ombi
+- https://github.com/truecharts/charts/tree/master/charts/stable/ombi
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/ombi
 
 ## Available Documentation

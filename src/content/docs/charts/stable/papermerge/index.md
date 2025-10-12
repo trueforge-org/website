@@ -2,13 +2,14 @@
 title: papermerge
 ---
 
-![Version: 17.17.0](https://img.shields.io/badge/Version-17.17.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.5.3](https://img.shields.io/badge/AppVersion-3.5.3-informational?style=flat-square)
+![Version: 17.18.0](https://img.shields.io/badge/Version-17.18.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.5.3](https://img.shields.io/badge/AppVersion-3.5.3-informational?style=flat-square)
 
 Papermerge is an open source document management system (DMS) primarily designed for archiving and retrieving your digital documents.
 
 ## Chart Sources
 
 - https://github.com/ciur/papermerge
+- https://github.com/truecharts/charts/tree/master/charts/stable/papermerge
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/papermerge
 - https://hub.docker.com/r/papermerge/papermerge
 

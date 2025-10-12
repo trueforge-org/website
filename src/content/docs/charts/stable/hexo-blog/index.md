@@ -2,13 +2,14 @@
 title: hexo-blog
 ---
 
-![Version: 8.8.0](https://img.shields.io/badge/Version-8.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 8.9.0](https://img.shields.io/badge/Version-8.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 A self-hosted blogging platform in which posts are written in markdown
 
 ## Chart Sources
 
 - https://github.com/fletchto99/hexo-dev-docker
+- https://github.com/truecharts/charts/tree/master/charts/stable/hexo-blog
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/hexo-blog
 - https://hub.docker.com/r/fletchto99/hexo-dev-blog
 

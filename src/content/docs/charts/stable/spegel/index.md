@@ -2,13 +2,14 @@
 title: spegel
 ---
 
-![Version: 4.9.0](https://img.shields.io/badge/Version-4.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.4.0](https://img.shields.io/badge/AppVersion-0.4.0-informational?style=flat-square)
+![Version: 4.10.0](https://img.shields.io/badge/Version-4.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.4.0](https://img.shields.io/badge/AppVersion-0.4.0-informational?style=flat-square)
 
 Stateless cluster local OCI registry mirror.
 
 ## Chart Sources
 
 - https://ghcr.io/spegel-org/spegel
+- https://github.com/truecharts/charts/tree/master/charts/stable/spegel
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/spegel
 
 ## Available Documentation

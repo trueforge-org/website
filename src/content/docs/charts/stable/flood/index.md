@@ -2,13 +2,14 @@
 title: flood
 ---
 
-![Version: 16.9.0](https://img.shields.io/badge/Version-16.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.10.0](https://img.shields.io/badge/AppVersion-4.10.0-informational?style=flat-square)
+![Version: 16.10.0](https://img.shields.io/badge/Version-16.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.10.0](https://img.shields.io/badge/AppVersion-4.10.0-informational?style=flat-square)
 
 Flood is a monitoring service for various torrent clients
 
 ## Chart Sources
 
 - https://github.com/jesec/flood
+- https://github.com/truecharts/charts/tree/master/charts/stable/flood
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/flood
 - https://hub.docker.com/r/jesec/flood
 

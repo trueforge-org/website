@@ -2,7 +2,7 @@
 title: reubah
 ---
 
-![Version: 2.8.0](https://img.shields.io/badge/Version-2.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: main](https://img.shields.io/badge/AppVersion-main-informational?style=flat-square)
+![Version: 2.9.0](https://img.shields.io/badge/Version-2.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: main](https://img.shields.io/badge/AppVersion-main-informational?style=flat-square)
 
 A web-based tool for processing images and converting documents with a simple interface.
 
@@ -10,6 +10,7 @@ A web-based tool for processing images and converting documents with a simple in
 
 - https://ghcr.io/dendianugerah/reubah
 - https://github.com/dendianugerah/reubah
+- https://github.com/truecharts/charts/tree/master/charts/stable/reubah
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/reubah
 
 ## Available Documentation

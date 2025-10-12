@@ -2,13 +2,14 @@
 title: wdosg
 ---
 
-![Version: 2.8.0](https://img.shields.io/badge/Version-2.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 2.9.0](https://img.shields.io/badge/Version-2.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 A Simple web server to manage and run DOS based games on the browser.
 
 ## Chart Sources
 
 - https://github.com/SoulRaven80/wdosg
+- https://github.com/truecharts/charts/tree/master/charts/stable/wdosg
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/wdosg
 - https://hub.docker.com/r/soulraven1980/wdosg
 

@@ -2,14 +2,14 @@
 title: lvm-disk-watcher
 ---
 
-![Version: 3.8.0](https://img.shields.io/badge/Version-3.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.1.9](https://img.shields.io/badge/AppVersion-1.1.9-informational?style=flat-square)
+![Version: 3.9.0](https://img.shields.io/badge/Version-3.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.1.9](https://img.shields.io/badge/AppVersion-1.1.9-informational?style=flat-square)
 
 Watches for empty disk to setup with LVM for use with TopoLVM
 
 ## Chart Sources
 
 - https://github.com/lvm-disk-watcher/lvm-disk-watcher
-- https://github.com/truecharts/containers/tree/master/apps/lvm-disk-watcher
+- https://github.com/truecharts/charts/tree/master/charts/stable/lvm-disk-watcher
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/lvm-disk-watcher
 - https://lvm-disk-watcher.universe.tf
 

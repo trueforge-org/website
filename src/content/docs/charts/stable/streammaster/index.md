@@ -2,7 +2,7 @@
 title: streammaster
 ---
 
-![Version: 2.8.0](https://img.shields.io/badge/Version-2.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.15.0](https://img.shields.io/badge/AppVersion-0.15.0-informational?style=flat-square)
+![Version: 2.9.0](https://img.shields.io/badge/Version-2.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.15.0](https://img.shields.io/badge/AppVersion-0.15.0-informational?style=flat-square)
 
 A comprehensive IPTV management platform for organizing and streaming public broadcast content through Plex DVR, Emby, and Jellyfin Live TV
 
@@ -11,6 +11,7 @@ A comprehensive IPTV management platform for organizing and streaming public bro
 - https://carlreid.github.io/StreamMaster/
 - https://ghcr.io/carlreid/streammaster
 - https://github.com/carlreid/StreamMaster
+- https://github.com/truecharts/charts/tree/master/charts/stable/streammaster
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/streammaster
 
 ## Available Documentation

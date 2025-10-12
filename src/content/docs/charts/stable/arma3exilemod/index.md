@@ -2,13 +2,14 @@
 title: arma3exilemod
 ---
 
-![Version: 9.8.0](https://img.shields.io/badge/Version-9.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: arma3exilemod](https://img.shields.io/badge/AppVersion-arma3exilemod-informational?style=flat-square)
+![Version: 9.9.0](https://img.shields.io/badge/Version-9.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: arma3exilemod](https://img.shields.io/badge/AppVersion-arma3exilemod-informational?style=flat-square)
 
 This Chart will download and install SteamCMD. It will also install ArmA III including ExileMod and run it.
 
 ## Chart Sources
 
 - https://ghcr.io/ich777/steamcmd
+- https://github.com/truecharts/charts/tree/master/charts/stable/arma3exilemod
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/arma3exilemod
 
 ## Available Documentation

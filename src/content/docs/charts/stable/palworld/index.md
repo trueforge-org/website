@@ -2,7 +2,7 @@
 title: palworld
 ---
 
-![Version: 6.8.0](https://img.shields.io/badge/Version-6.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: palworld](https://img.shields.io/badge/AppVersion-palworld-informational?style=flat-square)
+![Version: 6.9.0](https://img.shields.io/badge/Version-6.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: palworld](https://img.shields.io/badge/AppVersion-palworld-informational?style=flat-square)
 
 A custom SteamCMD chart that runs Palworld.
 
@@ -10,6 +10,7 @@ A custom SteamCMD chart that runs Palworld.
 
 - https://ghcr.io/ich777/steamcmd
 - https://github.com/ich777/docker-steamcmd-server/tree/palworld
+- https://github.com/truecharts/charts/tree/master/charts/stable/palworld
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/palworld
 
 ## Available Documentation

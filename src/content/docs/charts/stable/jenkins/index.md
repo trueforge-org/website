@@ -2,13 +2,14 @@
 title: jenkins
 ---
 
-![Version: 10.20.0](https://img.shields.io/badge/Version-10.20.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.531.0](https://img.shields.io/badge/AppVersion-2.531.0-informational?style=flat-square)
+![Version: 10.21.0](https://img.shields.io/badge/Version-10.21.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.531.0](https://img.shields.io/badge/AppVersion-2.531.0-informational?style=flat-square)
 
 The gold standard in devops tools for running CI/CD pipelines.
 
 ## Chart Sources
 
 - https://github.com/jenkinsci/docker
+- https://github.com/truecharts/charts/tree/master/charts/stable/jenkins
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/jenkins
 - https://hub.docker.com/r/jenkins/jenkins
 

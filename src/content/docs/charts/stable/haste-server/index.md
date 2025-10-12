@@ -2,7 +2,7 @@
 title: haste-server
 ---
 
-![Version: 16.8.0](https://img.shields.io/badge/Version-16.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 16.9.0](https://img.shields.io/badge/Version-16.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Simple text sharing
 
@@ -11,6 +11,7 @@ Simple text sharing
 - https://ghcr.io/k8s-at-home/haste-server
 - https://github.com/k8s-at-home/container-images
 - https://github.com/seejohnrun/haste-server
+- https://github.com/truecharts/charts/tree/master/charts/stable/haste-server
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/haste-server
 
 ## Available Documentation

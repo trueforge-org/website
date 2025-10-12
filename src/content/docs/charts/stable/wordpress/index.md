@@ -2,12 +2,13 @@
 title: wordpress
 ---
 
-![Version: 11.8.0](https://img.shields.io/badge/Version-11.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 11.9.0](https://img.shields.io/badge/Version-11.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 The WordPress rich content management system can utilize plugins, widgets, and themes.
 
 ## Chart Sources
 
+- https://github.com/truecharts/charts/tree/master/charts/stable/wordpress
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/wordpress
 - https://hub.docker.com/r/bitnamisecure/wordpress
 - https://www.wordpress.org

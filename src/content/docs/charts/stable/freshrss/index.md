@@ -2,7 +2,7 @@
 title: freshrss
 ---
 
-![Version: 21.9.1](https://img.shields.io/badge/Version-21.9.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.27.1](https://img.shields.io/badge/AppVersion-1.27.1-informational?style=flat-square)
+![Version: 21.10.0](https://img.shields.io/badge/Version-21.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.27.1](https://img.shields.io/badge/AppVersion-1.27.1-informational?style=flat-square)
 
 FreshRSS is a self-hosted RSS feed aggregator
 
@@ -10,6 +10,7 @@ FreshRSS is a self-hosted RSS feed aggregator
 
 - https://ghcr.io/linuxserver/freshrss
 - https://github.com/FreshRSS/FreshRSS
+- https://github.com/truecharts/charts/tree/master/charts/stable/freshrss
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/freshrss
 
 ## Available Documentation

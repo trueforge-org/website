@@ -2,7 +2,7 @@
 title: theme-park
 ---
 
-![Version: 12.8.0](https://img.shields.io/badge/Version-12.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.21.2](https://img.shields.io/badge/AppVersion-1.21.2-informational?style=flat-square)
+![Version: 12.9.0](https://img.shields.io/badge/Version-12.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.21.2](https://img.shields.io/badge/AppVersion-1.21.2-informational?style=flat-square)
 
 Custom themes for your favorite apps!
 
@@ -10,6 +10,7 @@ Custom themes for your favorite apps!
 
 - https://ghcr.io/home-operations/theme-park
 - https://github.com/gilbn/theme.park
+- https://github.com/truecharts/charts/tree/master/charts/stable/theme-park
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/theme-park
 
 ## Available Documentation

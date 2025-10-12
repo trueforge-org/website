@@ -2,13 +2,14 @@
 title: redmine
 ---
 
-![Version: 15.8.0](https://img.shields.io/badge/Version-15.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.0.6](https://img.shields.io/badge/AppVersion-6.0.6-informational?style=flat-square)
+![Version: 15.9.0](https://img.shields.io/badge/Version-15.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.0.6](https://img.shields.io/badge/AppVersion-6.0.6-informational?style=flat-square)
 
 Redmine is a flexible project management web application written using Ruby on Rails framework.
 
 ## Chart Sources
 
 - https://github.com/redmine/redmine
+- https://github.com/truecharts/charts/tree/master/charts/stable/redmine
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/redmine
 - https://hub.docker.com/_/redmine
 

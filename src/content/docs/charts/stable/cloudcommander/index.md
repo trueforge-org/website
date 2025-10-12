@@ -2,13 +2,14 @@
 title: cloudcommander
 ---
 
-![Version: 9.2.0](https://img.shields.io/badge/Version-9.2.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 19.0.13](https://img.shields.io/badge/AppVersion-19.0.13-informational?style=flat-square)
+![Version: 9.3.0](https://img.shields.io/badge/Version-9.3.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 19.0.13](https://img.shields.io/badge/AppVersion-19.0.13-informational?style=flat-square)
 
 [b]CloudCommander[/b] is a simple web file browser with a built in text editor and archive compress/extract abilities.[br/]
 
 ## Chart Sources
 
 - https://ghcr.io/coderaiser/cloudcmd
+- https://github.com/truecharts/charts/tree/master/charts/stable/cloudcommander
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/cloudcommander
 
 ## Available Documentation
