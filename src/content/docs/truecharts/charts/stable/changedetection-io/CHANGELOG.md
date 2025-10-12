@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.8.3 • [Train: stable]
 
+- some readme fixes • [`65bdc5b`](https://github.com/trueforge-org/truecharts/commit/65bdc5bee8da831093597a659d090b06f50a9f7f) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update image ghcr.io/dgtlmoon/changedetection.io 0.50.17 → 0.50.21 (#40572) • [`e5925ca`](https://github.com/trueforge-org/truecharts/commit/e5925ca2c79bda24df11584fc34a97c3c20ce160) • [@TrueCharts Bot] (2025-10-11)
 
 ## 5.8.2 • [Train: stable]
