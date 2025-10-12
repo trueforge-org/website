@@ -90,6 +90,13 @@ credentials:
 
 Define the url of the credentials
 
+:::tip
+
+In some cases, such as when using an IP instead of a hostname, it might be
+necessary to manually specify the connection's [region](/truecharts-common/credentials#region).
+
+:::
+
 |            |                          |
 | ---------- | ------------------------ |
 | Key        | `credentials.$name.url`  |
@@ -102,6 +109,33 @@ Define the url of the credentials
 credentials:
   credentials-name:
     url: "https://mys3server.com"
+```
+
+---
+
+#### `region`
+
+Override the region to use when connecting to the endpoint
+
+:::note
+
+Setting this manually is usually not necessary as the region should normally
+be automatically detected from the [URL](/truecharts-common/credentials#url).
+
+:::
+
+|            |                            |
+| ---------- | -------------------------- |
+| Key        | `credentials.$name.region` |
+| Type       | `string`                   |
+| Required   | ❌                         |
+| Helm `tpl` | ❌                         |
+| Example    | `""`                       |
+
+```yaml
+credentials:
+  credentials-name:
+    region: "us-east-1"
 ```
 
 ---
