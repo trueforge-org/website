@@ -1,5 +1,5 @@
 ---
-slug: "news/common-release-schedule"
+slug: "news/truecharts/common-release-schedule"
 title: "New breaking common release"
 authors: [ornias]
 date: 2023-02-23

@@ -1,5 +1,5 @@
 ---
-slug: "news/common-porting-progress"
+slug: "news/truecharts/common-porting-progress"
 title: "Common Porting Progress"
 authors: [ornias]
 date: 2023-04-14
