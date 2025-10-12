@@ -5,7 +5,7 @@ title: Traefik Integration
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/common/ingress/traefik#full-examples) section for complete examples.
+- See the [Full Examples](/truecharts-common/ingress/traefik#full-examples) section for complete examples.
 
 :::
 
@@ -67,7 +67,7 @@ Force TLS on this ingress
 
 Adds the `traefik.ingress.kubernetes.io/router.tls` annotation.
 
-It does that both with this set OR when [entrypoints](/common/ingress/traefik#entrypoints) include `websecure`
+It does that both with this set OR when [entrypoints](/truecharts-common/ingress/traefik#entrypoints) include `websecure`
 
 :::
 

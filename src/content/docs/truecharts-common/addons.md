@@ -5,7 +5,7 @@ title: Addons
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/common/addons#full-examples) section for complete examples.
+- See the [Full Examples](/truecharts-common/addons#full-examples) section for complete examples.
 
 :::
 
@@ -128,7 +128,7 @@ Define additional options for the container
 
 :::tip
 
-See container options in the [container](/common/container) section.
+See container options in the [container](/truecharts-common/container) section.
 
 :::
 
@@ -156,7 +156,7 @@ Define additional options for the service
 
 :::tip
 
-See service options in the [service](/common/service) section.
+See service options in the [service](/truecharts-common/service) section.
 
 :::
 
@@ -192,7 +192,7 @@ Define additional options for the ingress
 
 :::tip
 
-See ingress options in the [ingress](/common/ingress) section.
+See ingress options in the [ingress](/truecharts-common/ingress) section.
 
 :::
 

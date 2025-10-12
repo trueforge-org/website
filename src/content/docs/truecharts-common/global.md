@@ -5,7 +5,7 @@ title: Global
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/common/global#full-examples) section for complete examples.
+- See the [Full Examples](/truecharts-common/global#full-examples) section for complete examples.
 
 :::
 

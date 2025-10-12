@@ -31,8 +31,8 @@ If you want to update, here are the instructions:
 
 - Ingress: Most of the certManager settings have been moved to "integrations".
 - Ingress: All of the Traefik settings have been moved to "integrations".
-- Ingress: It's advisable to apply the new structure from common values.yaml prior to upgrade: https://github.com/truecharts/library-charts/blob/main/library/common/values.yaml
-- CNPG: All settings have been restructured. Prior to update, users should view the new structure in common values.yaml and adapt accordingly: https://github.com/truecharts/library-charts/blob/main/library/common/values.yaml
+- Ingress: It's advisable to apply the new structure from common values.yaml prior to upgrade: https://github.com/truecharts/library-charts/blob/main/library/truecharts-common/values.yaml
+- CNPG: All settings have been restructured. Prior to update, users should view the new structure in common values.yaml and adapt accordingly: https://github.com/truecharts/library-charts/blob/main/library/truecharts-common/values.yaml
 
 #### SCALE
 

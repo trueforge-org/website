@@ -5,7 +5,7 @@ title: Certificate
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/common/certificate#full-examples) section for complete examples.
+- See the [Full Examples](/truecharts-common/certificate#full-examples) section for complete examples.
 
 :::
 
@@ -210,7 +210,7 @@ Define the certificate secret template for this certificate
 
 At least one of the following keys must be defined
 
-[`labels`](/common/certificate#labels-1), [`annotations`](/common/certificate#annotations-1)
+[`labels`](/truecharts-common/certificate#labels-1), [`annotations`](/truecharts-common/certificate#annotations-1)
 
 :::
 

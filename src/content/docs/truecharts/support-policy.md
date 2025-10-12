@@ -17,7 +17,7 @@ We also offer free support via a support-ticketing system on Discord, according 
 ## System Requirements
 
 Make sure your system fullfills atleast the [Minimum System Specifications
-](/general/systemrequirements) to be alligable for ticket support.
+](/truecharts/systemrequirements) to be alligable for ticket support.
 
 ## Support Rules
 
@@ -61,7 +61,7 @@ Make sure your system fullfills atleast the [Minimum System Specifications
 
 :::note
 
-Some [(common-chart)](../common/) features might not work correctly with all charts.
+Some [(common-chart)](../truecharts-common/) features might not work correctly with all charts.
 
 :::
 

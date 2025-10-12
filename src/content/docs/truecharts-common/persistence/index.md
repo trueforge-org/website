@@ -5,7 +5,7 @@ title: Persistence
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/common/persistence#full-examples) section for complete examples.
+- See the [Full Examples](/truecharts-common/persistence#full-examples) section for complete examples.
 
 :::
 
@@ -104,19 +104,19 @@ Define the persistence type
 | Type       | `string`                                                             |
 | Required   | ❌                                                                   |
 | Helm `tpl` | ❌                                                                   |
-| Default    | See default [here](/common/fallbackdefaults#persistencetype) |
+| Default    | See default [here](/truecharts-common/fallbackdefaults#persistencetype) |
 
 Valid Values:
 
-- [`hostPath`](/common/persistence/hostpath)
-- [`configmap`](/common/configmap)
-- [`secret`](/common/secret)
-- [`device`](/common/persistence/device)
-- [`pvc`](/common/persistence/pvc-vct)
-- [`vct`](/common/persistence/pvc-vct)
-- [`nfs`](/common/persistence/nfs)
-- [`emptyDir`](/common/persistence/emptydir)
-- [`iscsi`](/common/persistence/iscsi)
+- [`hostPath`](/truecharts-common/persistence/hostpath)
+- [`configmap`](/truecharts-common/configmap)
+- [`secret`](/truecharts-common/secret)
+- [`device`](/truecharts-common/persistence/device)
+- [`pvc`](/truecharts-common/persistence/pvc-vct)
+- [`vct`](/truecharts-common/persistence/pvc-vct)
+- [`nfs`](/truecharts-common/persistence/nfs)
+- [`emptyDir`](/truecharts-common/persistence/emptydir)
+- [`iscsi`](/truecharts-common/persistence/iscsi)
 
 Example
 
@@ -464,12 +464,12 @@ persistence:
 
 Full examples can be found under each persistence type
 
-- [hostPath](/common/persistence/hostpath)
-- [configmap](/common/persistence/configmap)
-- [secret](/common/persistence/secret)
-- [device](/common/persistence/device)
-- [pvc](/common/persistence/pvc-vct)
-- [vct](/common/persistence/pvc-vct)
-- [nfs](/common/persistence/nfs)
-- [emptyDir](/common/persistence/emptydir)
-- [iscsi](/common/persistence/iscsi)
+- [hostPath](/truecharts-common/persistence/hostpath)
+- [configmap](/truecharts-common/persistence/configmap)
+- [secret](/truecharts-common/persistence/secret)
+- [device](/truecharts-common/persistence/device)
+- [pvc](/truecharts-common/persistence/pvc-vct)
+- [vct](/truecharts-common/persistence/pvc-vct)
+- [nfs](/truecharts-common/persistence/nfs)
+- [emptyDir](/truecharts-common/persistence/emptydir)
+- [iscsi](/truecharts-common/persistence/iscsi)

@@ -82,4 +82,4 @@ service:
 
 ## More info
 
-For more info, check out the common-chart [service options](/common/service/)
+For more info, check out the common-chart [service options](/truecharts-common/service/)

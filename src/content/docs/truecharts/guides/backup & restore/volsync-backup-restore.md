@@ -4,7 +4,7 @@ title: VolSync
 
 ### Adding Credentials
 
-You can add the credentials by copy-pasting the [Full Examples](/common/credentials#full-examples) section in the common-docs and adapting those accordingly
+You can add the credentials by copy-pasting the [Full Examples](/truecharts-common/credentials#full-examples) section in the common-docs and adapting those accordingly
 
 :::note[Bucket Creation]
 

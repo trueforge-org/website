@@ -6,7 +6,7 @@ sidebar:
 
 Below are our recommended and supported system requirements for running TrueCharts Charts inside either a VM or bare-metal machine
 
-See [below](/general/systemrequirements/#best-effort-cpu-recommendations) for additional information.
+See [below](/truecharts/systemrequirements/#best-effort-cpu-recommendations) for additional information.
 
 ## Recommended System Specifications for Master-only Nodes
 

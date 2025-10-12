@@ -5,7 +5,7 @@ title: credentials
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/common/credentials#full-examples) section for complete examples.
+- See the [Full Examples](/truecharts-common/credentials#full-examples) section for complete examples.
 
 :::
 
@@ -113,7 +113,7 @@ endpoint defined by `url` over HTTPS.
 
 :::note
 
-Defining both this and [customCA](/common/credentials#customca) is invalid and
+Defining both this and [customCA](/truecharts-common/credentials#customca) is invalid and
 will result in an error.
 
 :::
@@ -141,7 +141,7 @@ Define the secret name
 :::note
 
 This will be automatically expanded to `fullname-secret-name`.
-You can opt out of this by setting [`expandObjectName`](/common/credentials#customcasecretrefexpandobjectname) to `false`
+You can opt out of this by setting [`expandObjectName`](/truecharts-common/credentials#customcasecretrefexpandobjectname) to `false`
 
 :::
 
@@ -211,7 +211,7 @@ defined by `url` over HTTPS.
 
 :::note
 
-Defining both this and [customCASecretRef](/common/credentials#customcasecretref)
+Defining both this and [customCASecretRef](/truecharts-common/credentials#customcasecretref)
 is invalid and will result in an error.
 
 :::

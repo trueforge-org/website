@@ -5,7 +5,7 @@ title: Ingress Middlewares
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/common/middlewares#full-examples) section for complete examples.
+- See the [Full Examples](/truecharts-common/middlewares#full-examples) section for complete examples.
 
 :::
 
@@ -52,7 +52,7 @@ Define Middleware
 :::note
 
 - Available providers are:
-  - [traefik](/common/middlewares/traefik)
+  - [traefik](/truecharts-common/middlewares/traefik)
 
 :::
 
@@ -240,7 +240,7 @@ Define the type for this object
 
 :::note
 
-See the [provider](/common/middlewares#provider) documentation for more information.
+See the [provider](/truecharts-common/middlewares#provider) documentation for more information.
 
 :::
 

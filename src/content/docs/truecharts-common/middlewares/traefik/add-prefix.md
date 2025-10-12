@@ -5,7 +5,7 @@ title: Add Prefix Middleware
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/common/middlewares/traefik/add-prefix#full-examples) section for complete examples.
+- See the [Full Examples](/truecharts-common/middlewares/traefik/add-prefix#full-examples) section for complete examples.
 - Upstream documentation for this middleware can be found [here](https://doc.traefik.io/traefik/middlewares/http/addprefix)
 
 :::
@@ -16,7 +16,7 @@ title: Add Prefix Middleware
 
 :::tip
 
-- See available middleware keys [here](/common/middlewares).
+- See available middleware keys [here](/truecharts-common/middlewares).
 - This options apply only when `type: add-prefix`.
 
 :::

@@ -165,4 +165,4 @@ ingressMiddlewares:
         permanent: true
 ```
 
-More Examples can be found in the common docs [here](/common/middlewares/traefik/).
+More Examples can be found in the common docs [here](/truecharts-common/middlewares/traefik/).

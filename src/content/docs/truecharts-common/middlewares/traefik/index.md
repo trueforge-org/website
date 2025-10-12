@@ -5,7 +5,7 @@ title: Traefik Middlewares
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/common/middlewares/traefik#full-examples) section for complete examples.
+- See the [Full Examples](/truecharts-common/middlewares/traefik#full-examples) section for complete examples.
 
 :::
 
@@ -27,29 +27,29 @@ Define the type for this object
 
 Available types:
 
-- [add-prefix](/common/middlewares/traefik/add-prefix)
-- [basic-auth](/common/middlewares/traefik/basic-auth)
-- [buffering](/common/middlewares/traefik/buffering)
-- [chain](/common/middlewares/traefik/chain)
-- [compress](/common/middlewares/traefik/compress)
-- [content-type](/common/middlewares/traefik/content-type)
-- [forward-auth](/common/middlewares/traefik/forward-auth)
-- [headers](/common/middlewares/traefik/headers)
-- [ip-allow-list](/common/middlewares/traefik/ip-allow-list)
-- [plugin-bouncer](/common/middlewares/traefik/plugin-bouncer)
-- [plugin-geoblock](/common/middlewares/traefik/plugin-geoblock)
-- [plugin-mod-security](/common/middlewares/traefik/plugin-mod-security)
-- [plugin-real-ip](/common/middlewares/traefik/plugin-real-ip)
-- [plugin-rewrite-response-headers](/common/middlewares/traefik/plugin-rewrite-response-headers)
-- [plugin-theme-park](/common/middlewares/traefik/plugin-theme-park)
-- [rate-limit](/common/middlewares/traefik/rate-limit)
-- [redirect-regex](/common/middlewares/traefik/redirect-regex)
-- [redirect-scheme](/common/middlewares/traefik/redirect-scheme)
-- [replace-path-regex](/common/middlewares/traefik/replace-path-regex)
-- [replace-path](/common/middlewares/traefik/replace-path)
-- [retry](/common/middlewares/traefik/retry)
-- [strip-prefix-regex](/common/middlewares/traefik/strip-prefix-regex)
-- [strip-prefix](/common/middlewares/traefik/strip-prefix)
+- [add-prefix](/truecharts-common/middlewares/traefik/add-prefix)
+- [basic-auth](/truecharts-common/middlewares/traefik/basic-auth)
+- [buffering](/truecharts-common/middlewares/traefik/buffering)
+- [chain](/truecharts-common/middlewares/traefik/chain)
+- [compress](/truecharts-common/middlewares/traefik/compress)
+- [content-type](/truecharts-common/middlewares/traefik/content-type)
+- [forward-auth](/truecharts-common/middlewares/traefik/forward-auth)
+- [headers](/truecharts-common/middlewares/traefik/headers)
+- [ip-allow-list](/truecharts-common/middlewares/traefik/ip-allow-list)
+- [plugin-bouncer](/truecharts-common/middlewares/traefik/plugin-bouncer)
+- [plugin-geoblock](/truecharts-common/middlewares/traefik/plugin-geoblock)
+- [plugin-mod-security](/truecharts-common/middlewares/traefik/plugin-mod-security)
+- [plugin-real-ip](/truecharts-common/middlewares/traefik/plugin-real-ip)
+- [plugin-rewrite-response-headers](/truecharts-common/middlewares/traefik/plugin-rewrite-response-headers)
+- [plugin-theme-park](/truecharts-common/middlewares/traefik/plugin-theme-park)
+- [rate-limit](/truecharts-common/middlewares/traefik/rate-limit)
+- [redirect-regex](/truecharts-common/middlewares/traefik/redirect-regex)
+- [redirect-scheme](/truecharts-common/middlewares/traefik/redirect-scheme)
+- [replace-path-regex](/truecharts-common/middlewares/traefik/replace-path-regex)
+- [replace-path](/truecharts-common/middlewares/traefik/replace-path)
+- [retry](/truecharts-common/middlewares/traefik/retry)
+- [strip-prefix-regex](/truecharts-common/middlewares/traefik/strip-prefix-regex)
+- [strip-prefix](/truecharts-common/middlewares/traefik/strip-prefix)
 
 |            |                                           |
 | ---------- | ----------------------------------------- |

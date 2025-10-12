@@ -5,7 +5,7 @@ title: Ingress
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/common/ingress#full-examples) section for complete examples.
+- See the [Full Examples](/truecharts-common/ingress#full-examples) section for complete examples.
 
 :::
 
@@ -654,7 +654,7 @@ ingress:
 
 Define the cert-manager integration for this ingress
 
-See more details in [Cert Manager Integration](/common/ingress/certmanager)
+See more details in [Cert Manager Integration](/truecharts-common/ingress/certmanager)
 
 |            |                                          |
 | ---------- | ---------------------------------------- |
@@ -679,7 +679,7 @@ ingress:
 
 Define the traefik integration for this ingress
 
-See more details in [Traefik Integration](/common/ingress/traefik)
+See more details in [Traefik Integration](/truecharts-common/ingress/traefik)
 
 |            |                                      |
 | ---------- | ------------------------------------ |
@@ -704,7 +704,7 @@ ingress:
 
 Define the homepage integration for this ingress
 
-See more details in [Homepage Integration](/common/ingress/homepage)
+See more details in [Homepage Integration](/truecharts-common/ingress/homepage)
 
 |            |                                       |
 | ---------- | ------------------------------------- |

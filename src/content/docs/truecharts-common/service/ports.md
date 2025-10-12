@@ -5,8 +5,8 @@ title: Ports
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/common/service/ports#full-examples) section for complete examples.
-- See the [Service](/common/service) documentation for more information
+- See the [Full Examples](/truecharts-common/service/ports#full-examples) section for complete examples.
+- See the [Service](/truecharts-common/service) documentation for more information
 
 :::
 
@@ -104,7 +104,7 @@ Define the port protocol Used by the container ports and probes, http and https 
 | Type       | `string`                                                             |
 | Required   | ❌                                                                   |
 | Helm `tpl` | ✅                                                                   |
-| Default    | See default [here](/common/fallbackdefaults#serviceprotocol) |
+| Default    | See default [here](/truecharts-common/fallbackdefaults#serviceprotocol) |
 
 Valid Values:
 
@@ -175,8 +175,8 @@ service:
 
 Full examples can be found under each service type
 
-- [ClusterIP](/common/service/clusterip)
-- [LoadBalancer](/common/service/loadbalancer)
-- [NodePort](/common/service/nodeport)
-- [ExternalName](/common/service/externalname)
-- [ExternalIP](/common/service/externalip)
+- [ClusterIP](/truecharts-common/service/clusterip)
+- [LoadBalancer](/truecharts-common/service/loadbalancer)
+- [NodePort](/truecharts-common/service/nodeport)
+- [ExternalName](/truecharts-common/service/externalname)
+- [ExternalIP](/truecharts-common/service/externalip)

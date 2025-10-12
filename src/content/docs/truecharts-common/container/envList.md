@@ -5,15 +5,15 @@ title: EnvList
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/common/container/envlist#full-examples) section for complete examples.
+- See the [Full Examples](/truecharts-common/container/envlist#full-examples) section for complete examples.
 
 :::
 
 :::tip
 
 Variable names will be scanned for duplicates across all
-[secrets](/common/secret), [configmaps](/common/configmap),
-[env](/common/container/env), [envList](/common/container/envlist) and [fixedEnv](/common/container/fixedenv)
+[secrets](/truecharts-common/secret), [configmaps](/truecharts-common/configmap),
+[env](/truecharts-common/container/env), [envList](/truecharts-common/container/envlist) and [fixedEnv](/truecharts-common/container/fixedenv)
 and will throw an error if it finds any.
 
 :::
@@ -32,7 +32,7 @@ Define env(s) for the container
 :::note
 
 - This should not be used unless you have instructions from the maintainer to do so.
-- For native helm charts, use [env](/common/container/env) instead.
+- For native helm charts, use [env](/truecharts-common/container/env) instead.
 
 :::
 

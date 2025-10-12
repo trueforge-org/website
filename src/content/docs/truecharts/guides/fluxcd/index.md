@@ -20,7 +20,7 @@ Values of which can be used like normal on helm.
 
 This can be done following the [Helm Guides](/general/)
 
-and checking all the many options available in our [Common Library Chart](/common/)
+and checking all the many options available in our [Common Library Chart](/truecharts-common/)
 
 ### Example Helm-Release object
 

@@ -5,7 +5,7 @@ title: Service
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/common/service#full-examples) section for complete examples.
+- See the [Full Examples](/truecharts-common/service#full-examples) section for complete examples.
 
 :::
 
@@ -174,15 +174,15 @@ Define the service type
 | Type       | `string`                                                         |
 | Required   | ❌                                                               |
 | Helm `tpl` | ✅                                                               |
-| Default    | See default [here](/common/fallbackdefaults#servicetype) |
+| Default    | See default [here](/truecharts-common/fallbackdefaults#servicetype) |
 
 Valid Values:
 
-- [`ClusterIP`](/common/service/clusterip)
-- [`LoadBalancer`](/common/service/loadbalancer)
-- [`NodePort`](/common/service/nodeport)
-- [`ExternalName`](/common/service/externalname)
-- [`ExternalIP`](/common/service/externalip)
+- [`ClusterIP`](/truecharts-common/service/clusterip)
+- [`LoadBalancer`](/truecharts-common/service/loadbalancer)
+- [`NodePort`](/truecharts-common/service/nodeport)
+- [`ExternalName`](/truecharts-common/service/externalname)
+- [`ExternalIP`](/truecharts-common/service/externalip)
 
 Example
 
@@ -196,7 +196,7 @@ service:
 
 #### `expandObjectName`
 
-Whether to expand the object name (based on the [naming scheme](/common/service#naming-scheme)) or not
+Whether to expand the object name (based on the [naming scheme](/truecharts-common/service#naming-scheme)) or not
 
 |            |                                  |
 | ---------- | -------------------------------- |
@@ -461,7 +461,7 @@ service:
 
 Define the ports of the service
 
-See [Ports](/common/service/ports)
+See [Ports](/truecharts-common/service/ports)
 
 |            |                       |
 | ---------- | --------------------- |
@@ -507,7 +507,7 @@ service:
 
 Define the traefik integration for this service
 
-See more details in [Traefik Integration](/common/service/integrations/traefik)
+See more details in [Traefik Integration](/truecharts-common/service/integrations/traefik)
 
 |            |                                      |
 | ---------- | ------------------------------------ |
@@ -532,8 +532,8 @@ service:
 
 Full examples can be found under each service type
 
-- [ClusterIP](/common/service/clusterip)
-- [LoadBalancer](/common/service/loadbalancer)
-- [NodePort](/common/service/nodeport)
-- [ExternalName](/common/service/externalname)
-- [ExternalIP](/common/service/externalip)
+- [ClusterIP](/truecharts-common/service/clusterip)
+- [LoadBalancer](/truecharts-common/service/loadbalancer)
+- [NodePort](/truecharts-common/service/nodeport)
+- [ExternalName](/truecharts-common/service/externalname)
+- [ExternalIP](/truecharts-common/service/externalip)

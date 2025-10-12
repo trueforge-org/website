@@ -5,7 +5,7 @@ title: NFS
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/common/persistence/nfs#full-examples) section for complete examples.
+- See the [Full Examples](/truecharts-common/persistence/nfs#full-examples) section for complete examples.
 
 :::
 
@@ -15,7 +15,7 @@ title: NFS
 
 :::tip
 
-- See available persistence keys [here](/common/persistence).
+- See available persistence keys [here](/truecharts-common/persistence).
 - This options apply only when `type: nfs`.
 
 :::
