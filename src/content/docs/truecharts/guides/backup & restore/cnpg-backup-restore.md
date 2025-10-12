@@ -87,3 +87,15 @@ When on a completely new system, you can easily restore using the above steps wi
 - The PVC backend needs to support snapshots
 - The apps need to be called **exactly** the same as they were before, and use exactly the same values.yaml structure
 - If you've any non-PVC storage attached, be sure that this is still available or apps won't start until this is resolved.
+
+## Advanced Configurations
+
+This section shows some more-advanced configurations which may be useful in some setups
+
+### Using a Custom Certificate Authority
+
+If your S3 storage target is using a self-signed certificate, you can provide CNPG
+with a certificate to use when performing TLS validation.
+
+To do so, simply set the [`customCA`](/common/credentials#customca) OR
+[`customCASecretRef`](/common/credentials#customcasecretref) keys in your `credentials.$name`.
