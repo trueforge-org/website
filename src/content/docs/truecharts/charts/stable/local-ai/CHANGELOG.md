@@ -13,9 +13,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 16.29.0 • [Train: stable]
 
-- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
 - more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
+- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 
 ## 16.28.0 • [Train: stable]
 
@@ -41,8 +41,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 16.22.1 • [Train: stable]
 
-- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 - Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
+- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 
 ## 16.22.0 • [Train: stable]
 
@@ -469,8 +469,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 10.6.0 • [Train: stable]
 
-- chore(docs): exclude changelog from pagefind (#21693) • [`f91c384`](https://github.com/trueforge-org/truecharts/commit/f91c384060835b0cff91205b8ee00de36b10d689) • [@Stavros Kois] (2024-05-06)
 - Commit daily changes • [`460ce98`](https://github.com/trueforge-org/truecharts/commit/460ce98e609cda3c2b24a7f670cd204abb4a2123) • [@TrueCharts-Bot] (2024-05-06)
+- chore(docs): exclude changelog from pagefind (#21693) • [`f91c384`](https://github.com/trueforge-org/truecharts/commit/f91c384060835b0cff91205b8ee00de36b10d689) • [@Stavros Kois] (2024-05-06)
 - chore(deps): update container image docker.io/localai/localai to v2.14.0 by renovate (#21605) • [`1ca374c`](https://github.com/trueforge-org/truecharts/commit/1ca374c25a8c981484027d9406bec5e03d4592e7) • [@TrueCharts Bot] (2024-05-05)
 
 ## 10.0.5 • [Train: stable]
@@ -935,8 +935,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 7.0.0 • [Train: stable]
 
-- chore(deps): update helm general major by renovate (major) (#14631) • [`49e418b`](https://github.com/trueforge-org/truecharts/commit/49e418b48889cb85206afcb8bcc4edef31a6303e) • [@TrueCharts Bot] (2023-12-20)
 - Commit daily changes • [`1b4ce58`](https://github.com/trueforge-org/truecharts/commit/1b4ce58b07af1529cb62f6554febbdc1f797ddb6) • [@TrueCharts-Bot] (2023-12-20)
+- chore(deps): update helm general major by renovate (major) (#14631) • [`49e418b`](https://github.com/trueforge-org/truecharts/commit/49e418b48889cb85206afcb8bcc4edef31a6303e) • [@TrueCharts Bot] (2023-12-20)
 
 ## 6.6.1 • [Train: stable]
 
@@ -1067,8 +1067,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.4 • [Train: stable]
 
-- chore(deps): update container image tccr.io/truecharts/local-ai-cublas-cuda11 to v1.30.0 (#13023) • [`fef6bfd`](https://github.com/trueforge-org/truecharts/commit/fef6bfd354ba2a6ddb5667a1f7baba0b122eb3fa) • [@TrueCharts Bot] (2023-09-28)
 - chore(deps): update container image tccr.io/truecharts/local-ai to v1.30.0 (#13022) • [`4faf08b`](https://github.com/trueforge-org/truecharts/commit/4faf08ba4ea8b1194e35aa0fbef050c0ebf8acf9) • [@TrueCharts Bot] (2023-09-28)
+- chore(deps): update container image tccr.io/truecharts/local-ai-cublas-cuda11 to v1.30.0 (#13023) • [`fef6bfd`](https://github.com/trueforge-org/truecharts/commit/fef6bfd354ba2a6ddb5667a1f7baba0b122eb3fa) • [@TrueCharts Bot] (2023-09-28)
 
 ## 0.0.3 • [Train: stable]
 

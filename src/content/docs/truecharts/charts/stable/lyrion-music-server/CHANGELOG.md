@@ -63,8 +63,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.6.2 • [Train: stable]
 
-- Commit daily changes • [`752d863`](https://github.com/trueforge-org/truecharts/commit/752d8637aa7ce955a97ef8991f0788ccc6a2e9ff) • [@TrueCharts-Bot] (2025-09-27)
 - chore(helm): update image docker.io/lmscommunity/lyrionmusicserver digest to de19ad3 (#40057) • [`adc4a41`](https://github.com/trueforge-org/truecharts/commit/adc4a41c1002b61f05b8549b71fc74e2d1beba25) • [@TrueCharts Bot] (2025-09-27)
+- Commit daily changes • [`752d863`](https://github.com/trueforge-org/truecharts/commit/752d8637aa7ce955a97ef8991f0788ccc6a2e9ff) • [@TrueCharts-Bot] (2025-09-27)
 
 ## 5.6.1 • [Train: stable]
 
