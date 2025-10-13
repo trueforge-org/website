@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.7.1 • [Train: stable]
+
+- chore(helm): update image docker.io/slechev/openwebrxplus-softmbe 1.2.93 → 1.2.94 (#40685) • [`443c37a`](https://github.com/trueforge-org/truecharts/commit/443c37a0b63cb9f61ee6ee69c953db24181a6a81) • [@TrueCharts Bot] (2025-10-13)
+
 ## 2.7.0 • [Train: stable]
 
 - More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
