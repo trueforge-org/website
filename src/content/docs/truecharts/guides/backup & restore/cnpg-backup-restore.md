@@ -98,4 +98,4 @@ If your S3 storage target is using a self-signed certificate, you can provide CN
 with a certificate to use when performing TLS validation.
 
 To do so, simply set the [`customCA`](/truecharts-common/credentials#customca) OR
-[`customCASecretRef`](/truecharts/common/credentials#customcasecretref) keys in your `credentials.$name`.
+[`customCASecretRef`](/truecharts-common/credentials#customcasecretref) keys in your `credentials.$name`.
