@@ -116,8 +116,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.4.3 • [Train: stable]
 
-- chore(helm): update image docker.io/semaphoreui/semaphore v2.16.13 → v2.16.14 (#38515) • [`d56b469`](https://github.com/trueforge-org/truecharts/commit/d56b46925e761d27aee746b64127feab12ee91e8) • [@TrueCharts Bot] (2025-08-16)
 - chore(helm): update chart common 28.16.0 → 28.16.1 (#38514) • [`fd0d0b7`](https://github.com/trueforge-org/truecharts/commit/fd0d0b709ca518c015c40e27e0c5f51f432fac8f) • [@TrueCharts Bot] (2025-08-16)
+- chore(helm): update image docker.io/semaphoreui/semaphore v2.16.13 → v2.16.14 (#38515) • [`d56b469`](https://github.com/trueforge-org/truecharts/commit/d56b46925e761d27aee746b64127feab12ee91e8) • [@TrueCharts Bot] (2025-08-16)
 
 ## 6.4.2 • [Train: stable]
 
