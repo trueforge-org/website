@@ -2,7 +2,7 @@
 title: makemkv
 ---
 
-![Version: 14.12.0](https://img.shields.io/badge/Version-14.12.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 25.10.1](https://img.shields.io/badge/AppVersion-25.10.1-informational?style=flat-square)
+![Version: 14.13.0](https://img.shields.io/badge/Version-14.13.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 25.10.1](https://img.shields.io/badge/AppVersion-25.10.1-informational?style=flat-square)
 
 MakeMKV is your one-click solution to convert video that you own into free and patents-unencumbered format that can be played everywhere.
 

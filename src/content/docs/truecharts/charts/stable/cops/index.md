@@ -2,7 +2,7 @@
 title: cops
 ---
 
-![Version: 12.10.1](https://img.shields.io/badge/Version-12.10.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.7.8](https://img.shields.io/badge/AppVersion-3.7.8-informational?style=flat-square)
+![Version: 12.11.0](https://img.shields.io/badge/Version-12.11.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.7.8](https://img.shields.io/badge/AppVersion-3.7.8-informational?style=flat-square)
 
 Cops(http://blog.slucas.fr/en/oss/calibre-opds-php-server) by Sébastien Lucas, stands for Calibre OPDS (and HTML) Php Server.
 
