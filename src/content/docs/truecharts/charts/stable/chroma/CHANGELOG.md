@@ -100,8 +100,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.3.3 • [Train: stable]
 
-- chore(helm): update image ghcr.io/chroma-core/chroma 1.0.17 → 1.0.18 (#38567) • [`be6e1d2`](https://github.com/trueforge-org/truecharts/commit/be6e1d2f65ffcf5d8fb67a241ab9b2d9557d5a00) • [@TrueCharts Bot] (2025-08-18)
 - chore(helm): update chart common 28.16.1 → 28.16.2 (#38562) • [`d3f1669`](https://github.com/trueforge-org/truecharts/commit/d3f166997de22289c9247208bc6b9b4c57d277a1) • [@TrueCharts Bot] (2025-08-18)
+- chore(helm): update image ghcr.io/chroma-core/chroma 1.0.17 → 1.0.18 (#38567) • [`be6e1d2`](https://github.com/trueforge-org/truecharts/commit/be6e1d2f65ffcf5d8fb67a241ab9b2d9557d5a00) • [@TrueCharts Bot] (2025-08-18)
 
 ## 6.3.2 • [Train: stable]
 
@@ -472,8 +472,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.8.5 • [Train: stable]
 
-- Webp icons2 (#20851) • [`8b489f4`](https://github.com/trueforge-org/truecharts/commit/8b489f48bb8f4f6a01050a08ad544323375bce74) • [@Kjeld Schouten] (2024-04-16)
 - chore(deps): update container image common to v20.3.7@8cf9fc9 by renovate (#20819) • [`4413ae4`](https://github.com/trueforge-org/truecharts/commit/4413ae4d1cdd32a9d5f70d57f0c01e429ee90298) • [@TrueCharts Bot] (2024-04-16)
+- Webp icons2 (#20851) • [`8b489f4`](https://github.com/trueforge-org/truecharts/commit/8b489f48bb8f4f6a01050a08ad544323375bce74) • [@Kjeld Schouten] (2024-04-16)
 
 ## 2.8.4 • [Train: stable]
 
