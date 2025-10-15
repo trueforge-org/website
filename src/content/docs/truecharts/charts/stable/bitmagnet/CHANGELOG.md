@@ -469,8 +469,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.1.5 • [Train: stable]
 
-- fix(bitmagnet): update env default (#18695) • [`2acdc85`](https://github.com/trueforge-org/truecharts/commit/2acdc854cbdb96d742510a6b2043d561eb65a452) • [@kqmaverick] (2024-02-27)
 - Commit daily changes • [`97ded71`](https://github.com/trueforge-org/truecharts/commit/97ded71eb672b4811c6a365dde0700aa75114775) • [@TrueCharts-Bot] (2024-02-27)
+- fix(bitmagnet): update env default (#18695) • [`2acdc85`](https://github.com/trueforge-org/truecharts/commit/2acdc854cbdb96d742510a6b2043d561eb65a452) • [@kqmaverick] (2024-02-27)
 
 ## 1.1.4 • [Train: stable]
 
