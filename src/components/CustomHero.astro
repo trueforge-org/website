@@ -4,7 +4,8 @@ import { PAGE_TITLE_ID } from "../../node_modules/@astrojs/starlight/constants";
 import type { Props } from "@astrojs/starlight/props";
 import { LinkButton } from "@astrojs/starlight/components";
 import LottieAnimation from "astro-integration-lottie/Lottie.astro";
-const { data } = Astro.props.entry;
+const { entry } = Astro.locals.starlightRoute;
+const { data } = entry;
 const { title = data.title, tagline, image, actions = [] } = data.hero || {};
 
 // Magic Value to render animation

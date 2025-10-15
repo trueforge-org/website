@@ -1,7 +1,6 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 // https://starlight.astro.build/guides/css-and-tailwind/#tailwind-css
-import tailwind from "@astrojs/tailwind";
 // https://github.com/HiDeoo/starlight-links-validator
 import starlightLinksValidator from "starlight-links-validator";
 // https://github.com/HiDeoo/starlight-image-zoom
@@ -74,15 +73,15 @@ export default defineConfig({
       tableOfContents: {
         maxHeadingLevel: 6,
       },
-      social: {
-        github: "https://github.com/trueforge-org",
-        facebook: "https://www.facebook.com/truecharts",
-        "x.com": "https://twitter.com/useTrueCharts",
-        discord: "https://discord.gg/tVsPTHWTtr",
-        telegram: "https://t.me/s/truecharts",
-        openCollective: "https://opencollective.com/truecharts",
-        patreon: "https://patreon.com/truecharts",
-      },
+      social: [
+        { icon: "github", label: "GitHub", href: "https://github.com/trueforge-org" },
+        { icon: "facebook", label: "Facebook", href: "https://www.facebook.com/truecharts" },
+        { icon: "x.com", label: "X", href: "https://twitter.com/useTrueCharts" },
+        { icon: "discord", label: "Discord", href: "https://discord.gg/tVsPTHWTtr" },
+        { icon: "telegram", label: "Telegram", href: "https://t.me/s/truecharts" },
+        { icon: "openCollective", label: "Open Collective", href: "https://opencollective.com/truecharts" },
+        { icon: "patreon", label: "Patreon", href: "https://patreon.com/truecharts" },
+      ],
       editLink: {
         baseUrl: "https://github.com/trueforge-org/website/tree/main",
       },
@@ -127,10 +126,6 @@ export default defineConfig({
     }),
     sitemap(),
     robotsTxt(),
-    tailwind({
-      // Disable the default base styles:
-      applyBaseStyles: false,
-    }),
     lottie(),
     betterImageService(),
     playformCompress({

@@ -1,6 +1,13 @@
-@tailwind base;
+@import '@astrojs/starlight-tailwind';
+@import 'tailwindcss/theme.css' layer(theme);
+@import 'tailwindcss/utilities.css' layer(utilities);
+
 @tailwind components;
 @tailwind utilities;
+
+@layer base, starlight, theme, components, utilities;
+
+
 
 .link-no-deco {
   @apply no-underline visited:text-[var(--sl-color-gray-2)] text-[var(--sl-color-gray-2)]

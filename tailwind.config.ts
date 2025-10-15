@@ -1,8 +1,4 @@
 import type { Config } from "tailwindcss";
-import starlightPlugin from "@astrojs/starlight-tailwind";
-
-// https://starlight.astro.build/guides/css-and-tailwind/#tailwind-css
-// Those are the default from starlight generator
 
 // Generated color palettes
 const accent = {
@@ -22,10 +18,12 @@ const gray = {
   900: "#17181c",
 };
 
-export default {
-  content: ["./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}"],
+const config: Config = {
+  content: [
+    "./src/**/*.{astro,html,js,ts,jsx,tsx,md,mdx}",
+    "./node_modules/@astrojs/starlight/components/**/*.{astro,ts,tsx}",
+  ],
   theme: {
-    // add color variable
     extend: {
       colors: {
         accent,
@@ -34,5 +32,10 @@ export default {
       },
     },
   },
-  plugins: [starlightPlugin()],
-} as Config;
+  corePlugins: {
+    preflight: false, // keep Starlight base styles intact
+  },
+  plugins: [],
+};
+
+export default config;
