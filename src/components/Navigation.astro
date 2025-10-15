@@ -1,15 +1,13 @@
 ---
 import { Icon } from "@astrojs/starlight/components";
-import type { Icons } from "@astrojs/starlight/components/Icons";
 import "../tailwind.css"
 
 type Link = {
   name: string;
   href: `/${string}` | `https://${string}`;
-  icon?: keyof typeof Icons;
+  icon?: string;
 };
 
-// https://starlight.astro.build/guides/components/#all-icons
 const links: Array<Link> = [
   { name: "News", href: "/news/", icon: "rss" },
   { name: "Team", href: "/team", icon: "star" },
