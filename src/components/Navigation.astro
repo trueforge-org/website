@@ -31,7 +31,7 @@ const links: Array<Link> = [
         {link.icon && (
           <Icon
             class="w-5 h-5 max-md:hidden max-lg:hidden text-[var(--sl-color-gray-2)]"
-            name={link.icon}
+            name={link.icon as Parameters<typeof Icon>["name"]}
           />
         )}
       </a>
