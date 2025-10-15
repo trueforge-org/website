@@ -1,34 +1,17 @@
 ---
-const path = Astro.url.pathname;
+import type { Props } from '../props';
 
-// Get current sidebar from Starlight runtime
-let sidebar = Astro.locals.starlightRoute?.sidebar ?? [];
+import SidebarPersister from '@astrojs/starlight/components/SidebarPersister.astro';
+import SidebarSublist from '@astrojs/starlight/components/SidebarSublist.astro';
+import MobileMenuFooter from '@astrojs/starlight/components/MobileMenuFooter.astro';
 
-// Filter items based on the top-level path
-if (path.startsWith('/truetech/')) {
-  sidebar = sidebar.filter((item: any) =>
-    item.autogenerate?.directory?.startsWith('truetech')
-  );
-} else if (path.startsWith('/gamingforge/')) {
-  sidebar = sidebar.filter((item: any) =>
-    item.autogenerate?.directory?.startsWith('gamingforge')
-  );
-} else if (path.startsWith('/lifeforge/')) {
-  sidebar = sidebar.filter((item: any) =>
-    item.autogenerate?.directory?.startsWith('lifeforge')
-  );
-} else {
-  // Root site: exclude sub-project sections
-  sidebar = sidebar.filter((item: any) =>
-    !['truetech', 'gamingforge', 'lifeforge'].some(prefix =>
-      item.autogenerate?.directory?.startsWith(prefix)
-    )
-  );
-}
+const { sidebar } = Astro.props;
 ---
 
-<SidebarPersister>
-  <SidebarSublist sublist={sidebar} />
+<SidebarPersister {...Astro.props}>
+	<SidebarSublist sublist={sidebar} />
 </SidebarPersister>
 
-<MobileMenuFooter class="md:sl-hidden" />
+<div class="md:sl-hidden">
+	<MobileMenuFooter {...Astro.props} />
+</div>
