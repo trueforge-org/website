@@ -2,10 +2,12 @@
 import { Icon } from "@astrojs/starlight/components";
 import "../tailwind.css"
 
+type IconName = "rss" | "star" | "open-book" | "rocket";
+
 type Link = {
   name: string;
   href: `/${string}` | `https://${string}`;
-  icon?: string;
+  icon?: IconName;
 };
 
 const links: Array<Link> = [
@@ -29,10 +31,10 @@ const links: Array<Link> = [
           {link.name}
         </p>
         {link.icon && (
-          <Icon
-            class="w-5 h-5 max-md:hidden max-lg:hidden text-[var(--sl-color-gray-2)]"
-            name={link.icon as Parameters<typeof Icon>["name"]}
-          />
+        <Icon
+          class="w-5 h-5 max-md:hidden max-lg:hidden text-[var(--sl-color-gray-2)]"
+          name={link.icon}
+        />
         )}
       </a>
     ))
