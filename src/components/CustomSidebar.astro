@@ -6,12 +6,40 @@ import SidebarSublist from '@astrojs/starlight/components/SidebarSublist.astro';
 import MobileMenuFooter from '@astrojs/starlight/components/MobileMenuFooter.astro';
 
 const { sidebar } = Astro.locals.starlightRoute;
+console.log('Astro.locals.starlightRoute.sidebar:');
+console.dir(sidebar, { depth: null, colors: true });
+
+const currentPath = Astro.url.pathname;
+
+// Filter helper for nested groups
+function filterSidebar(items, pathPrefix: string) {
+  return items
+    .map(item => {
+      if (item.type === 'link' && item.href.startsWith(pathPrefix)) {
+        return item;
+      } else if (item.type === 'group' && item.entries) {
+        const filteredEntries = filterSidebar(item.entries, pathPrefix);
+        if (filteredEntries.length > 0) {
+          return { ...item, entries: filteredEntries };
+        }
+      }
+      return null;
+    })
+    .filter(Boolean);
+}
+
+const topLevel = `/${currentPath.split('/')[1]}/`;
+const topLevelPath = `${currentPath.split('/')[1]}`;
+const filteredSidebar = filterSidebar(sidebar, topLevel);
+
+// Unwrap the top-level group that matches the current path
+let finalSidebar = filteredSidebar.map(item => {
+  if (item.type === 'group' && item.label.toLowerCase() === topLevelPath) {
+    return item.entries; // unwrap matched top-level group
+  }
+  return item;
+}).flat(); // flatten in case we replaced one group with its entries
 ---
-
 <SidebarPersister>
-	<SidebarSublist sublist={sidebar} />
+  <SidebarSublist sublist={finalSidebar} />
 </SidebarPersister>
-
-<div class="md:sl-hidden">
-	<MobileMenuFooter />
-</div>
