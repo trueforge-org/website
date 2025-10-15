@@ -119,9 +119,27 @@ export default defineConfig({
         //}),
       ],
       sidebar: [
-    { label: "TrueTech", autogenerate: { directory: "truetech" } },
-    { label: "GamingForge", autogenerate: { directory: "gamingforge" } },
-    { label: "LifeForge", autogenerate: { directory: "lifeforge" } },
+        {
+          label: "truetech",
+          collapsed: true,
+          autogenerate: {
+            directory: "truetech",
+          },
+        },
+        {
+          label: "gamingforge",
+          collapsed: true,
+          autogenerate: {
+            directory: "gamingforge",
+          },
+        },
+        {
+          label: "lifeforge",
+          collapsed: true,
+          autogenerate: {
+            directory: "lifeforge",
+          },
+        },
       ],
     }),
     sitemap(),
