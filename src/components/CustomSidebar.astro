@@ -1,24 +1,27 @@
 ---
+import SidebarPersister from 'virtual:starlight/components/SidebarPersister';
+import SidebarSublist from 'virtual:starlight/components/SidebarSublist';
 import MobileMenuFooter from 'virtual:starlight/components/MobileMenuFooter';
-import SidebarPersister from './SidebarPersister.astro';
-import SidebarSublist from './SidebarSublist.astro';
 
-let { sidebar } = Astro.locals.starlightRoute;
+// Get the current sidebar from Starlight runtime
+let { sidebar } = (Astro.locals as any).starlightRoute;
 
-// Filter sidebar items per path
 const path = Astro.url.pathname;
 
+// Filter sidebar items per path
 if (path.startsWith('/truetech/')) {
-  sidebar = sidebar.filter(item => item.autogenerate?.directory?.startsWith('truetech'));
+  sidebar = sidebar.filter((item: any) => item.autogenerate?.directory?.startsWith('truetech'));
 } else if (path.startsWith('/gamingforge/')) {
-  sidebar = sidebar.filter(item => item.autogenerate?.directory?.startsWith('gamingforge'));
+  sidebar = sidebar.filter((item: any) => item.autogenerate?.directory?.startsWith('gamingforge'));
 } else if (path.startsWith('/lifeforge/')) {
-  sidebar = sidebar.filter(item => item.autogenerate?.directory?.startsWith('lifeforge'));
+  sidebar = sidebar.filter((item: any) => item.autogenerate?.directory?.startsWith('lifeforge'));
 } else {
   // root or default
-  sidebar = sidebar.filter(item => !item.autogenerate?.directory?.includes('truetech') &&
-                                   !item.autogenerate?.directory?.includes('gamingforge') &&
-                                   !item.autogenerate?.directory?.includes('lifeforge'));
+  sidebar = sidebar.filter((item: any) => 
+    !item.autogenerate?.directory?.includes('truetech') &&
+    !item.autogenerate?.directory?.includes('gamingforge') &&
+    !item.autogenerate?.directory?.includes('lifeforge')
+  );
 }
 ---
 
