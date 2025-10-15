@@ -120,42 +120,9 @@ export default defineConfig({
         }),
       ],
       sidebar: [
-        {
-          label: "General",
-          collapsed: false,
-          autogenerate: {
-            directory: "general",
-            collapsed: true
-          },
-        },
-        {
-          label: "Guides",
-          collapsed: true,
-          autogenerate: {
-            directory: "guides",
-          },
-        },
-        {
-          label: "TrueTool",
-          collapsed: true,
-          autogenerate: {
-            directory: "truetool",
-          },
-        },
-        {
-          label: "TrueCharts-Common",
-          collapsed: true,
-          autogenerate: {
-            directory: "truecharts-common",
-          },
-        },
-        {
-          label: "truecharts",
-          collapsed: true,
-          autogenerate: {
-            directory: "truecharts",
-          },
-        },
+    { label: "TrueTech", autogenerate: { directory: "truetech" } },
+    { label: "GamingForge", autogenerate: { directory: "gamingforge" } },
+    { label: "LifeForge", autogenerate: { directory: "lifeforge" } },
       ],
     }),
     sitemap(),
