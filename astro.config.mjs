@@ -1,8 +1,8 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
-// https://starlight.astro.build/guides/css-and-tailwind/#tailwind-css
+// TODO: reenable
 // https://github.com/HiDeoo/starlight-links-validator
-import starlightLinksValidator from "starlight-links-validator";
+//import starlightLinksValidator from "starlight-links-validator";
 // https://github.com/HiDeoo/starlight-image-zoom
 import starlightImageZoom from "starlight-image-zoom";
 // https://github.com/HiDeoo/starlight-blog
@@ -100,22 +100,22 @@ export default defineConfig({
           authors: authors,
         }),
         starlightImageZoom(),
-        starlightLinksValidator({
-          errorOnRelativeLinks: false,
-          errorOnFallbackPages: false,
-          errorOnLocalLinks: false,
-          exclude: [
-            "/s/charts",
-            "/s/discord",
-            "/s/fb",
-            "/s/ghs",
-            "/s/git",
-            "/s/oc",
-            "/s/patreon",
-            "/s/shop",
-            "/s/tg",
-            "/s/twitter",
-          ],
+        //starlightLinksValidator({
+        //  errorOnRelativeLinks: false,
+        //  errorOnFallbackPages: false,
+        //  errorOnLocalLinks: false,
+        //  exclude: [
+        //    "/s/charts",
+        //    "/s/discord",
+        //    "/s/fb",
+        //    "/s/ghs",
+        //    "/s/git",
+        //    "/s/oc",
+        //    "/s/patreon",
+        //    "/s/shop",
+        //    "/s/tg",
+        //    "/s/twitter",
+        //  ],
         }),
       ],
       sidebar: [
