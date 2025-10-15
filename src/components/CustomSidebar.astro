@@ -4,18 +4,25 @@ const path = Astro.url.pathname;
 // Get current sidebar from Starlight runtime
 let sidebar = Astro.locals.starlightRoute?.sidebar ?? [];
 
-// Filter items per path
+// Filter items based on the top-level path
 if (path.startsWith('/truetech/')) {
-  sidebar = sidebar.filter((item: any) => item.autogenerate?.directory?.startsWith('truetech'));
+  sidebar = sidebar.filter((item: any) =>
+    item.autogenerate?.directory?.startsWith('truetech')
+  );
 } else if (path.startsWith('/gamingforge/')) {
-  sidebar = sidebar.filter((item: any) => item.autogenerate?.directory?.startsWith('gamingforge'));
+  sidebar = sidebar.filter((item: any) =>
+    item.autogenerate?.directory?.startsWith('gamingforge')
+  );
 } else if (path.startsWith('/lifeforge/')) {
-  sidebar = sidebar.filter((item: any) => item.autogenerate?.directory?.startsWith('lifeforge'));
+  sidebar = sidebar.filter((item: any) =>
+    item.autogenerate?.directory?.startsWith('lifeforge')
+  );
 } else {
-  sidebar = sidebar.filter((item: any) => 
-    !item.autogenerate?.directory?.includes('truetech') &&
-    !item.autogenerate?.directory?.includes('gamingforge') &&
-    !item.autogenerate?.directory?.includes('lifeforge')
+  // Root site: exclude sub-project sections
+  sidebar = sidebar.filter((item: any) =>
+    !['truetech', 'gamingforge', 'lifeforge'].some(prefix =>
+      item.autogenerate?.directory?.startsWith(prefix)
+    )
   );
 }
 ---
