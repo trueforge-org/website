@@ -116,7 +116,7 @@ export default defineConfig({
         //    "/s/tg",
         //    "/s/twitter",
         //  ],
-        }),
+        //}),
       ],
       sidebar: [
     { label: "TrueTech", autogenerate: { directory: "truetech" } },
