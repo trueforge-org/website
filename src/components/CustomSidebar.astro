@@ -1,0 +1,19 @@
+---
+import { Sidebar as StarlightSidebar } from "@starlight/astro";
+import { Astro } from "astro";
+
+const path = Astro.url.pathname;
+
+let allowedSections = ["root"]; // default for /
+if (path.startsWith("/truetech/")) allowedSections = ["truetech"];
+if (path.startsWith("/gamingforge/")) allowedSections = ["gamingforge"];
+if (path.startsWith("/lifeforge/")) allowedSections = ["lifeforge"];
+---
+<StarlightSidebar let:item>
+  {#if allowedSections.includes(item.directory?.split("/")[0])}
+    <li>
+      <a href={item.href}>{item.label}</a>
+      {item.children && <ul>{item.children.map(child => <li>{child.label}</li>)}</ul>}
+    </li>
+  {/if}
+</StarlightSidebar>
