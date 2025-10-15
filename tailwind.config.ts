@@ -32,9 +32,6 @@ const config: Config = {
       },
     },
   },
-  corePlugins: {
-    preflight: false, // keep Starlight base styles intact
-  },
   plugins: [],
 };
 
