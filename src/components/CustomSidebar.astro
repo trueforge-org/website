@@ -1,24 +1,31 @@
 ---
+import MobileMenuFooter from 'virtual:starlight/components/MobileMenuFooter';
+import SidebarPersister from './SidebarPersister.astro';
+import SidebarSublist from './SidebarSublist.astro';
+
+let { sidebar } = Astro.locals.starlightRoute;
+
+// Filter sidebar items per path
 const path = Astro.url.pathname;
 
-// Determine which top-level sections are visible
-let allowedSections = ["root"];
-if (path.startsWith("/truetech/")) allowedSections = ["truetech"];
-if (path.startsWith("/gamingforge/")) allowedSections = ["gamingforge"];
-if (path.startsWith("/lifeforge/")) allowedSections = ["lifeforge"];
+if (path.startsWith('/truetech/')) {
+  sidebar = sidebar.filter(item => item.autogenerate?.directory?.startsWith('truetech'));
+} else if (path.startsWith('/gamingforge/')) {
+  sidebar = sidebar.filter(item => item.autogenerate?.directory?.startsWith('gamingforge'));
+} else if (path.startsWith('/lifeforge/')) {
+  sidebar = sidebar.filter(item => item.autogenerate?.directory?.startsWith('lifeforge'));
+} else {
+  // root or default
+  sidebar = sidebar.filter(item => !item.autogenerate?.directory?.includes('truetech') &&
+                                   !item.autogenerate?.directory?.includes('gamingforge') &&
+                                   !item.autogenerate?.directory?.includes('lifeforge'));
+}
 ---
 
-<Sidebar let:item>
-  {item && (!item.directory || allowedSections.includes(item.directory.split("/")[0])) && (
-    <li>
-      <a href={item.href}>{item.label}</a>
-      {item.children && item.children.length > 0 && (
-        <ul>
-          {item.children.map((child: any) => (
-            <li><a href={child.href}>{child.label}</a></li>
-          ))}
-        </ul>
-      )}
-    </li>
-  )}
-</Sidebar>
+<SidebarPersister>
+  <SidebarSublist sublist={sidebar} />
+</SidebarPersister>
+
+<div class="md:sl-hidden">
+  <MobileMenuFooter />
+</div>
