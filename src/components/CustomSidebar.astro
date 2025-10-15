@@ -1,18 +1,10 @@
 ---
-//TODO instead use declaration file
-// @ts-ignore
-import SidebarPersister from 'virtual:starlight/components/SidebarPersister';
-// @ts-ignore
-import SidebarSublist from 'virtual:starlight/components/SidebarSublist';
-// @ts-ignore
-import MobileMenuFooter from 'virtual:starlight/components/MobileMenuFooter';
-
-// Get the current sidebar from Starlight runtime
-let { sidebar } = (Astro.locals as any).starlightRoute;
-
 const path = Astro.url.pathname;
 
-// Filter sidebar items per path
+// Get current sidebar from Starlight runtime
+let sidebar = Astro.locals.starlightRoute?.sidebar ?? [];
+
+// Filter items per path
 if (path.startsWith('/truetech/')) {
   sidebar = sidebar.filter((item: any) => item.autogenerate?.directory?.startsWith('truetech'));
 } else if (path.startsWith('/gamingforge/')) {
@@ -20,7 +12,6 @@ if (path.startsWith('/truetech/')) {
 } else if (path.startsWith('/lifeforge/')) {
   sidebar = sidebar.filter((item: any) => item.autogenerate?.directory?.startsWith('lifeforge'));
 } else {
-  // root or default
   sidebar = sidebar.filter((item: any) => 
     !item.autogenerate?.directory?.includes('truetech') &&
     !item.autogenerate?.directory?.includes('gamingforge') &&
@@ -33,6 +24,4 @@ if (path.startsWith('/truetech/')) {
   <SidebarSublist sublist={sidebar} />
 </SidebarPersister>
 
-<div class="md:sl-hidden">
-  <MobileMenuFooter />
-</div>
+<MobileMenuFooter class="md:sl-hidden" />
