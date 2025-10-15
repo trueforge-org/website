@@ -128,13 +128,6 @@ export default defineConfig({
           },
         },
         {
-          label: "Common Chart Options",
-          collapsed: true,
-          autogenerate: {
-            directory: "common",
-          },
-        },
-        {
           label: "Guides",
           collapsed: true,
           autogenerate: {
@@ -142,24 +135,24 @@ export default defineConfig({
           },
         },
         {
-          label: "ClusterTool",
+          label: "TrueTool",
           collapsed: true,
           autogenerate: {
-            directory: "clustertool",
+            directory: "truetool",
           },
         },
         {
-          label: "Charts",
+          label: "TrueCharts-Common",
           collapsed: true,
           autogenerate: {
-            directory: "charts",
+            directory: "truecharts-common",
           },
         },
         {
-          label: "Development",
+          label: "truecharts",
           collapsed: true,
           autogenerate: {
-            directory: "development",
+            directory: "truecharts",
           },
         },
       ],
