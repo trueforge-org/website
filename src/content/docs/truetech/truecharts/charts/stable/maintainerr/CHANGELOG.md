@@ -267,8 +267,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.2.1 • [Train: stable]
 
-- chore(deps): update container image jorenn92/maintainerr to v2.1.1@1552a72 by renovate (#26157) • [`70ea33f`](https://github.com/trueforge-org/truecharts/commit/70ea33fd8812ce69926820f6b023793d00413062) • [@TrueCharts Bot] (2024-09-09)
 - chore(deps): update container image common to v24.1.15@0763087 by renovate (#26098) • [`5fca841`](https://github.com/trueforge-org/truecharts/commit/5fca8413569321d0bb70e2e788319c99151f624f) • [@TrueCharts Bot] (2024-09-09)
+- chore(deps): update container image jorenn92/maintainerr to v2.1.1@1552a72 by renovate (#26157) • [`70ea33f`](https://github.com/trueforge-org/truecharts/commit/70ea33fd8812ce69926820f6b023793d00413062) • [@TrueCharts Bot] (2024-09-09)
 
 ## 4.2.0 • [Train: stable]
 
