@@ -15,12 +15,13 @@ import ImageZoom from "starlight-image-zoom/components/ImageZoom.astro";
 <div class="header sl-flex">
   <div class="title-wrapper sl-flex">
     <SiteTitle {...Astro.props} />
-    <div class="sl-flex">
+    <div class="separator"></div>
+    <div class="sl-flex nav-wrapper">
       <Navigation />
     </div>
   </div>
   <div
-    class="place-self-end w-[27%] h-full xl:w-96 lg:w-32 md:w-32 place-content-center max-sm:w-12"
+    class="search-container place-self-end h-full place-content-center"
   >
     <Search {...Astro.props} />
   </div>
@@ -42,8 +43,29 @@ import ImageZoom from "starlight-image-zoom/components/ImageZoom.astro";
   }
 
   .title-wrapper {
-    /* Prevent long titles overflowing and covering the search and menu buttons on narrow viewports. */
     overflow: hidden;
+    align-items: center;
+    gap: 0.75rem; /* half the previous space */
+  }
+
+  .separator {
+    width: 1px;
+    height: 1.5rem;
+    background-color: var(--sl-color-gray-5);
+    margin-inline: 0.375rem; /* half the previous margin */
+  }
+
+  .nav-wrapper {
+    align-items: center;
+  }
+
+  /* Limit the search bar width */
+  .search-container {
+    width: 100%;
+    max-width: 50%; /* constrain search to half page width */
+    min-width: 12rem; /* ensure it doesn’t get too small */
+    display: flex;
+    justify-content: flex-end;
   }
 
   .right-group,
@@ -52,6 +74,7 @@ import ImageZoom from "starlight-image-zoom/components/ImageZoom.astro";
     justify-content: flex-end;
     align-items: center;
   }
+
   .social-icons::after {
     content: "";
     height: 2rem;
@@ -62,9 +85,11 @@ import ImageZoom from "starlight-image-zoom/components/ImageZoom.astro";
     :global(:root[data-has-sidebar]) {
       --__sidebar-pad: calc(2 * var(--sl-nav-pad-x));
     }
+
     :global(:root:not([data-has-toc])) {
       --__toc-width: 0rem;
     }
+
     .header {
       --__sidebar-width: max(
         0rem,
@@ -88,8 +113,8 @@ import ImageZoom from "starlight-image-zoom/components/ImageZoom.astro";
           ),
           auto
         )
-        /* 2 (search box): all free space that is available. */
-        1fr
+        /* 2 (search box): all free space that is available, capped at 50%. */
+        minmax(0, 1fr)
         /* 3 (right items): use the space that these need. */
         auto;
       align-content: center;
