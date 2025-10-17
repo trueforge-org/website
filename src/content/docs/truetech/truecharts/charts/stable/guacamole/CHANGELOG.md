@@ -221,8 +221,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 15.0.2 • [Train: stable]
 
-- chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/trueforge-org/truecharts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
 - chore(deps): update container image common to v24.0.6@5cd15b8 by renovate (#23138) • [`b79d3fc`](https://github.com/trueforge-org/truecharts/commit/b79d3fce6d6f5a2533b217f2e9edb9e6e611d9e0) • [@TrueCharts Bot] (2024-06-15)
+- chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/trueforge-org/truecharts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
 
 ## 15.0.1 • [Train: stable]
 
@@ -370,8 +370,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 13.7.6 • [Train: stable]
 
 - Commit daily changes • [`27a72a3`](https://github.com/trueforge-org/truecharts/commit/27a72a37887f67d399214f7a53b915899fc93942) • [@TrueCharts-Bot] (2024-04-07)
-- chore(deps): update container image guacamole/guacd to v1.5.5@38232ca by renovate (#20304) • [`6b032e2`](https://github.com/trueforge-org/truecharts/commit/6b032e2d472b15477275b3d51091d1dc88eae90b) • [@TrueCharts Bot] (2024-04-06)
 - chore(deps): update container image guacamole/guacamole to v1.5.5@0f62f6d by renovate (#20303) • [`0e146f9`](https://github.com/trueforge-org/truecharts/commit/0e146f9635092f8c476e17fe6370ebef1145fac9) • [@TrueCharts Bot] (2024-04-06)
+- chore(deps): update container image guacamole/guacd to v1.5.5@38232ca by renovate (#20304) • [`6b032e2`](https://github.com/trueforge-org/truecharts/commit/6b032e2d472b15477275b3d51091d1dc88eae90b) • [@TrueCharts Bot] (2024-04-06)
 
 ## 13.7.5 • [Train: stable]
 
@@ -568,9 +568,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - chore: move everything to consume OCI-hosted common-chart dependency • [`0eae972`](https://github.com/trueforge-org/truecharts/commit/0eae972794d2fe164dc298993e899508639d2f2b) • [@Kjeld Schouten] (2024-01-01)
 - Commit daily changes • [`92663fd`](https://github.com/trueforge-org/truecharts/commit/92663fd20508f148c3750c79de3f37f44530a18a) • [@TrueCharts-Bot] (2024-01-01)
-- Commit daily changes • [`bf535bc`](https://github.com/trueforge-org/truecharts/commit/bf535bc529cd11f520ea04d08751f4b3083b8c91) • [@TrueCharts-Bot] (2023-12-31)
 - chore(docs): lints some docs, uses front-matter instead of # h1, and fix list items in changelog (#16589) • [`12b5c56`](https://github.com/trueforge-org/truecharts/commit/12b5c56b241e801486c6cedab0b783949449048e) • [@Stavros Kois] (2023-12-31)
 - chore(docs): standardize ./img references (#16704) • [`6986224`](https://github.com/trueforge-org/truecharts/commit/698622495ce0dccf9f0dbbb324d5df196d3eba3c) • [@Stavros Kois] (2023-12-31)
+- Commit daily changes • [`bf535bc`](https://github.com/trueforge-org/truecharts/commit/bf535bc529cd11f520ea04d08751f4b3083b8c91) • [@TrueCharts-Bot] (2023-12-31)
 - chore(deps): update helm general minor by renovate (#16579) • [`9eddcd9`](https://github.com/trueforge-org/truecharts/commit/9eddcd99d3acbcf55a2f3e67b046a8f288d56a59) • [@TrueCharts Bot] (2023-12-30)
 
 ## 12.0.1 • [Train: stable]
@@ -719,13 +719,13 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 10.0.5 • [Train: stable]
 
-- chore(deps): update helm general non-major (#13386) • [`aedf77b`](https://github.com/trueforge-org/truecharts/commit/aedf77b4b8ca7130b335c152bdc1e8845218bae8) • [@TrueCharts Bot] (2023-10-08)
 - chore(preccomit): run precocmit (#13387) • [`a51d429`](https://github.com/trueforge-org/truecharts/commit/a51d42902826956995db9edd4627841e7e58e5ef) • [@Stavros Kois] (2023-10-08)
+- chore(deps): update helm general non-major (#13386) • [`aedf77b`](https://github.com/trueforge-org/truecharts/commit/aedf77b4b8ca7130b335c152bdc1e8845218bae8) • [@TrueCharts Bot] (2023-10-08)
 
 ## 10.0.4 • [Train: stable]
 
-- chore(deps): update container image tccr.io/truecharts/guacamole-server to v1.5.3 (#11250) • [`0d981d8`](https://github.com/trueforge-org/truecharts/commit/0d981d866b3d620eed6bf97ba00ebc9cddf20b53) • [@TrueCharts Bot] (2023-08-06)
 - chore(deps): update container image tccr.io/truecharts/guacamole-client to v1.5.3 (#11249) • [`a004b6a`](https://github.com/trueforge-org/truecharts/commit/a004b6a165af736576defe049dc1d647fb0dda00) • [@TrueCharts Bot] (2023-08-06)
+- chore(deps): update container image tccr.io/truecharts/guacamole-server to v1.5.3 (#11250) • [`0d981d8`](https://github.com/trueforge-org/truecharts/commit/0d981d866b3d620eed6bf97ba00ebc9cddf20b53) • [@TrueCharts Bot] (2023-08-06)
 
 ## 10.0.3 • [Train: stable]
 
