@@ -1,3 +1,3 @@
 ---
-title: truetech
+title: TrueTech
 ---
