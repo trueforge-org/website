@@ -212,8 +212,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 2.2.16 • [Train: incubator]
 
 - fix(website): remove references to deprecated guides • [`d25d00b`](https://github.com/trueforge-org/truecharts/commit/d25d00b9c237f6cbe63941158ccffe03ed9943e9) • [@Kjeld Schouten] (2024-11-04)
-- Commit daily changes • [`b70a504`](https://github.com/trueforge-org/truecharts/commit/b70a504cf21acb2c97518fb6fb1b8ee135e7742d) • [@TrueCharts-Bot] (2024-11-03)
 - chore(helm): update image docker.io/pepperlabs/peppermint digest to 9f031c3 (#28744) • [`43590cc`](https://github.com/trueforge-org/truecharts/commit/43590cc9745d7858e76bb9d40c49e50d977e2905) • [@TrueCharts Bot] (2024-11-03)
+- Commit daily changes • [`b70a504`](https://github.com/trueforge-org/truecharts/commit/b70a504cf21acb2c97518fb6fb1b8ee135e7742d) • [@TrueCharts-Bot] (2024-11-03)
 
 ## 2.2.15 • [Train: incubator]
 
