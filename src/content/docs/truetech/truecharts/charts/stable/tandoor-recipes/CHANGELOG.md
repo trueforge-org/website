@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 20.12.0 • [Train: stable]
+
+- chore(helm): update chart common 28.25.0 → 28.26.0 (#40767) • [`0defe4d`](https://github.com/trueforge-org/truecharts/commit/0defe4df968bb0f1ed315cf3f8f8fe93909f119b) • [@TrueCharts Bot] (2025-10-18)
+
 ## 20.11.1 • [Train: stable]
 
 - chore(helm): update image ghcr.io/tandoorrecipes/recipes 2.3.2 → 2.3.3 (#40766) • [`ab25af4`](https://github.com/trueforge-org/truecharts/commit/ab25af4d5727ed6b7614b25baf18cf8927067694) • [@TrueCharts Bot] (2025-10-15)
@@ -440,8 +444,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 16.8.6 • [Train: stable]
 
-- Webp icons2 (#20851) • [`8b489f4`](https://github.com/trueforge-org/truecharts/commit/8b489f48bb8f4f6a01050a08ad544323375bce74) • [@Kjeld Schouten] (2024-04-16)
 - chore(deps): update container image common to v20.3.7@8cf9fc9 by renovate (#20819) • [`4413ae4`](https://github.com/trueforge-org/truecharts/commit/4413ae4d1cdd32a9d5f70d57f0c01e429ee90298) • [@TrueCharts Bot] (2024-04-16)
+- Webp icons2 (#20851) • [`8b489f4`](https://github.com/trueforge-org/truecharts/commit/8b489f48bb8f4f6a01050a08ad544323375bce74) • [@Kjeld Schouten] (2024-04-16)
 
 ## 16.8.5 • [Train: stable]
 

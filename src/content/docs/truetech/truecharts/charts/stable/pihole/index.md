@@ -2,7 +2,7 @@
 title: pihole
 ---
 
-![Version: 20.12.0](https://img.shields.io/badge/Version-20.12.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2025.08.0](https://img.shields.io/badge/AppVersion-2025.08.0-informational?style=flat-square)
+![Version: 20.13.0](https://img.shields.io/badge/Version-20.13.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2025.08.0](https://img.shields.io/badge/AppVersion-2025.08.0-informational?style=flat-square)
 
 DNS and Ad-filtering for your network
 

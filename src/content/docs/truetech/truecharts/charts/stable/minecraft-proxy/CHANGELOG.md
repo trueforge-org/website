@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.11.0 • [Train: stable]
+
+- chore(helm): update chart common 28.25.0 → 28.26.0 (#40767) • [`0defe4d`](https://github.com/trueforge-org/truecharts/commit/0defe4df968bb0f1ed315cf3f8f8fe93909f119b) • [@TrueCharts Bot] (2025-10-18)
+
 ## 2.10.0 • [Train: stable]
 
 - chore(helm): update chart common 28.24.0 → 28.25.0 (#40671) • [`ac1958b`](https://github.com/trueforge-org/truecharts/commit/ac1958bbcd6e3dc7e705f7515738109525ab064b) • [@TrueCharts Bot] (2025-10-14)
@@ -40,8 +44,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.6.1 • [Train: stable]
 
-- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 - Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
+- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 
 ## 2.6.0 • [Train: stable]
 

@@ -2,7 +2,7 @@
 title: ariang
 ---
 
-![Version: 11.10.0](https://img.shields.io/badge/Version-11.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.3.11](https://img.shields.io/badge/AppVersion-1.3.11-informational?style=flat-square)
+![Version: 11.11.0](https://img.shields.io/badge/Version-11.11.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.3.11](https://img.shields.io/badge/AppVersion-1.3.11-informational?style=flat-square)
 
 A modern web frontend making aria2 easier to use | Aria2 WebUI.
 

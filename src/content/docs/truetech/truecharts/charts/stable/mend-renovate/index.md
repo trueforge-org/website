@@ -2,7 +2,7 @@
 title: mend-renovate
 ---
 
-![Version: 4.12.0](https://img.shields.io/badge/Version-4.12.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 11.4.0](https://img.shields.io/badge/AppVersion-11.4.0-informational?style=flat-square)
+![Version: 4.13.0](https://img.shields.io/badge/Version-4.13.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 11.4.0](https://img.shields.io/badge/AppVersion-11.4.0-informational?style=flat-square)
 
 Selfhosted Mend Renovate App with included webhook and Github APP
 
