@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 0.1.0 • [Train: incubator]
+
+- chore(helm): update chart common 28.25.0 → 28.26.0 (#40846) • [`1d62cff`](https://github.com/trueforge-org/truecharts/commit/1d62cffed47689efb55ef7da4cef1e69c901bd74) • [@TrueCharts Bot] (2025-10-18)
+
 ## 0.0.2 • [Train: incubator]
 
 - chore(helm): update image docker.io/dispatcharr/dispatcharr digest to 31242b5 (#40844) • [`295173a`](https://github.com/trueforge-org/truecharts/commit/295173aced3e3123aa235635defa28c38349cf60) • [@TrueCharts Bot] (2025-10-18)
