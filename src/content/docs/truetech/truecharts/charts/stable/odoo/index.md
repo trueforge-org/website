@@ -2,7 +2,7 @@
 title: odoo
 ---
 
-![Version: 22.6.0](https://img.shields.io/badge/Version-22.6.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 19.0.0](https://img.shields.io/badge/AppVersion-19.0.0-informational?style=flat-square)
+![Version: 22.6.1](https://img.shields.io/badge/Version-22.6.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 19.0.0](https://img.shields.io/badge/AppVersion-19.0.0-informational?style=flat-square)
 
 All-in-one business software. Beautiful. Easy-to-use. CRM, Accounting, PM, HR, Procurement, Point of Sale, MRP, Marketing, etc.
 

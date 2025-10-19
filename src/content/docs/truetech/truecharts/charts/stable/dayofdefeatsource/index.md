@@ -2,7 +2,7 @@
 title: dayofdefeatsource
 ---
 
-![Version: 8.11.0](https://img.shields.io/badge/Version-8.11.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: dods](https://img.shields.io/badge/AppVersion-dods-informational?style=flat-square)
+![Version: 8.11.1](https://img.shields.io/badge/Version-8.11.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: dods](https://img.shields.io/badge/AppVersion-dods-informational?style=flat-square)
 
 This Chart will download and install SteamCMD. It will also install Day of Defeat: Source and run it.
 

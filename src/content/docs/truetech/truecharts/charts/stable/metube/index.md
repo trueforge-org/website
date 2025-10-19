@@ -2,7 +2,7 @@
 title: metube
 ---
 
-![Version: 16.14.0](https://img.shields.io/badge/Version-16.14.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2025.10.15](https://img.shields.io/badge/AppVersion-2025.10.15-informational?style=flat-square)
+![Version: 16.14.1](https://img.shields.io/badge/Version-16.14.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2025.10.15](https://img.shields.io/badge/AppVersion-2025.10.15-informational?style=flat-square)
 
 Web GUI for youtube-dl.
 

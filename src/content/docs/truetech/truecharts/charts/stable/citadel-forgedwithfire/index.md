@@ -2,7 +2,7 @@
 title: citadel-forgedwithfire
 ---
 
-![Version: 8.11.0](https://img.shields.io/badge/Version-8.11.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: citadelfwf](https://img.shields.io/badge/AppVersion-citadelfwf-informational?style=flat-square)
+![Version: 8.11.1](https://img.shields.io/badge/Version-8.11.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: citadelfwf](https://img.shields.io/badge/AppVersion-citadelfwf-informational?style=flat-square)
 
 This Chart will download and install SteamCMD. It will also install Citadel - Forged with Fire and run it.
 
