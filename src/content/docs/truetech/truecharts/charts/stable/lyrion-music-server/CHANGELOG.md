@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.11.2 • [Train: stable]
+
+- chore(helm): update image docker.io/lmscommunity/lyrionmusicserver digest to 0b22614 (#40902) • [`8ca3d40`](https://github.com/trueforge-org/truecharts/commit/8ca3d40e56d3fdfe51161a098995ebfd57eb9817) • [@TrueCharts Bot] (2025-10-20)
+
 ## 5.11.1 • [Train: stable]
 
 - chore(helm): update chart common 28.26.0 → 28.26.1 (#40878) • [`2e90331`](https://github.com/trueforge-org/truecharts/commit/2e903316c8f43f88dfb876781b8d8ad1a2720de1) • [@TrueCharts Bot] (2025-10-19)
@@ -775,9 +779,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.5 • [Train: incubator]
 
-- Commit daily changes • [`3bbe620`](https://github.com/trueforge-org/truecharts/commit/3bbe62084f52c024e50a48f42438dd8a595bda0e) • [@TrueCharts-Bot] (2024-04-17)
 - Commit daily changes • [`26af685`](https://github.com/trueforge-org/truecharts/commit/26af68565949440123d8ba215a7e8544ec455067) • [@TrueCharts-Bot] (2024-04-17)
 - Revert &#34;Commit daily changes&#34; • [`328900e`](https://github.com/trueforge-org/truecharts/commit/328900e43814c8ec97a259f5124b503dcad3dd34) • [@Kjeld Schouten] (2024-04-17)
+- Commit daily changes • [`3bbe620`](https://github.com/trueforge-org/truecharts/commit/3bbe62084f52c024e50a48f42438dd8a595bda0e) • [@TrueCharts-Bot] (2024-04-17)
 - chore(deps): update ignored updates to v20.3.8@52f4118 by renovate (#20876) • [`0347003`](https://github.com/trueforge-org/truecharts/commit/03470036d7e37c8fbcb25953e7558c6f2961e9c0) • [@TrueCharts Bot] (2024-04-16)
 
 ## 1.0.4 • [Train: incubator]
