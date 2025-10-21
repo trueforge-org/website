@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 4.14.0 • [Train: stable]
+
+- chore(helm): update image ghcr.io/mend/renovate-ce 11.4.0 → 11.5.0 (#40936) • [`70139e5`](https://github.com/trueforge-org/truecharts/commit/70139e5f6f4056203db6caea8cb9bae3e9c25729) • [@TrueCharts Bot] (2025-10-21)
+
 ## 4.13.1 • [Train: stable]
 
 - chore(helm): update chart common 28.26.0 → 28.26.1 (#40878) • [`2e90331`](https://github.com/trueforge-org/truecharts/commit/2e903316c8f43f88dfb876781b8d8ad1a2720de1) • [@TrueCharts Bot] (2025-10-19)
