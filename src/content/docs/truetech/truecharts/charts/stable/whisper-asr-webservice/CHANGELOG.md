@@ -603,8 +603,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.0.0 • [Train: stable]
 
-- Commit daily changes • [`1b4ce58`](https://github.com/trueforge-org/truecharts/commit/1b4ce58b07af1529cb62f6554febbdc1f797ddb6) • [@TrueCharts-Bot] (2023-12-20)
 - chore(deps): update helm general major by renovate (major) (#14631) • [`49e418b`](https://github.com/trueforge-org/truecharts/commit/49e418b48889cb85206afcb8bcc4edef31a6303e) • [@TrueCharts Bot] (2023-12-20)
+- Commit daily changes • [`1b4ce58`](https://github.com/trueforge-org/truecharts/commit/1b4ce58b07af1529cb62f6554febbdc1f797ddb6) • [@TrueCharts-Bot] (2023-12-20)
 
 ## 1.0.20 • [Train: stable]
 
@@ -665,8 +665,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.9 • [Train: stable]
 
-- chore(deps): update container image tccr.io/truecharts/whisper-asr-webservice-gpu to v1.2.2 (#14296) • [`2bb6570`](https://github.com/trueforge-org/truecharts/commit/2bb65708e999bbba7261a066ab422200998a7e3c) • [@TrueCharts Bot] (2023-11-03)
 - chore(deps): update container image tccr.io/truecharts/whisper-asr-webservice-cpu to v1.2.2 (#14295) • [`503627b`](https://github.com/trueforge-org/truecharts/commit/503627b6e1848b440297bc8068307d2794c5403c) • [@TrueCharts Bot] (2023-11-03)
+- chore(deps): update container image tccr.io/truecharts/whisper-asr-webservice-gpu to v1.2.2 (#14296) • [`2bb6570`](https://github.com/trueforge-org/truecharts/commit/2bb65708e999bbba7261a066ab422200998a7e3c) • [@TrueCharts Bot] (2023-11-03)
 
 ## 1.0.8 • [Train: stable]
 
