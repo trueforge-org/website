@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.11.2 • [Train: stable]
+
+- chore(helm): update image ghcr.io/squat/generic-device-plugin digest to 62dda74 (#40957) • [`28160e3`](https://github.com/trueforge-org/truecharts/commit/28160e3329a36f993b8f971c60a308886ca27c8d) • [@TrueCharts Bot] (2025-10-22)
+
 ## 2.11.1 • [Train: stable]
 
 - chore(helm): update chart common 28.26.0 → 28.26.1 (#40878) • [`2e90331`](https://github.com/trueforge-org/truecharts/commit/2e903316c8f43f88dfb876781b8d8ad1a2720de1) • [@TrueCharts Bot] (2025-10-19)
