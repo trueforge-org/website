@@ -2,7 +2,7 @@
 title: adguard-home
 ---
 
-![Version: 12.11.1](https://img.shields.io/badge/Version-12.11.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.107.67](https://img.shields.io/badge/AppVersion-0.107.67-informational?style=flat-square)
+![Version: 12.11.2](https://img.shields.io/badge/Version-12.11.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.107.68](https://img.shields.io/badge/AppVersion-0.107.68-informational?style=flat-square)
 
 Free and open source, powerful network-wide ads & trackers blocking DNS server.
 
