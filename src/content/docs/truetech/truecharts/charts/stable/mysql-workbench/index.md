@@ -2,7 +2,7 @@
 title: mysql-workbench
 ---
 
-![Version: 12.11.1](https://img.shields.io/badge/Version-12.11.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 8.0.43](https://img.shields.io/badge/AppVersion-8.0.43-informational?style=flat-square)
+![Version: 12.11.2](https://img.shields.io/badge/Version-12.11.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 8.0.44](https://img.shields.io/badge/AppVersion-8.0.44-informational?style=flat-square)
 
 MySQL Workbench is a unified visual tool for database architects, developers and DBAs.
 
