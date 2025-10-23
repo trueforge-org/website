@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 4.9.3 • [Train: stable]
+
+- chore(helm): update image ghcr.io/g0ldyy/comet digest to fa1dffb (#40986) • [`79d4e8d`](https://github.com/trueforge-org/truecharts/commit/79d4e8d1eea54b8691905a7efb2dc661aa103011) • [@TrueCharts Bot] (2025-10-23)
+
 ## 4.9.2 • [Train: stable]
 
 - chore(helm): update image ghcr.io/g0ldyy/comet digest to b87ba56 (#40880) • [`e54c930`](https://github.com/trueforge-org/truecharts/commit/e54c930decbe8cb7d26e3f8559e88cd82d6df1ac) • [@TrueCharts Bot] (2025-10-19)
@@ -29,9 +33,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.7.0 • [Train: stable]
 
-- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 - More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
+- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 
 ## 4.6.1 • [Train: stable]
 
