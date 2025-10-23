@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 6.15.0 • [Train: stable]
+
+- chore(helm): update image ghcr.io/atuinsh/atuin v18.9.0 → v18.10.0 (#40996) • [`fecc995`](https://github.com/trueforge-org/truecharts/commit/fecc99507fc51579b5c75691c98db9c53f315ebc) • [@TrueCharts Bot] (2025-10-23)
+
 ## 6.14.0 • [Train: stable]
 
 - chore(helm): update image ghcr.io/atuinsh/atuin v18.8.0 → v18.9.0 (#40917) • [`ec5b177`](https://github.com/trueforge-org/truecharts/commit/ec5b177feeb5ac34461d371165b3d638f3c75101) • [@TrueCharts Bot] (2025-10-20)
@@ -29,9 +33,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.11.0 • [Train: stable]
 
+- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 - More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
-- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 
 ## 6.10.0 • [Train: stable]
 
@@ -52,8 +56,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.8.1 • [Train: stable]
 
-- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 - Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
+- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 
 ## 6.8.0 • [Train: stable]
 
