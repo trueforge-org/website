@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.11.4 • [Train: stable]
+
+- chore(helm): update image ghcr.io/dgtlmoon/changedetection.io 0.50.28 → 0.50.29 (#41028) • [`8c55b71`](https://github.com/trueforge-org/truecharts/commit/8c55b7165d8167826e7fd297fd7802dfab71955e) • [@TrueCharts Bot] (2025-10-23)
+
 ## 5.11.3 • [Train: stable]
 
 - chore(helm): update image ghcr.io/dgtlmoon/changedetection.io 0.50.27 → 0.50.28 (#40953) • [`7e74a7f`](https://github.com/trueforge-org/truecharts/commit/7e74a7f7cccc04176079b9291a6eb9dadcb1b0c3) • [@TrueCharts Bot] (2025-10-21)
@@ -88,8 +92,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.6.1 • [Train: stable]
 
-- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 - chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
+- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 
 ## 5.6.0 • [Train: stable]
 
@@ -554,8 +558,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.8.8 • [Train: stable]
 
-- chore(deps): update container image ghcr.io/dgtlmoon/changedetection.io to v0.45.19@a1c0310 by renovate (#20906) • [`d0639fa`](https://github.com/trueforge-org/truecharts/commit/d0639fa62e08aa8e22713cac4b3f9a37fa7a1204) • [@TrueCharts Bot] (2024-04-18)
 - Commit daily changes • [`dd036eb`](https://github.com/trueforge-org/truecharts/commit/dd036eb75382bb8ae09c8ce995a99cb045d85d54) • [@TrueCharts-Bot] (2024-04-18)
+- chore(deps): update container image ghcr.io/dgtlmoon/changedetection.io to v0.45.19@a1c0310 by renovate (#20906) • [`d0639fa`](https://github.com/trueforge-org/truecharts/commit/d0639fa62e08aa8e22713cac4b3f9a37fa7a1204) • [@TrueCharts Bot] (2024-04-18)
 
 ## 2.8.7 • [Train: stable]
 
