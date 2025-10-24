@@ -2,7 +2,7 @@
 title: lyrion-music-server
 ---
 
-![Version: 5.11.4](https://img.shields.io/badge/Version-5.11.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 9.1.0](https://img.shields.io/badge/AppVersion-9.1.0-informational?style=flat-square)
+![Version: 5.11.5](https://img.shields.io/badge/Version-5.11.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 9.1.0](https://img.shields.io/badge/AppVersion-9.1.0-informational?style=flat-square)
 
 Lyrion Music Server is a platform for home/office audio streaming.
 
