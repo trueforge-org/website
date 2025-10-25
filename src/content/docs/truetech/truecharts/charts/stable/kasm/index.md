@@ -2,7 +2,7 @@
 title: kasm
 ---
 
-![Version: 11.11.1](https://img.shields.io/badge/Version-11.11.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.17.0](https://img.shields.io/badge/AppVersion-1.17.0-informational?style=flat-square)
+![Version: 11.12.0](https://img.shields.io/badge/Version-11.12.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.18.0](https://img.shields.io/badge/AppVersion-1.18.0-informational?style=flat-square)
 
 Kasm Workspaces is a streaming platform for delivering browser-based access to desktops, applications, and web services.
 
