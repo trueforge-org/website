@@ -303,8 +303,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.0.0 • [Train: stable]
 
-- feat(atuin): migrate atuin to stable (#21459) • [`2b90fee`](https://github.com/trueforge-org/truecharts/commit/2b90feea493db36ada849a55326e3b48943c0aa6) • [@Brendan] (2024-05-05)
 - Commit daily changes • [`7c14a14`](https://github.com/trueforge-org/truecharts/commit/7c14a140bf31434604ff24044519b2d613a56a02) • [@TrueCharts-Bot] (2024-05-05)
+- feat(atuin): migrate atuin to stable (#21459) • [`2b90fee`](https://github.com/trueforge-org/truecharts/commit/2b90feea493db36ada849a55326e3b48943c0aa6) • [@Brendan] (2024-05-05)
 
 ## 3.0.4 • [Train: incubator]
 
