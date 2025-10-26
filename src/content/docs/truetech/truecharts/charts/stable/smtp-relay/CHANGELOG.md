@@ -335,8 +335,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.0.10 • [Train: stable]
 
-- Commit daily changes • [`529340b`](https://github.com/trueforge-org/truecharts/commit/529340b7575e8cd6d00d2499271dc62e58a8d18d) • [@TrueCharts-Bot] (2024-05-26)
 - Commit daily changes • [`e50357a`](https://github.com/trueforge-org/truecharts/commit/e50357a154422a397a11141869f0973293102e49) • [@TrueCharts-Bot] (2024-05-26)
+- Commit daily changes • [`529340b`](https://github.com/trueforge-org/truecharts/commit/529340b7575e8cd6d00d2499271dc62e58a8d18d) • [@TrueCharts-Bot] (2024-05-26)
 - chore(deps): update container image ghcr.io/ix-ai/smtp to v0.5.2@ab6ccee by renovate (#22347) • [`64e7b6e`](https://github.com/trueforge-org/truecharts/commit/64e7b6e8955b86a721a6ceb2dc3c70f4f69c5850) • [@TrueCharts Bot] (2024-05-25)
 
 ## 4.0.9 • [Train: stable]
