@@ -670,8 +670,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.8 • [Train: stable]
 
-- chore(deps): update helm general non-major (#14287) • [`4f3a7d8`](https://github.com/trueforge-org/truecharts/commit/4f3a7d84428b0db8b0fb305db9ac8e68ec9fd3dd) • [@TrueCharts Bot] (2023-11-03)
 - chore(deps): update container image tccr.io/truecharts/whisper-asr-webservice-gpu to v1.2.1 (#14285) • [`53d1316`](https://github.com/trueforge-org/truecharts/commit/53d131676cec67da4bddf2d211adf0f295a0b40e) • [@TrueCharts Bot] (2023-11-03)
+- chore(deps): update helm general non-major (#14287) • [`4f3a7d8`](https://github.com/trueforge-org/truecharts/commit/4f3a7d84428b0db8b0fb305db9ac8e68ec9fd3dd) • [@TrueCharts Bot] (2023-11-03)
 
 ## 1.0.7 • [Train: stable]
 
