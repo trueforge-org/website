@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.13.0 • [Train: stable]
+
+- chore(helm): update image docker.io/jorenn92/maintainerr 2.19.0 → 2.20.0 (#41173) • [`f310889`](https://github.com/trueforge-org/truecharts/commit/f310889f5fc50514302e9544211705dee0d0adb9) • [@TrueCharts Bot] (2025-10-28)
+
 ## 5.12.2 • [Train: stable]
 
 - chore(helm): update image docker.io/jorenn92/maintainerr digest to bf50fe2 (#40963) • [`a2ade91`](https://github.com/trueforge-org/truecharts/commit/a2ade91b6699da06ab017431b6f7a95e03768471) • [@TrueCharts Bot] (2025-10-22)
@@ -317,8 +321,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.0.2 • [Train: stable]
 
-- chore(deps): update container image common to v24.0.6@5cd15b8 by renovate (#23138) • [`b79d3fc`](https://github.com/trueforge-org/truecharts/commit/b79d3fce6d6f5a2533b217f2e9edb9e6e611d9e0) • [@TrueCharts Bot] (2024-06-15)
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/trueforge-org/truecharts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
+- chore(deps): update container image common to v24.0.6@5cd15b8 by renovate (#23138) • [`b79d3fc`](https://github.com/trueforge-org/truecharts/commit/b79d3fce6d6f5a2533b217f2e9edb9e6e611d9e0) • [@TrueCharts Bot] (2024-06-15)
 
 ## 4.0.1 • [Train: stable]
 
