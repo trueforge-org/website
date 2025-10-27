@@ -2,7 +2,7 @@
 title: jackett
 ---
 
-![Version: 25.11.9](https://img.shields.io/badge/Version-25.11.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.24.191](https://img.shields.io/badge/AppVersion-0.24.191-informational?style=flat-square)
+![Version: 25.11.10](https://img.shields.io/badge/Version-25.11.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.24.196](https://img.shields.io/badge/AppVersion-0.24.196-informational?style=flat-square)
 
 API Support for your favorite torrent trackers.
 
