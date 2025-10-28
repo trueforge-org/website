@@ -25,9 +25,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.9.0 • [Train: stable]
 
+- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 - More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
-- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 
 ## 2.8.0 • [Train: stable]
 
@@ -268,8 +268,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.11.5 • [Train: incubator]
 
-- bump • [`2bac9fe`](https://github.com/trueforge-org/truecharts/commit/2bac9fe04fa3536845e4e5cd7db2b6eb6190934c) • [@Kjeld Schouten] (2025-02-08)
 - move renovate cache mountpoint • [`1b178e6`](https://github.com/trueforge-org/truecharts/commit/1b178e670e704acdd2649a55b12b41bb0dd8bf9b) • [@Kjeld Schouten] (2025-02-08)
+- bump • [`2bac9fe`](https://github.com/trueforge-org/truecharts/commit/2bac9fe04fa3536845e4e5cd7db2b6eb6190934c) • [@Kjeld Schouten] (2025-02-08)
 
 ## 1.11.4 • [Train: incubator]
 
@@ -408,8 +408,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 0.11.5 • [Train: incubator]
 
 - fix(website): remove references to deprecated guides • [`d25d00b`](https://github.com/trueforge-org/truecharts/commit/d25d00b9c237f6cbe63941158ccffe03ed9943e9) • [@Kjeld Schouten] (2024-11-04)
-- Commit daily changes • [`b70a504`](https://github.com/trueforge-org/truecharts/commit/b70a504cf21acb2c97518fb6fb1b8ee135e7742d) • [@TrueCharts-Bot] (2024-11-03)
 - chore(helm): update image renovate/renovate 38.142.4 → 38.142.5 (#28769) • [`8ec6c8e`](https://github.com/trueforge-org/truecharts/commit/8ec6c8eea6c29bfa1c9ecc88dbc006efec78e869) • [@TrueCharts Bot] (2024-11-03)
+- Commit daily changes • [`b70a504`](https://github.com/trueforge-org/truecharts/commit/b70a504cf21acb2c97518fb6fb1b8ee135e7742d) • [@TrueCharts-Bot] (2024-11-03)
 
 ## 0.11.4 • [Train: incubator]
 
