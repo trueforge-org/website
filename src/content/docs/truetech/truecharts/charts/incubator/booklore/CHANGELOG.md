@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 0.2.0 • [Train: incubator]
+
+- chore(helm): update image ghcr.io/booklore-app/booklore v1.9.0 → v1.10.0 (#41203) • [`3179f82`](https://github.com/trueforge-org/truecharts/commit/3179f820918a34666eb3fb8f2acd8ec63a352b25) • [@TrueCharts Bot] (2025-10-29)
+
 ## 0.1.1 • [Train: incubator]
 
 - chore(helm): update chart mariadb 17.9.1 → 17.9.2 (#41100) • [`55dab97`](https://github.com/trueforge-org/truecharts/commit/55dab97e82942676f7422dfd47e99eece7c2832f) • [@TrueCharts Bot] (2025-10-25)
