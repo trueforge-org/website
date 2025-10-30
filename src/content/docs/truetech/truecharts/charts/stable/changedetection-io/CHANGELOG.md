@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.11.10 • [Train: stable]
+
+- chore(helm): update image ghcr.io/dgtlmoon/changedetection.io 0.50.34 → 0.50.35 (#41230) • [`00cfee4`](https://github.com/trueforge-org/truecharts/commit/00cfee4224fb30aa3cf581246a8adebebf81f407) • [@TrueCharts Bot] (2025-10-30)
+
 ## 5.11.9 • [Train: stable]
 
 - chore(helm): update image ghcr.io/dgtlmoon/changedetection.io 0.50.33 → 0.50.34 (#41202) • [`fcb9e22`](https://github.com/trueforge-org/truecharts/commit/fcb9e22da90794392f5edbef3889ae58a3c94192) • [@TrueCharts Bot] (2025-10-29)
@@ -77,9 +81,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.9.0 • [Train: stable]
 
-- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 - More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
+- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 
 ## 5.8.3 • [Train: stable]
 
