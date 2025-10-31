@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.22.0 • [Train: stable]
+
+- chore(helm): update image twinproduction/gatus v5.29.0 → v5.30.0 (#41306) • [`0b51ed0`](https://github.com/trueforge-org/truecharts/commit/0b51ed02f3f60a1b1c42fb674c944324ca8eeedb) • [@TrueCharts Bot] (2025-10-31)
+
 ## 2.21.0 • [Train: stable]
 
 - chore(helm): update image twinproduction/gatus v5.28.0 → v5.29.0 (#41198) • [`2e9722a`](https://github.com/trueforge-org/truecharts/commit/2e9722a04c73c26fb2227d118c23d0f2a43d9d6e) • [@TrueCharts Bot] (2025-10-28)
