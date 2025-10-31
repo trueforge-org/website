@@ -3,13 +3,17 @@ title: Changelog
 pagefind: false
 ---
 
-All history information can be found at [Github History](https://github.com/trueforge-org/truecharts/commits/master/charts/incubator/booklore)
+All history information can be found at [Github History](https://github.com/trueforge-org/truecharts/commits/master/charts/stable/booklore)
 
 :::tip
 
 If you need more than 2 scrolls to find your current version, please consider updating the chart as soon as possible.
 
 :::
+
+## 1.0.0 • [Train: stable]
+
+- feat(booklore) move booklore to stable (#41286) • [`6b970ed`](https://github.com/trueforge-org/truecharts/commit/6b970eda25ceb24a837546896f756cd8dc580aef) • [@Albert Romkes] (2025-10-31)
 
 ## 0.2.0 • [Train: incubator]
 
