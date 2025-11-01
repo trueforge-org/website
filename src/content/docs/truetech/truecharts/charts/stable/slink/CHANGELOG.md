@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.13.3 • [Train: stable]
+
+- chore(helm): update chart common 28.26.1 → 28.26.2 (#41140) • [`2af9956`](https://github.com/trueforge-org/truecharts/commit/2af9956272fcc13211d713ad87b156f53e390345) • [@TrueCharts Bot] (2025-11-01)
+
 ## 5.13.2 • [Train: stable]
 
 - chore(helm): update image docker.io/anirdev/slink v1.7.3 → v1.7.5 (#41027) • [`51c9e41`](https://github.com/trueforge-org/truecharts/commit/51c9e418c6e74746d7061fcca5f43322a029a396) • [@TrueCharts Bot] (2025-10-24)

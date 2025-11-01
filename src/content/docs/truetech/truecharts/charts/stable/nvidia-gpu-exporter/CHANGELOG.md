@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.12.2 • [Train: stable]
+
+- chore(helm): update chart common 28.26.1 → 28.26.2 (#41140) • [`2af9956`](https://github.com/trueforge-org/truecharts/commit/2af9956272fcc13211d713ad87b156f53e390345) • [@TrueCharts Bot] (2025-11-01)
+
 ## 5.12.1 • [Train: stable]
 
 - chore(helm): update chart common 28.26.0 → 28.26.1 (#40878) • [`2e90331`](https://github.com/trueforge-org/truecharts/commit/2e903316c8f43f88dfb876781b8d8ad1a2720de1) • [@TrueCharts Bot] (2025-10-19)
@@ -88,8 +92,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.3.5 • [Train: stable]
 
-- chore: fix links • [`1c28a12`](https://github.com/trueforge-org/truecharts/commit/1c28a127898e7db3a350e07a42810acd8eaa4c30) • [@Kjeld Schouten] (2025-09-07)
 - chore(helm): update chart common 28.16.5 → 28.16.6 (#39145) • [`827fa3c`](https://github.com/trueforge-org/truecharts/commit/827fa3cc55b82b3d292228d8b331331b863ffb3b) • [@TrueCharts Bot] (2025-09-07)
+- chore: fix links • [`1c28a12`](https://github.com/trueforge-org/truecharts/commit/1c28a127898e7db3a350e07a42810acd8eaa4c30) • [@Kjeld Schouten] (2025-09-07)
 
 ## 5.3.4 • [Train: stable]
 
@@ -279,8 +283,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.0.7 • [Train: stable]
 
-- Commit daily changes • [`e50357a`](https://github.com/trueforge-org/truecharts/commit/e50357a154422a397a11141869f0973293102e49) • [@TrueCharts-Bot] (2024-05-26)
 - Commit daily changes • [`529340b`](https://github.com/trueforge-org/truecharts/commit/529340b7575e8cd6d00d2499271dc62e58a8d18d) • [@TrueCharts-Bot] (2024-05-26)
+- Commit daily changes • [`e50357a`](https://github.com/trueforge-org/truecharts/commit/e50357a154422a397a11141869f0973293102e49) • [@TrueCharts-Bot] (2024-05-26)
 - chore(deps): update container image common to v23.0.8@9e7419b by renovate (#22277) • [`bbcc969`](https://github.com/trueforge-org/truecharts/commit/bbcc969f0ed40e5d7256d4f107db88a4c3ce5ab3) • [@TrueCharts Bot] (2024-05-20)
 
 ## 3.0.6 • [Train: stable]

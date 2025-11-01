@@ -2,7 +2,7 @@
 title: phpmyadmin
 ---
 
-![Version: 8.11.2](https://img.shields.io/badge/Version-8.11.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.2.2](https://img.shields.io/badge/AppVersion-5.2.2-informational?style=flat-square)
+![Version: 8.11.3](https://img.shields.io/badge/Version-8.11.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.2.3](https://img.shields.io/badge/AppVersion-5.2.3-informational?style=flat-square)
 
 A web interface for MySQL and MariaDB.
 
@@ -10,7 +10,7 @@ A web interface for MySQL and MariaDB.
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/phpmyadmin
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/phpmyadmin
-- https://hub.docker.com/_/phpmyadmin
+- https://hub.docker.com/r/phpmyadmin/phpmyadmin
 
 ## Available Documentation
 

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.9.2 • [Train: stable]
+
+- chore(helm): update chart common 28.26.1 → 28.26.2 (#41140) • [`2af9956`](https://github.com/trueforge-org/truecharts/commit/2af9956272fcc13211d713ad87b156f53e390345) • [@TrueCharts Bot] (2025-11-01)
+
 ## 1.9.1 • [Train: stable]
 
 - chore(helm): update chart common 28.26.0 → 28.26.1 (#40878) • [`2e90331`](https://github.com/trueforge-org/truecharts/commit/2e903316c8f43f88dfb876781b8d8ad1a2720de1) • [@TrueCharts Bot] (2025-10-19)

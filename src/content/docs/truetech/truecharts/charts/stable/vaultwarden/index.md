@@ -2,17 +2,17 @@
 title: vaultwarden
 ---
 
-![Version: 29.11.2](https://img.shields.io/badge/Version-29.11.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.34.3](https://img.shields.io/badge/AppVersion-1.34.3-informational?style=flat-square)
+![Version: 29.11.3](https://img.shields.io/badge/Version-29.11.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.34.3](https://img.shields.io/badge/AppVersion-1.34.3-informational?style=flat-square)
 
 Unofficial Bitwarden compatible server written in Rust
 
 ## Chart Sources
 
+- https://ghcr.io/dani-garcia/vaultwarden
 - https://ghcr.io/timshel/vaultwarden
 - https://github.com/dani-garcia/vaultwarden
 - https://github.com/truecharts/charts/tree/master/charts/stable/vaultwarden
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/vaultwarden
-- https://quay.io/vaultwarden/server
 
 ## Available Documentation
 

@@ -2,16 +2,16 @@
 title: miniflux
 ---
 
-![Version: 17.11.2](https://img.shields.io/badge/Version-17.11.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.2.13](https://img.shields.io/badge/AppVersion-2.2.13-informational?style=flat-square)
+![Version: 17.11.3](https://img.shields.io/badge/Version-17.11.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.2.14](https://img.shields.io/badge/AppVersion-2.2.14-informational?style=flat-square)
 
 Miniflux is a minimalist and opinionated feed reader.
 
 ## Chart Sources
 
+- https://ghcr.io/miniflux/miniflux
 - https://github.com/miniflux/v2
 - https://github.com/truecharts/charts/tree/master/charts/stable/miniflux
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/miniflux
-- https://quay.io/miniflux/miniflux
 
 ## Available Documentation
 

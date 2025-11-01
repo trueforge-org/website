@@ -2,15 +2,15 @@
 title: apt-cacher-ng
 ---
 
-![Version: 11.11.2](https://img.shields.io/badge/Version-11.11.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.7.4](https://img.shields.io/badge/AppVersion-3.7.4-informational?style=flat-square)
+![Version: 11.11.3](https://img.shields.io/badge/Version-11.11.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Apt-Cacher NG is a caching proxy, specialized for package files from Linux distributors, primarily for Debian (and Debian based) distributions but not limited to those.
 
 ## Chart Sources
 
+- https://ghcr.io/sameersbn/apt-cacher-ng
 - https://github.com/truecharts/charts/tree/master/charts/stable/apt-cacher-ng
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/apt-cacher-ng
-- https://quay.io/sameersbn/apt-cacher-ng
 - https://www.unix-ag.uni-kl.de/~bloch/acng/
 
 ## Available Documentation

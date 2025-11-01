@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 0.4.1 • [Train: incubator]
+
+- chore(helm): update chart common 28.26.1 → 28.26.2 (#41140) • [`2af9956`](https://github.com/trueforge-org/truecharts/commit/2af9956272fcc13211d713ad87b156f53e390345) • [@TrueCharts Bot] (2025-11-01)
+
 ## 0.4.0 • [Train: incubator]
 
 - chore(helm): update image docker.io/reaparr/reaparr 0.33.2 → 0.34.0 (#40888) • [`c53b1bd`](https://github.com/trueforge-org/truecharts/commit/c53b1bda63553b6456f9007615e788e586a7200c) • [@TrueCharts Bot] (2025-10-19)

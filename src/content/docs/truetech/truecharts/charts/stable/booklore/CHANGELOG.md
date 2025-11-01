@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.0.2 • [Train: stable]
+
+- chore(helm): update chart common 28.26.1 → 28.26.2 (#41140) • [`2af9956`](https://github.com/trueforge-org/truecharts/commit/2af9956272fcc13211d713ad87b156f53e390345) • [@TrueCharts Bot] (2025-11-01)
+
 ## 1.0.1 • [Train: stable]
 
 - chore(helm): update chart mariadb 17.9.2 → 17.9.3 (#41313) • [`e1cfe5c`](https://github.com/trueforge-org/truecharts/commit/e1cfe5cc40c4d3aa85ad15f05c9797967aaddbd5) • [@TrueCharts Bot] (2025-11-01)

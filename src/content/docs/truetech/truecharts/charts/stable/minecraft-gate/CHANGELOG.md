@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.11.5 • [Train: stable]
+
+- chore(helm): update chart common 28.26.1 → 28.26.2 (#41140) • [`2af9956`](https://github.com/trueforge-org/truecharts/commit/2af9956272fcc13211d713ad87b156f53e390345) • [@TrueCharts Bot] (2025-11-01)
+
 ## 2.11.4 • [Train: stable]
 
 - chore(helm): update image ghcr.io/minekube/gate digest to f358c3c (#41288) • [`3b68ed3`](https://github.com/trueforge-org/truecharts/commit/3b68ed3cf20ba44bb84a55104ec6445150025996) • [@TrueCharts Bot] (2025-10-31)

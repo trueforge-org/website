@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.11.3 • [Train: stable]
+
+- chore(helm): update chart common 28.26.1 → 28.26.2 (#41140) • [`2af9956`](https://github.com/trueforge-org/truecharts/commit/2af9956272fcc13211d713ad87b156f53e390345) • [@TrueCharts Bot] (2025-11-01)
+
 ## 5.11.2 • [Train: stable]
 
 - fix(Quay images): Remove most of the quay images (#41091) • [`22bfe8a`](https://github.com/trueforge-org/truecharts/commit/22bfe8a213c79eb9acd2adc1f64a2d6d42c048fe) • [@Alfred Göppel] (2025-10-25)
