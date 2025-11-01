@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.0.1 • [Train: stable]
+
+- chore(helm): update chart mariadb 17.9.2 → 17.9.3 (#41313) • [`e1cfe5c`](https://github.com/trueforge-org/truecharts/commit/e1cfe5cc40c4d3aa85ad15f05c9797967aaddbd5) • [@TrueCharts Bot] (2025-11-01)
+
 ## 1.0.0 • [Train: stable]
 
 - feat(booklore) move booklore to stable (#41286) • [`6b970ed`](https://github.com/trueforge-org/truecharts/commit/6b970eda25ceb24a837546896f756cd8dc580aef) • [@Albert Romkes] (2025-10-31)
