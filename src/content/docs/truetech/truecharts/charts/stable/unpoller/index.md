@@ -2,7 +2,7 @@
 title: unpoller
 ---
 
-![Version: 13.11.2](https://img.shields.io/badge/Version-13.11.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.15.4](https://img.shields.io/badge/AppVersion-2.15.4-informational?style=flat-square)
+![Version: 13.11.3](https://img.shields.io/badge/Version-13.11.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.15.4](https://img.shields.io/badge/AppVersion-2.15.4-informational?style=flat-square)
 
 Collect your UniFi controller data and report it to an InfluxDB instance, or export it for Prometheus collection.
 

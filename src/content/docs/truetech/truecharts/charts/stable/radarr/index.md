@@ -2,7 +2,7 @@
 title: radarr
 ---
 
-![Version: 25.5.3](https://img.shields.io/badge/Version-25.5.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.0.3.10276](https://img.shields.io/badge/AppVersion-6.0.3.10276-informational?style=flat-square)
+![Version: 25.5.4](https://img.shields.io/badge/Version-25.5.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.0.3.10276](https://img.shields.io/badge/AppVersion-6.0.3.10276-informational?style=flat-square)
 
 A fork of Sonarr to work with movies à la Couchpotato
 

@@ -2,7 +2,7 @@
 title: hedgedoc
 ---
 
-![Version: 15.11.3](https://img.shields.io/badge/Version-15.11.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.10.3](https://img.shields.io/badge/AppVersion-1.10.3-informational?style=flat-square)
+![Version: 15.11.4](https://img.shields.io/badge/Version-15.11.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.10.3](https://img.shields.io/badge/AppVersion-1.10.3-informational?style=flat-square)
 
 HedgeDoc lets you create real-time collaborative markdown notes.
 
