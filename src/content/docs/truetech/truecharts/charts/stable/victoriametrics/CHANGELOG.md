@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 4.20.0 • [Train: stable]
+
+- chore(helm): update image docker.io/victoriametrics/victoria-metrics v1.128.0 → v1.129.0 (#41378) • [`e0aa95b`](https://github.com/trueforge-org/truecharts/commit/e0aa95be20157bc19582790c06947de93153137d) • [@TrueCharts Bot] (2025-11-03)
+
 ## 4.19.2 • [Train: stable]
 
 - chore(helm): update chart common 28.26.2 → 28.26.3 (#41358) • [`7868db9`](https://github.com/trueforge-org/truecharts/commit/7868db90426e0e63b1a357ee010d5f61c0fc02dd) • [@TrueCharts Bot] (2025-11-02)
