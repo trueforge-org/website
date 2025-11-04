@@ -8,7 +8,6 @@ TeamSpeak is software for quality voice communication via the Internet.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/teamspeak3
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/teamspeak3
 - https://hub.docker.com/_/teamspeak
 - https://www.teamspeak.com/en/
@@ -24,7 +23,7 @@ TeamSpeak is software for quality voice communication via the Internet.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/teamspeak3)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/teamspeak3)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

@@ -9,7 +9,6 @@ This Chart will download and install Rapid Photo Downloader.
 ## Chart Sources
 
 - https://ghcr.io/ich777/rapidphotodownloader
-- https://github.com/truecharts/charts/tree/master/charts/stable/rapidphotodownloader
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/rapidphotodownloader
 - https://www.damonlynch.net/rapid/
 
@@ -24,7 +23,7 @@ This Chart will download and install Rapid Photo Downloader.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/rapidphotodownloader)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/rapidphotodownloader)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

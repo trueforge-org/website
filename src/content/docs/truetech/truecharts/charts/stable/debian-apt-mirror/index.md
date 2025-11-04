@@ -9,7 +9,6 @@ This Chart will run apt-mirror and Apache2. This allows you to create a local ap
 ## Chart Sources
 
 - https://ghcr.io/ich777/debian-mirror
-- https://github.com/truecharts/charts/tree/master/charts/stable/debian-apt-mirror
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/debian-apt-mirror
 - https://www.debian.org/
 
@@ -24,7 +23,7 @@ This Chart will run apt-mirror and Apache2. This allows you to create a local ap
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/debian-apt-mirror)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/debian-apt-mirror)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

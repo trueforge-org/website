@@ -9,7 +9,6 @@ Mojopaste is a pastebin application. There's about one million of these out ther
 ## Chart Sources
 
 - https://github.com/jhthorsen/app-mojopaste
-- https://github.com/truecharts/charts/tree/master/charts/stable/mojopaste
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/mojopaste
 - https://hub.docker.com/r/jhthorsen/mojopaste
 
@@ -24,7 +23,7 @@ Mojopaste is a pastebin application. There's about one million of these out ther
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/mojopaste)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/mojopaste)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

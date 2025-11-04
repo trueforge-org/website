@@ -10,7 +10,6 @@ This is a web interface to manage your torrents on Real-Debrid, AllDebrid or Pre
 
 - https://ghcr.io/rogerfar/rdtclient
 - https://github.com/rogerfar/rdt-client
-- https://github.com/truecharts/charts/tree/master/charts/stable/rdtclient
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/rdtclient
 - https://github.com/trueforge/truecharts/tree/master/charts/stable/rdtclient
 - https://hub.docker.com/r/p3terx/aria2-pro
@@ -26,7 +25,7 @@ This is a web interface to manage your torrents on Real-Debrid, AllDebrid or Pre
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/rdtclient)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/rdtclient)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

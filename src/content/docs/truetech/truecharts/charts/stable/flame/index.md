@@ -9,7 +9,6 @@ Flame is self-hosted start page for your server. Easily manage your apps and boo
 ## Chart Sources
 
 - https://github.com/pawelmalak/flame
-- https://github.com/truecharts/charts/tree/master/charts/stable/flame
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/flame
 - https://hub.docker.com/r/pawelmalak/flame
 
@@ -24,7 +23,7 @@ Flame is self-hosted start page for your server. Easily manage your apps and boo
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/flame)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/flame)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

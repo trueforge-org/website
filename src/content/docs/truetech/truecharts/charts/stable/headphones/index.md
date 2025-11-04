@@ -11,7 +11,6 @@ An automated music downloader for NZB and Torrent, written in Python. It support
 - https://ghcr.io/linuxserver/headphones
 - https://github.com/linuxserver/docker-headphones
 - https://github.com/rembo10/headphones
-- https://github.com/truecharts/charts/tree/master/charts/stable/headphones
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/headphones
 
 ## Available Documentation
@@ -25,7 +24,7 @@ An automated music downloader for NZB and Torrent, written in Python. It support
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/headphones)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/headphones)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

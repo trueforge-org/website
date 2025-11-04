@@ -10,7 +10,6 @@ Prometheus Exporter for the official uptimerobot CLI
 
 - https://github.com/k8s-at-home/charts/tree/master/charts/uptimerobot-prometheus
 - https://github.com/lekpamartin/uptimerobot_exporter
-- https://github.com/truecharts/charts/tree/master/charts/stable/uptimerobot-prometheus
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/uptimerobot-prometheus
 - https://hub.docker.com/r/billimek/prometheus-uptimerobot-exporter
 
@@ -25,7 +24,7 @@ Prometheus Exporter for the official uptimerobot CLI
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/uptimerobot-prometheus)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/uptimerobot-prometheus)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

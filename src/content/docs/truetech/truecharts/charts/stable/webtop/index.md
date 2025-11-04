@@ -12,7 +12,6 @@ Webtop full desktop environments in officially supported flavors accessible via 
 - https://github.com/linuxserver/docker-webtop#readme
 - https://github.com/linuxserver/gclient
 - https://github.com/orgs/linuxserver/packages/container/package/webtop
-- https://github.com/truecharts/charts/tree/master/charts/stable/webtop
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/webtop
 
 ## Available Documentation
@@ -27,7 +26,7 @@ Webtop full desktop environments in officially supported flavors accessible via 
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/webtop)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/webtop)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

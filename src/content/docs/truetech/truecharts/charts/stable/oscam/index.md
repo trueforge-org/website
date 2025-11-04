@@ -10,7 +10,6 @@ Open Source Conditional Access Module software
 
 - https://ghcr.io/linuxserver/oscam
 - https://git.streamboard.tv/common/oscam
-- https://github.com/truecharts/charts/tree/master/charts/stable/oscam
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/oscam
 
 ## Available Documentation
@@ -24,7 +23,7 @@ Open Source Conditional Access Module software
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/oscam)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/oscam)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

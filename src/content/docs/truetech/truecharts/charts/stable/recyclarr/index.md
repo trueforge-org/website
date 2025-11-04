@@ -11,7 +11,6 @@ A command-line application that will automatically synchronize recommended setti
 - https://ghcr.io/recyclarr/recyclarr
 - https://github.com/recyclarr/recyclarr
 - https://github.com/recyclarr/recyclarr/pkgs/container/recyclarr
-- https://github.com/truecharts/charts/tree/master/charts/stable/recyclarr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/recyclarr
 
 ## Available Documentation
@@ -26,7 +25,7 @@ A command-line application that will automatically synchronize recommended setti
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/recyclarr)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/recyclarr)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

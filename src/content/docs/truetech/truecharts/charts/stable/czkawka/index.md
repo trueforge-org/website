@@ -10,7 +10,6 @@ Czkawka is a simple, fast and free app to remove unnecessary files from your com
 
 - https://github.com/jlesage/docker-czkawka
 - https://github.com/qarmin/czkawka
-- https://github.com/truecharts/charts/tree/master/charts/stable/czkawka
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/czkawka
 - https://hub.docker.com/r/jlesage/czkawka
 
@@ -25,7 +24,7 @@ Czkawka is a simple, fast and free app to remove unnecessary files from your com
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/czkawka)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/czkawka)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

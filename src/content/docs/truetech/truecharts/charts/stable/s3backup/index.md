@@ -8,7 +8,6 @@ A simple way to backup important files to Amazon S3 and Glacier.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/s3backup
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/s3backup
 - https://hub.docker.com/r/joch/s3backup
 - https://registry.hub.docker.com/r/joch/s3backup/
@@ -24,7 +23,7 @@ A simple way to backup important files to Amazon S3 and Glacier.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/s3backup)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/s3backup)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

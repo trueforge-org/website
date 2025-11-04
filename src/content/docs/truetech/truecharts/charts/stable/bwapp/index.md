@@ -8,7 +8,6 @@ bWAPP, or a buggy web application, is a free and open source deliberately insecu
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/bwapp
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/bwapp
 - https://hub.docker.com/r/raesene/bwapp
 - https://sourceforge.net/projects/bwapp/
@@ -24,7 +23,7 @@ bWAPP, or a buggy web application, is a free and open source deliberately insecu
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/bwapp)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/bwapp)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

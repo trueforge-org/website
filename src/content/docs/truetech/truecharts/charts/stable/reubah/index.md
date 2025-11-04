@@ -10,7 +10,6 @@ A web-based tool for processing images and converting documents with a simple in
 
 - https://ghcr.io/dendianugerah/reubah
 - https://github.com/dendianugerah/reubah
-- https://github.com/truecharts/charts/tree/master/charts/stable/reubah
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/reubah
 
 ## Available Documentation
@@ -24,7 +23,7 @@ A web-based tool for processing images and converting documents with a simple in
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/reubah)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/reubah)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

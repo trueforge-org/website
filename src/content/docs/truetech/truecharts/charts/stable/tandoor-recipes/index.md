@@ -11,7 +11,6 @@ Tandoor Recipes is a Django application to manage, tag and search recipes using 
 - https://ghcr.io/tandoorrecipes/recipes
 - https://github.com/TandoorRecipes/recipes
 - https://github.com/TandoorRecipes/recipes/pkgs/container/recipes
-- https://github.com/truecharts/charts/tree/master/charts/stable/tandoor-recipes
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/tandoor-recipes
 
 ## Available Documentation
@@ -25,7 +24,7 @@ Tandoor Recipes is a Django application to manage, tag and search recipes using 
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/tandoor-recipes)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/tandoor-recipes)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

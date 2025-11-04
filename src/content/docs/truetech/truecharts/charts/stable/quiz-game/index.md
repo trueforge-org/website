@@ -9,7 +9,6 @@ Test your General Knowledge in different types of topics.
 ## Chart Sources
 
 - https://github.com/ASKJR/quiz-game
-- https://github.com/truecharts/charts/tree/master/charts/stable/quiz-game
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/quiz-game
 - https://hub.docker.com/r/patrickstigler/quiz-game
 - https://registry.hub.docker.com/r/patrickstigler/quiz-game
@@ -25,7 +24,7 @@ Test your General Knowledge in different types of topics.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/quiz-game)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/quiz-game)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

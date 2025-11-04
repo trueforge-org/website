@@ -8,7 +8,6 @@ Gets external IP via DIG command ( OpenDNS , Cloudflare, google ) on a scheduled
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/external-ip
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/external-ip
 - https://github.com/xavier-hernandez/docker-external-ip
 - https://hub.docker.com/r/xavierh/external-ip
@@ -24,7 +23,7 @@ Gets external IP via DIG command ( OpenDNS , Cloudflare, google ) on a scheduled
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/external-ip)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/external-ip)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

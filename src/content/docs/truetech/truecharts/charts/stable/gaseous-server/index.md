@@ -9,7 +9,6 @@ A game ROM manager using multiple sources to identify and provide metadata.
 ## Chart Sources
 
 - https://github.com/gaseous-project/gaseous-server
-- https://github.com/truecharts/charts/tree/master/charts/stable/gaseous-server
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/gaseous-server
 - https://hub.docker.com/r/gaseousgames/gaseousserver
 
@@ -24,7 +23,7 @@ A game ROM manager using multiple sources to identify and provide metadata.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/gaseous-server)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/gaseous-server)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

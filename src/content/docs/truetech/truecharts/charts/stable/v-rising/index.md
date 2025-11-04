@@ -9,7 +9,6 @@ This Chart will download and install SteamCMD. It will also install V Rising and
 ## Chart Sources
 
 - https://ghcr.io/ich777/steamcmd
-- https://github.com/truecharts/charts/tree/master/charts/stable/v-rising
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/v-rising
 - https://steampowered.com/
 
@@ -24,7 +23,7 @@ This Chart will download and install SteamCMD. It will also install V Rising and
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/v-rising)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/v-rising)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

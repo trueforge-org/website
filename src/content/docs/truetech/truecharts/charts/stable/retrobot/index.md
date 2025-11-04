@@ -9,7 +9,6 @@ A discord bot that allows you to play old nintendo games with your friends over 
 ## Chart Sources
 
 - https://github.com/rossimo/retrobot
-- https://github.com/truecharts/charts/tree/master/charts/stable/retrobot
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/retrobot
 - https://hub.docker.com/r/rossimo/retrobot
 
@@ -24,7 +23,7 @@ A discord bot that allows you to play old nintendo games with your friends over 
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/retrobot)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/retrobot)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

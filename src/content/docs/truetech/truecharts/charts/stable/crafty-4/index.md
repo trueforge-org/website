@@ -9,7 +9,6 @@ Crafty Controller is a Minecraft Server Control Panel / Launcher.
 ## Chart Sources
 
 - https://craftycontrol.com/
-- https://github.com/truecharts/charts/tree/master/charts/stable/crafty-4
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/crafty-4
 - https://gitlab.com/crafty-controller/crafty-4
 
@@ -25,7 +24,7 @@ Crafty Controller is a Minecraft Server Control Panel / Launcher.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/crafty-4)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/crafty-4)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

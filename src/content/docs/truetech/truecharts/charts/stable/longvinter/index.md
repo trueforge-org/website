@@ -9,7 +9,6 @@ This Chart will download and install SteamCMD. It will also install Longvinter a
 ## Chart Sources
 
 - https://ghcr.io/ich777/steamcmd
-- https://github.com/truecharts/charts/tree/master/charts/stable/longvinter
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/longvinter
 - https://www.steampowered.com/
 
@@ -24,7 +23,7 @@ This Chart will download and install SteamCMD. It will also install Longvinter a
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/longvinter)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/longvinter)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

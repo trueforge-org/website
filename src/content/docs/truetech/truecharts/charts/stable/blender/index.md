@@ -11,7 +11,6 @@ Blender(https://www.blender.org/) is a free and open-source 3D computer graphics
 - https://fleet.linuxserver.io/image?name=linuxserver/blender
 - https://github.com/linuxserver/docker-blender#readme
 - https://github.com/orgs/linuxserver/packages/container/package/blender
-- https://github.com/truecharts/charts/tree/master/charts/stable/blender
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/blender
 - https://www.blender.org/
 
@@ -26,7 +25,7 @@ Blender(https://www.blender.org/) is a free and open-source 3D computer graphics
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/blender)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/blender)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

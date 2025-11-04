@@ -11,7 +11,6 @@ Mylar is a automated Comic Book downloader
 - https://fleet.linuxserver.io/image?name=linuxserver/mylar3
 - https://github.com/linuxserver/docker-mylar3
 - https://github.com/mylar3/mylar3
-- https://github.com/truecharts/charts/tree/master/charts/stable/mylar
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/mylar
 
 ## Available Documentation
@@ -25,7 +24,7 @@ Mylar is a automated Comic Book downloader
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/mylar)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/mylar)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

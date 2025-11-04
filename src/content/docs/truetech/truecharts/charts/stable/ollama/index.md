@@ -11,7 +11,6 @@ Get up and running with large language models locally.
 - https://ghcr.io/open-webui/open-webui
 - https://github.com/ollama/ollama
 - https://github.com/open-webui/open-webui
-- https://github.com/truecharts/charts/tree/master/charts/stable/ollama
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/ollama
 - https://hub.docker.com/r/ollama/ollama
 
@@ -27,7 +26,7 @@ Get up and running with large language models locally.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/ollama)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/ollama)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

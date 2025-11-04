@@ -8,7 +8,6 @@ Mailpile is software, an e-mail client. It runs on your desktop or laptop comput
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/mailpile
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/mailpile
 - https://hub.docker.com/r/rroemhild/mailpile
 - https://www.mailpile.is/
@@ -24,7 +23,7 @@ Mailpile is software, an e-mail client. It runs on your desktop or laptop comput
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/mailpile)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/mailpile)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

@@ -9,7 +9,6 @@ The Intel GPU plugin facilitates offloading the processing of computation intens
 ## Chart Sources
 
 - https://github.com/intel
-- https://github.com/truecharts/charts/tree/master/charts/stable/intel-gpu-plugin
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/intel-gpu-plugin
 - https://hub.docker.com/r/intel/intel-gpu-plugin
 
@@ -24,7 +23,7 @@ The Intel GPU plugin facilitates offloading the processing of computation intens
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/intel-gpu-plugin)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/intel-gpu-plugin)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

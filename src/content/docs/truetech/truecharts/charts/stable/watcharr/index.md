@@ -10,7 +10,6 @@ Open source, self-hostable watched list
 
 - https://ghcr.io/sbondco/watcharr
 - https://github.com/sbondCo/Watcharr
-- https://github.com/truecharts/charts/tree/master/charts/stable/watcharr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/watcharr
 
 ## Available Documentation
@@ -24,7 +23,7 @@ Open source, self-hostable watched list
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/watcharr)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/watcharr)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

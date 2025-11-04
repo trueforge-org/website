@@ -9,7 +9,6 @@ IPFS is a global, versioned, peer-to-peer Interplanetary Filesystem.
 ## Chart Sources
 
 - https://github.com/ipfs/kubo
-- https://github.com/truecharts/charts/tree/master/charts/stable/ipfs
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/ipfs
 - https://hub.docker.com/r/ipfs/kubo
 
@@ -24,7 +23,7 @@ IPFS is a global, versioned, peer-to-peer Interplanetary Filesystem.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/ipfs)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/ipfs)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

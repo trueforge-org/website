@@ -10,7 +10,6 @@ Overseerr is a free and open source software application for managing requests f
 
 - https://ghcr.io/sct/overseerr
 - https://github.com/sct/overseerr
-- https://github.com/truecharts/charts/tree/master/charts/stable/overseerr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/overseerr
 
 ## Available Documentation
@@ -24,7 +23,7 @@ Overseerr is a free and open source software application for managing requests f
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/overseerr)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/overseerr)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

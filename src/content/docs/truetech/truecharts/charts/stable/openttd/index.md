@@ -9,7 +9,6 @@ This Chart will download and install the version of OpenTTD that you enter in th
 ## Chart Sources
 
 - https://ghcr.io/ich777/openttdserver
-- https://github.com/truecharts/charts/tree/master/charts/stable/openttd
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/openttd
 - https://www.openttd.org/
 
@@ -24,7 +23,7 @@ This Chart will download and install the version of OpenTTD that you enter in th
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/openttd)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/openttd)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

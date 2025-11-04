@@ -9,7 +9,6 @@ Prometheus exporter for SMART using smartctl binary to gather metrics.
 ## Chart Sources
 
 - https://github.com/prometheus-community/smartctl_exporter
-- https://github.com/truecharts/charts/tree/master/charts/stable/smartctl-exporter
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/smartctl-exporter
 - https://hub.docker.com/r/prometheuscommunity/smartctl-exporter
 
@@ -24,7 +23,7 @@ Prometheus exporter for SMART using smartctl binary to gather metrics.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/smartctl-exporter)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/smartctl-exporter)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

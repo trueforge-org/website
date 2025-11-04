@@ -11,7 +11,6 @@ A self-hosted static file serving app which does nothing more than just serve up
 - https://ghcr.io/nicholaswilde/static
 - https://github.com/nicholaswilde/docker-static
 - https://github.com/prologic/static
-- https://github.com/truecharts/charts/tree/master/charts/stable/static
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/static
 
 ## Available Documentation
@@ -25,7 +24,7 @@ A self-hosted static file serving app which does nothing more than just serve up
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/static)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/static)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

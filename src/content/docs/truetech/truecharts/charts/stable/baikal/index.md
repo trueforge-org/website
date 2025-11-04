@@ -9,7 +9,6 @@ Baikal is a lightweight CalDAV+CardDAV server
 ## Chart Sources
 
 - https://github.com/ckulka/baikal-docker
-- https://github.com/truecharts/charts/tree/master/charts/stable/baikal
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/baikal
 - https://hub.docker.com/r/ckulka/baikal
 
@@ -24,7 +23,7 @@ Baikal is a lightweight CalDAV+CardDAV server
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/baikal)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/baikal)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

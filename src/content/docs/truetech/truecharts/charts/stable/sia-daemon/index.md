@@ -11,7 +11,6 @@ Sia is a decentralized cloud storage platform that radically alters the landscap
 - https://ghcr.io/siafoundation/siad
 - https://github.com/SiaFoundation/siad/pkgs/container/siad
 - https://github.com/siafoundation/siad
-- https://github.com/truecharts/charts/tree/master/charts/stable/sia-daemon
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/sia-daemon
 
 ## Available Documentation
@@ -25,7 +24,7 @@ Sia is a decentralized cloud storage platform that radically alters the landscap
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/sia-daemon)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/sia-daemon)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

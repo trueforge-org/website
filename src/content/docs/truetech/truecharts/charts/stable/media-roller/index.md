@@ -9,7 +9,6 @@ Mobile friendly tool for downloading videos from social media.
 ## Chart Sources
 
 - https://github.com/rroller/media-roller
-- https://github.com/truecharts/charts/tree/master/charts/stable/media-roller
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/media-roller
 - https://hub.docker.com/r/ronnieroller/media-roller
 
@@ -24,7 +23,7 @@ Mobile friendly tool for downloading videos from social media.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/media-roller)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/media-roller)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

@@ -11,7 +11,6 @@ Self hosted web app for shortening urls (URL shortener)
 - https://ghcr.io/nicholaswilde/shorturl
 - https://github.com/nicholaswilde/docker-shorturl
 - https://github.com/prologic/shorturl
-- https://github.com/truecharts/charts/tree/master/charts/stable/shorturl
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/shorturl
 
 ## Available Documentation
@@ -25,7 +24,7 @@ Self hosted web app for shortening urls (URL shortener)
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/shorturl)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/shorturl)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

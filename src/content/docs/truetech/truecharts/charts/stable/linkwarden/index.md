@@ -10,7 +10,6 @@ Linkwarden is a self-hosted, open-source collaborative bookmark manager to colle
 
 - https://ghcr.io/linkwarden/linkwarden
 - https://github.com/linkwarden/linkwarden
-- https://github.com/truecharts/charts/tree/master/charts/stable/linkwarden
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/linkwarden
 
 ## Available Documentation
@@ -24,7 +23,7 @@ Linkwarden is a self-hosted, open-source collaborative bookmark manager to colle
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/linkwarden)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/linkwarden)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

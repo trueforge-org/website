@@ -9,7 +9,6 @@ A very simple DNS server to connect to DNS-over-HTTPS service. This is similar t
 ## Chart Sources
 
 - https://developers.cloudflare.com/1.1.1.1/dns-over-https/cloudflared-proxy/
-- https://github.com/truecharts/charts/tree/master/charts/stable/dns-doh-companion
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/dns-doh-companion
 - https://hub.docker.com/r/testdasi/simple-dns-doh
 
@@ -24,7 +23,7 @@ A very simple DNS server to connect to DNS-over-HTTPS service. This is similar t
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/dns-doh-companion)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/dns-doh-companion)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

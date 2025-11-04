@@ -9,7 +9,6 @@ Media display for Plex, Sonarr and Radarr.
 ## Chart Sources
 
 - https://github.com/petersem/posterr
-- https://github.com/truecharts/charts/tree/master/charts/stable/posterr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/posterr
 - https://hub.docker.com/r/petersem/posterr
 
@@ -25,7 +24,7 @@ Media display for Plex, Sonarr and Radarr.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/posterr)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/posterr)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

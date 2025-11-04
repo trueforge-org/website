@@ -9,7 +9,6 @@ Semaphore is a modern, open source alternative to Ansible Tower. It is a self-ho
 ## Chart Sources
 
 - https://github.com/ansible-semaphore/semaphore
-- https://github.com/truecharts/charts/tree/master/charts/stable/semaphore
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/semaphore
 - https://hub.docker.com/r/semaphoreui/semaphore
 
@@ -24,7 +23,7 @@ Semaphore is a modern, open source alternative to Ansible Tower. It is a self-ho
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/semaphore)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/semaphore)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

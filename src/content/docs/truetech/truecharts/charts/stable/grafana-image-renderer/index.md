@@ -9,7 +9,6 @@ A Grafana remote image renderer that handles rendering panels &amp; dashboards t
 ## Chart Sources
 
 - https://github.com/grafana/grafana-image-renderer/blob/master/docs/remote_rendering_using_docker.md
-- https://github.com/truecharts/charts/tree/master/charts/stable/grafana-image-renderer
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/grafana-image-renderer
 - https://hub.docker.com/r/grafana/grafana-image-renderer
 
@@ -24,7 +23,7 @@ A Grafana remote image renderer that handles rendering panels &amp; dashboards t
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/grafana-image-renderer)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/grafana-image-renderer)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

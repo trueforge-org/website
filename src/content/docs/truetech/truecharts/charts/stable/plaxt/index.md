@@ -9,7 +9,6 @@ This Tools provides a way to keep your watched history synced FROM Plex Server T
 ## Chart Sources
 
 - https://github.com/XanderStrike/goplaxt
-- https://github.com/truecharts/charts/tree/master/charts/stable/plaxt
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/plaxt
 - https://hub.docker.com/r/xanderstrike/goplaxt
 
@@ -25,7 +24,7 @@ This Tools provides a way to keep your watched history synced FROM Plex Server T
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/plaxt)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/plaxt)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

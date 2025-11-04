@@ -9,7 +9,6 @@ A web client for Reddit
 ## Chart Sources
 
 - https://github.com/burhan-syed/troddit
-- https://github.com/truecharts/charts/tree/master/charts/stable/troddit
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/troddit
 - https://hub.docker.com/r/bsyed/troddit
 
@@ -24,7 +23,7 @@ A web client for Reddit
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/troddit)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/troddit)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

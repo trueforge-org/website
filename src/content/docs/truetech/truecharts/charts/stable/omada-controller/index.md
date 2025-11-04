@@ -9,7 +9,6 @@ Omada is a SDN tool for TP-Link Omada hardware
 ## Chart Sources
 
 - https://github.com/mbentley/docker-omada-controller
-- https://github.com/truecharts/charts/tree/master/charts/stable/omada-controller
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/omada-controller
 - https://hub.docker.com/r/mbentley/omada-controller
 
@@ -25,7 +24,7 @@ Omada is a SDN tool for TP-Link Omada hardware
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/omada-controller)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/omada-controller)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

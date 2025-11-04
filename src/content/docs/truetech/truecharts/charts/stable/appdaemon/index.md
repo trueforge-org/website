@@ -9,7 +9,6 @@ AppDaemon is a loosely coupled, multi-threaded, sandboxed python execution envir
 ## Chart Sources
 
 - https://github.com/AppDaemon/appdaemon
-- https://github.com/truecharts/charts/tree/master/charts/stable/appdaemon
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/appdaemon
 - https://hub.docker.com/r/acockburn/appdaemon
 
@@ -26,7 +25,7 @@ AppDaemon is a loosely coupled, multi-threaded, sandboxed python execution envir
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/appdaemon)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/appdaemon)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

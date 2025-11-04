@@ -9,7 +9,6 @@ A fast, collaborative, knowledge base for your team built using React and Node.j
 ## Chart Sources
 
 - https://github.com/outline/outline
-- https://github.com/truecharts/charts/tree/master/charts/stable/outline
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/outline
 - https://hub.docker.com/r/outlinewiki/outline
 
@@ -24,7 +23,7 @@ A fast, collaborative, knowledge base for your team built using React and Node.j
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/outline)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/outline)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

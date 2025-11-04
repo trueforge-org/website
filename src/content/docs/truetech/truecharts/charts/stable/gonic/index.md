@@ -9,7 +9,6 @@ Music streaming server / subsonic server API implementation
 ## Chart Sources
 
 - https://github.com/sentriz/gonic
-- https://github.com/truecharts/charts/tree/master/charts/stable/gonic
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/gonic
 - https://hub.docker.com/r/sentriz/gonic
 
@@ -24,7 +23,7 @@ Music streaming server / subsonic server API implementation
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/gonic)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/gonic)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

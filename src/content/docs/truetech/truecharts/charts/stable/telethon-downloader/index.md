@@ -9,7 +9,6 @@ This is a simple Chart that downloads files sent to a telegram bot up to 2000mb 
 ## Chart Sources
 
 - https://docs.telethon.dev/
-- https://github.com/truecharts/charts/tree/master/charts/stable/telethon-downloader
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/telethon-downloader
 - https://hub.docker.com/r/jsavargas/telethon_downloader
 
@@ -24,7 +23,7 @@ This is a simple Chart that downloads files sent to a telegram bot up to 2000mb 
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/telethon-downloader)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/telethon-downloader)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

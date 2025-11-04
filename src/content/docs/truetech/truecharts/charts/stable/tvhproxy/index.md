@@ -8,7 +8,6 @@ TvhProxy is a small flask app to proxy requests between Plex Media Server and Tv
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/tvhproxy
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/tvhproxy
 - https://hub.docker.com/r/chvb/docker-tvhproxy
 
@@ -23,7 +22,7 @@ TvhProxy is a small flask app to proxy requests between Plex Media Server and Tv
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/tvhproxy)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/tvhproxy)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

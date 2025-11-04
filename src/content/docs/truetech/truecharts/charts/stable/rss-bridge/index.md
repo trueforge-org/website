@@ -9,7 +9,6 @@ RSS-Bridge is a PHP project capable of generating RSS and Atom feeds for website
 ## Chart Sources
 
 - https://github.com/RSS-Bridge/rss-bridge
-- https://github.com/truecharts/charts/tree/master/charts/stable/rss-bridge
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/rss-bridge
 - https://hub.docker.com/r/rssbridge/rss-bridge
 
@@ -24,7 +23,7 @@ RSS-Bridge is a PHP project capable of generating RSS and Atom feeds for website
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/rss-bridge)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/rss-bridge)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

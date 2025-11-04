@@ -9,7 +9,6 @@ PuTTY is a free and open-source terminal emulator, serial console and network fi
 ## Chart Sources
 
 - https://github.com/jlesage/docker-putty
-- https://github.com/truecharts/charts/tree/master/charts/stable/putty
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/putty
 - https://hub.docker.com/r/jlesage/putty
 
@@ -24,7 +23,7 @@ PuTTY is a free and open-source terminal emulator, serial console and network fi
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/putty)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/putty)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

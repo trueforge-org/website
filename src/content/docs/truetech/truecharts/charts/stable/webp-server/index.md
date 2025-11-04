@@ -8,7 +8,6 @@ This is a Server based on Golang, which allows you to serve WebP images on the f
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/webp-server
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/webp-server
 - https://github.com/webp-sh/webp_server_go
 - https://hub.docker.com/r/webpsh/webps
@@ -24,7 +23,7 @@ This is a Server based on Golang, which allows you to serve WebP images on the f
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/webp-server)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/webp-server)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

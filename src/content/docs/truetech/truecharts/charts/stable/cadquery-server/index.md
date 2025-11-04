@@ -9,7 +9,6 @@ CadQuery is an intuitive, easy-to-use Python module for building parametric 3D C
 ## Chart Sources
 
 - https://github.com/roipoussiere/cadquery
-- https://github.com/truecharts/charts/tree/master/charts/stable/cadquery-server
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/cadquery-server
 - https://hub.docker.com/r/cadquery/cadquery-server
 
@@ -24,7 +23,7 @@ CadQuery is an intuitive, easy-to-use Python module for building parametric 3D C
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/cadquery-server)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/cadquery-server)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

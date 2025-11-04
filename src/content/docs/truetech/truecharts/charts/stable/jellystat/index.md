@@ -9,7 +9,6 @@ A free and open source Statistics App for Jellyfin.
 ## Chart Sources
 
 - https://github.com/CyferShepard/Jellystat
-- https://github.com/truecharts/charts/tree/master/charts/stable/jellystat
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/jellystat
 - https://hub.docker.com/r/cyfershepard/jellystat
 
@@ -24,7 +23,7 @@ A free and open source Statistics App for Jellyfin.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/jellystat)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/jellystat)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

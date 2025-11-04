@@ -9,7 +9,6 @@ ntfy is a simple HTTP-based pub-sub notification service. It allows you to send 
 ## Chart Sources
 
 - https://github.com/binwiederhier/ntfy/
-- https://github.com/truecharts/charts/tree/master/charts/stable/ntfy
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/ntfy
 - https://hub.docker.com/r/binwiederhier/ntfy
 
@@ -24,7 +23,7 @@ ntfy is a simple HTTP-based pub-sub notification service. It allows you to send 
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/ntfy)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/ntfy)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

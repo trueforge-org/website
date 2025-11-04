@@ -12,7 +12,6 @@ Weblate is a copylefted libre software web-based continuous localization system
 - https://github.com/WeblateOrg/docker
 - https://github.com/WeblateOrg/docker-compose
 - https://github.com/WeblateOrg/weblate
-- https://github.com/truecharts/charts/tree/master/charts/stable/weblate
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/weblate
 - https://hub.docker.com/r/weblate/weblate
 
@@ -27,7 +26,7 @@ Weblate is a copylefted libre software web-based continuous localization system
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/weblate)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/weblate)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

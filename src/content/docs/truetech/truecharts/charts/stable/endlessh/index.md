@@ -9,7 +9,6 @@ Endlessh is an SSH tarpit that very slowly sends an endless, random SSH banner.
 ## Chart Sources
 
 - https://ghcr.io/linuxserver/endlessh
-- https://github.com/truecharts/charts/tree/master/charts/stable/endlessh
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/endlessh
 
 ## Available Documentation
@@ -23,7 +22,7 @@ Endlessh is an SSH tarpit that very slowly sends an endless, random SSH banner.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/endlessh)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/endlessh)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

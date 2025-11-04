@@ -10,7 +10,6 @@ FreshRSS is a self-hosted RSS feed aggregator
 
 - https://ghcr.io/linuxserver/freshrss
 - https://github.com/FreshRSS/FreshRSS
-- https://github.com/truecharts/charts/tree/master/charts/stable/freshrss
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/freshrss
 
 ## Available Documentation
@@ -24,7 +23,7 @@ FreshRSS is a self-hosted RSS feed aggregator
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/freshrss)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/freshrss)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

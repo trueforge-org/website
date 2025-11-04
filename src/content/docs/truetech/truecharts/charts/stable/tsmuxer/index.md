@@ -9,7 +9,6 @@ tsMuxer is a Transport Stream muxer.
 ## Chart Sources
 
 - https://github.com/jlesage/docker-tsmuxer
-- https://github.com/truecharts/charts/tree/master/charts/stable/tsmuxer
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/tsmuxer
 - https://hub.docker.com/r/jlesage/tsmuxer
 
@@ -24,7 +23,7 @@ tsMuxer is a Transport Stream muxer.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/tsmuxer)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/tsmuxer)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

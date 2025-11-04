@@ -10,7 +10,6 @@ An adult media thingy.
 
 - https://ghcr.io/hotio/whisparr
 - https://github.com/onedr0p/containers/tree/main/apps/whisparr
-- https://github.com/truecharts/charts/tree/master/charts/stable/whisparr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/whisparr
 
 ## Available Documentation
@@ -24,7 +23,7 @@ An adult media thingy.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/whisparr)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/whisparr)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

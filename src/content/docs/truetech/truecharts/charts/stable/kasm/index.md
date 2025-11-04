@@ -10,7 +10,6 @@ Kasm Workspaces is a streaming platform for delivering browser-based access to d
 
 - https://github.com/linuxserver/docker-kasm#readme
 - https://github.com/orgs/linuxserver/packages/container/package/kasm
-- https://github.com/truecharts/charts/tree/master/charts/stable/kasm
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/kasm
 - https://hub.docker.com/r/kasmweb/workspaces
 - https://www.kasmweb.com/
@@ -27,7 +26,7 @@ Kasm Workspaces is a streaming platform for delivering browser-based access to d
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/kasm)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/kasm)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

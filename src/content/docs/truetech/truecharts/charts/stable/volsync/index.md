@@ -10,7 +10,6 @@ volsync is a storage backup and synchronisation tool.
 
 - https://github.com/backube/helm-charts
 - https://github.com/backube/volsync
-- https://github.com/truecharts/charts/tree/master/charts/stable/volsync
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/volsync
 - https://quay.io/backube/volsync
 - https://quay.io/brancz/kube-rbac-proxy
@@ -27,7 +26,7 @@ volsync is a storage backup and synchronisation tool.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/volsync)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/volsync)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

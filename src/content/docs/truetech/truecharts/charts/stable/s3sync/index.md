@@ -8,7 +8,6 @@ This application backs up every folder mounted at `/data/` to a given AWS S3 pat
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/s3sync
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/s3sync
 - https://github.com/what-name/docker-s3sync
 - https://hub.docker.com/r/whatname/docker-s3sync
@@ -24,7 +23,7 @@ This application backs up every folder mounted at `/data/` to a given AWS S3 pat
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/s3sync)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/s3sync)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

@@ -9,7 +9,6 @@ Open source decentralized social media platform that's free forever!
 ## Chart Sources
 
 - https://github.com/misskey-dev/misskey/
-- https://github.com/truecharts/charts/tree/master/charts/stable/misskey
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/misskey
 - https://hub.docker.com/r/misskey/misskey
 
@@ -24,7 +23,7 @@ Open source decentralized social media platform that's free forever!
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/misskey)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/misskey)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

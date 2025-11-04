@@ -10,7 +10,6 @@ Ubiquiti Network's Unifi Controller
 
 - https://ghcr.io/goofball222/unifi
 - https://github.com/jacobalberty/unifi-docker
-- https://github.com/truecharts/charts/tree/master/charts/stable/unifi
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/unifi
 - https://unifi-network.ui.com
 
@@ -26,7 +25,7 @@ Ubiquiti Network's Unifi Controller
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/unifi)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/unifi)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

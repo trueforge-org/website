@@ -10,7 +10,6 @@ HandBrake is a tool for converting video from nearly any format to a selection o
 
 - https://ghcr.io/jlesage/handbrake
 - https://github.com/jlesage/docker-handbrake
-- https://github.com/truecharts/charts/tree/master/charts/stable/handbrake
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/handbrake
 - https://handbrake.fr/
 
@@ -25,7 +24,7 @@ HandBrake is a tool for converting video from nearly any format to a selection o
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/handbrake)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/handbrake)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

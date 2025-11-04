@@ -11,7 +11,6 @@ Nissan Leaf connected services to MQTT adapter
 - https://ghcr.io/k8s-at-home/leaf2mqtt
 - https://github.com/k8s-at-home/container-images
 - https://github.com/mitsumaui/leaf2mqtt
-- https://github.com/truecharts/charts/tree/master/charts/stable/leaf2mqtt
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/leaf2mqtt
 
 ## Available Documentation
@@ -25,7 +24,7 @@ Nissan Leaf connected services to MQTT adapter
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/leaf2mqtt)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/leaf2mqtt)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

@@ -11,7 +11,6 @@ Smart PVR for newsgroup and bittorrent users
 - https://ghcr.io/home-operations/sonarr
 - https://ghcr.io/onedr0p/exportarr
 - https://github.com/Sonarr/Sonarr
-- https://github.com/truecharts/charts/tree/master/charts/stable/sonarr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/sonarr
 
 ## Available Documentation
@@ -27,7 +26,7 @@ Smart PVR for newsgroup and bittorrent users
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/sonarr)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/sonarr)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

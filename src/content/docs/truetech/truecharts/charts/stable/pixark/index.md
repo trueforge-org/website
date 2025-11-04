@@ -9,7 +9,6 @@ This Chart will download and install SteamCMD. It will also install PIXARK and r
 ## Chart Sources
 
 - https://ghcr.io/ich777/steamcmd
-- https://github.com/truecharts/charts/tree/master/charts/stable/pixark
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/pixark
 - https://pixark.snail.com/
 
@@ -24,7 +23,7 @@ This Chart will download and install SteamCMD. It will also install PIXARK and r
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/pixark)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/pixark)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

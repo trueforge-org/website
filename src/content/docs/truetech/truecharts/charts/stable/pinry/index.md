@@ -9,7 +9,6 @@ The open-source core of Pinry, a tiling image board system for people who want t
 ## Chart Sources
 
 - https://github.com/pinry/pinry/
-- https://github.com/truecharts/charts/tree/master/charts/stable/pinry
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/pinry
 - https://hub.docker.com/r/getpinry/pinry
 
@@ -24,7 +23,7 @@ The open-source core of Pinry, a tiling image board system for people who want t
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/pinry)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/pinry)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

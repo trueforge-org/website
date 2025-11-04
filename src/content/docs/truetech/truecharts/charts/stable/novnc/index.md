@@ -9,7 +9,6 @@ The open source VNC client
 ## Chart Sources
 
 - https://ghcr.io/nicholaswilde/novnc
-- https://github.com/truecharts/charts/tree/master/charts/stable/novnc
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/novnc
 - https://novnc.com/
 
@@ -24,7 +23,7 @@ The open source VNC client
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/novnc)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/novnc)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

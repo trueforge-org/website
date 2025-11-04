@@ -8,7 +8,6 @@ TinyMediaManager is a full featured media manager to organize and clean up your 
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/tinymediamanager
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/tinymediamanager
 - https://gitlab.com/tinyMediaManager/tinyMediaManager
 - https://hub.docker.com/r/tinymediamanager/tinymediamanager
@@ -24,7 +23,7 @@ TinyMediaManager is a full featured media manager to organize and clean up your 
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/tinymediamanager)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/tinymediamanager)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

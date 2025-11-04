@@ -11,7 +11,6 @@ A self-hosted vehicle expense tracking system with support for multiple users.
 - https://ghcr.io/alfhou/hammond
 - https://github.com/AlfHou/hammond
 - https://github.com/alfhou/hammond/pkgs/container/hammond
-- https://github.com/truecharts/charts/tree/master/charts/stable/hammond
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/hammond
 
 ## Available Documentation
@@ -25,7 +24,7 @@ A self-hosted vehicle expense tracking system with support for multiple users.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/hammond)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/hammond)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

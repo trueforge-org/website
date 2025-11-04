@@ -9,7 +9,6 @@ This simple Chart will update a namecheap dynamic dns domain. You must set an 'A
 ## Chart Sources
 
 - https://github.com/EdwardChamberlain/namecheap_ddns
-- https://github.com/truecharts/charts/tree/master/charts/stable/namecheap-ddns
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/namecheap-ddns
 - https://hub.docker.com/r/edchamberlain/namecheap_ddns
 
@@ -24,7 +23,7 @@ This simple Chart will update a namecheap dynamic dns domain. You must set an 'A
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/namecheap-ddns)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/namecheap-ddns)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

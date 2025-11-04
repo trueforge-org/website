@@ -9,7 +9,6 @@ IRC Highway eBook Downloads.
 ## Chart Sources
 
 - https://github.com/evan-buss/openbooks
-- https://github.com/truecharts/charts/tree/master/charts/stable/openbooks
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/openbooks
 - https://hub.docker.com/r/evanbuss/openbooks
 
@@ -24,7 +23,7 @@ IRC Highway eBook Downloads.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/openbooks)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/openbooks)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

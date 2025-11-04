@@ -10,7 +10,6 @@ pretend-youre-xyzzy, a cards against humanity clone
 
 - https://github.com/ajanata/PretendYoureXyzzy
 - https://github.com/emcniece/DockerYourXyzzy
-- https://github.com/truecharts/charts/tree/master/charts/stable/pretend-youre-xyzzy
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/pretend-youre-xyzzy
 - https://hub.docker.com/r/emcniece/dockeryourxyzzy
 
@@ -25,7 +24,7 @@ pretend-youre-xyzzy, a cards against humanity clone
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/pretend-youre-xyzzy)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/pretend-youre-xyzzy)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

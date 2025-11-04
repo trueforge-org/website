@@ -10,7 +10,6 @@ Open source alternative front-end to YouTube.
 
 - https://docs.invidious.io/installation/#docker
 - https://github.com/iv-org/invidious
-- https://github.com/truecharts/charts/tree/master/charts/stable/invidious
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/invidious
 - https://quay.io/invidious/invidious
 
@@ -26,7 +25,7 @@ Open source alternative front-end to YouTube.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/invidious)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/invidious)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

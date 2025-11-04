@@ -9,7 +9,6 @@ This webapp is a browser and desktop password manager compatible with KeePass da
 ## Chart Sources
 
 - https://github.com/keeweb/keeweb
-- https://github.com/truecharts/charts/tree/master/charts/stable/keeweb
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/keeweb
 - https://hub.docker.com/r/antelle/keeweb
 
@@ -24,7 +23,7 @@ This webapp is a browser and desktop password manager compatible with KeePass da
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/keeweb)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/keeweb)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

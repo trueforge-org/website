@@ -8,7 +8,6 @@ HedgeDoc lets you create real-time collaborative markdown notes.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/hedgedoc
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/hedgedoc
 - https://quay.io/hedgedoc/hedgedoc
 
@@ -23,7 +22,7 @@ HedgeDoc lets you create real-time collaborative markdown notes.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/hedgedoc)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/hedgedoc)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

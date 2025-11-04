@@ -8,7 +8,6 @@ Chart to provide a DDNS service for godaddy domains. Uses the GoDaddy REST API t
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/godaddy-ddns
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/godaddy-ddns
 - https://hub.docker.com/r/jwater7/godaddy-publicip-updater
 
@@ -23,7 +22,7 @@ Chart to provide a DDNS service for godaddy domains. Uses the GoDaddy REST API t
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/godaddy-ddns)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/godaddy-ddns)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

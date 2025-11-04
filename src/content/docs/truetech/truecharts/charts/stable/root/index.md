@@ -8,7 +8,6 @@ ROOT is a framework for data processing, born at CERN, at the heart of the resea
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/root
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/root
 - https://hub.docker.com/r/bgameiro/arch-cern-root
 - https://root.cern/
@@ -24,7 +23,7 @@ ROOT is a framework for data processing, born at CERN, at the heart of the resea
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/root)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/root)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

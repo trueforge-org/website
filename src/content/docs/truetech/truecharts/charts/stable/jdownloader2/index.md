@@ -9,7 +9,6 @@ JDownloader is a free, open-source download management tool with a huge communit
 ## Chart Sources
 
 - https://github.com/jlesage/docker-jdownloader-2
-- https://github.com/truecharts/charts/tree/master/charts/stable/jdownloader2
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/jdownloader2
 - https://hub.docker.com/r/jlesage/jdownloader-2
 - https://jdownloader.org/
@@ -25,7 +24,7 @@ JDownloader is a free, open-source download management tool with a huge communit
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/jdownloader2)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/jdownloader2)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

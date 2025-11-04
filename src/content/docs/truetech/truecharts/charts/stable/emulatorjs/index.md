@@ -9,7 +9,6 @@ Emulatorjs - In browser web based emulation portable to nearly any device for ma
 ## Chart Sources
 
 - https://ghcr.io/linuxserver/emulatorjs
-- https://github.com/truecharts/charts/tree/master/charts/stable/emulatorjs
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/emulatorjs
 
 ## Available Documentation
@@ -23,7 +22,7 @@ Emulatorjs - In browser web based emulation portable to nearly any device for ma
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/emulatorjs)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/emulatorjs)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

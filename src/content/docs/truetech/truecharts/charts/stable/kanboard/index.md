@@ -10,7 +10,6 @@ Kanboard is a free and open source Kanban project management software.
 
 - https://ghcr.io/kanboard/kanboard
 - https://github.com/kanboard/kanboard
-- https://github.com/truecharts/charts/tree/master/charts/stable/kanboard
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/kanboard
 
 ## Available Documentation
@@ -24,7 +23,7 @@ Kanboard is a free and open source Kanban project management software.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/kanboard)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/kanboard)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

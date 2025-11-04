@@ -9,7 +9,6 @@ Secure, end-to-end encrypted, and privacy respecting sync for your contacts, cal
 ## Chart Sources
 
 - https://github.com/etesync
-- https://github.com/truecharts/charts/tree/master/charts/stable/etesync
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/etesync
 - https://github.com/victor-rds/docker-etebase
 - https://hub.docker.com/r/victorrds/etesync
@@ -26,7 +25,7 @@ Secure, end-to-end encrypted, and privacy respecting sync for your contacts, cal
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/etesync)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/etesync)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

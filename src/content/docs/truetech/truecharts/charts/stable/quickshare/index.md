@@ -9,7 +9,6 @@ Quick and simple file sharing between different devices.
 ## Chart Sources
 
 - https://github.com/ihexxa/quickshare
-- https://github.com/truecharts/charts/tree/master/charts/stable/quickshare
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/quickshare
 - https://hub.docker.com/r/hexxa/quickshare
 
@@ -24,7 +23,7 @@ Quick and simple file sharing between different devices.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/quickshare)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/quickshare)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

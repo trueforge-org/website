@@ -9,7 +9,6 @@ Chart file for the new Core Keeper dedicated server running from SteamCMD. (No a
 ## Chart Sources
 
 - https://github.com/escapingnetwork/core-keeper-dedicated/
-- https://github.com/truecharts/charts/tree/master/charts/stable/core-keeper-dedicated-server
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/core-keeper-dedicated-server
 - https://hub.docker.com/r/escaping/core-keeper-dedicated
 
@@ -24,7 +23,7 @@ Chart file for the new Core Keeper dedicated server running from SteamCMD. (No a
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/core-keeper-dedicated-server)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/core-keeper-dedicated-server)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

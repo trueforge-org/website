@@ -9,7 +9,6 @@ DNS Chart service for a steam cache.
 ## Chart Sources
 
 - https://github.com/lancachenet/lancache-dns
-- https://github.com/truecharts/charts/tree/master/charts/stable/lancache-dns
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/lancache-dns
 - https://hub.docker.com/r/lancachenet/lancache-dns
 
@@ -25,7 +24,7 @@ DNS Chart service for a steam cache.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/lancache-dns)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/lancache-dns)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

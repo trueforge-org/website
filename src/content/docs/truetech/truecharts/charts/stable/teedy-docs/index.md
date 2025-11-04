@@ -9,7 +9,6 @@ Teedy is an open-source, lightweight document management system (DMS) for indivi
 ## Chart Sources
 
 - https://github.com/sismics/docs
-- https://github.com/truecharts/charts/tree/master/charts/stable/teedy-docs
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/teedy-docs
 - https://hub.docker.com/r/sismics/docs
 
@@ -24,7 +23,7 @@ Teedy is an open-source, lightweight document management system (DMS) for indivi
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/teedy-docs)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/teedy-docs)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

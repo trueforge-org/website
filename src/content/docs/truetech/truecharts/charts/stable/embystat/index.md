@@ -9,7 +9,6 @@ Embystat is a personal web server that can calculate all kinds of statistics fro
 ## Chart Sources
 
 - https://ghcr.io/linuxserver/embystat
-- https://github.com/truecharts/charts/tree/master/charts/stable/embystat
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/embystat
 
 ## Available Documentation
@@ -23,7 +22,7 @@ Embystat is a personal web server that can calculate all kinds of statistics fro
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/embystat)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/embystat)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

@@ -9,7 +9,6 @@ This Chart will download and install CounterStrike 2D.
 ## Chart Sources
 
 - https://ghcr.io/ich777/cs2dserver
-- https://github.com/truecharts/charts/tree/master/charts/stable/counterstrike2d
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/counterstrike2d
 - https://www.steampowered.com/
 
@@ -24,7 +23,7 @@ This Chart will download and install CounterStrike 2D.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/counterstrike2d)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/counterstrike2d)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

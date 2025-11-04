@@ -14,7 +14,6 @@ Authentik is an open-source Identity Provider focused on flexibility and versati
 - https://ghcr.io/goauthentik/server
 - https://ghcr.io/maxmind/geoipupdate
 - https://github.com/goauthentik/authentik
-- https://github.com/truecharts/charts/tree/master/charts/stable/authentik
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/authentik
 - https://goauthentik.io/docs/
 
@@ -30,7 +29,7 @@ Authentik is an open-source Identity Provider focused on flexibility and versati
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/authentik)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/authentik)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

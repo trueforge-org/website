@@ -9,7 +9,6 @@ An organizer for your porn, written in Go
 ## Chart Sources
 
 - https://github.com/stashapp/stash
-- https://github.com/truecharts/charts/tree/master/charts/stable/stash
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/stash
 - https://hub.docker.com/r/stashapp/stash
 
@@ -24,7 +23,7 @@ An organizer for your porn, written in Go
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/stash)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/stash)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

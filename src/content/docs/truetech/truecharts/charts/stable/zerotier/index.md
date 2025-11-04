@@ -8,7 +8,6 @@ ZeroTier is a smart programmable Ethernet switch for planet Earth
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/zerotier
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/zerotier
 - https://hub.docker.com/r/zerotier/zerotier
 
@@ -24,7 +23,7 @@ ZeroTier is a smart programmable Ethernet switch for planet Earth
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/zerotier)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/zerotier)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

@@ -597,8 +597,22 @@ Function library for TrueCharts
 - https://ghcr.io/cloudnative-pg/postgis
 - https://ghcr.io/cloudnative-pg/postgresql
 - https://ghcr.io/tensorchord/cloudnative-pgvecto.rs
+- https://ghcr.io/tensorchord/cloudnative-vectorchord
 - https://ghcr.io/traefik/whoami
-- https://github.com/truecharts/charts/tree/master/charts/library/common
+- https://github.com/truecharts/containers/tree/master/apps/alpine
+- https://github.com/truecharts/containers/tree/master/apps/code-server
+- https://github.com/truecharts/containers/tree/master/apps/db-wait-mariadb
+- https://github.com/truecharts/containers/tree/master/apps/db-wait-mongodb
+- https://github.com/truecharts/containers/tree/master/apps/db-wait-postgres
+- https://github.com/truecharts/containers/tree/master/apps/db-wait-redis
+- https://github.com/truecharts/containers/tree/master/apps/gluetun
+- https://github.com/truecharts/containers/tree/master/apps/kubectl
+- https://github.com/truecharts/containers/tree/master/apps/netshoot
+- https://github.com/truecharts/containers/tree/master/apps/openvpn-client
+- https://github.com/truecharts/containers/tree/master/apps/scratch
+- https://github.com/truecharts/containers/tree/master/apps/tailscale
+- https://github.com/truecharts/containers/tree/master/apps/wget
+- https://github.com/truecharts/containers/tree/master/apps/wireguard
 - https://github.com/trueforge-org/truecharts/tree/master/charts/library/common
 - https://hub.docker.com/_/
 - https://hub.docker.com/r/mikefarah/yq
@@ -635,7 +649,7 @@ Function library for TrueCharts
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/library/common)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/library/common)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

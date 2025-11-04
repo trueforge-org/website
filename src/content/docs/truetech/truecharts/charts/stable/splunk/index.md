@@ -8,7 +8,6 @@ This is a Chartfile for Splunk designed for OpenShift and TrueNAS based on Alpin
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/splunk
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/splunk
 - https://hub.docker.com/r/splunk/splunk
 - https://splunk.github.io/docker-splunk
@@ -24,7 +23,7 @@ This is a Chartfile for Splunk designed for OpenShift and TrueNAS based on Alpin
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/splunk)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/splunk)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

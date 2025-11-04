@@ -10,7 +10,6 @@ Chart to run a monero full network node
 
 - https://ghcr.io/sethforprivacy/simple-monerod
 - https://github.com/kannix/monero-full-node
-- https://github.com/truecharts/charts/tree/master/charts/stable/monero-node
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/monero-node
 
 ## Available Documentation
@@ -24,7 +23,7 @@ Chart to run a monero full network node
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/monero-node)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/monero-node)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

@@ -11,7 +11,6 @@ Speedtest Tracker is a self-hosted internet performance tracking application tha
 - https://ghcr.io/linuxserver/speedtest-tracker
 - https://github.com/alexjustesen/speedtest-tracker
 - https://github.com/linuxserver/docker-speedtest-tracker
-- https://github.com/truecharts/charts/tree/master/charts/stable/speedtest-tracker
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/speedtest-tracker
 
 ## Available Documentation
@@ -26,7 +25,7 @@ Speedtest Tracker is a self-hosted internet performance tracking application tha
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/speedtest-tracker)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/speedtest-tracker)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

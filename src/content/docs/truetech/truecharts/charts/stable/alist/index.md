@@ -9,7 +9,6 @@ Alist program that supports multiple storage, powered by Gin and React
 ## Chart Sources
 
 - https://github.com/Xhofe/alist
-- https://github.com/truecharts/charts/tree/master/charts/stable/alist
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/alist
 - https://hub.docker.com/r/xhofe/alist-aria2
 
@@ -24,7 +23,7 @@ Alist program that supports multiple storage, powered by Gin and React
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/alist)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/alist)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

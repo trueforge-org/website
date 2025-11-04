@@ -9,7 +9,6 @@ Lyrion Music Server is a platform for home/office audio streaming.
 ## Chart Sources
 
 - https://github.com/LMS-Community/slimserver
-- https://github.com/truecharts/charts/tree/master/charts/stable/lyrion-music-server
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/lyrion-music-server
 - https://hub.docker.com/r/lmscommunity/lyrionmusicserver
 
@@ -24,7 +23,7 @@ Lyrion Music Server is a platform for home/office audio streaming.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/lyrion-music-server)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/lyrion-music-server)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

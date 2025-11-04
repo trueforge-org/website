@@ -11,7 +11,6 @@ A free cross platform open source file manager with two panels side by side.
 - https://doublecmd.sourceforge.io/
 - https://ghcr.io/linuxserver/doublecommander
 - https://github.com/linuxserver/docker-doublecommander
-- https://github.com/truecharts/charts/tree/master/charts/stable/doublecommander
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/doublecommander
 
 ## Available Documentation
@@ -25,7 +24,7 @@ A free cross platform open source file manager with two panels side by side.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/doublecommander)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/doublecommander)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

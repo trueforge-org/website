@@ -9,7 +9,6 @@ Light container updating DNS A and/or AAAA records periodically for multiple DNS
 ## Chart Sources
 
 - https://github.com/qdm12/ddns-updater
-- https://github.com/truecharts/charts/tree/master/charts/stable/ddns-updater
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/ddns-updater
 - https://hub.docker.com/r/qmcgaw/ddns-updater
 
@@ -25,7 +24,7 @@ Light container updating DNS A and/or AAAA records periodically for multiple DNS
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/ddns-updater)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/ddns-updater)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

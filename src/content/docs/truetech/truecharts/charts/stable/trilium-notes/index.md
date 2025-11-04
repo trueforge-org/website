@@ -9,7 +9,6 @@ Trilium Notes is a hierarchical note taking application with focus on building l
 ## Chart Sources
 
 - https://ghcr.io/zadam/trilium
-- https://github.com/truecharts/charts/tree/master/charts/stable/trilium-notes
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/trilium-notes
 - https://github.com/zadam/trilium
 
@@ -24,7 +23,7 @@ Trilium Notes is a hierarchical note taking application with focus on building l
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/trilium-notes)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/trilium-notes)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

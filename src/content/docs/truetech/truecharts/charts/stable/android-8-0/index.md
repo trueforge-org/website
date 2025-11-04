@@ -8,7 +8,6 @@ Android in Chart solution with noVNC supported and video recording. Work way bet
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/android-8-0
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/android-8-0
 - https://hub.docker.com/r/ulisses1478/docker-android
 - https://registry.hub.docker.com/r/ulisses1478/docker-android
@@ -24,7 +23,7 @@ Android in Chart solution with noVNC supported and video recording. Work way bet
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/android-8-0)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/android-8-0)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

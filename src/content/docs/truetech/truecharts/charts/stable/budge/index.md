@@ -11,7 +11,6 @@ Budge is an open source 'budgeting with envelopes' personal finance app.
 - https://ghcr.io/linuxserver/budge
 - https://github.com/linuxserver/budge
 - https://github.com/linuxserver/docker-BudgE
-- https://github.com/truecharts/charts/tree/master/charts/stable/budge
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/budge
 
 ## Available Documentation
@@ -25,7 +24,7 @@ Budge is an open source 'budgeting with envelopes' personal finance app.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/budge)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/budge)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

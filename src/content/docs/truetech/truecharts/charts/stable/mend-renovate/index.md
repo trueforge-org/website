@@ -10,7 +10,6 @@ Selfhosted Mend Renovate App with included webhook and Github APP
 
 - https://ghcr.io/mend/renovate-ce
 - https://github.com/mend/renovate-ce-ee
-- https://github.com/truecharts/charts/tree/master/charts/stable/mend-renovate
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/mend-renovate
 
 ## Available Documentation
@@ -24,7 +23,7 @@ Selfhosted Mend Renovate App with included webhook and Github APP
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/mend-renovate)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/mend-renovate)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

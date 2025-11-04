@@ -9,7 +9,6 @@ rustdesk self-hosted
 ## Chart Sources
 
 - https://github.com/rustdesk/rustdesk-server
-- https://github.com/truecharts/charts/tree/master/charts/stable/rustdesk
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/rustdesk
 - https://hub.docker.com/r/rustdesk/rustdesk-server-s6
 - https://rustdesk.com/de/
@@ -25,7 +24,7 @@ rustdesk self-hosted
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/rustdesk)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/rustdesk)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

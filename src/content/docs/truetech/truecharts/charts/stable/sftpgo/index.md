@@ -10,7 +10,6 @@ Fully featured and highly configurable SFTP server with optional HTTP/S, FTP, FT
 
 - https://ghcr.io/drakkan/sftpgo
 - https://github.com/drakkan/sftpgo
-- https://github.com/truecharts/charts/tree/master/charts/stable/sftpgo
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/sftpgo
 
 ## Available Documentation
@@ -25,7 +24,7 @@ Fully featured and highly configurable SFTP server with optional HTTP/S, FTP, FT
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/sftpgo)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/sftpgo)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

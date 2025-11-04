@@ -10,7 +10,6 @@ A simple, high-reliability, distributed software configuration management system
 
 - https://fossil-scm.org/
 - https://ghcr.io/nicholaswilde/fossil
-- https://github.com/truecharts/charts/tree/master/charts/stable/fossil
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/fossil
 
 ## Available Documentation
@@ -24,7 +23,7 @@ A simple, high-reliability, distributed software configuration management system
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/fossil)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/fossil)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

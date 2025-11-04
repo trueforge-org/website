@@ -9,7 +9,6 @@ RadarrSync Syncs two Radarr servers through web API. This is a modified version 
 ## Chart Sources
 
 - https://github.com/dairefinn/RadarrSync
-- https://github.com/truecharts/charts/tree/master/charts/stable/radarrsync
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/radarrsync
 - https://hub.docker.com/r/dmanius/radarrsync-docker
 
@@ -24,7 +23,7 @@ RadarrSync Syncs two Radarr servers through web API. This is a modified version 
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/radarrsync)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/radarrsync)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

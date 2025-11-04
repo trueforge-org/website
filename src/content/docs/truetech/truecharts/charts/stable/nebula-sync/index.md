@@ -9,7 +9,6 @@ Synchronize Pi-hole v6.x configuration to replicas.
 ## Chart Sources
 
 - https://ghcr.io/lovelaze/nebula-sync
-- https://github.com/truecharts/charts/tree/master/charts/stable/nebula-sync
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/nebula-sync
 
 ## Available Documentation
@@ -23,7 +22,7 @@ Synchronize Pi-hole v6.x configuration to replicas.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/nebula-sync)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/nebula-sync)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

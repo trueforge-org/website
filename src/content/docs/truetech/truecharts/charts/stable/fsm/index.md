@@ -8,7 +8,6 @@ No description provide.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/fsm
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/fsm
 - https://hub.docker.com/r/ofsm/ofsm
 - https://registry.hub.docker.com/r/ofsm/ofsm
@@ -24,7 +23,7 @@ No description provide.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/fsm)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/fsm)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

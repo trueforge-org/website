@@ -10,7 +10,6 @@ Fast, scalable and cost-effective open source observability platform
 
 - https://gallery.ecr.aws/zinclabs/openobserve
 - https://github.com/openobserve/openobserve
-- https://github.com/truecharts/charts/tree/master/charts/stable/openobserve
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/openobserve
 
 ## Available Documentation
@@ -24,7 +23,7 @@ Fast, scalable and cost-effective open source observability platform
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/openobserve)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/openobserve)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

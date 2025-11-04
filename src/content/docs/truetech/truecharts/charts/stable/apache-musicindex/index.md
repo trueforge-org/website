@@ -9,7 +9,6 @@ Index and stream music using apache-musicindex and m3u playlists
 ## Chart Sources
 
 - https://ghcr.io/k8s-at-home/apache-musicindex
-- https://github.com/truecharts/charts/tree/master/charts/stable/apache-musicindex
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/apache-musicindex
 
 ## Available Documentation
@@ -23,7 +22,7 @@ Index and stream music using apache-musicindex and m3u playlists
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/apache-musicindex)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/apache-musicindex)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

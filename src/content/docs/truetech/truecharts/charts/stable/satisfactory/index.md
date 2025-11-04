@@ -8,7 +8,6 @@ Satisfactory Dedicated Server
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/satisfactory
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/satisfactory
 - https://github.com/wolveix/satisfactory-server
 - https://hub.docker.com/r/wolveix/satisfactory-server
@@ -24,7 +23,7 @@ Satisfactory Dedicated Server
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/satisfactory)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/satisfactory)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

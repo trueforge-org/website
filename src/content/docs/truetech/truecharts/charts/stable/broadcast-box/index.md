@@ -9,7 +9,6 @@ Easily broadcast/stream to others with sub-second latency
 ## Chart Sources
 
 - https://github.com/Glimesh/broadcast-box
-- https://github.com/truecharts/charts/tree/master/charts/stable/broadcast-box
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/broadcast-box
 - https://hub.docker.com/r/seaduboi/broadcast-box
 
@@ -24,7 +23,7 @@ Easily broadcast/stream to others with sub-second latency
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/broadcast-box)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/broadcast-box)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

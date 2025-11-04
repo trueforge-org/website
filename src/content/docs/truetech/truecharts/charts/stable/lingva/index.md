@@ -9,7 +9,6 @@ Alternative front-end for Google Translate, serving as a Free and Open Source tr
 ## Chart Sources
 
 - https://github.com/TheDavidDelta/lingva-translate
-- https://github.com/truecharts/charts/tree/master/charts/stable/lingva
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/lingva
 - https://hub.docker.com/r/thedaviddelta/lingva-translate
 
@@ -24,7 +23,7 @@ Alternative front-end for Google Translate, serving as a Free and Open Source tr
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/lingva)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/lingva)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

@@ -9,7 +9,6 @@ M3U Proxy for Plex DVR and Emby/Jellyfin Live TV. Based on xTeVe.
 ## Chart Sources
 
 - https://github.com/Threadfin/Threadfin
-- https://github.com/truecharts/charts/tree/master/charts/stable/threadfin
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/threadfin
 - https://hub.docker.com/r/fyb3roptik/threadfin
 
@@ -25,7 +24,7 @@ M3U Proxy for Plex DVR and Emby/Jellyfin Live TV. Based on xTeVe.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/threadfin)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/threadfin)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

@@ -10,7 +10,6 @@ a free and open-source web browser developed by the Mozilla Foundation and its s
 
 - https://ghcr.io/linuxserver/firefox
 - https://github.com/linuxserver/docker-firefox
-- https://github.com/truecharts/charts/tree/master/charts/stable/firefox
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/firefox
 
 ## Available Documentation
@@ -24,7 +23,7 @@ a free and open-source web browser developed by the Mozilla Foundation and its s
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/firefox)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/firefox)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

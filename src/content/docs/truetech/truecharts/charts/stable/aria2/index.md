@@ -9,7 +9,6 @@ aria server for downloading web content
 ## Chart Sources
 
 - https://github.com/P3TERX/Aria2-Pro-Docker
-- https://github.com/truecharts/charts/tree/master/charts/stable/aria2
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/aria2
 - https://hub.docker.com/r/p3terx/aria2-pro
 
@@ -24,7 +23,7 @@ aria server for downloading web content
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/aria2)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/aria2)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

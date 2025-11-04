@@ -10,7 +10,6 @@ A Python based monitoring and tracking tool for Plex Media Server
 
 - https://ghcr.io/tautulli/tautulli
 - https://github.com/Tautulli/Tautulli
-- https://github.com/truecharts/charts/tree/master/charts/stable/tautulli
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/tautulli
 
 ## Available Documentation
@@ -24,7 +23,7 @@ A Python based monitoring and tracking tool for Plex Media Server
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/tautulli)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/tautulli)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

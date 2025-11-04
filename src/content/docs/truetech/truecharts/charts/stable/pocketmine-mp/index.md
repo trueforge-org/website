@@ -10,7 +10,6 @@ A server software for Minecraft Bedrock Edition in PHP.
 
 - https://ghcr.io/pmmp/pocketmine-mp
 - https://github.com/pmmp/PocketMine-MP
-- https://github.com/truecharts/charts/tree/master/charts/stable/pocketmine-mp
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/pocketmine-mp
 
 ## Available Documentation
@@ -25,7 +24,7 @@ A server software for Minecraft Bedrock Edition in PHP.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/pocketmine-mp)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/pocketmine-mp)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

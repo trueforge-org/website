@@ -9,7 +9,6 @@ DIY tool to create and print labels for Dell Poweredge and HP Proliant drive cad
 ## Chart Sources
 
 - https://github.com/DavidSpek/homelablabelmaker
-- https://github.com/truecharts/charts/tree/master/charts/stable/homelablabelmaker
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/homelablabelmaker
 - https://hub.docker.com/r/davidspek/homelablabelmaker
 
@@ -24,7 +23,7 @@ DIY tool to create and print labels for Dell Poweredge and HP Proliant drive cad
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/homelablabelmaker)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/homelablabelmaker)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

@@ -10,7 +10,6 @@ The Wyoming integration of openWakeWord
 
 - https://github.com/home-assistant/addons/tree/master/openwakeword
 - https://github.com/rhasspy/wyoming-openwakeword/
-- https://github.com/truecharts/charts/tree/master/charts/stable/wyoming-openwakeword
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/wyoming-openwakeword
 - https://hub.docker.com/r/rhasspy/wyoming-openwakeword
 
@@ -25,7 +24,7 @@ The Wyoming integration of openWakeWord
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/wyoming-openwakeword)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/wyoming-openwakeword)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

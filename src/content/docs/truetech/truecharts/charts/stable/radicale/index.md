@@ -10,7 +10,6 @@ Radicale is a small but powerful CalDAV (calendars, to-do lists) and CardDAV (co
 
 - https://github.com/Kozea/Radicale
 - https://github.com/tomsquest/docker-radicale
-- https://github.com/truecharts/charts/tree/master/charts/stable/radicale
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/radicale
 - https://hub.docker.com/r/tomsquest/docker-radicale
 - https://radicale.org/
@@ -26,7 +25,7 @@ Radicale is a small but powerful CalDAV (calendars, to-do lists) and CardDAV (co
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/radicale)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/radicale)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

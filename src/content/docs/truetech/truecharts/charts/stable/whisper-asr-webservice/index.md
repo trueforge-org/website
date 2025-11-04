@@ -9,7 +9,6 @@ Whisper is a general-purpose speech recognition model.
 ## Chart Sources
 
 - https://github.com/ahmetoner/whisper-asr-webservice
-- https://github.com/truecharts/charts/tree/master/charts/stable/whisper-asr-webservice
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/whisper-asr-webservice
 - https://hub.docker.com/r/onerahmet/openai-whisper-asr-webservice
 
@@ -25,7 +24,7 @@ Whisper is a general-purpose speech recognition model.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/whisper-asr-webservice)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/whisper-asr-webservice)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

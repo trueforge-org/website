@@ -9,7 +9,6 @@ This Chart will download and install the preferred version of Xonotic.
 ## Chart Sources
 
 - https://ghcr.io/ich777/xonotic
-- https://github.com/truecharts/charts/tree/master/charts/stable/xonotic
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/xonotic
 - https://www.xonotic.org/
 
@@ -24,7 +23,7 @@ This Chart will download and install the preferred version of Xonotic.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/xonotic)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/xonotic)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

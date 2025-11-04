@@ -9,7 +9,6 @@ URL Shortener in python based on flask
 ## Chart Sources
 
 - https://github.com/maschhoff/shortipy
-- https://github.com/truecharts/charts/tree/master/charts/stable/shortipy
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/shortipy
 - https://hub.docker.com/r/knex666/shortipy
 
@@ -24,7 +23,7 @@ URL Shortener in python based on flask
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/shortipy)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/shortipy)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

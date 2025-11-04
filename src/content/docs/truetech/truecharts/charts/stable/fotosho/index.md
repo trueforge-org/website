@@ -9,7 +9,6 @@ title: fotosho
 ## Chart Sources
 
 - https://github.com/advplyr/fotosho
-- https://github.com/truecharts/charts/tree/master/charts/stable/fotosho
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/fotosho
 - https://hub.docker.com/r/advplyr/fotosho
 
@@ -24,7 +23,7 @@ title: fotosho
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/fotosho)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/fotosho)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

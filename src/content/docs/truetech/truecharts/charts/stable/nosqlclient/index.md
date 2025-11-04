@@ -9,7 +9,6 @@ Cross-platform and self hosted, easy to use, intuitive mongodb management tool -
 ## Chart Sources
 
 - https://github.com/nosqlclient/nosqlclient
-- https://github.com/truecharts/charts/tree/master/charts/stable/nosqlclient
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/nosqlclient
 - https://hub.docker.com/r/mongoclient/mongoclient
 
@@ -24,7 +23,7 @@ Cross-platform and self hosted, easy to use, intuitive mongodb management tool -
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/nosqlclient)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/nosqlclient)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

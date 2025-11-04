@@ -9,7 +9,6 @@ Chronos is a small container to run and schedule Python 3.7 scripts. You can cre
 ## Chart Sources
 
 - https://github.com/simse/chronos
-- https://github.com/truecharts/charts/tree/master/charts/stable/chronos
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/chronos
 - https://hub.docker.com/r/simsemand/chronos
 
@@ -24,7 +23,7 @@ Chronos is a small container to run and schedule Python 3.7 scripts. You can cre
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/chronos)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/chronos)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

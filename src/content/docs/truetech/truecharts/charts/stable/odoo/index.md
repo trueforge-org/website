@@ -10,7 +10,6 @@ All-in-one business software. Beautiful. Easy-to-use. CRM, Accounting, PM, HR, P
 
 - https://gallery.ecr.aws/docker/library/odoo
 - https://github.com/odoo/docker
-- https://github.com/truecharts/charts/tree/master/charts/stable/odoo
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/odoo
 
 ## Available Documentation
@@ -25,7 +24,7 @@ All-in-one business software. Beautiful. Easy-to-use. CRM, Accounting, PM, HR, P
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/odoo)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/odoo)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

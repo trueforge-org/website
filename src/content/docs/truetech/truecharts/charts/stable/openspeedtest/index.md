@@ -9,7 +9,6 @@ HTML5 Network Speed Test Server. You can test download & upload speed from any d
 ## Chart Sources
 
 - https://github.com/openspeedtest/Speed-Test
-- https://github.com/truecharts/charts/tree/master/charts/stable/openspeedtest
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/openspeedtest
 - https://hub.docker.com/r/openspeedtest/latest
 
@@ -24,7 +23,7 @@ HTML5 Network Speed Test Server. You can test download & upload speed from any d
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/openspeedtest)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/openspeedtest)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

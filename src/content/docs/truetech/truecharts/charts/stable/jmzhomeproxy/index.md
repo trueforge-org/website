@@ -9,7 +9,6 @@ Proxy is in quotes because I couldn't think of a better name. There is nothing o
 ## Chart Sources
 
 - https://github.com/JmzTaylor/homelab_proxy/
-- https://github.com/truecharts/charts/tree/master/charts/stable/jmzhomeproxy
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/jmzhomeproxy
 - https://hub.docker.com/r/jmzsoftware/jmzhomelabproxy
 
@@ -24,7 +23,7 @@ Proxy is in quotes because I couldn't think of a better name. There is nothing o
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/jmzhomeproxy)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/jmzhomeproxy)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

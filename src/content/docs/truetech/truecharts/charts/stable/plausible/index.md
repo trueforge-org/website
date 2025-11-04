@@ -10,7 +10,6 @@ Plausible is lightweight and open source web analytics. No cookies and fully com
 
 - https://github.com/plausible/analytics
 - https://github.com/plausible/hosting
-- https://github.com/truecharts/charts/tree/master/charts/stable/plausible
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/plausible
 - https://hub.docker.com/r/plausible/analytics
 - https://plausible.io/
@@ -27,7 +26,7 @@ Plausible is lightweight and open source web analytics. No cookies and fully com
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/plausible)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/plausible)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

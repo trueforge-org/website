@@ -10,7 +10,6 @@ Deluge App for TrueNAS SCALE
 
 - https://ghcr.io/linuxserver/deluge
 - https://github.com/deluge-torrent/deluge
-- https://github.com/truecharts/charts/tree/master/charts/stable/deluge
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/deluge
 
 ## Available Documentation
@@ -25,7 +24,7 @@ Deluge App for TrueNAS SCALE
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/deluge)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/deluge)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

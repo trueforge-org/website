@@ -10,7 +10,6 @@ This Chart will download and install SteamCMD. It will also install ArmA III and
 
 - https://arma3.com/
 - https://ghcr.io/ich777/steamcmd
-- https://github.com/truecharts/charts/tree/master/charts/stable/arma3
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/arma3
 
 ## Available Documentation
@@ -24,7 +23,7 @@ This Chart will download and install SteamCMD. It will also install ArmA III and
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/arma3)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/arma3)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

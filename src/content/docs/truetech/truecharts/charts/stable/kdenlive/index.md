@@ -11,7 +11,6 @@ Kdenlive(https://kdenlive.org/) is a powerful free and open source cross-platfor
 - https://fleet.linuxserver.io/image?name=linuxserver/kdenlive
 - https://github.com/linuxserver/docker-kdenlive#readme
 - https://github.com/orgs/linuxserver/packages/container/package/kdenlive
-- https://github.com/truecharts/charts/tree/master/charts/stable/kdenlive
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/kdenlive
 - https://kdenlive.org/
 
@@ -26,7 +25,7 @@ Kdenlive(https://kdenlive.org/) is a powerful free and open source cross-platfor
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/kdenlive)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/kdenlive)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

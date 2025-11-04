@@ -8,7 +8,6 @@ Like to maintain your own data? Automatically backup your github account to your
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/github-backup
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/github-backup
 - https://hub.docker.com/r/lnxd/github-backup
 
@@ -23,7 +22,7 @@ Like to maintain your own data? Automatically backup your github account to your
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/github-backup)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/github-backup)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

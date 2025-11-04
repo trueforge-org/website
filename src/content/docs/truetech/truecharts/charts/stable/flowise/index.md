@@ -9,7 +9,6 @@ Drag & drop UI to build your customized LLM flow.
 ## Chart Sources
 
 - https://github.com/FlowiseAI/Flowise
-- https://github.com/truecharts/charts/tree/master/charts/stable/flowise
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/flowise
 - https://hub.docker.com/r/flowiseai/flowise
 
@@ -24,7 +23,7 @@ Drag & drop UI to build your customized LLM flow.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/flowise)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/flowise)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

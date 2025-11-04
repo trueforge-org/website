@@ -10,7 +10,6 @@ Socials is a single-page website that stores all your social media and personal 
 
 - https://ghcr.io/diamkil/socials
 - https://github.com/diamkil/socials
-- https://github.com/truecharts/charts/tree/master/charts/stable/socials
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/socials
 - https://registry.hub.docker.com/r/diamkil/socials/
 
@@ -25,7 +24,7 @@ Socials is a single-page website that stores all your social media and personal 
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/socials)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/socials)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

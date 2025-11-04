@@ -10,7 +10,6 @@ RSSHub can generate RSS feeds from pretty much everything
 
 - https://docs.rsshub.app/en/install/
 - https://github.com/DIYgod/RSSHub
-- https://github.com/truecharts/charts/tree/master/charts/stable/rsshub
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/rsshub
 - https://hub.docker.com/r/browserless/chrome
 - https://hub.docker.com/r/diygod/rsshub
@@ -26,7 +25,7 @@ RSSHub can generate RSS feeds from pretty much everything
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/rsshub)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/rsshub)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

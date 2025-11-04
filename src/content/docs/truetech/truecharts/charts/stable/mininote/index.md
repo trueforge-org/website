@@ -9,7 +9,6 @@ A simple, self-hosted, encrypted Markdown note-taking app built with Vue 3, and 
 ## Chart Sources
 
 - https://github.com/muety/mininote
-- https://github.com/truecharts/charts/tree/master/charts/stable/mininote
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/mininote
 - https://hub.docker.com/r/n1try/mininote
 
@@ -24,7 +23,7 @@ A simple, self-hosted, encrypted Markdown note-taking app built with Vue 3, and 
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/mininote)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/mininote)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

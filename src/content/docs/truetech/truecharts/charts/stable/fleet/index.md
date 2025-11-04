@@ -9,7 +9,6 @@ Fleet provides an online web interface which displays a set of maintained images
 ## Chart Sources
 
 - https://ghcr.io/linuxserver/fleet
-- https://github.com/truecharts/charts/tree/master/charts/stable/fleet
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/fleet
 
 ## Available Documentation
@@ -23,7 +22,7 @@ Fleet provides an online web interface which displays a set of maintained images
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/fleet)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/fleet)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

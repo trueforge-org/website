@@ -10,7 +10,6 @@ An open source time-tracker with an interactive user experience and powerful rep
 
 - https://ghcr.io/almarklein/timetagger
 - https://github.com/almarklein/timetagger
-- https://github.com/truecharts/charts/tree/master/charts/stable/timetagger
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/timetagger
 - https://timetagger.app
 
@@ -26,7 +25,7 @@ An open source time-tracker with an interactive user experience and powerful rep
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/timetagger)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/timetagger)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

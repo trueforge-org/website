@@ -9,7 +9,6 @@ webNUT (UPS network monitoring web ui).
 ## Chart Sources
 
 - https://github.com/rshipp/webNUT
-- https://github.com/truecharts/charts/tree/master/charts/stable/webnut
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/webnut
 - https://hub.docker.com/r/edgd1er/webnut
 
@@ -25,7 +24,7 @@ webNUT (UPS network monitoring web ui).
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/webnut)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/webnut)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

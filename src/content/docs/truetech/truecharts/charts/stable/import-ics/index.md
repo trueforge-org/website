@@ -9,7 +9,6 @@ Runs a python script at a crontab defined interval that downloads/imports ics fi
 ## Chart Sources
 
 - https://github.com/Vilhjalmr26/import_ics
-- https://github.com/truecharts/charts/tree/master/charts/stable/import-ics
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/import-ics
 - https://hub.docker.com/r/vilhjalmr26/import_ics
 
@@ -24,7 +23,7 @@ Runs a python script at a crontab defined interval that downloads/imports ics fi
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/import-ics)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/import-ics)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

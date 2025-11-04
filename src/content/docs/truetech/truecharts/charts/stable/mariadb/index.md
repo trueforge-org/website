@@ -10,7 +10,6 @@ Fast, reliable, scalable, and easy to use open-source relational database system
 
 - https://github.com/bitnami/bitnami-docker-mariadb
 - https://github.com/prometheus/mysqld_exporter
-- https://github.com/truecharts/charts/tree/master/charts/stable/mariadb
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/mariadb
 - https://hub.docker.com/r/bitnamisecure/mariadb
 - https://mariadb.org
@@ -26,7 +25,7 @@ Fast, reliable, scalable, and easy to use open-source relational database system
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/mariadb)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/mariadb)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

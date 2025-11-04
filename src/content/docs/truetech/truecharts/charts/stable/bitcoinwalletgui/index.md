@@ -8,7 +8,6 @@ Bitcoin wallet with GUI over VNC and NoVNC.&#xD;
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/bitcoinwalletgui
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/bitcoinwalletgui
 - https://hub.docker.com/r/ulisses1478/bitcoinwallet-gui
 
@@ -23,7 +22,7 @@ Bitcoin wallet with GUI over VNC and NoVNC.&#xD;
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/bitcoinwalletgui)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/bitcoinwalletgui)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

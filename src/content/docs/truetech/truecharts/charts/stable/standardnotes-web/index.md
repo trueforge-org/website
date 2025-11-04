@@ -8,7 +8,6 @@ A safe and private place for your life's work.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/standardnotes-web
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/standardnotes-web
 - https://hub.docker.com/r/standardnotes/web
 - https://standardnotes.org/
@@ -24,7 +23,7 @@ A safe and private place for your life's work.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/standardnotes-web)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/standardnotes-web)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

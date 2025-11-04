@@ -10,7 +10,6 @@ Lightweight self-hosted facebook-styled PHP blog.
 
 - https://github.com/m1k1o/blog
 - https://github.com/nicholaswilde/docker-blog
-- https://github.com/truecharts/charts/tree/master/charts/stable/blog
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/blog
 - https://hub.docker.com/r/m1k1o/blog
 
@@ -25,7 +24,7 @@ Lightweight self-hosted facebook-styled PHP blog.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/blog)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/blog)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

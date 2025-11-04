@@ -10,7 +10,6 @@ Snapdrop A local file sharing in your browser. Inspired by Apple's Airdrop.
 
 - https://fleet.linuxserver.io/image?name=linuxserver/snapdrop
 - https://github.com/linuxserver/docker-snapdrop
-- https://github.com/truecharts/charts/tree/master/charts/stable/snapdrop
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/snapdrop
 
 ## Available Documentation
@@ -24,7 +23,7 @@ Snapdrop A local file sharing in your browser. Inspired by Apple's Airdrop.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/snapdrop)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/snapdrop)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

@@ -8,7 +8,6 @@ Creates a simple webpage for Slack invite signups
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/slack-invite
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/slack-invite
 - https://hub.docker.com/r/ninthwalker/slack-invite
 - httpss://github.com/ninthwalker/slack-invite
@@ -24,7 +23,7 @@ Creates a simple webpage for Slack invite signups
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/slack-invite)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/slack-invite)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

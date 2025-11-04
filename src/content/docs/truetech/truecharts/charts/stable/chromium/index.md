@@ -9,7 +9,6 @@ Chromium is a free and open-source software project developed by the Google-spon
 ## Chart Sources
 
 - https://ghcr.io/ich777/chrome
-- https://github.com/truecharts/charts/tree/master/charts/stable/chromium
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/chromium
 - https://www.google.com/chrome/
 
@@ -24,7 +23,7 @@ Chromium is a free and open-source software project developed by the Google-spon
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/chromium)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/chromium)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

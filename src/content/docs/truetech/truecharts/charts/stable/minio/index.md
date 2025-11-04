@@ -9,7 +9,6 @@ Minio is a self-hosted S3 storage server
 ## Chart Sources
 
 - https://github.com/minio/minio
-- https://github.com/truecharts/charts/tree/master/charts/stable/minio
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/minio
 - https://hub.docker.com/r/minio/minio
 
@@ -25,7 +24,7 @@ Minio is a self-hosted S3 storage server
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/minio)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/minio)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

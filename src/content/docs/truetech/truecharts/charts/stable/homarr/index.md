@@ -10,7 +10,6 @@ Homarr is a simple and lightweight homepage for your server, that helps you easi
 
 - https://ghcr.io/homarr-labs/homarr
 - https://github.com/ajnart/homarr
-- https://github.com/truecharts/charts/tree/master/charts/stable/homarr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/homarr
 
 ## Available Documentation
@@ -24,7 +23,7 @@ Homarr is a simple and lightweight homepage for your server, that helps you easi
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/homarr)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/homarr)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

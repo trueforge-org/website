@@ -9,7 +9,6 @@ SUI Startpage is a simple and clean server start page or homepage that you can q
 ## Chart Sources
 
 - https://github.com/CorneliousJD/SUI-Startpage
-- https://github.com/truecharts/charts/tree/master/charts/stable/suistartpage
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/suistartpage
 - https://hub.docker.com/r/corneliousjd/sui-startpage
 
@@ -24,7 +23,7 @@ SUI Startpage is a simple and clean server start page or homepage that you can q
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/suistartpage)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/suistartpage)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

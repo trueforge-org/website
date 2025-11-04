@@ -10,7 +10,6 @@ Grafana is an open source, feature rich metrics dashboard and graph editor for G
 
 - https://ghcr.io/kiwigrid/k8s-sidecar
 - https://github.com/bitnami/bitnami-docker-grafana
-- https://github.com/truecharts/charts/tree/master/charts/stable/grafana
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/grafana
 - https://grafana.com/
 - https://hub.docker.com/r/grafana/grafana
@@ -26,7 +25,7 @@ Grafana is an open source, feature rich metrics dashboard and graph editor for G
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/grafana)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/grafana)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

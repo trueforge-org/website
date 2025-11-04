@@ -9,7 +9,6 @@ A Headless Steam chart.
 ## Chart Sources
 
 - https://github.com/Steam-Headless/docker-steam-headless
-- https://github.com/truecharts/charts/tree/master/charts/stable/steam-headless
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/steam-headless
 - https://hub.docker.com/r/josh5/steam-headless
 
@@ -24,7 +23,7 @@ A Headless Steam chart.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/steam-headless)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/steam-headless)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

@@ -9,7 +9,6 @@ Very simple WebDAV server based on Apache. You need a WebDAV client to transfer 
 ## Chart Sources
 
 - https://github.com/mgutt/docker-apachewebdav
-- https://github.com/truecharts/charts/tree/master/charts/stable/apache-webdav
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/apache-webdav
 - https://httpd.apache.org/docs/2.4/mod/mod_dav.html
 - https://hub.docker.com/r/apachewebdav/apachewebdav
@@ -25,7 +24,7 @@ Very simple WebDAV server based on Apache. You need a WebDAV client to transfer 
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/apache-webdav)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/apache-webdav)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

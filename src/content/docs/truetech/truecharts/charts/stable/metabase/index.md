@@ -9,7 +9,6 @@ Business intelligence, dashboards, and data visualization tools
 ## Chart Sources
 
 - https://github.com/metabase/metabase
-- https://github.com/truecharts/charts/tree/master/charts/stable/metabase
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/metabase
 - https://hub.docker.com/r/metabase/metabase
 
@@ -24,7 +23,7 @@ Business intelligence, dashboards, and data visualization tools
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/metabase)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/metabase)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

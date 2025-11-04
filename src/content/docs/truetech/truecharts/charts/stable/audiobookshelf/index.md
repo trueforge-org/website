@@ -9,7 +9,6 @@ Audiobookshelf is a self-hosted audiobook server for managing and playing your a
 ## Chart Sources
 
 - https://github.com/advplyr/audiobookshelf
-- https://github.com/truecharts/charts/tree/master/charts/stable/audiobookshelf
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/audiobookshelf
 - https://hub.docker.com/r/advplyr/audiobookshelf
 
@@ -24,7 +23,7 @@ Audiobookshelf is a self-hosted audiobook server for managing and playing your a
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/audiobookshelf)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/audiobookshelf)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

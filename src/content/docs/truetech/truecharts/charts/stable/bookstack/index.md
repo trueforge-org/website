@@ -9,7 +9,6 @@ A simple, self-hosted, easy-to-use platform for organising and storing informati
 ## Chart Sources
 
 - https://ghcr.io/linuxserver/bookstack
-- https://github.com/truecharts/charts/tree/master/charts/stable/bookstack
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/bookstack
 - https://www.bookstackapp.com/
 
@@ -24,7 +23,7 @@ A simple, self-hosted, easy-to-use platform for organising and storing informati
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/bookstack)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/bookstack)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

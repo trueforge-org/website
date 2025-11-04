@@ -9,7 +9,6 @@ HexChat is an IRC client based on XChat, but unlike XChat it’s completely free
 ## Chart Sources
 
 - https://github.com/binhex/documentation
-- https://github.com/truecharts/charts/tree/master/charts/stable/hexchat
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/hexchat
 - https://hexchat.github.io/
 - https://quay.io/binhex/arch-hexchat
@@ -26,7 +25,7 @@ HexChat is an IRC client based on XChat, but unlike XChat it’s completely free
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/hexchat)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/hexchat)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

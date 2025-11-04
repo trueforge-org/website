@@ -9,7 +9,6 @@ A lightweight NodeJS server that emulates the iOS HomeKit API
 ## Chart Sources
 
 - https://github.com/oznu/docker-homebridge
-- https://github.com/truecharts/charts/tree/master/charts/stable/homebridge
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/homebridge
 - https://homebridge.io/
 - https://hub.docker.com/r/homebridge/homebridge
@@ -25,7 +24,7 @@ A lightweight NodeJS server that emulates the iOS HomeKit API
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/homebridge)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/homebridge)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

@@ -9,7 +9,6 @@ Self-hosted, community-driven, local OpenAI-compatible API.
 ## Chart Sources
 
 - https://github.com/go-skynet/LocalAI
-- https://github.com/truecharts/charts/tree/master/charts/stable/local-ai
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/local-ai
 - https://hub.docker.com/r/localai/localai
 
@@ -24,7 +23,7 @@ Self-hosted, community-driven, local OpenAI-compatible API.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/local-ai)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/local-ai)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

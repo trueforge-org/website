@@ -8,7 +8,6 @@ The WordPress rich content management system can utilize plugins, widgets, and t
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/wordpress
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/wordpress
 - https://hub.docker.com/r/bitnamisecure/wordpress
 - https://www.wordpress.org
@@ -24,7 +23,7 @@ The WordPress rich content management system can utilize plugins, widgets, and t
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/wordpress)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/wordpress)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

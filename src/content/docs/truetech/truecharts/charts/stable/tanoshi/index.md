@@ -9,7 +9,6 @@ Selfhosted web manga reader.
 ## Chart Sources
 
 - https://github.com/faldez/tanoshi
-- https://github.com/truecharts/charts/tree/master/charts/stable/tanoshi
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/tanoshi
 - https://hub.docker.com/r/faldez/tanoshi
 
@@ -24,7 +23,7 @@ Selfhosted web manga reader.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/tanoshi)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/tanoshi)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

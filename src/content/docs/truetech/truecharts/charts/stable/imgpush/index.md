@@ -9,7 +9,6 @@ Minimalist Self-hosted Image Service for user submitted images in your app (e.g.
 ## Chart Sources
 
 - https://github.com/hauxir/imgpush
-- https://github.com/truecharts/charts/tree/master/charts/stable/imgpush
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/imgpush
 - https://hub.docker.com/r/hauxir/imgpush
 
@@ -24,7 +23,7 @@ Minimalist Self-hosted Image Service for user submitted images in your app (e.g.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/imgpush)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/imgpush)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

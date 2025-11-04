@@ -9,7 +9,6 @@ TasmoCompiler is a simple web GUI which allows you to compile fantastic Tasmota 
 ## Chart Sources
 
 - https://github.com/benzino77/tasmocompiler
-- https://github.com/truecharts/charts/tree/master/charts/stable/tasmocompiler
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/tasmocompiler
 - https://hub.docker.com/r/benzino77/tasmocompiler
 
@@ -24,7 +23,7 @@ TasmoCompiler is a simple web GUI which allows you to compile fantastic Tasmota 
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/tasmocompiler)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/tasmocompiler)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

@@ -9,7 +9,6 @@ All your audiobooks in one place
 ## Chart Sources
 
 - https://github.com/openaudible/openaudible_docker
-- https://github.com/truecharts/charts/tree/master/charts/stable/openaudible
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/openaudible
 - https://hub.docker.com/r/openaudible/openaudible
 
@@ -24,7 +23,7 @@ All your audiobooks in one place
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/openaudible)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/openaudible)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

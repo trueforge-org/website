@@ -9,7 +9,6 @@ GUI for Redis.
 ## Chart Sources
 
 - https://github.com/RedisInsight/RedisInsight
-- https://github.com/truecharts/charts/tree/master/charts/stable/redisinsight
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/redisinsight
 - https://hub.docker.com/r/redislabs/redisinsight
 - https://redis.com/redis-enterprise/redis-insight/
@@ -26,7 +25,7 @@ GUI for Redis.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/redisinsight)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/redisinsight)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

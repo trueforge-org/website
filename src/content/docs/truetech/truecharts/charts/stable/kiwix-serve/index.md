@@ -10,7 +10,6 @@ Kiwix enables you to have the whole Wikipedia at hand wherever you go!
 
 - https://ghcr.io/kiwix/kiwix-serve
 - https://github.com/kiwix/kiwix-tools/blob/master/docker/server
-- https://github.com/truecharts/charts/tree/master/charts/stable/kiwix-serve
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/kiwix-serve
 - https://www.kiwix.org/
 
@@ -26,7 +25,7 @@ Kiwix enables you to have the whole Wikipedia at hand wherever you go!
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/kiwix-serve)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/kiwix-serve)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

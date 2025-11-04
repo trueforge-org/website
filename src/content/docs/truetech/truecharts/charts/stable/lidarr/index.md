@@ -11,7 +11,6 @@ Looks and smells like Sonarr but made for music
 - https://ghcr.io/home-operations/lidarr
 - https://ghcr.io/onedr0p/exportarr
 - https://github.com/Lidarr/Lidarr
-- https://github.com/truecharts/charts/tree/master/charts/stable/lidarr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/lidarr
 
 ## Available Documentation
@@ -26,7 +25,7 @@ Looks and smells like Sonarr but made for music
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/lidarr)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/lidarr)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

@@ -9,7 +9,6 @@ This is an all-in-one package for running a self-hosted Firefox Sync server.
 ## Chart Sources
 
 - https://ghcr.io/crazy-max/firefox-syncserver
-- https://github.com/truecharts/charts/tree/master/charts/stable/firefox-syncserver
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/firefox-syncserver
 - https://moz-services-docs.readthedocs.io/en/latest/howtos/run-sync-1.5.html
 
@@ -24,7 +23,7 @@ This is an all-in-one package for running a self-hosted Firefox Sync server.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/firefox-syncserver)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/firefox-syncserver)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

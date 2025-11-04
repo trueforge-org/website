@@ -9,7 +9,6 @@ Unified UI and API for processing and training images for facial recognition
 ## Chart Sources
 
 - https://github.com/jakowenko/double-take
-- https://github.com/truecharts/charts/tree/master/charts/stable/double-take
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/double-take
 - https://hub.docker.com/r/skrashevich/double-take
 
@@ -24,7 +23,7 @@ Unified UI and API for processing and training images for facial recognition
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/double-take)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/double-take)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

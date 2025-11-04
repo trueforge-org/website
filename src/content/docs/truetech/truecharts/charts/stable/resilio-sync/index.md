@@ -10,7 +10,6 @@ Resilio Sync is a fast, reliable, and simple file sync and share solution, power
 
 - https://ghcr.io/linuxserver/resilio-sync
 - https://github.com/orgs/linuxserver/packages/container/package/resilio-sync
-- https://github.com/truecharts/charts/tree/master/charts/stable/resilio-sync
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/resilio-sync
 
 ## Available Documentation
@@ -24,7 +23,7 @@ Resilio Sync is a fast, reliable, and simple file sync and share solution, power
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/resilio-sync)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/resilio-sync)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

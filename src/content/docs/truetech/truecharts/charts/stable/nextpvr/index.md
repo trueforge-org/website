@@ -9,7 +9,6 @@ NextPVR is a personal video recorder application, with the goal making it easy t
 ## Chart Sources
 
 - https://github.com/sub3/NextPVR/wiki/Install-Docker
-- https://github.com/truecharts/charts/tree/master/charts/stable/nextpvr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/nextpvr
 - https://hub.docker.com/r/nextpvr/nextpvr_amd64
 
@@ -25,7 +24,7 @@ NextPVR is a personal video recorder application, with the goal making it easy t
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/nextpvr)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/nextpvr)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

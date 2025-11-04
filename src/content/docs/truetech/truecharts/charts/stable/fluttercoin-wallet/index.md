@@ -10,7 +10,6 @@ FlutterCoin may be a coin with the tried and true algorithm of scrypt, but it's 
 
 - https://fluttercoin.me/
 - https://ghcr.io/ich777/fluttercoin
-- https://github.com/truecharts/charts/tree/master/charts/stable/fluttercoin-wallet
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/fluttercoin-wallet
 
 ## Available Documentation
@@ -24,7 +23,7 @@ FlutterCoin may be a coin with the tried and true algorithm of scrypt, but it's 
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/fluttercoin-wallet)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/fluttercoin-wallet)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

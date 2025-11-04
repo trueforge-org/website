@@ -9,7 +9,6 @@ A Simple web server to manage and run DOS based games on the browser.
 ## Chart Sources
 
 - https://github.com/SoulRaven80/wdosg
-- https://github.com/truecharts/charts/tree/master/charts/stable/wdosg
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/wdosg
 - https://hub.docker.com/r/soulraven1980/wdosg
 
@@ -25,7 +24,7 @@ A Simple web server to manage and run DOS based games on the browser.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/wdosg)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/wdosg)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

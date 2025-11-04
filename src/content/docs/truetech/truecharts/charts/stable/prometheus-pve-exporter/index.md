@@ -9,7 +9,6 @@ A Prometheus exporter for Proxmox Virtual Environment metrics.
 ## Chart Sources
 
 - https://github.com/prometheus-pve/prometheus-pve-exporter
-- https://github.com/truecharts/charts/tree/master/charts/stable/prometheus-pve-exporter
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/prometheus-pve-exporter
 - https://grafana.com/grafana/dashboards/10347-proxmox-via-prometheus/
 - https://hub.docker.com/r/prompve/prometheus-pve-exporter
@@ -25,7 +24,7 @@ A Prometheus exporter for Proxmox Virtual Environment metrics.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/prometheus-pve-exporter)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/prometheus-pve-exporter)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

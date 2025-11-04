@@ -8,7 +8,6 @@ Z80Pack is an emulator for emulating CP/M 1, CP/M 2, CP/M 3, and MP/M II on Linu
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/z80pack
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/z80pack
 - https://hub.docker.com/r/dlandon/z80pack
 - https://registry.hub.docker.com/r/dlandon/z80pack/
@@ -24,7 +23,7 @@ Z80Pack is an emulator for emulating CP/M 1, CP/M 2, CP/M 3, and MP/M II on Linu
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/z80pack)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/z80pack)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

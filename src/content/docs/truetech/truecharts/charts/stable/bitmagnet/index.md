@@ -11,7 +11,6 @@ A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent se
 - https://bitmagnet.io
 - https://ghcr.io/bitmagnet-io/bitmagnet
 - https://github.com/bitmagnet-io/bitmagnet
-- https://github.com/truecharts/charts/tree/master/charts/stable/bitmagnet
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/bitmagnet
 
 ## Available Documentation
@@ -25,7 +24,7 @@ A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent se
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/bitmagnet)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/bitmagnet)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

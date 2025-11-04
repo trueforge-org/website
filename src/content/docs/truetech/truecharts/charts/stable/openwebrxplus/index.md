@@ -9,7 +9,6 @@ Improved version of the OpenWebRX online SDR
 ## Chart Sources
 
 - https://github.com/luarvique/openwebrx
-- https://github.com/truecharts/charts/tree/master/charts/stable/openwebrxplus
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/openwebrxplus
 - https://hub.docker.com/r/slechev/openwebrxplus-softmbe
 
@@ -24,7 +23,7 @@ Improved version of the OpenWebRX online SDR
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/openwebrxplus)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/openwebrxplus)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

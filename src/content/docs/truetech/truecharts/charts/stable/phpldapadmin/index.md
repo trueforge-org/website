@@ -8,7 +8,6 @@ Web-based LDAP browser to manage your LDAP server
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/phpldapadmin
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/phpldapadmin
 - https://gitlab.v2.rancher.geohub.space/g3s/i3s/i3s-helm-catalog
 - https://hub.docker.com/r/osixia/phpldapadmin
@@ -24,7 +23,7 @@ Web-based LDAP browser to manage your LDAP server
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/phpldapadmin)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/phpldapadmin)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

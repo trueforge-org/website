@@ -9,7 +9,6 @@ No description provide.
 ## Chart Sources
 
 - https://github.com/agusalex/Notarius
-- https://github.com/truecharts/charts/tree/master/charts/stable/notarius
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/notarius
 - https://hub.docker.com/r/agusalex/notarius
 
@@ -24,7 +23,7 @@ No description provide.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/notarius)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/notarius)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

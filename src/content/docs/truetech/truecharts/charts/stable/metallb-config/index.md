@@ -9,7 +9,6 @@ A network load-balancer implementation for Kubernetes using standard routing pro
 ## Chart Sources
 
 - https://github.com/metallb/metallb
-- https://github.com/truecharts/charts/tree/master/charts/stable/metallb-config
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/metallb-config
 - https://hub.docker.com/_/hello-world
 - https://metallb.io
@@ -26,7 +25,7 @@ A network load-balancer implementation for Kubernetes using standard routing pro
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/metallb-config)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/metallb-config)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

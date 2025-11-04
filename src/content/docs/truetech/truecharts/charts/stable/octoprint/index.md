@@ -9,7 +9,6 @@ OctoPrint is the snappy web interface for your 3D printer
 ## Chart Sources
 
 - https://github.com/OctoPrint/OctoPrint
-- https://github.com/truecharts/charts/tree/master/charts/stable/octoprint
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/octoprint
 - https://hub.docker.com/r/octoprint/octoprint
 
@@ -24,7 +23,7 @@ OctoPrint is the snappy web interface for your 3D printer
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/octoprint)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/octoprint)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

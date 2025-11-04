@@ -9,7 +9,6 @@ SinusBot is a MusicBot that will let you listen to music together with your frie
 ## Chart Sources
 
 - https://forum.sinusbot.com
-- https://github.com/truecharts/charts/tree/master/charts/stable/sinusbot
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/sinusbot
 - https://hub.docker.com/r/sinusbot/docker
 
@@ -24,7 +23,7 @@ SinusBot is a MusicBot that will let you listen to music together with your frie
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/sinusbot)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/sinusbot)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

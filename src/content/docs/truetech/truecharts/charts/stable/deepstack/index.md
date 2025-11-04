@@ -9,7 +9,6 @@ DeepStack AI provides AI features including Face Recognition, Object Detection, 
 ## Chart Sources
 
 - https://github.com/johnolafenwa/DeepStack
-- https://github.com/truecharts/charts/tree/master/charts/stable/deepstack
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/deepstack
 - https://hub.docker.com/r/deepquestai/deepstack
 - https://www.deepstack.cc/
@@ -26,7 +25,7 @@ DeepStack AI provides AI features including Face Recognition, Object Detection, 
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/deepstack)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/deepstack)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

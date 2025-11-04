@@ -9,7 +9,6 @@ A minimal forward authentication service that provides OAuth/SSO login and authe
 ## Chart Sources
 
 - https://github.com/thomseddon/traefik-forward-auth
-- https://github.com/truecharts/charts/tree/master/charts/stable/traefik-forward-auth
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/traefik-forward-auth
 - https://hub.docker.com/r/thomseddon/traefik-forward-auth
 
@@ -25,7 +24,7 @@ A minimal forward authentication service that provides OAuth/SSO login and authe
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/traefik-forward-auth)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/traefik-forward-auth)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

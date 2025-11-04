@@ -9,7 +9,6 @@ Automated language selection for Plex TV Shows.
 ## Chart Sources
 
 - https://github.com/remirigal/plex-auto-languages
-- https://github.com/truecharts/charts/tree/master/charts/stable/plex-auto-languages
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/plex-auto-languages
 - https://hub.docker.com/r/remirigal/plex-auto-languages
 
@@ -25,7 +24,7 @@ Automated language selection for Plex TV Shows.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/plex-auto-languages)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/plex-auto-languages)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

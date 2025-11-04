@@ -10,7 +10,6 @@ pyLoad is a Free and Open Source download manager written in Python and designed
 
 - https://ghcr.io/linuxserver/pyload
 - https://github.com/pyload/pyload
-- https://github.com/truecharts/charts/tree/master/charts/stable/pyload
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/pyload
 
 ## Available Documentation
@@ -24,7 +23,7 @@ pyLoad is a Free and Open Source download manager written in Python and designed
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/pyload)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/pyload)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

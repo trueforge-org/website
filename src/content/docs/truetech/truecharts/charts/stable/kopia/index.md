@@ -9,7 +9,6 @@ Kopia is a simple, cross-platform tool for managing encrypted backups in the clo
 ## Chart Sources
 
 - https://github.com/kopia/kopia
-- https://github.com/truecharts/charts/tree/master/charts/stable/kopia
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/kopia
 - https://hub.docker.com/r/kopia/kopia
 - https://kopia.io/docs/installation/#docker-images
@@ -25,7 +24,7 @@ Kopia is a simple, cross-platform tool for managing encrypted backups in the clo
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/kopia)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/kopia)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

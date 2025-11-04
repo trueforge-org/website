@@ -9,7 +9,6 @@ A self-hosted bookmark database with full-text page content search.
 ## Chart Sources
 
 - https://github.com/tardisx/linkwallet
-- https://github.com/truecharts/charts/tree/master/charts/stable/linkwallet
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/linkwallet
 - https://hub.docker.com/r/tardisx/linkwallet
 
@@ -24,7 +23,7 @@ A self-hosted bookmark database with full-text page content search.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/linkwallet)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/linkwallet)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

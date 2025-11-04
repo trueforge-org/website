@@ -8,7 +8,6 @@ gPodder is a simple, open source podcast client written in Python using GTK+. In
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/gpodder
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/gpodder
 - https://gpodder.github.io/
 - https://hub.docker.com/r/xthursdayx/gpodder-docker
@@ -24,7 +23,7 @@ gPodder is a simple, open source podcast client written in Python using GTK+. In
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/gpodder)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/gpodder)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

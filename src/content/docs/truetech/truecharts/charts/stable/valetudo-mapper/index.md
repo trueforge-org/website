@@ -9,7 +9,6 @@ Valetudo-RE companion service for generating PNG maps.
 ## Chart Sources
 
 - https://github.com/rand256/valetudo-mapper
-- https://github.com/truecharts/charts/tree/master/charts/stable/valetudo-mapper
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/valetudo-mapper
 - https://hub.docker.com/r/rand256/valetudo-mapper
 
@@ -24,7 +23,7 @@ Valetudo-RE companion service for generating PNG maps.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/valetudo-mapper)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/valetudo-mapper)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

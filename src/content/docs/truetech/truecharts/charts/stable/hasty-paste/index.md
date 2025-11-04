@@ -11,7 +11,6 @@ A fast and minimal paste bin, written in Python using Quart.
 - https://ghcr.io/enchant97/hasty-paste
 - https://github.com/enchant97/hasty-paste
 - https://github.com/enchant97/hasty-paste/blob/main/docs/install.md
-- https://github.com/truecharts/charts/tree/master/charts/stable/hasty-paste
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/hasty-paste
 
 ## Available Documentation
@@ -25,7 +24,7 @@ A fast and minimal paste bin, written in Python using Quart.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/hasty-paste)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/hasty-paste)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

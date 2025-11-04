@@ -9,7 +9,6 @@ A free and open source personal finance manager
 ## Chart Sources
 
 - https://github.com/firefly-iii/firefly-iii/
-- https://github.com/truecharts/charts/tree/master/charts/stable/fireflyiii
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/fireflyiii
 - https://hub.docker.com/r/fireflyiii/core
 
@@ -25,7 +24,7 @@ A free and open source personal finance manager
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/fireflyiii)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/fireflyiii)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

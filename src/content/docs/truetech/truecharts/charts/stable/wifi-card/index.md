@@ -9,7 +9,6 @@ Print a neat little card with your WiFi info and stick it on the fridge.
 ## Chart Sources
 
 - https://github.com/bndw/wifi-card
-- https://github.com/truecharts/charts/tree/master/charts/stable/wifi-card
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/wifi-card
 - https://hub.docker.com/r/bndw/wifi-card
 
@@ -24,7 +23,7 @@ Print a neat little card with your WiFi info and stick it on the fridge.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/wifi-card)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/wifi-card)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

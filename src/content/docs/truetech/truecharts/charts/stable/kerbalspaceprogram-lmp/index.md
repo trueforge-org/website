@@ -10,7 +10,6 @@ This Chart will download and run Luna Multiplayer for Kerbal Space Program (KSP)
 
 - https://ghcr.io/ich777/lunamultiplayer-ksp
 - https://github.com/LunaMultiplayer/LunaMultiplayer
-- https://github.com/truecharts/charts/tree/master/charts/stable/kerbalspaceprogram-lmp
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/kerbalspaceprogram-lmp
 
 ## Available Documentation
@@ -24,7 +23,7 @@ This Chart will download and run Luna Multiplayer for Kerbal Space Program (KSP)
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/kerbalspaceprogram-lmp)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/kerbalspaceprogram-lmp)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

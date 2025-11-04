@@ -10,7 +10,6 @@ TubeSync is a PVR (personal video recorder) for YouTube. Or, like Sonarr but for
 
 - https://ghcr.io/meeb/tubesync
 - https://github.com/meeb/tubesync
-- https://github.com/truecharts/charts/tree/master/charts/stable/tubesync
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/tubesync
 - https://registry.hub.docker.com/r/ghcr.io/meeb/tubesync
 
@@ -25,7 +24,7 @@ TubeSync is a PVR (personal video recorder) for YouTube. Or, like Sonarr but for
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/tubesync)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/tubesync)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

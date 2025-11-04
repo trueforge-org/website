@@ -9,7 +9,6 @@ Allows the installation of Nightscout, a remote CGM monitoring system. It allows
 ## Chart Sources
 
 - https://github.com/nightscout/cgm-remote-monitor
-- https://github.com/truecharts/charts/tree/master/charts/stable/nightscout
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/nightscout
 - https://hub.docker.com/r/nightscout/cgm-remote-monitor-travis
 - https://registry.hub.docker.com/r/nightscout/cgm-remote-monitor-travis
@@ -25,7 +24,7 @@ Allows the installation of Nightscout, a remote CGM monitoring system. It allows
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/nightscout)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/nightscout)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

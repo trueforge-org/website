@@ -9,7 +9,6 @@ Kapowarr is a software to build and manage a comic book library, fitting in the 
 ## Chart Sources
 
 - https://github.com/Casvt/Kapowarr
-- https://github.com/truecharts/charts/tree/master/charts/stable/kapowarr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/kapowarr
 - https://hub.docker.com/r/mrcas/kapowarr
 
@@ -24,7 +23,7 @@ Kapowarr is a software to build and manage a comic book library, fitting in the 
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/kapowarr)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/kapowarr)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

@@ -10,7 +10,6 @@ ERP beyond your fridge - grocy is a web-based self-hosted groceries & household 
 
 - https://ghcr.io/linuxserver/grocy
 - https://github.com/grocy/grocy
-- https://github.com/truecharts/charts/tree/master/charts/stable/grocy
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/grocy
 
 ## Available Documentation
@@ -24,7 +23,7 @@ ERP beyond your fridge - grocy is a web-based self-hosted groceries & household 
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/grocy)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/grocy)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

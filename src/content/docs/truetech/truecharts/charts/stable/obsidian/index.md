@@ -11,7 +11,6 @@ A knowledge base that works on local Markdown files.
 - https://ghcr.io/sytone/obsidian-remote
 - https://github.com/sytone/obsidian-remote
 - https://github.com/sytone/obsidian-remote/pkgs/container/obsidian-remote
-- https://github.com/truecharts/charts/tree/master/charts/stable/obsidian
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/obsidian
 
 ## Available Documentation
@@ -25,7 +24,7 @@ A knowledge base that works on local Markdown files.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/obsidian)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/obsidian)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

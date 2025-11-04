@@ -9,7 +9,6 @@ Minisatip is a multi-threaded satip server version 1.2 that runs under Linux.
 ## Chart Sources
 
 - https://ghcr.io/linuxserver/minisatip
-- https://github.com/truecharts/charts/tree/master/charts/stable/minisatip
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/minisatip
 
 ## Available Documentation
@@ -23,7 +22,7 @@ Minisatip is a multi-threaded satip server version 1.2 that runs under Linux.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/minisatip)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/minisatip)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

@@ -9,7 +9,6 @@ A standalone, self-hosted, fast, free and Open Source Artificial Intelligence mi
 ## Chart Sources
 
 - https://github.com/codeproject/CodeProject.AI-Server
-- https://github.com/truecharts/charts/tree/master/charts/stable/codeproject-ai-server
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/codeproject-ai-server
 - https://hub.docker.com/r/codeproject/ai-server
 
@@ -24,7 +23,7 @@ A standalone, self-hosted, fast, free and Open Source Artificial Intelligence mi
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/codeproject-ai-server)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/codeproject-ai-server)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

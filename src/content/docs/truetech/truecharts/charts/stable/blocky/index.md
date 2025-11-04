@@ -13,7 +13,6 @@ Blocky is a DNS proxy, DNS enhancer and ad-blocker for the local network written
 - https://ghcr.io/k8s-gateway/k8s_gateway
 - https://github.com/0xERR0R/blocky
 - https://github.com/Mozart409/blocky-frontend
-- https://github.com/truecharts/charts/tree/master/charts/stable/blocky
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/blocky
 
 ## Available Documentation
@@ -30,7 +29,7 @@ Blocky is a DNS proxy, DNS enhancer and ad-blocker for the local network written
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/blocky)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/blocky)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

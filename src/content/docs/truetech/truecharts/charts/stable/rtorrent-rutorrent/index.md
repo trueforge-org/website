@@ -11,7 +11,6 @@ rTorrent and ruTorrent chart.
 - https://ghcr.io/crazy-max/rtorrent-rutorrent
 - https://ghcr.io/thde/rtorrent_exporter
 - https://github.com/crazy-max/docker-rtorrent-rutorrent
-- https://github.com/truecharts/charts/tree/master/charts/stable/rtorrent-rutorrent
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/rtorrent-rutorrent
 - https://trueforge.org/truecharts/stable/rtorrent-rutorrent
 
@@ -27,7 +26,7 @@ rTorrent and ruTorrent chart.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/rtorrent-rutorrent)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/rtorrent-rutorrent)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

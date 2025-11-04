@@ -10,7 +10,6 @@ Integrated development environment for R, a programming language for statistical
 
 - https://ghcr.io/rocker-org/rstudio
 - https://github.com/rocker-org/rocker-versioned2
-- https://github.com/truecharts/charts/tree/master/charts/stable/rstudio
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/rstudio
 
 ## Available Documentation
@@ -24,7 +23,7 @@ Integrated development environment for R, a programming language for statistical
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/rstudio)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/rstudio)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

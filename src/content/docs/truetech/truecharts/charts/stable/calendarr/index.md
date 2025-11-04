@@ -10,7 +10,6 @@ Fetches upcoming airings/releases for TV shows and movies from Sonarr and Radarr
 
 - https://ghcr.io/jordanlambrecht/calendarr
 - https://github.com/jordanlambrecht/calendarr
-- https://github.com/truecharts/charts/tree/master/charts/stable/calendarr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/calendarr
 
 ## Available Documentation
@@ -24,7 +23,7 @@ Fetches upcoming airings/releases for TV shows and movies from Sonarr and Radarr
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/calendarr)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/calendarr)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

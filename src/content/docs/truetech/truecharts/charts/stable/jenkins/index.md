@@ -9,7 +9,6 @@ The gold standard in devops tools for running CI/CD pipelines.
 ## Chart Sources
 
 - https://github.com/jenkinsci/docker
-- https://github.com/truecharts/charts/tree/master/charts/stable/jenkins
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/jenkins
 - https://hub.docker.com/r/jenkins/jenkins
 
@@ -24,7 +23,7 @@ The gold standard in devops tools for running CI/CD pipelines.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/jenkins)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/jenkins)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

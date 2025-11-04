@@ -10,7 +10,6 @@ Mealie is a self hosted recipe manager and meal planner with a RestAPI backend
 
 - https://ghcr.io/mealie-recipes/mealie
 - https://github.com/mealie-recipes/mealie
-- https://github.com/truecharts/charts/tree/master/charts/stable/mealie
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/mealie
 
 ## Available Documentation
@@ -24,7 +23,7 @@ Mealie is a self hosted recipe manager and meal planner with a RestAPI backend
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/mealie)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/mealie)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

@@ -10,7 +10,6 @@ Home and Collection manager for Plex.
 
 - https://ghcr.io/agregarr/agregarr
 - https://github.com/agregarr/agregarr
-- https://github.com/truecharts/charts/tree/master/charts/stable/agregarr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/agregarr
 
 ## Available Documentation
@@ -24,7 +23,7 @@ Home and Collection manager for Plex.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/agregarr)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/agregarr)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

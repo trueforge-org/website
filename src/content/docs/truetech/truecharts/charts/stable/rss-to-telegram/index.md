@@ -9,7 +9,6 @@ A self-hosted telegram JS/TS bot that dumps posts from RSS feeds to a telegram c
 ## Chart Sources
 
 - https://github.com/BoKKeR/RSS-to-Telegram-Bot
-- https://github.com/truecharts/charts/tree/master/charts/stable/rss-to-telegram
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/rss-to-telegram
 - https://hub.docker.com/r/bokker/rss.to.telegram
 
@@ -24,7 +23,7 @@ A self-hosted telegram JS/TS bot that dumps posts from RSS feeds to a telegram c
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/rss-to-telegram)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/rss-to-telegram)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

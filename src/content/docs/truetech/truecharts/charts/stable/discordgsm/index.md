@@ -9,7 +9,6 @@ A discord bot that monitors your game server and tracks the live data of your ga
 ## Chart Sources
 
 - https://github.com/DiscordGSM/GameServerMonitor
-- https://github.com/truecharts/charts/tree/master/charts/stable/discordgsm
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/discordgsm
 - https://hub.docker.com/r/discordgsm/discord-game-server-monitor
 
@@ -25,7 +24,7 @@ A discord bot that monitors your game server and tracks the live data of your ga
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/discordgsm)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/discordgsm)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

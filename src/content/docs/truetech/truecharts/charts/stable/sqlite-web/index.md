@@ -9,7 +9,6 @@ sqlite-web is a web-based SQLite database browser written in Python.
 ## Chart Sources
 
 - https://github.com/coleifer/sqlite-web
-- https://github.com/truecharts/charts/tree/master/charts/stable/sqlite-web
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/sqlite-web
 - https://hub.docker.com/r/coleifer/sqlite-web
 
@@ -24,7 +23,7 @@ sqlite-web is a web-based SQLite database browser written in Python.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/sqlite-web)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/sqlite-web)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

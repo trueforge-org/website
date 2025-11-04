@@ -9,7 +9,6 @@ This chart will download and install SteamCMD. It will also install 7 Days to Di
 ## Chart Sources
 
 - https://ghcr.io/ich777/steamcmd
-- https://github.com/truecharts/charts/tree/master/charts/stable/sdtd
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/sdtd
 - https://www.steampowered.com/
 
@@ -24,7 +23,7 @@ This chart will download and install SteamCMD. It will also install 7 Days to Di
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/sdtd)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/sdtd)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

@@ -9,7 +9,6 @@ Plex downloader that brings content from any server to yours!
 ## Chart Sources
 
 - https://github.com/reaparr/reaparr/
-- https://github.com/truecharts/charts/tree/master/charts/incubator/reaparr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/incubator/reaparr
 - https://hub.docker.com/r/reaparr/reaparr
 
@@ -24,7 +23,7 @@ Plex downloader that brings content from any server to yours!
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/incubator/reaparr)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/incubator/reaparr)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

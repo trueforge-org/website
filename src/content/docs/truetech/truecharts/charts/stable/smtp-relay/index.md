@@ -10,7 +10,6 @@ A SMTP service for relaying emails.
 
 - https://ghcr.io/ix-ai/smtp
 - https://github.com/ix-ai/smtp
-- https://github.com/truecharts/charts/tree/master/charts/stable/smtp-relay
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/smtp-relay
 
 ## Available Documentation
@@ -24,7 +23,7 @@ A SMTP service for relaying emails.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/smtp-relay)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/smtp-relay)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

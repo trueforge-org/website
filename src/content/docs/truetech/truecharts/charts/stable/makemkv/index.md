@@ -10,7 +10,6 @@ MakeMKV is your one-click solution to convert video that you own into free and p
 
 - https://ghcr.io/jlesage/makemkv
 - https://github.com/jlesage/docker-makemkv
-- https://github.com/truecharts/charts/tree/master/charts/stable/makemkv
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/makemkv
 
 ## Available Documentation
@@ -24,7 +23,7 @@ MakeMKV is your one-click solution to convert video that you own into free and p
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/makemkv)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/makemkv)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

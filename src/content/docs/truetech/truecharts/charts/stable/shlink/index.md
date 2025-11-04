@@ -9,7 +9,6 @@ A PHP-based self-hosted URL shortener that can be used to serve shortened URLs u
 ## Chart Sources
 
 - https://github.com/shlinkio/shlink
-- https://github.com/truecharts/charts/tree/master/charts/stable/shlink
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/shlink
 - https://hub.docker.com/r/shlinkio/shlink
 
@@ -24,7 +23,7 @@ A PHP-based self-hosted URL shortener that can be used to serve shortened URLs u
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/shlink)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/shlink)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

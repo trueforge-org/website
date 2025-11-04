@@ -10,7 +10,6 @@ Emby Server is a home media server
 
 - https://ghcr.io/home-operations/emby
 - https://github.com/linuxserver/docker-emby.git
-- https://github.com/truecharts/charts/tree/master/charts/stable/emby
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/emby
 - https://hub.docker.com/r/alpine/socat
 
@@ -25,7 +24,7 @@ Emby Server is a home media server
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/emby)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/emby)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

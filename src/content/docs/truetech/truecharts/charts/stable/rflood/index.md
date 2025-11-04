@@ -9,7 +9,6 @@ Chart with rTorrent and the Flood UI.
 ## Chart Sources
 
 - https://ghcr.io/hotio/rflood
-- https://github.com/truecharts/charts/tree/master/charts/stable/rflood
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/rflood
 - https://hotio.dev/containers/rflood
 
@@ -24,7 +23,7 @@ Chart with rTorrent and the Flood UI.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/rflood)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/rflood)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

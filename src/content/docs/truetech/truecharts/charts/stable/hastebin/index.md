@@ -9,7 +9,6 @@ Alpine-based Chart for Hastebin, the node.js paste service
 ## Chart Sources
 
 - https://github.com/nzzane/haste-server
-- https://github.com/truecharts/charts/tree/master/charts/stable/hastebin
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/hastebin
 - https://hub.docker.com/r/flippinturt/hastebin
 
@@ -24,7 +23,7 @@ Alpine-based Chart for Hastebin, the node.js paste service
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/hastebin)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/hastebin)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

@@ -9,7 +9,6 @@ This Chart will allow you to use the Hetzner DNS Service (https://www.hetzner.co
 ## Chart Sources
 
 - https://github.com/kutzilla/docker-hetzner-ddns
-- https://github.com/truecharts/charts/tree/master/charts/stable/hetzner-ddns
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/hetzner-ddns
 - https://hub.docker.com/r/kutzilla/hetzner-ddns
 
@@ -24,7 +23,7 @@ This Chart will allow you to use the Hetzner DNS Service (https://www.hetzner.co
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/hetzner-ddns)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/hetzner-ddns)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

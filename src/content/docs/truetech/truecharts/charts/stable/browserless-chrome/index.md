@@ -9,7 +9,6 @@ Browserless is a web-service that allows for remote clients to connect, drive, a
 ## Chart Sources
 
 - https://docs.browserless.io/docs/docker.html
-- https://github.com/truecharts/charts/tree/master/charts/stable/browserless-chrome
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/browserless-chrome
 - https://hub.docker.com/r/browserless/chrome
 
@@ -24,7 +23,7 @@ Browserless is a web-service that allows for remote clients to connect, drive, a
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/browserless-chrome)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/browserless-chrome)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

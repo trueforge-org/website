@@ -9,7 +9,6 @@ A tasty, self-hostable Git server for the command line.
 ## Chart Sources
 
 - https://github.com/charmbracelet/soft-serve
-- https://github.com/truecharts/charts/tree/master/charts/stable/soft-serve
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/soft-serve
 - https://hub.docker.com/r/charmcli/soft-serve
 
@@ -24,7 +23,7 @@ A tasty, self-hostable Git server for the command line.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/soft-serve)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/soft-serve)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

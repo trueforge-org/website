@@ -9,7 +9,6 @@ Skyrim Together Reborn server files.
 ## Chart Sources
 
 - https://github.com/tiltedphoques/TiltedEvolution
-- https://github.com/truecharts/charts/tree/master/charts/stable/st-reborn-server
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/st-reborn-server
 - https://hub.docker.com/r/tiltedphoques/st-reborn-server
 
@@ -25,7 +24,7 @@ Skyrim Together Reborn server files.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/st-reborn-server)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/st-reborn-server)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

@@ -11,7 +11,6 @@ Local file sharing in your web browser.
 - https://ghcr.io/schlagmichdoch/pairdrop
 - https://github.com/schlagmichdoch/PairDrop
 - https://github.com/schlagmichdoch/PairDrop/pkgs/container/pairdrop
-- https://github.com/truecharts/charts/tree/master/charts/stable/pairdrop
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/pairdrop
 
 ## Available Documentation
@@ -25,7 +24,7 @@ Local file sharing in your web browser.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/pairdrop)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/pairdrop)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

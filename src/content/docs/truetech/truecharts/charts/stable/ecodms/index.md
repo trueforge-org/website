@@ -8,7 +8,6 @@ ecoDMS 18.09 (apu) Full Installation - Document Management System (DMS) - Audit-
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/ecodms
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/ecodms
 - https://hub.docker.com/r/ecodms/allinone-18.09
 - https://www.ecodms.de/index.php/en/
@@ -24,7 +23,7 @@ ecoDMS 18.09 (apu) Full Installation - Document Management System (DMS) - Audit-
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/ecodms)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/ecodms)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

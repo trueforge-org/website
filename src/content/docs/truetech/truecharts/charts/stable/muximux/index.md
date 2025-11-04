@@ -11,7 +11,6 @@ A lightweight portal to view & manage your HTPC apps without having to run anyth
 - https://ghcr.io/linuxserver/muximux
 - https://github.com/linuxserver/docker-muximux
 - https://github.com/mescon/Muximux
-- https://github.com/truecharts/charts/tree/master/charts/stable/muximux
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/muximux
 
 ## Available Documentation
@@ -25,7 +24,7 @@ A lightweight portal to view & manage your HTPC apps without having to run anyth
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/muximux)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/muximux)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

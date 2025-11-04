@@ -8,7 +8,6 @@ Tonido Server allows you to access all your files on your computer from a web br
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/tonido
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/tonido
 - https://hub.docker.com/r/captinsano/tonido
 - https://registry.hub.docker.com/r/captinsano/tonido/
@@ -24,7 +23,7 @@ Tonido Server allows you to access all your files on your computer from a web br
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/tonido)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/tonido)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

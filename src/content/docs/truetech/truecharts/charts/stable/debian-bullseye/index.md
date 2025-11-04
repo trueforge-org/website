@@ -9,7 +9,6 @@ This Chart is a full Debian Bullseye Xfce4 Desktop environment with a noVNC webG
 ## Chart Sources
 
 - https://ghcr.io/ich777/debian-bullseye
-- https://github.com/truecharts/charts/tree/master/charts/stable/debian-bullseye
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/debian-bullseye
 - https://www.debian.org/
 
@@ -24,7 +23,7 @@ This Chart is a full Debian Bullseye Xfce4 Desktop environment with a noVNC webG
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/debian-bullseye)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/debian-bullseye)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

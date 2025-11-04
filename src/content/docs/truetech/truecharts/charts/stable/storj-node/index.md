@@ -10,7 +10,6 @@ Storj is an S3-compatible platform and suite of decentralized applications that 
 
 - https://docs.storj.io/node/
 - https://github.com/storj/storj
-- https://github.com/truecharts/charts/tree/master/charts/stable/storj-node
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/storj-node
 - https://hub.docker.com/r/storjlabs/storagenode
 
@@ -25,7 +24,7 @@ Storj is an S3-compatible platform and suite of decentralized applications that 
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/storj-node)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/storj-node)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

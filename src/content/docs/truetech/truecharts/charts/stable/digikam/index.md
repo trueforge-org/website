@@ -10,7 +10,6 @@ Professional Photo Management with the Power of Open Source
 
 - https://ghcr.io/linuxserver/digikam
 - https://github.com/linuxserver/docker-digikam
-- https://github.com/truecharts/charts/tree/master/charts/stable/digikam
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/digikam
 - https://www.digikam.org/
 
@@ -25,7 +24,7 @@ Professional Photo Management with the Power of Open Source
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/digikam)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/digikam)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

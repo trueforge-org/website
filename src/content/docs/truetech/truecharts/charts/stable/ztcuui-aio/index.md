@@ -10,7 +10,6 @@ ZeroTier network controller user interface in a Docker container
 
 - https://ghcr.io/kmahyyg/ztncui-aio
 - https://github.com/kmahyyg/ztncui-aio
-- https://github.com/truecharts/charts/tree/master/charts/stable/ztcuui-aio
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/ztcuui-aio
 
 ## Available Documentation
@@ -24,7 +23,7 @@ ZeroTier network controller user interface in a Docker container
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/ztcuui-aio)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/ztcuui-aio)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

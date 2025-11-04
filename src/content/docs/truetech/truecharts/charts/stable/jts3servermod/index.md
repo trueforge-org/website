@@ -10,7 +10,6 @@ JTS3ServerMod by Stefan1200
 
 - https://ghcr.io/galexrt/jts3servermod
 - https://github.com/galexrt/container-jts3servermod
-- https://github.com/truecharts/charts/tree/master/charts/stable/jts3servermod
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/jts3servermod
 - https://www.stefan1200.de/documentation/jts3servermod/readme.html
 - https://www.stefan1200.de/forum/index.php?PHPSESSID=r0m44032akt9jk7903ru9ejv2f&topic=2.0
@@ -27,7 +26,7 @@ JTS3ServerMod by Stefan1200
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/jts3servermod)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/jts3servermod)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

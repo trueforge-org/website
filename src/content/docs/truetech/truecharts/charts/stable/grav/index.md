@@ -11,7 +11,6 @@ A Fast, Simple, and Flexible, file-based Web-platform.
 - https://ghcr.io/linuxserver/grav
 - https://github.com/getgrav/grav/
 - https://github.com/linuxserver/docker-grav
-- https://github.com/truecharts/charts/tree/master/charts/stable/grav
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/grav
 
 ## Available Documentation
@@ -25,7 +24,7 @@ A Fast, Simple, and Flexible, file-based Web-platform.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/grav)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/grav)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

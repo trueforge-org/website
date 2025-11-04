@@ -9,7 +9,6 @@ A metrics exporter for TrueNAS
 ## Chart Sources
 
 - https://github.com/Supporterino/truenas-graphite-to-prometheus/tree/main
-- https://github.com/truecharts/charts/tree/master/charts/stable/truenas-exporter
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/truenas-exporter
 - https://hub.docker.com/r/prom/graphite-exporter
 
@@ -25,7 +24,7 @@ A metrics exporter for TrueNAS
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/truenas-exporter)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/truenas-exporter)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

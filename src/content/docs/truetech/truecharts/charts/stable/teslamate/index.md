@@ -10,7 +10,6 @@ A self-hosted data logger for your Tesla
 
 - https://docs.teslamate.org/docs/installation/docker
 - https://github.com/teslamate-org/teslamate
-- https://github.com/truecharts/charts/tree/master/charts/stable/teslamate
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/teslamate
 - https://hub.docker.com/r/teslamate/teslamate
 
@@ -25,7 +24,7 @@ A self-hosted data logger for your Tesla
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/teslamate)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/teslamate)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

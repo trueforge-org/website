@@ -9,7 +9,6 @@ Arch linux pacman cache proxy server
 ## Chart Sources
 
 - https://github.com/nroi/flexo
-- https://github.com/truecharts/charts/tree/master/charts/stable/flexo
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/flexo
 - https://hub.docker.com/r/nroi/flexo
 
@@ -24,7 +23,7 @@ Arch linux pacman cache proxy server
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/flexo)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/flexo)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

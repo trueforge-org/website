@@ -10,7 +10,6 @@ Web GUI for youtube-dl.
 
 - https://ghcr.io/alexta69/metube
 - https://github.com/alexta69/metube
-- https://github.com/truecharts/charts/tree/master/charts/stable/metube
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/metube
 
 ## Available Documentation
@@ -24,7 +23,7 @@ Web GUI for youtube-dl.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/metube)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/metube)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

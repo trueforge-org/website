@@ -9,7 +9,6 @@ ErsatzTV configuring and streaming custom live channels using your media library
 ## Chart Sources
 
 - https://github.com/jasongdove/ErsatzTV
-- https://github.com/truecharts/charts/tree/master/charts/stable/ersatztv
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/ersatztv
 - https://hub.docker.com/r/jasongdove/ersatztv
 
@@ -24,7 +23,7 @@ ErsatzTV configuring and streaming custom live channels using your media library
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/ersatztv)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/ersatztv)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

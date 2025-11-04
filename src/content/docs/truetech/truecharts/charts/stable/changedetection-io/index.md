@@ -11,7 +11,6 @@ The best and simplest free open source website change detection, website watcher
 - https://changedetection.io/
 - https://ghcr.io/dgtlmoon/changedetection.io
 - https://github.com/dgtlmoon/changedetection.io/tree/master
-- https://github.com/truecharts/charts/tree/master/charts/stable/changedetection-io
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/changedetection-io
 
 ## Available Documentation
@@ -25,7 +24,7 @@ The best and simplest free open source website change detection, website watcher
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/changedetection-io)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/changedetection-io)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

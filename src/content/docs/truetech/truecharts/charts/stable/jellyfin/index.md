@@ -10,7 +10,6 @@ Jellyfin is a Free Software Media System
 
 - https://ghcr.io/jellyfin/jellyfin
 - https://github.com/jellyfin/jellyfin
-- https://github.com/truecharts/charts/tree/master/charts/stable/jellyfin
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/jellyfin
 - https://hub.docker.com/r/alpine/socat
 
@@ -25,7 +24,7 @@ Jellyfin is a Free Software Media System
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/jellyfin)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/jellyfin)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

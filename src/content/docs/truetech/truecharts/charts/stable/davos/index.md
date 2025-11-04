@@ -11,7 +11,6 @@ An FTP automation tool that periodically scans given host locations for new file
 - https://ghcr.io/linuxserver/davos
 - https://github.com/linuxserver/davos/
 - https://github.com/linuxserver/docker-davos
-- https://github.com/truecharts/charts/tree/master/charts/stable/davos
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/davos
 
 ## Available Documentation
@@ -25,7 +24,7 @@ An FTP automation tool that periodically scans given host locations for new file
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/davos)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/davos)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

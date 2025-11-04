@@ -9,7 +9,6 @@ Nntp2nntp proxy allow you to use your NNTP Account from multiple systems, each w
 ## Chart Sources
 
 - https://ghcr.io/linuxserver/nntp2nntp
-- https://github.com/truecharts/charts/tree/master/charts/stable/nntp2nntp
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/nntp2nntp
 
 ## Available Documentation
@@ -23,7 +22,7 @@ Nntp2nntp proxy allow you to use your NNTP Account from multiple systems, each w
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/nntp2nntp)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/nntp2nntp)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

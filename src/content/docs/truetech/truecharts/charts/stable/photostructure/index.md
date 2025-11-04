@@ -9,7 +9,6 @@ PhotoStructure is your new home for all your photos and videos.
 ## Chart Sources
 
 - https://github.com/photostructure/photostructure-for-servers
-- https://github.com/truecharts/charts/tree/master/charts/stable/photostructure
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/photostructure
 - https://hub.docker.com/r/photostructure/server
 
@@ -24,7 +23,7 @@ PhotoStructure is your new home for all your photos and videos.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/photostructure)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/photostructure)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

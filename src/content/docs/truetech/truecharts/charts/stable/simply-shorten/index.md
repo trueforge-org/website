@@ -8,7 +8,6 @@ A dead simple URL shortener.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/simply-shorten
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/simply-shorten
 - https://gitlab.com/draganczukp/simply-shorten
 - https://hub.docker.com/r/draganczukp/simply-shorten
@@ -25,7 +24,7 @@ A dead simple URL shortener.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/simply-shorten)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/simply-shorten)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

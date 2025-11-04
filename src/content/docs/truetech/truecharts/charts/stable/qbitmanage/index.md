@@ -9,7 +9,6 @@ This tool will help manage tedious tasks in qBittorrent and automate them. Tag, 
 ## Chart Sources
 
 - https://github.com/StuffAnThings/qbit_manage/wiki/Docker-Installation
-- https://github.com/truecharts/charts/tree/master/charts/stable/qbitmanage
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/qbitmanage
 - https://hub.docker.com/r/bobokun/qbit_manage
 
@@ -24,7 +23,7 @@ This tool will help manage tedious tasks in qBittorrent and automate them. Tag, 
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/qbitmanage)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/qbitmanage)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

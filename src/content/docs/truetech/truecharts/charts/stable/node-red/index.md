@@ -9,7 +9,6 @@ Node-RED is low-code programming for event-driven applications
 ## Chart Sources
 
 - https://github.com/node-red/node-red-docker
-- https://github.com/truecharts/charts/tree/master/charts/stable/node-red
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/node-red
 - https://hub.docker.com/r/nodered/node-red
 
@@ -24,7 +23,7 @@ Node-RED is low-code programming for event-driven applications
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/node-red)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/node-red)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

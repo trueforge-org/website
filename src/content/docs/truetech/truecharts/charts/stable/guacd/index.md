@@ -9,7 +9,6 @@ Guacd - Apache Guacamole is a clientless remote desktop gateway.
 ## Chart Sources
 
 - https://github.com/apache/guacamole-server
-- https://github.com/truecharts/charts/tree/master/charts/stable/guacd
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/guacd
 - https://hub.docker.com/r/guacamole/guacd
 
@@ -24,7 +23,7 @@ Guacd - Apache Guacamole is a clientless remote desktop gateway.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/guacd)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/guacd)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

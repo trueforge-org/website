@@ -10,7 +10,9 @@ A private cloud server that puts the control and security of your own data back 
 
 - https://github.com/nextcloud/docker
 - https://github.com/nextcloud/helm
-- https://github.com/truecharts/charts/tree/master/charts/stable/nextcloud
+- https://github.com/truecharts/containers/tree/master/apps/nextcloud-fpm
+- https://github.com/truecharts/containers/tree/master/apps/nextcloud-imaginary
+- https://github.com/truecharts/containers/tree/master/apps/nextcloud-push-notify
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/nextcloud
 - https://github.com/trueforge/truecharts/tree/master/charts/stable/nextcloud
 - https://hub.docker.com/r/clamav/clamav
@@ -31,7 +33,7 @@ A private cloud server that puts the control and security of your own data back 
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/nextcloud)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/nextcloud)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

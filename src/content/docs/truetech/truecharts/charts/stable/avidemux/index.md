@@ -9,7 +9,6 @@ Avidemux is a free video editor designed for simple cutting, filtering and encod
 ## Chart Sources
 
 - https://github.com/jlesage/docker-avidemux
-- https://github.com/truecharts/charts/tree/master/charts/stable/avidemux
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/avidemux
 - https://hub.docker.com/r/jlesage/avidemux
 
@@ -24,7 +23,7 @@ Avidemux is a free video editor designed for simple cutting, filtering and encod
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/avidemux)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/avidemux)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

@@ -10,7 +10,6 @@ Custom themes for your favorite apps!
 
 - https://ghcr.io/home-operations/theme-park
 - https://github.com/gilbn/theme.park
-- https://github.com/truecharts/charts/tree/master/charts/stable/theme-park
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/theme-park
 
 ## Available Documentation
@@ -24,7 +23,7 @@ Custom themes for your favorite apps!
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/theme-park)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/theme-park)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

@@ -9,7 +9,6 @@ Get all your books, like series with Sonarr...
 ## Chart Sources
 
 - https://ghcr.io/linuxserver/lazylibrarian
-- https://github.com/truecharts/charts/tree/master/charts/stable/lazylibrarian
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/lazylibrarian
 - https://gitlab.com/LazyLibrarian/LazyLibrarian.git
 - https://lazylibrarian.gitlab.io
@@ -25,7 +24,7 @@ Get all your books, like series with Sonarr...
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/lazylibrarian)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/lazylibrarian)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

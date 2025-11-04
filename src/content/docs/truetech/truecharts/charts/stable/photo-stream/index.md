@@ -8,7 +8,6 @@ Photo Stream is a simpler home for your photos. Easy to use, self hosted, no tra
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/photo-stream
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/photo-stream
 - https://github.com/waschinski/photo-stream
 - https://hub.docker.com/r/waschinski/photo-stream
@@ -24,7 +23,7 @@ Photo Stream is a simpler home for your photos. Easy to use, self hosted, no tra
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/photo-stream)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/photo-stream)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

@@ -8,7 +8,6 @@ Chronograf is InfluxData’s open source web application. Use Chronograf with th
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/chronograf
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/chronograf
 - https://hub.docker.com/_/chronograf
 - https://www.influxdata.com/time-series-platform/chronograf/
@@ -24,7 +23,7 @@ Chronograf is InfluxData’s open source web application. Use Chronograf with th
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/chronograf)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/chronograf)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

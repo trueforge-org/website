@@ -9,7 +9,6 @@ Search Engine Position Tracking App.
 ## Chart Sources
 
 - https://github.com/towfiqi/serpbear
-- https://github.com/truecharts/charts/tree/master/charts/stable/serpbear
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/serpbear
 - https://hub.docker.com/r/towfiqi/serpbear
 
@@ -24,7 +23,7 @@ Search Engine Position Tracking App.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/serpbear)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/serpbear)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

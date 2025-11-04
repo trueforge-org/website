@@ -9,7 +9,6 @@ With this Chart you can run RedM (Red Dead Redemption 2 MOD SERVER) it will auto
 ## Chart Sources
 
 - https://ghcr.io/ich777/redmserver
-- https://github.com/truecharts/charts/tree/master/charts/stable/redm
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/redm
 - https://redm.gg/
 
@@ -24,7 +23,7 @@ With this Chart you can run RedM (Red Dead Redemption 2 MOD SERVER) it will auto
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/redm)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/redm)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

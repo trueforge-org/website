@@ -9,7 +9,6 @@ Docker Registry is used to store and distribute Docker images using HTTP API. Th
 ## Chart Sources
 
 - https://github.com/distribution/distribution
-- https://github.com/truecharts/charts/tree/master/charts/stable/dockerregistry
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/dockerregistry
 - https://hub.docker.com/_/registry
 - https://registry.hub.docker.com/_/registry/
@@ -25,7 +24,7 @@ Docker Registry is used to store and distribute Docker images using HTTP API. Th
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/dockerregistry)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/dockerregistry)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

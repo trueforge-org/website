@@ -9,7 +9,6 @@ Play games with your friends right from the browser.
 ## Chart Sources
 
 - https://ghcr.io/wanjohiryan/qwantify
-- https://github.com/truecharts/charts/tree/master/charts/stable/qwantify
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/qwantify
 - https://github.com/wanjohiryan/qwantify
 
@@ -24,7 +23,7 @@ Play games with your friends right from the browser.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/qwantify)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/qwantify)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

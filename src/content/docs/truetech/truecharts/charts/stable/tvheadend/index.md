@@ -9,7 +9,6 @@ TVheadend - a TV streaming server and digital video recorder
 ## Chart Sources
 
 - https://ghcr.io/linuxserver/tvheadend
-- https://github.com/truecharts/charts/tree/master/charts/stable/tvheadend
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/tvheadend
 - https://github.com/trueforge/truecharts/tree/master/charts/stable/tvheadend
 - https://github.com/tvheadend/tvheadend
@@ -25,7 +24,7 @@ TVheadend - a TV streaming server and digital video recorder
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/tvheadend)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/tvheadend)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

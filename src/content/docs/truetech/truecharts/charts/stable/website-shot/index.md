@@ -9,7 +9,6 @@ Generate a full web-page screenshot with our service, that provides rich interfa
 ## Chart Sources
 
 - https://github.com/Flowko/website-shot
-- https://github.com/truecharts/charts/tree/master/charts/stable/website-shot
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/website-shot
 - https://hub.docker.com/r/flowko1/website-shot
 
@@ -24,7 +23,7 @@ Generate a full web-page screenshot with our service, that provides rich interfa
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/website-shot)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/website-shot)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

@@ -9,7 +9,6 @@ A Web app to manage your 2FA accounts and generate their security codes.
 ## Chart Sources
 
 - https://github.com/Bubka/2fauth
-- https://github.com/truecharts/charts/tree/master/charts/stable/twofauth
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/twofauth
 - https://hub.docker.com/r/2fauth/2fauth
 
@@ -24,7 +23,7 @@ A Web app to manage your 2FA accounts and generate their security codes.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/twofauth)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/twofauth)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

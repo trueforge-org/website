@@ -8,7 +8,6 @@ Full featured Z-Wave Control Panel and MQTT Gateway, using NodeJS and Vue.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/zwavejs2mqtt
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/zwavejs2mqtt
 - https://github.com/zwave-js/zwave-js-ui
 - https://hub.docker.com/r/zwavejs/zwave-js-ui
@@ -24,7 +23,7 @@ Full featured Z-Wave Control Panel and MQTT Gateway, using NodeJS and Vue.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/zwavejs2mqtt)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/zwavejs2mqtt)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

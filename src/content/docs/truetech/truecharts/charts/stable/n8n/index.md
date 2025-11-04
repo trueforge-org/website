@@ -11,7 +11,6 @@ n8n is an extendable workflow automation tool.
 - https://docs.n8n.io/
 - https://ghcr.io/n8n-io/n8n
 - https://github.com/n8n-io/n8n
-- https://github.com/truecharts/charts/tree/master/charts/stable/n8n
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/n8n
 
 ## Available Documentation
@@ -25,7 +24,7 @@ n8n is an extendable workflow automation tool.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/n8n)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/n8n)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

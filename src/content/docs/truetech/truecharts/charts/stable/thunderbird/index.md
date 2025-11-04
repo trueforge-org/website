@@ -9,7 +9,6 @@ This Chart will download and install Thunderbird in the preferred version and la
 ## Chart Sources
 
 - https://ghcr.io/ich777/thunderbird
-- https://github.com/truecharts/charts/tree/master/charts/stable/thunderbird
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/thunderbird
 - https://www.thunderbird.net/
 
@@ -24,7 +23,7 @@ This Chart will download and install Thunderbird in the preferred version and la
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/thunderbird)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/thunderbird)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

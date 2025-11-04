@@ -9,7 +9,6 @@ Aurora Files is an open-source file storage platform for small teams and persona
 ## Chart Sources
 
 - https://github.com/afterlogic/docker-aurora-files
-- https://github.com/truecharts/charts/tree/master/charts/stable/aurora-files
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/aurora-files
 - https://hub.docker.com/r/afterlogic/docker-aurora-files
 
@@ -24,7 +23,7 @@ Aurora Files is an open-source file storage platform for small teams and persona
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/aurora-files)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/aurora-files)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

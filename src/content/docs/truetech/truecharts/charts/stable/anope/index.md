@@ -9,7 +9,6 @@ Anope is a set of IRC Services designed for flexibility and ease of use.
 ## Chart Sources
 
 - https://ghcr.io/ich777/anope
-- https://github.com/truecharts/charts/tree/master/charts/stable/anope
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/anope
 - https://thelounge.chat/
 
@@ -24,7 +23,7 @@ Anope is a set of IRC Services designed for flexibility and ease of use.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/anope)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/anope)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

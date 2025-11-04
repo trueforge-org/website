@@ -10,7 +10,6 @@ Automate Cloudflare DNS records for those with a dynamic IP.
 
 - https://ghcr.io/hotio/cloudflareddns
 - https://github.com/hotio/cloudflareddns
-- https://github.com/truecharts/charts/tree/master/charts/stable/cloudflareddns
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/cloudflareddns
 - https://hotio.dev/containers/cloudflareddns/
 
@@ -27,7 +26,7 @@ Automate Cloudflare DNS records for those with a dynamic IP.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/cloudflareddns)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/cloudflareddns)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

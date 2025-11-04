@@ -9,7 +9,6 @@ Speedtest automation made simple.
 ## Chart Sources
 
 - https://github.com/gnmyt/myspeed
-- https://github.com/truecharts/charts/tree/master/charts/stable/myspeed
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/myspeed
 - https://hub.docker.com/r/germannewsmaker/myspeed
 - https://myspeed.dev/
@@ -25,7 +24,7 @@ Speedtest automation made simple.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/myspeed)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/myspeed)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

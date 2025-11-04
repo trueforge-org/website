@@ -9,7 +9,6 @@ P2P file synchronization application
 ## Chart Sources
 
 - https://github.com/syncthing/syncthing
-- https://github.com/truecharts/charts/tree/master/charts/stable/syncthing
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/syncthing
 - https://hub.docker.com/r/syncthing/syncthing
 - https://syncthing.net/
@@ -25,7 +24,7 @@ P2P file synchronization application
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/syncthing)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/syncthing)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

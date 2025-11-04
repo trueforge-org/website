@@ -10,7 +10,6 @@ Healthchecks is a cron job monitoring service. It listens for HTTP requests and 
 
 - https://ghcr.io/linuxserver/healthchecks
 - https://github.com/healthchecks/healthchecks
-- https://github.com/truecharts/charts/tree/master/charts/stable/healthchecks
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/healthchecks
 
 ## Available Documentation
@@ -24,7 +23,7 @@ Healthchecks is a cron job monitoring service. It listens for HTTP requests and 
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/healthchecks)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/healthchecks)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

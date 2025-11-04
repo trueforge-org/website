@@ -9,7 +9,6 @@ Unmanic is a simple tool for optimising your file library.
 ## Chart Sources
 
 - https://github.com/Unmanic/unmanic
-- https://github.com/truecharts/charts/tree/master/charts/stable/unmanic
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/unmanic
 - https://hub.docker.com/r/josh5/unmanic
 
@@ -24,7 +23,7 @@ Unmanic is a simple tool for optimising your file library.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/unmanic)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/unmanic)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

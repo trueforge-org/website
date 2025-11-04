@@ -9,7 +9,6 @@ Docusaurus makes it easy to maintain Open Source documentation websites.
 ## Chart Sources
 
 - https://github.com/awesometic/docker-docusaurus
-- https://github.com/truecharts/charts/tree/master/charts/stable/docusaurus
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/docusaurus
 - https://hub.docker.com/r/awesometic/docusaurus
 
@@ -25,7 +24,7 @@ Docusaurus makes it easy to maintain Open Source documentation websites.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/docusaurus)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/docusaurus)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

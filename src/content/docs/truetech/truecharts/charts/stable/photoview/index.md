@@ -9,7 +9,6 @@ Photoview is a simple and user-friendly photo gallery.
 ## Chart Sources
 
 - https://github.com/photoview/photoview
-- https://github.com/truecharts/charts/tree/master/charts/stable/photoview
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/photoview
 - https://hub.docker.com/r/viktorstrate/photoview
 
@@ -25,7 +24,7 @@ Photoview is a simple and user-friendly photo gallery.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/photoview)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/photoview)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

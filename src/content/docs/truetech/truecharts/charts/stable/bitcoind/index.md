@@ -9,7 +9,6 @@ Support the Bitcoin network by hosting your own node! This template provides a f
 ## Chart Sources
 
 - https://bitcoin.org/
-- https://github.com/truecharts/charts/tree/master/charts/stable/bitcoind
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/bitcoind
 - https://hub.docker.com/r/ofawx/bitcoind
 
@@ -24,7 +23,7 @@ Support the Bitcoin network by hosting your own node! This template provides a f
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/bitcoind)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/bitcoind)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

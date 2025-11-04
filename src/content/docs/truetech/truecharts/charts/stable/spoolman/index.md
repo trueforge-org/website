@@ -10,7 +10,6 @@ Keep track of your inventory of 3D-printer filament spools.
 
 - https://ghcr.io/donkie/spoolman
 - https://github.com/Donkie/Spoolman
-- https://github.com/truecharts/charts/tree/master/charts/stable/spoolman
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/spoolman
 
 ## Available Documentation
@@ -24,7 +23,7 @@ Keep track of your inventory of 3D-printer filament spools.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/spoolman)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/spoolman)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

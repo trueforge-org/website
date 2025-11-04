@@ -9,7 +9,6 @@ Google Photos Sync downloads your Google Photos to the local file system. It wil
 ## Chart Sources
 
 - https://ghcr.io/gilesknap/gphotos-sync
-- https://github.com/truecharts/charts/tree/master/charts/stable/googlephotossync
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/googlephotossync
 
 ## Available Documentation
@@ -23,7 +22,7 @@ Google Photos Sync downloads your Google Photos to the local file system. It wil
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/googlephotossync)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/googlephotossync)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

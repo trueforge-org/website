@@ -11,7 +11,6 @@ A music library manager and not, for the most part, a music player.
 - https://beets.io/
 - https://ghcr.io/linuxserver/beets
 - https://github.com/linuxserver/docker-beets
-- https://github.com/truecharts/charts/tree/master/charts/stable/beets
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/beets
 
 ## Available Documentation
@@ -25,7 +24,7 @@ A music library manager and not, for the most part, a music player.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/beets)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/beets)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

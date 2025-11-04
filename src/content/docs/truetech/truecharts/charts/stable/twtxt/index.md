@@ -11,7 +11,6 @@ A Self-Hosted, Twitter™-like Decentralised microBlogging platform. No ads, no 
 - https://ghcr.io/nicholaswilde/twtxt
 - https://github.com/nicholaswilde/docker-twtxt
 - https://github.com/prologic/twtxt
-- https://github.com/truecharts/charts/tree/master/charts/stable/twtxt
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/twtxt
 
 ## Available Documentation
@@ -25,7 +24,7 @@ A Self-Hosted, Twitter™-like Decentralised microBlogging platform. No ads, no 
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/twtxt)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/twtxt)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

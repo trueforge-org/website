@@ -8,7 +8,6 @@ Adminer (formerly phpMinAdmin) is a full-featured database management tool writt
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/adminer
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/adminer
 - https://github.com/vrana/adminer
 - https://hub.docker.com/_/adminer
@@ -24,7 +23,7 @@ Adminer (formerly phpMinAdmin) is a full-featured database management tool writt
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/adminer)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/adminer)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

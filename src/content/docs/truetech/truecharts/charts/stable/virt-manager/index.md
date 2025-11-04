@@ -8,7 +8,6 @@ The virt-manager application is a desktop user interface for managing virtual ma
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/virt-manager
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/virt-manager
 - https://hub.docker.com/r/mber5/virt-manager
 
@@ -23,7 +22,7 @@ The virt-manager application is a desktop user interface for managing virtual ma
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/virt-manager)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/virt-manager)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

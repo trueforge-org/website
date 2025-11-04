@@ -9,7 +9,6 @@ An instance of kdenlive accessible through vnc and noVnc (=Web Interface)
 ## Chart Sources
 
 - https://github.com/JonathanTreffler/kdenlive-vnc-docker
-- https://github.com/truecharts/charts/tree/master/charts/stable/kdenlive-vnc
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/kdenlive-vnc
 - https://hub.docker.com/r/tessypowder/docker-kdenlive
 
@@ -24,7 +23,7 @@ An instance of kdenlive accessible through vnc and noVnc (=Web Interface)
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/kdenlive-vnc)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/kdenlive-vnc)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

@@ -9,7 +9,6 @@ Private Windows Activation Server for development and testing
 ## Chart Sources
 
 - https://github.com/Py-KMS-Organization/py-kms
-- https://github.com/truecharts/charts/tree/master/charts/stable/kms
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/kms
 - https://hub.docker.com/r/pykmsorg/py-kms
 
@@ -24,7 +23,7 @@ Private Windows Activation Server for development and testing
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/kms)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/kms)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

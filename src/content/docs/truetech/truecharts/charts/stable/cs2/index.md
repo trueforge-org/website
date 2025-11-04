@@ -10,7 +10,6 @@ A custom SteamCMD chart that runs CS2.
 
 - https://ghcr.io/ich777/steamcmd
 - https://github.com/ich777/docker-steamcmd-server/tree/cs2
-- https://github.com/truecharts/charts/tree/master/charts/stable/cs2
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/cs2
 
 ## Available Documentation
@@ -25,7 +24,7 @@ A custom SteamCMD chart that runs CS2.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/cs2)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/cs2)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

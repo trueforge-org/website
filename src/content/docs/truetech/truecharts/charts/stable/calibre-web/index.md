@@ -10,7 +10,6 @@ Calibre-Web is a web app providing a clean interface for browsing, reading and d
 
 - https://fleet.linuxserver.io/image?name=linuxserver/calibre-web
 - https://github.com/janeczku/calibre-web
-- https://github.com/truecharts/charts/tree/master/charts/stable/calibre-web
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/calibre-web
 
 ## Available Documentation
@@ -24,7 +23,7 @@ Calibre-Web is a web app providing a clean interface for browsing, reading and d
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/calibre-web)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/calibre-web)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

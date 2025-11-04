@@ -9,7 +9,6 @@ Drawio is free online diagram software.
 ## Chart Sources
 
 - https://github.com/jgraph/drawio
-- https://github.com/truecharts/charts/tree/master/charts/stable/drawio
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/drawio
 - https://hub.docker.com/r/jgraph/drawio
 
@@ -24,7 +23,7 @@ Drawio is free online diagram software.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/drawio)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/drawio)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

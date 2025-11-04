@@ -9,7 +9,6 @@ WireGuard-based VPN server and egress firewall
 ## Chart Sources
 
 - https://github.com/firezone/firezone
-- https://github.com/truecharts/charts/tree/master/charts/stable/firezone
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/firezone
 - https://hub.docker.com/r/firezone/firezone
 
@@ -25,7 +24,7 @@ WireGuard-based VPN server and egress firewall
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/firezone)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/firezone)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

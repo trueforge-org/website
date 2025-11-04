@@ -9,7 +9,6 @@ Gokapi is a lightweight server to share files, which expire after a set amount o
 ## Chart Sources
 
 - https://github.com/Forceu/gokapi
-- https://github.com/truecharts/charts/tree/master/charts/stable/gokapi
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/gokapi
 - https://hub.docker.com/r/f0rc3/gokapi
 
@@ -24,7 +23,7 @@ Gokapi is a lightweight server to share files, which expire after a set amount o
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/gokapi)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/gokapi)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

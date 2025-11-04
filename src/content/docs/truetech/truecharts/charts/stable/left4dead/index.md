@@ -9,7 +9,6 @@ This Chart will download and install SteamCMD. It will also install Left4Dead an
 ## Chart Sources
 
 - https://ghcr.io/ich777/steamcmd
-- https://github.com/truecharts/charts/tree/master/charts/stable/left4dead
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/left4dead
 - https://www.steampowered.com/
 
@@ -24,7 +23,7 @@ This Chart will download and install SteamCMD. It will also install Left4Dead an
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/left4dead)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/left4dead)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

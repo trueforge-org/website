@@ -9,7 +9,6 @@ An application that lets you automatically process files through a simple rule f
 ## Chart Sources
 
 - https://github.com/revenz/FileFlows
-- https://github.com/truecharts/charts/tree/master/charts/stable/fileflows
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/fileflows
 - https://hub.docker.com/r/revenz/fileflows
 
@@ -24,7 +23,7 @@ An application that lets you automatically process files through a simple rule f
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/fileflows)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/fileflows)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

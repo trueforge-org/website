@@ -8,7 +8,6 @@ Enjoy Cura directly in your browser with this easy to use Chart
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/cura-novnc
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/cura-novnc
 - https://hub.docker.com/r/mikeah/cura-novnc
 - https://ultimaker.com/software/ultimaker-cura
@@ -24,7 +23,7 @@ Enjoy Cura directly in your browser with this easy to use Chart
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/cura-novnc)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/cura-novnc)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

@@ -10,7 +10,6 @@ ONLYOFFICE Document Server is an online office suite comprising viewers and edit
 
 - https://github.com/ONLYOFFICE/Docker-DocumentServer
 - https://github.com/ONLYOFFICE/DocumentServer
-- https://github.com/truecharts/charts/tree/master/charts/stable/onlyoffice-document-server
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/onlyoffice-document-server
 - https://hub.docker.com/r/onlyoffice/documentserver
 
@@ -25,7 +24,7 @@ ONLYOFFICE Document Server is an online office suite comprising viewers and edit
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/onlyoffice-document-server)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/onlyoffice-document-server)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

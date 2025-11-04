@@ -10,7 +10,6 @@ qBittorrent is a cross-platform free and open-source BitTorrent client
 
 - https://ghcr.io/home-operations/qbittorrent
 - https://github.com/qbittorrent/qBittorrent
-- https://github.com/truecharts/charts/tree/master/charts/stable/qbittorrent
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/qbittorrent
 - https://hub.docker.com/r/mjmeli/qbittorrent-port-forward-gluetun-server
 
@@ -30,7 +29,7 @@ qBittorrent is a cross-platform free and open-source BitTorrent client
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/qbittorrent)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/qbittorrent)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

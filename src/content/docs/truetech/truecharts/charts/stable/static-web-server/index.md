@@ -10,7 +10,6 @@ A cross-platform, high-performance and asynchronous web server for static files-
 
 - https://ghcr.io/static-web-server/static-web-server
 - https://github.com/static-web-server/static-web-server
-- https://github.com/truecharts/charts/tree/master/charts/stable/static-web-server
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/static-web-server
 - https://static-web-server.net
 
@@ -25,7 +24,7 @@ A cross-platform, high-performance and asynchronous web server for static files-
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/static-web-server)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/static-web-server)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

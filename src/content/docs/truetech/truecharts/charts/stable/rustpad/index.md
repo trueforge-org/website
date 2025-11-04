@@ -9,7 +9,6 @@ Rustpad is an efficient and minimal open-source collaborative text editor based 
 ## Chart Sources
 
 - https://github.com/ekzhang/rustpad
-- https://github.com/truecharts/charts/tree/master/charts/stable/rustpad
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/rustpad
 - https://hub.docker.com/r/ekzhang/rustpad
 
@@ -24,7 +23,7 @@ Rustpad is an efficient and minimal open-source collaborative text editor based 
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/rustpad)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/rustpad)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

@@ -8,7 +8,6 @@ Runs Ark Survival Evolved and Ark-Server-Manager
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/arksurvivalevolved
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/arksurvivalevolved
 - https://hub.docker.com/r/drpsychick/arkserver
 
@@ -24,7 +23,7 @@ Runs Ark Survival Evolved and Ark-Server-Manager
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/arksurvivalevolved)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/arksurvivalevolved)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

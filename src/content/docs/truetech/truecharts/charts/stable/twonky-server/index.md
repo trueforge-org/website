@@ -9,7 +9,6 @@ TwonkyMedia server (TMS) is DLNA-compliant UPnP AV server software from PacketVi
 ## Chart Sources
 
 - https://github.com/H2CK/twonkyserver
-- https://github.com/truecharts/charts/tree/master/charts/stable/twonky-server
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/twonky-server
 - https://hub.docker.com/r/dtjs48jkt/twonkyserver
 
@@ -24,7 +23,7 @@ TwonkyMedia server (TMS) is DLNA-compliant UPnP AV server software from PacketVi
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/twonky-server)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/twonky-server)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

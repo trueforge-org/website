@@ -10,7 +10,6 @@ A web-based dashboard application that gives you a neat and clean interface for 
 
 - https://ghcr.io/linuxserver/clarkson
 - https://github.com/linuxserver/Clarkson
-- https://github.com/truecharts/charts/tree/master/charts/stable/clarkson
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/clarkson
 
 ## Available Documentation
@@ -24,7 +23,7 @@ A web-based dashboard application that gives you a neat and clean interface for 
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/clarkson)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/clarkson)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

@@ -11,7 +11,6 @@ DNS and Ad-filtering for your network
 - https://ghcr.io/pi-hole/pihole
 - https://github.com/pi-hole
 - https://github.com/pi-hole/docker-pi-hole
-- https://github.com/truecharts/charts/tree/master/charts/stable/pihole
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/pihole
 - https://pi-hole.net/
 
@@ -27,7 +26,7 @@ DNS and Ad-filtering for your network
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/pihole)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/pihole)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

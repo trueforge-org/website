@@ -10,7 +10,6 @@ Open source home automation that puts local control and privacy first.
 
 - https://github.com/cdr/code-server
 - https://github.com/home-assistant/home-assistant
-- https://github.com/truecharts/charts/tree/master/charts/stable/home-assistant
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/home-assistant
 - https://hub.docker.com/r/homeassistant/home-assistant
 
@@ -26,7 +25,7 @@ Open source home automation that puts local control and privacy first.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/home-assistant)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/home-assistant)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

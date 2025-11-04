@@ -9,7 +9,6 @@ Configuration management tool for Radarr/Sonarr that automates importing and ver
 ## Chart Sources
 
 - https://github.com/Dictionarry-Hub/profilarr
-- https://github.com/truecharts/charts/tree/master/charts/stable/profilarr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/profilarr
 - https://hub.docker.com/r/santiagosayshey/profilarr
 
@@ -24,7 +23,7 @@ Configuration management tool for Radarr/Sonarr that automates importing and ver
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/profilarr)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/profilarr)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

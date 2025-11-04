@@ -10,7 +10,6 @@ A monolithic lancache service capable of caching all CDNs in a single instance.
 
 - https://ghcr.io/ich777/lancache-prefill
 - https://github.com/lancachenet/monolithic
-- https://github.com/truecharts/charts/tree/master/charts/stable/lancache-monolithic
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/lancache-monolithic
 - https://hub.docker.com/r/lancachenet/monolithic
 
@@ -26,7 +25,7 @@ A monolithic lancache service capable of caching all CDNs in a single instance.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/lancache-monolithic)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/lancache-monolithic)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

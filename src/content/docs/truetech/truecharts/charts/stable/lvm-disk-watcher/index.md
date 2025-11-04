@@ -9,7 +9,7 @@ Watches for empty disk to setup with LVM for use with TopoLVM
 ## Chart Sources
 
 - https://github.com/lvm-disk-watcher/lvm-disk-watcher
-- https://github.com/truecharts/charts/tree/master/charts/stable/lvm-disk-watcher
+- https://github.com/truecharts/containers/tree/master/apps/lvm-disk-watcher
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/lvm-disk-watcher
 - https://lvm-disk-watcher.universe.tf
 
@@ -24,7 +24,7 @@ Watches for empty disk to setup with LVM for use with TopoLVM
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/lvm-disk-watcher)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/lvm-disk-watcher)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

@@ -9,7 +9,6 @@ A super-sexy voice interface for the Plex HTPC.
 ## Chart Sources
 
 - https://github.com/d8ahazard/FlexTV
-- https://github.com/truecharts/charts/tree/master/charts/stable/flextv
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/flextv
 - https://hub.docker.com/r/jcreynolds/flextv
 - https://registry.hub.docker.com/r/jcreynolds/flextv/
@@ -25,7 +24,7 @@ A super-sexy voice interface for the Plex HTPC.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/flextv)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/flextv)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

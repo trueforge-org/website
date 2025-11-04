@@ -9,7 +9,6 @@ A modern web frontend making aria2 easier to use | Aria2 WebUI.
 ## Chart Sources
 
 - https://github.com/leonismoe/docker-images
-- https://github.com/truecharts/charts/tree/master/charts/stable/ariang
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/ariang
 - https://hub.docker.com/r/leonismoe/ariang
 
@@ -25,7 +24,7 @@ A modern web frontend making aria2 easier to use | Aria2 WebUI.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/ariang)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/ariang)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

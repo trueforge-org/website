@@ -12,7 +12,6 @@ Airsonic is a Free and Open Source community driven media server
 - https://github.com/airsonic/airsonic
 - https://github.com/k8s-at-home/charts/tree/master/charts/airsonic
 - https://github.com/linuxserver/docker-airsonic
-- https://github.com/truecharts/charts/tree/master/charts/stable/airsonic
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/airsonic
 
 ## Available Documentation
@@ -26,7 +25,7 @@ Airsonic is a Free and Open Source community driven media server
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/airsonic)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/airsonic)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

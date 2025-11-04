@@ -10,7 +10,6 @@ A feature rich and highly flexible OpenSource Social Network Kit written in PHP.
 
 - https://ghcr.io/mriedmann/humhub-nginx
 - https://ghcr.io/mriedmann/humhub-phponly
-- https://github.com/truecharts/charts/tree/master/charts/stable/humhub
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/humhub
 
 ## Available Documentation
@@ -24,7 +23,7 @@ A feature rich and highly flexible OpenSource Social Network Kit written in PHP.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/humhub)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/humhub)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

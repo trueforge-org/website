@@ -9,7 +9,6 @@ Home Assistant online configurator Chart from https://github.com/danielperna84/h
 ## Chart Sources
 
 - https://github.com/danielperna84/hass-configurator
-- https://github.com/truecharts/charts/tree/master/charts/stable/hassconfigurator
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/hassconfigurator
 - https://hub.docker.com/r/causticlab/hass-configurator-docker
 
@@ -24,7 +23,7 @@ Home Assistant online configurator Chart from https://github.com/danielperna84/h
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/hassconfigurator)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/hassconfigurator)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

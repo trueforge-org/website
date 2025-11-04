@@ -10,7 +10,6 @@ Self hosted GIT repositories
 
 - https://gitea.com/gitea/helm-chart
 - https://github.com/go-gitea/gitea
-- https://github.com/truecharts/charts/tree/master/charts/stable/gitea
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/gitea
 - https://hub.docker.com/r/gitea/gitea
 
@@ -26,7 +25,7 @@ Self hosted GIT repositories
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/gitea)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/gitea)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

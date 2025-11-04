@@ -9,7 +9,6 @@ SeedSync is a tool to sync the files on a remote Linux server (like your seedbox
 ## Chart Sources
 
 - https://github.com/ipsingh06/seedsync
-- https://github.com/truecharts/charts/tree/master/charts/stable/seedsync
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/seedsync
 - https://hub.docker.com/r/ipsingh06/seedsync
 
@@ -24,7 +23,7 @@ SeedSync is a tool to sync the files on a remote Linux server (like your seedbox
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/seedsync)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/seedsync)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

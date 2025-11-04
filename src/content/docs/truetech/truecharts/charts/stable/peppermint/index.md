@@ -9,7 +9,6 @@ An open source ticket management & help desk solution.
 ## Chart Sources
 
 - https://github.com/Peppermint-Lab/peppermint
-- https://github.com/truecharts/charts/tree/master/charts/stable/peppermint
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/peppermint
 - https://hub.docker.com/r/pepperlabs/peppermint
 
@@ -24,7 +23,7 @@ An open source ticket management & help desk solution.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/peppermint)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/peppermint)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

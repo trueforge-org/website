@@ -9,7 +9,6 @@ This is the unified client for Notifiarr.com. The client enables content request
 ## Chart Sources
 
 - https://github.com/Notifiarr/notifiarr
-- https://github.com/truecharts/charts/tree/master/charts/stable/notifiarr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/notifiarr
 - https://hub.docker.com/r/golift/notifiarr
 
@@ -25,7 +24,7 @@ This is the unified client for Notifiarr.com. The client enables content request
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/notifiarr)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/notifiarr)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

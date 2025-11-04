@@ -11,7 +11,6 @@ pyLoad(https://pyload.net/) is a Free and Open Source download manager written i
 - https://fleet.linuxserver.io/image?name=linuxserver/pyload-ng
 - https://github.com/linuxserver/docker-pyload-ng#readme
 - https://github.com/orgs/linuxserver/packages/container/package/pyload-ng
-- https://github.com/truecharts/charts/tree/master/charts/stable/pyload-ng
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/pyload-ng
 - https://pyload.net/
 
@@ -26,7 +25,7 @@ pyLoad(https://pyload.net/) is a Free and Open Source download manager written i
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/pyload-ng)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/pyload-ng)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

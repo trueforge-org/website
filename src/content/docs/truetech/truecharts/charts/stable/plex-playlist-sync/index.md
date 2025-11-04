@@ -9,7 +9,6 @@ Sync your Spotify and Deezer playlists to your Plex server.
 ## Chart Sources
 
 - https://github.com/rnagabhyrava/plex-playlist-sync
-- https://github.com/truecharts/charts/tree/master/charts/stable/plex-playlist-sync
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/plex-playlist-sync
 - https://hub.docker.com/r/rnagabhyrava/plexplaylistsync
 
@@ -25,7 +24,7 @@ Sync your Spotify and Deezer playlists to your Plex server.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/plex-playlist-sync)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/plex-playlist-sync)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

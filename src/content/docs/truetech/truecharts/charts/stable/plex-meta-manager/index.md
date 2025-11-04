@@ -9,7 +9,6 @@ Python script to update metadata and automatically build collections.
 ## Chart Sources
 
 - https://github.com/meisnate12/Plex-Meta-Manager
-- https://github.com/truecharts/charts/tree/master/charts/stable/plex-meta-manager
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/plex-meta-manager
 - https://hub.docker.com/r/meisnate12/plex-meta-manager
 
@@ -25,7 +24,7 @@ Python script to update metadata and automatically build collections.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/plex-meta-manager)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/plex-meta-manager)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

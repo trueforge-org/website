@@ -9,7 +9,6 @@ Openvscode-server provides a version of VS Code that runs a server on a remote m
 ## Chart Sources
 
 - https://ghcr.io/linuxserver/openvscode-server
-- https://github.com/truecharts/charts/tree/master/charts/stable/openvscode-server
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/openvscode-server
 
 ## Available Documentation
@@ -23,7 +22,7 @@ Openvscode-server provides a version of VS Code that runs a server on a remote m
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/openvscode-server)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/openvscode-server)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 

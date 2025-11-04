@@ -10,7 +10,6 @@ ProjectSend is a self-hosted application that lets you upload files and assign t
 
 - https://ghcr.io/linuxserver/projectsend
 - https://github.com/projectsend/projectsend
-- https://github.com/truecharts/charts/tree/master/charts/stable/projectsend
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/projectsend
 
 ## Available Documentation
@@ -24,7 +23,7 @@ ProjectSend is a self-hosted application that lets you upload files and assign t
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/stable/projectsend)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/projectsend)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 
