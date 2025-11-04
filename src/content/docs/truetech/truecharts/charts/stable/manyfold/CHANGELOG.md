@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 4.33.1 • [Train: stable]
+
+- chore(helm): update image ghcr.io/manyfold3d/manyfold 0.128.0 → 0.128.1 (#41394) • [`79684aa`](https://github.com/trueforge-org/truecharts/commit/79684aacff34b259a78dfa6182b40761129f1dca) • [@TrueCharts Bot] (2025-11-04)
+
 ## 4.33.0 • [Train: stable]
 
 - chore(helm): update image ghcr.io/manyfold3d/manyfold 0.127.1 → 0.128.0 (#41387) • [`9b60d1d`](https://github.com/trueforge-org/truecharts/commit/9b60d1d586bf38568f2a0f12ece0d04726fb8c75) • [@TrueCharts Bot] (2025-11-03)
@@ -217,8 +221,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.12.3 • [Train: stable]
 
-- chore(helm): update chart redis 17.4.3 → 17.4.4 (#38955) • [`5f1b3ce`](https://github.com/trueforge-org/truecharts/commit/5f1b3ceecee1cc14fe2af8710043defcc098eabe) • [@TrueCharts Bot] (2025-08-30)
 - chore(helm): update chart common 28.16.4 → 28.16.5 (#38952) • [`977aa51`](https://github.com/trueforge-org/truecharts/commit/977aa51ecddfb3da31c324fcbf0f73ba51f1017b) • [@TrueCharts Bot] (2025-08-30)
+- chore(helm): update chart redis 17.4.3 → 17.4.4 (#38955) • [`5f1b3ce`](https://github.com/trueforge-org/truecharts/commit/5f1b3ceecee1cc14fe2af8710043defcc098eabe) • [@TrueCharts Bot] (2025-08-30)
 
 ## 4.12.2 • [Train: stable]
 
@@ -716,8 +720,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.3.5 • [Train: incubator]
 
-- chore(deps): update container image common to v24.1.15@0763087 by renovate (#26098) • [`5fca841`](https://github.com/trueforge-org/truecharts/commit/5fca8413569321d0bb70e2e788319c99151f624f) • [@TrueCharts Bot] (2024-09-09)
 - chore(deps): update container image redis to v15.2.5@91b10aa by renovate (#25984) • [`bbbe4e9`](https://github.com/trueforge-org/truecharts/commit/bbbe4e92cbeb8a336744a16baed051fd191fdb44) • [@TrueCharts Bot] (2024-09-09)
+- chore(deps): update container image common to v24.1.15@0763087 by renovate (#26098) • [`5fca841`](https://github.com/trueforge-org/truecharts/commit/5fca8413569321d0bb70e2e788319c99151f624f) • [@TrueCharts Bot] (2024-09-09)
 
 ## 0.3.4 • [Train: incubator]
 
