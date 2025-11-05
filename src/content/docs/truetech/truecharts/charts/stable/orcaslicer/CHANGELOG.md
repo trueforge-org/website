@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.11.6 • [Train: stable]
+
+- chore(helm): update image ghcr.io/linuxserver/orcaslicer digest to e422ef0 (#41446) • [`d290bdb`](https://github.com/trueforge-org/truecharts/commit/d290bdba2f0acaf0c948bd892e4a2ab848a69f5c) • [@TrueCharts Bot] (2025-11-05)
+
 ## 2.11.5 • [Train: stable]
 
 - Commit daily changes • [`dfe2909`](https://github.com/trueforge-org/truecharts/commit/dfe2909e3628718e83ddfecffe2770551fea0c74) • [@TrueCharts-Bot] (2025-11-04)

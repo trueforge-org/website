@@ -2,13 +2,14 @@
 title: comet
 ---
 
-![Version: 4.9.5](https://img.shields.io/badge/Version-4.9.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 4.9.6](https://img.shields.io/badge/Version-4.9.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 comet self-hosted
 
 ## Chart Sources
 
 - https://ghcr.io/g0ldyy/comet
+- https://github.com/truecharts/charts/tree/master/charts/stable/comet
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/comet
 
 ## Available Documentation
