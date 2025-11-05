@@ -2,7 +2,7 @@
 title: gitea
 ---
 
-![Version: 22.23.5](https://img.shields.io/badge/Version-22.23.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.25.0](https://img.shields.io/badge/AppVersion-1.25.0-informational?style=flat-square)
+![Version: 22.23.6](https://img.shields.io/badge/Version-22.23.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.25.1](https://img.shields.io/badge/AppVersion-1.25.1-informational?style=flat-square)
 
 Self hosted GIT repositories
 
@@ -10,6 +10,7 @@ Self hosted GIT repositories
 
 - https://gitea.com/gitea/helm-chart
 - https://github.com/go-gitea/gitea
+- https://github.com/truecharts/charts/tree/master/charts/stable/gitea
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/gitea
 - https://hub.docker.com/r/gitea/gitea
 
