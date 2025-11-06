@@ -2,13 +2,14 @@
 title: cloudreve
 ---
 
-![Version: 10.31.8](https://img.shields.io/badge/Version-10.31.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.9.2](https://img.shields.io/badge/AppVersion-4.9.2-informational?style=flat-square)
+![Version: 10.31.9](https://img.shields.io/badge/Version-10.31.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.9.2](https://img.shields.io/badge/AppVersion-4.9.2-informational?style=flat-square)
 
 Self-hosted file management and sharing system, supports multiple storage providers
 
 ## Chart Sources
 
 - https://github.com/cloudreve/Cloudreve
+- https://github.com/truecharts/charts/tree/master/charts/stable/cloudreve
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/cloudreve
 - https://hub.docker.com/r/cloudreve/cloudreve
 
