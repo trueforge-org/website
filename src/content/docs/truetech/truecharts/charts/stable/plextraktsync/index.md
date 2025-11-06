@@ -2,7 +2,7 @@
 title: plextraktsync
 ---
 
-![Version: 11.11.4](https://img.shields.io/badge/Version-11.11.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.34.17](https://img.shields.io/badge/AppVersion-0.34.17-informational?style=flat-square)
+![Version: 11.11.5](https://img.shields.io/badge/Version-11.11.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.34.18](https://img.shields.io/badge/AppVersion-0.34.18-informational?style=flat-square)
 
 Two-way-sync between trakt.tv and Plex Media Server.
 
@@ -10,6 +10,7 @@ Two-way-sync between trakt.tv and Plex Media Server.
 
 - https://ghcr.io/taxel/plextraktsync
 - https://github.com/Taxel/PlexTraktSync
+- https://github.com/truecharts/charts/tree/master/charts/stable/plextraktsync
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/plextraktsync
 
 ## Available Documentation
