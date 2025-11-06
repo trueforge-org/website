@@ -9,7 +9,6 @@ Synclounge is a third party tool that allows you to watch Plex in sync with your
 ## Chart Sources
 
 - https://ghcr.io/linuxserver/synclounge
-- https://github.com/truecharts/charts/tree/master/charts/stable/synclounge
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/synclounge
 
 ## Available Documentation

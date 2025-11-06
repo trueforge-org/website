@@ -9,7 +9,6 @@ Managing Nginx proxy hosts with a simple, powerful interface.
 ## Chart Sources
 
 - https://github.com/NginxProxyManager/nginx-proxy-manager
-- https://github.com/truecharts/charts/tree/master/charts/stable/nginx-proxy-manager
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/nginx-proxy-manager
 - https://hub.docker.com/r/jc21/nginx-proxy-manager
 - https://nginxproxymanager.com/

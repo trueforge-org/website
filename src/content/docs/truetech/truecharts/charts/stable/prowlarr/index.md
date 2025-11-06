@@ -8,7 +8,6 @@ Indexer manager/proxy built on the popular arr net base stack to integrate with 
 
 ## Chart Sources
 
-- https://ghcr.io/home-operations/prowlarr
 - https://ghcr.io/onedr0p/exportarr
 - https://github.com/Prowlarr/Prowlarr
 - https://github.com/k8s-at-home/container-images

@@ -2,13 +2,12 @@
 title: lidarr
 ---
 
-![Version: 28.0.0](https://img.shields.io/badge/Version-28.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.0.1](https://img.shields.io/badge/AppVersion-3.0.1-informational?style=flat-square)
+![Version: 28.0.0](https://img.shields.io/badge/Version-28.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.0.0.4856](https://img.shields.io/badge/AppVersion-3.0.0.4856-informational?style=flat-square)
 
 Looks and smells like Sonarr but made for music
 
 ## Chart Sources
 
-- https://ghcr.io/home-operations/lidarr
 - https://ghcr.io/onedr0p/exportarr
 - https://github.com/Lidarr/Lidarr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/lidarr

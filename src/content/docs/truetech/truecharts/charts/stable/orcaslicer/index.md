@@ -10,7 +10,6 @@ Orca Slicer is an open source slicer for FDM printers.
 
 - https://ghcr.io/linuxserver/orcaslicer
 - https://github.com/SoftFever/OrcaSlicer
-- https://github.com/truecharts/charts/tree/master/charts/stable/orcaslicer
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/orcaslicer
 
 ## Available Documentation

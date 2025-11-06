@@ -10,7 +10,6 @@ Automatically approve internal Kubelet Certificate Signing Requests
 
 - https://ghcr.io/postfinance/kubelet-csr-approver
 - https://github.com/kubelet-csr-approver/kubelet-csr-approver
-- https://github.com/truecharts/charts/tree/master/charts/stable/kubelet-csr-approver
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/kubelet-csr-approver
 
 ## Available Documentation

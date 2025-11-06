@@ -10,7 +10,6 @@ FlareSolverr is a proxy server to bypass Cloudflare protection
 
 - https://ghcr.io/flaresolverr/flaresolverr
 - https://github.com/FlareSolverr/FlareSolverr
-- https://github.com/truecharts/charts/tree/master/charts/stable/flaresolverr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/flaresolverr
 
 ## Available Documentation

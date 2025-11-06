@@ -8,7 +8,6 @@ Usenet meta search
 
 ## Chart Sources
 
-- https://ghcr.io/home-operations/nzbhydra2
 - https://github.com/theotherp/nzbhydra2
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/nzbhydra
 

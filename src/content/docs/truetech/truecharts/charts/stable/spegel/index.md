@@ -9,7 +9,6 @@ Stateless cluster local OCI registry mirror.
 ## Chart Sources
 
 - https://ghcr.io/spegel-org/spegel
-- https://github.com/truecharts/charts/tree/master/charts/stable/spegel
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/spegel
 
 ## Available Documentation

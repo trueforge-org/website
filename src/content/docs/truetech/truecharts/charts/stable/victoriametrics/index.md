@@ -9,7 +9,6 @@ Fast, cost-effective monitoring solution and time series database
 ## Chart Sources
 
 - https://github.com/VictoriaMetrics/VictoriaMetrics/tree/master
-- https://github.com/truecharts/charts/tree/master/charts/stable/victoriametrics
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/victoriametrics
 - https://hub.docker.com/r/victoriametrics/victoria-metrics
 

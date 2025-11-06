@@ -9,7 +9,6 @@ comet self-hosted
 ## Chart Sources
 
 - https://ghcr.io/g0ldyy/comet
-- https://github.com/truecharts/charts/tree/master/charts/stable/comet
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/comet
 
 ## Available Documentation

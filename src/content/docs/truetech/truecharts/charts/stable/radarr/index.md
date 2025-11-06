@@ -8,7 +8,6 @@ A fork of Sonarr to work with movies à la Couchpotato
 
 ## Chart Sources
 
-- https://ghcr.io/home-operations/radarr
 - https://ghcr.io/onedr0p/exportarr
 - https://github.com/Radarr/Radarr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/radarr

@@ -17,6 +17,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.13.0 • [Train: stable]
 
+- Commit daily changes • [`92e9b4a`](https://github.com/trueforge-org/truecharts/commit/92e9b4afa1d752349b847bb6a59fce207405de08) • [@TrueCharts-Bot] (2025-11-06)
 - chore(helm): update image ghcr.io/spegel-org/spegel v0.4.0 → v0.5.1 (#41417) • [`98eefe9`](https://github.com/trueforge-org/truecharts/commit/98eefe9d14f5ebe512bd2d055c14c8482ebcdc09) • [@TrueCharts Bot] (2025-11-05)
 
 ## 4.12.3 • [Train: stable]

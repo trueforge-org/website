@@ -10,7 +10,6 @@ Selfhosted Mend Renovate App with included webhook and Github APP
 
 - https://ghcr.io/mend/renovate-ce
 - https://github.com/mend/renovate-ce-ee
-- https://github.com/truecharts/charts/tree/master/charts/stable/mend-renovate
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/mend-renovate
 
 ## Available Documentation

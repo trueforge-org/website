@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.12.6 • [Train: stable]
 
+- Commit daily changes • [`92e9b4a`](https://github.com/trueforge-org/truecharts/commit/92e9b4afa1d752349b847bb6a59fce207405de08) • [@TrueCharts-Bot] (2025-11-06)
 - chore(helm): update image docker.io/semaphoreui/semaphore v2.16.37 → v2.16.43 (#41449) • [`46a5d2b`](https://github.com/trueforge-org/truecharts/commit/46a5d2bd7cd97f833f565bffff31f095bd9ba5d4) • [@TrueCharts Bot] (2025-11-05)
 
 ## 6.12.5 • [Train: stable]
@@ -459,8 +460,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - Commit daily changes • [`ca008eb`](https://github.com/trueforge-org/truecharts/commit/ca008eb2afe01c75e63679218a2f8514f756d67e) • [@TrueCharts-Bot] (2024-06-01)
 - Commit daily changes • [`4357b53`](https://github.com/trueforge-org/truecharts/commit/4357b533a97aa77ffa16998ce8b568336e3892a9) • [@TrueCharts-Bot] (2024-05-31)
-- chore(deps): update container image semaphoreui/semaphore to v2.9.112@05c9a6f by renovate (#22652) • [`b804ec3`](https://github.com/trueforge-org/truecharts/commit/b804ec3c29e096be44e4643a50cdb26951ec5837) • [@TrueCharts Bot] (2024-05-30)
 - chore(deps): update container image common to v23.0.10@46ba38c by renovate (#22650) • [`f2e9285`](https://github.com/trueforge-org/truecharts/commit/f2e9285719fd297f267b1af1be98fc1021c53d6f) • [@TrueCharts Bot] (2024-05-30)
+- chore(deps): update container image semaphoreui/semaphore to v2.9.112@05c9a6f by renovate (#22652) • [`b804ec3`](https://github.com/trueforge-org/truecharts/commit/b804ec3c29e096be44e4643a50cdb26951ec5837) • [@TrueCharts Bot] (2024-05-30)
 
 ## 2.0.5 • [Train: incubator]
 

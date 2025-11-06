@@ -11,7 +11,6 @@ DNS and Ad-filtering for your network
 - https://ghcr.io/pi-hole/pihole
 - https://github.com/pi-hole
 - https://github.com/pi-hole/docker-pi-hole
-- https://github.com/truecharts/charts/tree/master/charts/stable/pihole
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/pihole
 - https://pi-hole.net/
 

@@ -9,7 +9,6 @@ Automatic Ripping Machine (ARM) Scripts.
 ## Chart Sources
 
 - https://github.com/automatic-ripping-machine/automatic-ripping-machine
-- https://github.com/truecharts/charts/tree/master/charts/stable/automatic-ripping-machine
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/automatic-ripping-machine
 - https://hub.docker.com/r/automaticrippingmachine/automatic-ripping-machine
 

@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 15.24.27 • [Train: stable]
 
+- Commit daily changes • [`92e9b4a`](https://github.com/trueforge-org/truecharts/commit/92e9b4afa1d752349b847bb6a59fce207405de08) • [@TrueCharts-Bot] (2025-11-06)
 - chore(helm): update image ghcr.io/linuxserver/jackett 0.24.247 → 0.24.250 (#41439) • [`497e164`](https://github.com/trueforge-org/truecharts/commit/497e16420fb606e54b4d93fd66237f5bb3d683cc) • [@TrueCharts Bot] (2025-11-05)
 
 ## 15.24.26 • [Train: stable]
@@ -50,9 +51,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 15.24.19 • [Train: stable]
 
-- chore(helm): update image ghcr.io/linuxserver/jackett 0.24.234 → 0.24.241 (#41325) • [`0b02b0c`](https://github.com/trueforge-org/truecharts/commit/0b02b0c6370a644872ee9f8e73fa54301962ad88) • [@TrueCharts Bot] (2025-11-01)
 - chore(helm): update chart redis 17.13.2 → 17.13.3 (#41322) • [`75d0a05`](https://github.com/trueforge-org/truecharts/commit/75d0a051a43c1632f60e77c893264eb2b9270025) • [@TrueCharts Bot] (2025-11-01)
 - chore(helm): update chart mongodb 16.12.2 → 16.12.3 (#41321) • [`e8d392e`](https://github.com/trueforge-org/truecharts/commit/e8d392e1203c32a7d4ba2f0f7b7244d06df0a457) • [@TrueCharts Bot] (2025-11-01)
+- chore(helm): update image ghcr.io/linuxserver/jackett 0.24.234 → 0.24.241 (#41325) • [`0b02b0c`](https://github.com/trueforge-org/truecharts/commit/0b02b0c6370a644872ee9f8e73fa54301962ad88) • [@TrueCharts Bot] (2025-11-01)
 
 ## 15.24.18 • [Train: stable]
 
@@ -320,8 +321,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 15.8.5 • [Train: premium]
 
-- Commit daily changes • [`752d863`](https://github.com/trueforge-org/truecharts/commit/752d8637aa7ce955a97ef8991f0788ccc6a2e9ff) • [@TrueCharts-Bot] (2025-09-27)
 - chore(helm): update image ghcr.io/linuxserver/jackett 0.23.69 → 0.23.71 (#40084) • [`52f3467`](https://github.com/trueforge-org/truecharts/commit/52f3467e335f69ea791e9958b214de04490e9f53) • [@TrueCharts Bot] (2025-09-27)
+- Commit daily changes • [`752d863`](https://github.com/trueforge-org/truecharts/commit/752d8637aa7ce955a97ef8991f0788ccc6a2e9ff) • [@TrueCharts-Bot] (2025-09-27)
 
 ## 15.8.4 • [Train: premium]
 

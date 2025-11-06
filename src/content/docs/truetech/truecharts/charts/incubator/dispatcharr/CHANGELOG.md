@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.2.4 • [Train: incubator]
 
+- Commit daily changes • [`92e9b4a`](https://github.com/trueforge-org/truecharts/commit/92e9b4afa1d752349b847bb6a59fce207405de08) • [@TrueCharts-Bot] (2025-11-06)
 - chore(helm): update image docker.io/dispatcharr/dispatcharr 0.11.1 → 0.11.2 (#41421) • [`67c64f8`](https://github.com/trueforge-org/truecharts/commit/67c64f8972b4007792289c157be6c0f57685388e) • [@TrueCharts Bot] (2025-11-05)
 
 ## 0.2.3 • [Train: incubator]

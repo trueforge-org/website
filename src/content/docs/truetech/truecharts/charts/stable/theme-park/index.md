@@ -8,7 +8,6 @@ Custom themes for your favorite apps!
 
 ## Chart Sources
 
-- https://ghcr.io/home-operations/theme-park
 - https://github.com/gilbn/theme.park
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/theme-park
 

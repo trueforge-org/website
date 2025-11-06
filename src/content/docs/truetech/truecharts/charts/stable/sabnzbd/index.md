@@ -8,7 +8,6 @@ Free and easy binary newsreader
 
 ## Chart Sources
 
-- https://ghcr.io/home-operations/sabnzbd
 - https://ghcr.io/onedr0p/exportarr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/sabnzbd
 - https://sabnzbd.org/
