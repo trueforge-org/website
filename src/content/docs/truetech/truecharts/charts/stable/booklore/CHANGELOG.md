@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.0.6 • [Train: stable]
+
+- chore(helm): update chart mariadb 17.9.5 → 17.9.6 (#41517) • [`a3fe0b3`](https://github.com/trueforge-org/truecharts/commit/a3fe0b3913adafdc9fc2923bf400f9f0613d0a04) • [@TrueCharts Bot] (2025-11-07)
+
 ## 1.0.5 • [Train: stable]
 
 - Commit daily changes • [`dfe2909`](https://github.com/trueforge-org/truecharts/commit/dfe2909e3628718e83ddfecffe2770551fea0c74) • [@TrueCharts-Bot] (2025-11-04)

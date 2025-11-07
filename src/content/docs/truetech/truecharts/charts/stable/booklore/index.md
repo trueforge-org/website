@@ -2,7 +2,7 @@
 title: booklore
 ---
 
-![Version: 1.0.5](https://img.shields.io/badge/Version-1.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.10.0](https://img.shields.io/badge/AppVersion-1.10.0-informational?style=flat-square)
+![Version: 1.0.6](https://img.shields.io/badge/Version-1.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.10.0](https://img.shields.io/badge/AppVersion-1.10.0-informational?style=flat-square)
 
 A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics
 
@@ -10,6 +10,7 @@ A self-hosted, multi-user digital library with smart shelves, auto metadata, Kob
 
 - https://ghcr.io/booklore-app/booklore
 - https://github.com/booklore-app/booklore
+- https://github.com/truecharts/charts/tree/master/charts/stable/booklore
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/booklore
 
 ## Available Documentation
