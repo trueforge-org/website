@@ -2,7 +2,7 @@
 title: grafana
 ---
 
-![Version: 20.1.1](https://img.shields.io/badge/Version-20.1.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 12.2.1](https://img.shields.io/badge/AppVersion-12.2.1-informational?style=flat-square)
+![Version: 20.1.2](https://img.shields.io/badge/Version-20.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 12.2.1](https://img.shields.io/badge/AppVersion-12.2.1-informational?style=flat-square)
 
 Grafana is an open source, feature rich metrics dashboard and graph editor for Graphite, Elasticsearch, OpenTSDB, Prometheus and InfluxDB.
 
@@ -10,6 +10,7 @@ Grafana is an open source, feature rich metrics dashboard and graph editor for G
 
 - https://ghcr.io/kiwigrid/k8s-sidecar
 - https://github.com/bitnami/bitnami-docker-grafana
+- https://github.com/truecharts/charts/tree/master/charts/stable/grafana
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/grafana
 - https://grafana.com/
 - https://hub.docker.com/r/grafana/grafana
