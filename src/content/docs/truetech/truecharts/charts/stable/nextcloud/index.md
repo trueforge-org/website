@@ -2,7 +2,7 @@
 title: nextcloud
 ---
 
-![Version: 40.0.1](https://img.shields.io/badge/Version-40.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 32.0.1](https://img.shields.io/badge/AppVersion-32.0.1-informational?style=flat-square)
+![Version: 40.0.2](https://img.shields.io/badge/Version-40.0.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 32.0.1](https://img.shields.io/badge/AppVersion-32.0.1-informational?style=flat-square)
 
 A private cloud server that puts the control and security of your own data back into your hands.
 
@@ -10,6 +10,7 @@ A private cloud server that puts the control and security of your own data back 
 
 - https://github.com/nextcloud/docker
 - https://github.com/nextcloud/helm
+- https://github.com/truecharts/charts/tree/master/charts/stable/nextcloud
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/nextcloud
 - https://github.com/trueforge/truecharts/tree/master/charts/stable/nextcloud
 - https://hub.docker.com/r/clamav/clamav
