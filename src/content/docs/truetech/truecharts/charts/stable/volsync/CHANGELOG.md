@@ -302,8 +302,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.6 • [Train: incubator]
 
-- Update common.yaml • [`ed24534`](https://github.com/trueforge-org/truecharts/commit/ed245346e458de6307e2df5b5f964172ea33830e) • [@Kjeld Schouten] (2024-05-19)
 - Update Chart.yaml • [`cd22d77`](https://github.com/trueforge-org/truecharts/commit/cd22d7797f9481eb35738a333dbfdeaabe57bea4) • [@Kjeld Schouten] (2024-05-19)
+- Update common.yaml • [`ed24534`](https://github.com/trueforge-org/truecharts/commit/ed245346e458de6307e2df5b5f964172ea33830e) • [@Kjeld Schouten] (2024-05-19)
 
 ## 1.0.5 • [Train: incubator]
 
