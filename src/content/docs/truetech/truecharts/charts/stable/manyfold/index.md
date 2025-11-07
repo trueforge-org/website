@@ -9,7 +9,6 @@ A Digital Asset Manager (DAM), specifically designed for 3D print files.
 ## Chart Sources
 
 - https://ghcr.io/manyfold3d/manyfold
-- https://github.com/truecharts/charts/tree/master/charts/stable/manyfold
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/manyfold
 
 ## Available Documentation

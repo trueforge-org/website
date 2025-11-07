@@ -14,7 +14,6 @@ Authentik is an open-source Identity Provider focused on flexibility and versati
 - https://ghcr.io/goauthentik/server
 - https://ghcr.io/maxmind/geoipupdate
 - https://github.com/goauthentik/authentik
-- https://github.com/truecharts/charts/tree/master/charts/stable/authentik
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/authentik
 - https://goauthentik.io/docs/
 

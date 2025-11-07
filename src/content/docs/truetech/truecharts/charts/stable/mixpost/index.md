@@ -9,7 +9,6 @@ Mixpost it's the coolest Self hosted social media management software.
 ## Chart Sources
 
 - https://github.com/inovector/mixpost
-- https://github.com/truecharts/charts/tree/master/charts/stable/mixpost
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/mixpost
 - https://hub.docker.com/r/inovector/mixpost
 

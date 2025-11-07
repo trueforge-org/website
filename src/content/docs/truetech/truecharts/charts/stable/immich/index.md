@@ -11,7 +11,6 @@ High performance self-hosted photo and video backup solution.
 - https://ghcr.io/immich-app/immich-machine-learning
 - https://ghcr.io/immich-app/immich-server
 - https://github.com/immich-app/immich
-- https://github.com/truecharts/charts/tree/master/charts/stable/immich
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/immich
 
 ## Available Documentation

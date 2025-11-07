@@ -10,7 +10,6 @@ ONLYOFFICE Document Server is an online office suite comprising viewers and edit
 
 - https://github.com/ONLYOFFICE/Docker-DocumentServer
 - https://github.com/ONLYOFFICE/DocumentServer
-- https://github.com/truecharts/charts/tree/master/charts/stable/onlyoffice-document-server
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/onlyoffice-document-server
 - https://hub.docker.com/r/onlyoffice/documentserver
 

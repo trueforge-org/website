@@ -8,7 +8,6 @@ The to-do app to organize your life.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/vikunja
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/vikunja
 - https://hub.docker.com/r/vikunja/vikunja
 - https://vikunja.io/docs

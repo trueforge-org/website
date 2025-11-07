@@ -9,7 +9,6 @@ Improved version of the OpenWebRX online SDR
 ## Chart Sources
 
 - https://github.com/luarvique/openwebrx
-- https://github.com/truecharts/charts/tree/master/charts/stable/openwebrxplus
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/openwebrxplus
 - https://hub.docker.com/r/slechev/openwebrxplus-softmbe
 

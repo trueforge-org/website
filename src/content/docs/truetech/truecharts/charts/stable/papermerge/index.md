@@ -9,7 +9,6 @@ Papermerge is an open source document management system (DMS) primarily designed
 ## Chart Sources
 
 - https://github.com/ciur/papermerge
-- https://github.com/truecharts/charts/tree/master/charts/stable/papermerge
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/papermerge
 - https://hub.docker.com/r/papermerge/papermerge
 

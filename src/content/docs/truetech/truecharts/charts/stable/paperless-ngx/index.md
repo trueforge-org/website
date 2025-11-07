@@ -10,7 +10,6 @@ Paperless-ngx is an application by Daniel Quinn and contributors that indexes yo
 
 - https://ghcr.io/paperless-ngx/paperless-ngx
 - https://github.com/paperless-ngx/paperless-ngx
-- https://github.com/truecharts/charts/tree/master/charts/stable/paperless-ngx
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/paperless-ngx
 - https://hub.docker.com/r/apache/tika
 - https://hub.docker.com/r/gotenberg/gotenberg

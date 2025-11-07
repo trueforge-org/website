@@ -8,7 +8,6 @@ A fork of Mozilla's Firefox Send.Mozilla discontinued Send, this fork is a commu
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/send
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/send
 - https://gitlab.com/timvisee/send
 
