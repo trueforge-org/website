@@ -9,7 +9,6 @@ PhotoPrism® is a server-based application for browsing, organizing and sharing 
 ## Chart Sources
 
 - https://github.com/photoprism/photoprism
-- https://github.com/truecharts/charts/tree/master/charts/stable/photoprism
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/photoprism
 - https://hub.docker.com/r/photoprism/photoprism
 

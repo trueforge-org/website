@@ -10,7 +10,6 @@ A self-hosted, multi-user digital library with smart shelves, auto metadata, Kob
 
 - https://ghcr.io/booklore-app/booklore
 - https://github.com/booklore-app/booklore
-- https://github.com/truecharts/charts/tree/master/charts/stable/booklore
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/booklore
 
 ## Available Documentation

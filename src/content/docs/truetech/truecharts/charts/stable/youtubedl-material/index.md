@@ -10,7 +10,6 @@ YoutubeDL-Material is a Material Design frontend for youtube-dl.
 
 - https://ghcr.io/tzahi12345/youtubedl-material
 - https://github.com/Tzahi12345/YoutubeDL-Material
-- https://github.com/truecharts/charts/tree/master/charts/stable/youtubedl-material
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/youtubedl-material
 
 ## Available Documentation

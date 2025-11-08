@@ -10,7 +10,6 @@ Calibre is a powerful and easy to use e-book manager.
 
 - https://ghcr.io/linuxserver/calibre
 - https://github.com/kovidgoyal/calibre/
-- https://github.com/truecharts/charts/tree/master/charts/stable/calibre
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/calibre
 
 ## Available Documentation

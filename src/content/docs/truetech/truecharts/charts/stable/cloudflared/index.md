@@ -8,7 +8,6 @@ Client for Cloudflare Tunnel, a daemon that exposes private services through the
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/cloudflared
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/cloudflared
 - https://hub.docker.com/r/cloudflare/cloudflared
 

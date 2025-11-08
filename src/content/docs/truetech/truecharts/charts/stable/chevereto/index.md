@@ -11,7 +11,6 @@ Chevereto is an image hosting software that allows you to create a beautiful and
 - https://chevereto-free.github.io/setup/stable/environment.html#image-handling-variables
 - https://ghcr.io/rodber/chevereto-free
 - https://github.com/rodber/chevereto-free
-- https://github.com/truecharts/charts/tree/master/charts/stable/chevereto
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/chevereto
 
 ## Available Documentation

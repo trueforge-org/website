@@ -10,7 +10,6 @@ Smart PVR for newsgroup and bittorrent users
 
 - https://ghcr.io/onedr0p/exportarr
 - https://github.com/Sonarr/Sonarr
-- https://github.com/truecharts/charts/tree/master/charts/stable/sonarr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/sonarr
 
 ## Available Documentation

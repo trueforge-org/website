@@ -9,7 +9,6 @@ A game ROM manager using multiple sources to identify and provide metadata.
 ## Chart Sources
 
 - https://github.com/gaseous-project/gaseous-server
-- https://github.com/truecharts/charts/tree/master/charts/stable/gaseous-server
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/gaseous-server
 - https://hub.docker.com/r/gaseousgames/gaseousserver
 

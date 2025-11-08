@@ -10,7 +10,6 @@ Open source home automation that puts local control and privacy first.
 
 - https://github.com/cdr/code-server
 - https://github.com/home-assistant/home-assistant
-- https://github.com/truecharts/charts/tree/master/charts/stable/home-assistant
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/home-assistant
 - https://hub.docker.com/r/homeassistant/home-assistant
 

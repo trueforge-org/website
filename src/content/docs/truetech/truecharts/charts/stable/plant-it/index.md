@@ -9,7 +9,6 @@ Plant-it is a self-hosted gardening companion app.
 ## Chart Sources
 
 - https://github.com/MDeLuise/plant-it
-- https://github.com/truecharts/charts/tree/master/charts/stable/plant-it
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/plant-it
 - https://hub.docker.com/r/msdeluise/plant-it-server
 

@@ -8,7 +8,6 @@ renovate self-hosted
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/renovate
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/renovate
 
 ## Available Documentation

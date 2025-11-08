@@ -10,7 +10,6 @@ ProjectSend is a self-hosted application that lets you upload files and assign t
 
 - https://ghcr.io/linuxserver/projectsend
 - https://github.com/projectsend/projectsend
-- https://github.com/truecharts/charts/tree/master/charts/stable/projectsend
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/projectsend
 
 ## Available Documentation

@@ -8,7 +8,6 @@ Dedicated App for using Docker-in-Docker
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/docker
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/docker
 - https://hub.docker.com/_/docker
 
