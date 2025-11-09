@@ -2,13 +2,14 @@
 title: nginx-proxy-manager
 ---
 
-![Version: 13.15.2](https://img.shields.io/badge/Version-13.15.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.13.1](https://img.shields.io/badge/AppVersion-2.13.1-informational?style=flat-square)
+![Version: 13.15.3](https://img.shields.io/badge/Version-13.15.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.13.2](https://img.shields.io/badge/AppVersion-2.13.2-informational?style=flat-square)
 
 Managing Nginx proxy hosts with a simple, powerful interface.
 
 ## Chart Sources
 
 - https://github.com/NginxProxyManager/nginx-proxy-manager
+- https://github.com/truecharts/charts/tree/master/charts/stable/nginx-proxy-manager
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/nginx-proxy-manager
 - https://hub.docker.com/r/jc21/nginx-proxy-manager
 - https://nginxproxymanager.com/
