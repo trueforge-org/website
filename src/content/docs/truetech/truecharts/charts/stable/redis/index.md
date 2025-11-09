@@ -2,13 +2,14 @@
 title: redis
 ---
 
-![Version: 17.13.6](https://img.shields.io/badge/Version-17.13.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 17.13.7](https://img.shields.io/badge/Version-17.13.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Open source, advanced key-value store.
 
 ## Chart Sources
 
 - https://github.com/bitnami/bitnami-docker-redis
+- https://github.com/truecharts/charts/tree/master/charts/stable/redis
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/redis
 - https://hub.docker.com/r/bitnamisecure/redis
 
