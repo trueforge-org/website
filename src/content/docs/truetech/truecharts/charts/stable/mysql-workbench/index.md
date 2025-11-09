@@ -9,7 +9,6 @@ MySQL Workbench is a unified visual tool for database architects, developers and
 ## Chart Sources
 
 - https://ghcr.io/linuxserver/mysql-workbench
-- https://github.com/truecharts/charts/tree/master/charts/stable/mysql-workbench
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/mysql-workbench
 
 ## Available Documentation

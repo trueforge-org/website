@@ -8,7 +8,6 @@ YaCy decentralized search engine (https://yacy.net)
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/yacy
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/yacy
 - https://hub.docker.com/r/yacy/yacy_search_server
 - https://yacy.net/

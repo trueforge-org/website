@@ -9,7 +9,6 @@ Open-source headless CMS. JavaScript, fully customizable and developer-first.
 ## Chart Sources
 
 - https://github.com/naskio/docker-strapi
-- https://github.com/truecharts/charts/tree/master/charts/stable/strapi
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/strapi
 - https://hub.docker.com/r/vshadbolt/strapi
 - https://trueforge.org/truecharts/stable/strapi

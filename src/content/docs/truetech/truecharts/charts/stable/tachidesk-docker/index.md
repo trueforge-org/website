@@ -11,7 +11,6 @@ The official Tachidesk Chart-Chart.
 - https://ghcr.io/suwayomi/tachidesk
 - https://github.com/Suwayomi/Tachidesk-Server
 - https://github.com/suwayomi/docker-tachidesk
-- https://github.com/truecharts/charts/tree/master/charts/stable/tachidesk-docker
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/tachidesk-docker
 
 ## Available Documentation
