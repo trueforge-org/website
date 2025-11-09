@@ -2,7 +2,7 @@
 title: humhub
 ---
 
-![Version: 12.19.12](https://img.shields.io/badge/Version-12.19.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.17.2](https://img.shields.io/badge/AppVersion-1.17.2-informational?style=flat-square)
+![Version: 12.19.13](https://img.shields.io/badge/Version-12.19.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.17.2](https://img.shields.io/badge/AppVersion-1.17.2-informational?style=flat-square)
 
 A feature rich and highly flexible OpenSource Social Network Kit written in PHP.
 
@@ -10,6 +10,7 @@ A feature rich and highly flexible OpenSource Social Network Kit written in PHP.
 
 - https://ghcr.io/mriedmann/humhub-nginx
 - https://ghcr.io/mriedmann/humhub-phponly
+- https://github.com/truecharts/charts/tree/master/charts/stable/humhub
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/humhub
 
 ## Available Documentation
