@@ -9,7 +9,6 @@ Turns any MySQL, PostgreSQL, SQL Server, SQLite & MariaDB into a smart-spreadshe
 ## Chart Sources
 
 - https://github.com/nocodb/nocodb
-- https://github.com/truecharts/charts/tree/master/charts/stable/nocodb
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/nocodb
 - https://hub.docker.com/r/nocodb/nocodb
 

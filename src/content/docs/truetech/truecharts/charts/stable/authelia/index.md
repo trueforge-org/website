@@ -11,7 +11,6 @@ Authelia is a Single Sign-On Multi-Factor portal for web apps
 - https://ghcr.io/authelia/authelia
 - https://github.com/authelia/authelia
 - https://github.com/authelia/chartrepo
-- https://github.com/truecharts/charts/tree/master/charts/stable/authelia
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/authelia
 
 ## Available Documentation

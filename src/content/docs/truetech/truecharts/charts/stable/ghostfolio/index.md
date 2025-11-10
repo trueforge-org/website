@@ -10,7 +10,6 @@ Ghostfolio is a privacy-first, open source dashboard for your personal finances.
 
 - https://ghostfol.io/
 - https://github.com/ghostfolio/ghostfolio
-- https://github.com/truecharts/charts/tree/master/charts/stable/ghostfolio
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/ghostfolio
 - https://hub.docker.com/r/ghostfolio/ghostfolio
 

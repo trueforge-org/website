@@ -8,7 +8,6 @@ Reliable and Performant File Sync and Share Solution
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/seafile
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/seafile
 - https://hub.docker.com/r/seafileltd/seafile-mc
 - https://seafile.com

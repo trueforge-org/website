@@ -11,7 +11,6 @@ Blender(https://www.blender.org/) is a free and open-source 3D computer graphics
 - https://fleet.linuxserver.io/image?name=linuxserver/blender
 - https://github.com/linuxserver/docker-blender#readme
 - https://github.com/orgs/linuxserver/packages/container/package/blender
-- https://github.com/truecharts/charts/tree/master/charts/stable/blender
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/blender
 - https://www.blender.org/
 

@@ -12,7 +12,6 @@ Weblate is a copylefted libre software web-based continuous localization system
 - https://github.com/WeblateOrg/docker
 - https://github.com/WeblateOrg/docker-compose
 - https://github.com/WeblateOrg/weblate
-- https://github.com/truecharts/charts/tree/master/charts/stable/weblate
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/weblate
 - https://hub.docker.com/r/weblate/weblate
 

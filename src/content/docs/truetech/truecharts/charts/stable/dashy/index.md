@@ -10,7 +10,6 @@ Dashy helps you organize your self-hosted services by making them accessible fro
 
 - https://ghcr.io/lissy93/dashy
 - https://github.com/Lissy93/dashy
-- https://github.com/truecharts/charts/tree/master/charts/stable/dashy
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/dashy
 
 ## Available Documentation

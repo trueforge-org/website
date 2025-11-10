@@ -10,7 +10,6 @@ A feature rich and highly flexible OpenSource Social Network Kit written in PHP.
 
 - https://ghcr.io/mriedmann/humhub-nginx
 - https://ghcr.io/mriedmann/humhub-phponly
-- https://github.com/truecharts/charts/tree/master/charts/stable/humhub
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/humhub
 
 ## Available Documentation

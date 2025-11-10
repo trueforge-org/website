@@ -9,7 +9,6 @@ Welcome to the free social web
 ## Chart Sources
 
 - https://friendi.ca/
-- https://github.com/truecharts/charts/tree/master/charts/stable/friendica
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/friendica
 - https://hub.docker.com/_/friendica
 
