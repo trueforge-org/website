@@ -2,13 +2,14 @@
 title: tdarr-node
 ---
 
-![Version: 12.17.0](https://img.shields.io/badge/Version-12.17.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.52.01](https://img.shields.io/badge/AppVersion-2.52.01-informational?style=flat-square)
+![Version: 12.18.0](https://img.shields.io/badge/Version-12.18.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.53.01](https://img.shields.io/badge/AppVersion-2.53.01-informational?style=flat-square)
 
 Audio/Video library transcoding automation
 
 ## Chart Sources
 
 - https://github.com/HaveAGitGat/Tdarr
+- https://github.com/truecharts/charts/tree/master/charts/stable/tdarr-node
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/tdarr-node
 - https://hub.docker.com/r/haveagitgat/tdarr_node
 
