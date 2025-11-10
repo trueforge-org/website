@@ -2,7 +2,7 @@
 title: generic-device-plugin
 ---
 
-![Version: 2.11.6](https://img.shields.io/badge/Version-2.11.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 2.11.7](https://img.shields.io/badge/Version-2.11.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Device Plugin to expose tun-device on talos
 
@@ -10,6 +10,7 @@ Device Plugin to expose tun-device on talos
 
 - https://ghcr.io/squat/generic-device-plugin
 - https://github.com/squat/generic-device-plugin
+- https://github.com/truecharts/charts/tree/master/charts/stable/generic-device-plugin
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/generic-device-plugin
 
 ## Available Documentation

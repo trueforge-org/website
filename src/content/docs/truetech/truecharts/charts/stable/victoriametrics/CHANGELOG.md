@@ -69,8 +69,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.14.0 • [Train: stable]
 
-- chore(helm): update image docker.io/victoriametrics/victoria-metrics v1.126.0 → v1.127.0 (#40365) • [`d3ade91`](https://github.com/trueforge-org/truecharts/commit/d3ade91344a626aec31bd2341c9487b82043aaa1) • [@TrueCharts Bot] (2025-10-04)
 - Commit daily changes • [`044fb16`](https://github.com/trueforge-org/truecharts/commit/044fb16f843c28067054900ff9c84fbe0c7e2f44) • [@TrueCharts-Bot] (2025-10-04)
+- chore(helm): update image docker.io/victoriametrics/victoria-metrics v1.126.0 → v1.127.0 (#40365) • [`d3ade91`](https://github.com/trueforge-org/truecharts/commit/d3ade91344a626aec31bd2341c9487b82043aaa1) • [@TrueCharts Bot] (2025-10-04)
 
 ## 4.13.1 • [Train: stable]
 
@@ -393,8 +393,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.0.2 • [Train: incubator]
 
-- chore(deps): update container image common to v24.0.6@5cd15b8 by renovate (#23138) • [`b79d3fc`](https://github.com/trueforge-org/truecharts/commit/b79d3fce6d6f5a2533b217f2e9edb9e6e611d9e0) • [@TrueCharts Bot] (2024-06-15)
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/trueforge-org/truecharts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
+- chore(deps): update container image common to v24.0.6@5cd15b8 by renovate (#23138) • [`b79d3fc`](https://github.com/trueforge-org/truecharts/commit/b79d3fce6d6f5a2533b217f2e9edb9e6e611d9e0) • [@TrueCharts Bot] (2024-06-15)
 
 ## 2.0.1 • [Train: incubator]
 
@@ -490,5 +490,5 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.1 • [Train: incubator]
 
-- feat(victoriametrics): add VictoriaMetrics database (#20158) • [`6064a8f`](https://github.com/trueforge-org/truecharts/commit/6064a8f1cfcea7d5d8a8bfcb0c8938d43f7113f2) • [@Alexandre NICOLAIE] (2024-04-08)
 - Create disclaimer.md • [`ae849cc`](https://github.com/trueforge-org/truecharts/commit/ae849cca3e82dd58b190465d06fc9928f49dc5ba) • [@Kjeld Schouten] (2024-04-08)
+- feat(victoriametrics): add VictoriaMetrics database (#20158) • [`6064a8f`](https://github.com/trueforge-org/truecharts/commit/6064a8f1cfcea7d5d8a8bfcb0c8938d43f7113f2) • [@Alexandre NICOLAIE] (2024-04-08)
