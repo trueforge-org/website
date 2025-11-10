@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.11.7 • [Train: stable]
+
+- chore(helm): update image seaduboi/broadcast-box digest to 805f37c (#41607) • [`1e02424`](https://github.com/trueforge-org/truecharts/commit/1e02424409a80d206bcc6fc6b807a3cc9bd624c6) • [@TrueCharts Bot] (2025-11-10)
+
 ## 2.11.6 • [Train: stable]
 
 - Commit daily changes • [`82a5192`](https://github.com/trueforge-org/truecharts/commit/82a51925571a1d387c30b251d5d5bd00586321e6) • [@TrueCharts-Bot] (2025-11-07)
