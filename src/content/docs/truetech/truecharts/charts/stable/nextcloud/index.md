@@ -10,7 +10,6 @@ A private cloud server that puts the control and security of your own data back 
 
 - https://github.com/nextcloud/docker
 - https://github.com/nextcloud/helm
-- https://github.com/truecharts/charts/tree/master/charts/stable/nextcloud
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/nextcloud
 - https://github.com/trueforge/truecharts/tree/master/charts/stable/nextcloud
 - https://hub.docker.com/r/clamav/clamav

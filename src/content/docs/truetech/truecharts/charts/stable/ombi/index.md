@@ -9,7 +9,6 @@ Want a Movie or TV Show on Plex or Emby? Use Ombi!
 ## Chart Sources
 
 - https://ghcr.io/linuxserver/ombi
-- https://github.com/truecharts/charts/tree/master/charts/stable/ombi
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/ombi
 
 ## Available Documentation

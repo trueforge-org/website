@@ -11,7 +11,6 @@ Kdenlive(https://kdenlive.org/) is a powerful free and open source cross-platfor
 - https://fleet.linuxserver.io/image?name=linuxserver/kdenlive
 - https://github.com/linuxserver/docker-kdenlive#readme
 - https://github.com/orgs/linuxserver/packages/container/package/kdenlive
-- https://github.com/truecharts/charts/tree/master/charts/stable/kdenlive
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/kdenlive
 - https://kdenlive.org/
 

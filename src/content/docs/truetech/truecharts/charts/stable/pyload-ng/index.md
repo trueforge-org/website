@@ -11,7 +11,6 @@ pyLoad(https://pyload.net/) is a Free and Open Source download manager written i
 - https://fleet.linuxserver.io/image?name=linuxserver/pyload-ng
 - https://github.com/linuxserver/docker-pyload-ng#readme
 - https://github.com/orgs/linuxserver/packages/container/package/pyload-ng
-- https://github.com/truecharts/charts/tree/master/charts/stable/pyload-ng
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/pyload-ng
 - https://pyload.net/
 

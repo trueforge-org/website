@@ -9,7 +9,6 @@ Automated service health dashboard
 ## Chart Sources
 
 - https://github.com/TwiN/gatus
-- https://github.com/truecharts/charts/tree/master/charts/stable/gatus
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/gatus
 - https://hub.docker.com/r/twinproduction/gatus
 

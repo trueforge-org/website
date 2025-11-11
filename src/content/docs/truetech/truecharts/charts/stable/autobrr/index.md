@@ -10,7 +10,6 @@ The modern download automation tool for torrents.
 
 - https://ghcr.io/autobrr/autobrr
 - https://github.com/autobrr/autobrr
-- https://github.com/truecharts/charts/tree/master/charts/stable/autobrr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/autobrr
 
 ## Available Documentation

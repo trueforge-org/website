@@ -10,7 +10,6 @@ Minecraft Java Dedicated Server
 
 - https://ghcr.io/itzg/minecraft-server
 - https://github.com/itzg/docker-minecraft-server
-- https://github.com/truecharts/charts/tree/master/charts/stable/minecraft-java
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/minecraft-java
 - https://hub.docker.com/r/itzg/mc-backup
 

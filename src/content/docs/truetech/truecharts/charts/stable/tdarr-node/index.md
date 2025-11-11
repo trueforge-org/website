@@ -9,7 +9,6 @@ Audio/Video library transcoding automation
 ## Chart Sources
 
 - https://github.com/HaveAGitGat/Tdarr
-- https://github.com/truecharts/charts/tree/master/charts/stable/tdarr-node
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/tdarr-node
 - https://hub.docker.com/r/haveagitgat/tdarr_node
 

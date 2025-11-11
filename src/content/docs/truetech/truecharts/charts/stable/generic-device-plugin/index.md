@@ -10,7 +10,6 @@ Device Plugin to expose tun-device on talos
 
 - https://ghcr.io/squat/generic-device-plugin
 - https://github.com/squat/generic-device-plugin
-- https://github.com/truecharts/charts/tree/master/charts/stable/generic-device-plugin
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/generic-device-plugin
 
 ## Available Documentation

@@ -9,7 +9,6 @@ Easily broadcast/stream to others with sub-second latency
 ## Chart Sources
 
 - https://github.com/Glimesh/broadcast-box
-- https://github.com/truecharts/charts/tree/master/charts/stable/broadcast-box
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/broadcast-box
 - https://hub.docker.com/r/seaduboi/broadcast-box
 

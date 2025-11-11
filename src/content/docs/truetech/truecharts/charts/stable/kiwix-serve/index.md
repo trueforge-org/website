@@ -10,7 +10,6 @@ Kiwix enables you to have the whole Wikipedia at hand wherever you go!
 
 - https://ghcr.io/kiwix/kiwix-serve
 - https://github.com/kiwix/kiwix-tools/blob/master/docker/server
-- https://github.com/truecharts/charts/tree/master/charts/stable/kiwix-serve
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/kiwix-serve
 - https://www.kiwix.org/
 
