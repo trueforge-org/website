@@ -2,13 +2,14 @@
 title: mkvtoolnix
 ---
 
-![Version: 14.13.3](https://img.shields.io/badge/Version-14.13.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 25.09.1](https://img.shields.io/badge/AppVersion-25.09.1-informational?style=flat-square)
+![Version: 14.14.0](https://img.shields.io/badge/Version-14.14.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 25.11.1](https://img.shields.io/badge/AppVersion-25.11.1-informational?style=flat-square)
 
 MKVToolNix is a set of tools to create, alter and inspect Matroska files.
 
 ## Chart Sources
 
 - https://github.com/jlesage/docker-mkvtoolnix
+- https://github.com/truecharts/charts/tree/master/charts/stable/mkvtoolnix
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/mkvtoolnix
 - https://hub.docker.com/r/jlesage/mkvtoolnix
 - https://mkvtoolnix.download/
