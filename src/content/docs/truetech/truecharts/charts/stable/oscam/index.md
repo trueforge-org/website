@@ -2,7 +2,7 @@
 title: oscam
 ---
 
-![Version: 16.12.7](https://img.shields.io/badge/Version-16.12.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 11903.0.0](https://img.shields.io/badge/AppVersion-11903.0.0-informational?style=flat-square)
+![Version: 16.12.8](https://img.shields.io/badge/Version-16.12.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 11904.0.0](https://img.shields.io/badge/AppVersion-11904.0.0-informational?style=flat-square)
 
 Open Source Conditional Access Module software
 
@@ -10,6 +10,7 @@ Open Source Conditional Access Module software
 
 - https://ghcr.io/linuxserver/oscam
 - https://git.streamboard.tv/common/oscam
+- https://github.com/truecharts/charts/tree/master/charts/stable/oscam
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/oscam
 
 ## Available Documentation
