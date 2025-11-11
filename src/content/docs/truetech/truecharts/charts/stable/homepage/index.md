@@ -2,7 +2,7 @@
 title: homepage
 ---
 
-![Version: 11.13.0](https://img.shields.io/badge/Version-11.13.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.6.1](https://img.shields.io/badge/AppVersion-1.6.1-informational?style=flat-square)
+![Version: 11.14.0](https://img.shields.io/badge/Version-11.14.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.7.0](https://img.shields.io/badge/AppVersion-1.7.0-informational?style=flat-square)
 
 A highly customizable homepage
 
@@ -10,6 +10,7 @@ A highly customizable homepage
 
 - https://ghcr.io/gethomepage/homepage
 - https://github.com/benphelps/homepage
+- https://github.com/truecharts/charts/tree/master/charts/stable/homepage
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/homepage
 
 ## Available Documentation
