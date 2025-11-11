@@ -2,13 +2,14 @@
 title: clickhouse
 ---
 
-![Version: 16.15.2](https://img.shields.io/badge/Version-16.15.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 25.10.1.3832](https://img.shields.io/badge/AppVersion-25.10.1.3832-informational?style=flat-square)
+![Version: 16.15.3](https://img.shields.io/badge/Version-16.15.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 25.10.2.65](https://img.shields.io/badge/AppVersion-25.10.2.65-informational?style=flat-square)
 
 ClickHouse is a column-oriented database management system (DBMS) for online analytical processing of queries (OLAP).
 
 ## Chart Sources
 
 - https://clickhouse.com/
+- https://github.com/truecharts/charts/tree/master/charts/stable/clickhouse
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/clickhouse
 - https://hub.docker.com/r/clickhouse/clickhouse-server
 
