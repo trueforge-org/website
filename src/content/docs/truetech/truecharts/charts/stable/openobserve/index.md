@@ -10,7 +10,6 @@ Fast, scalable and cost-effective open source observability platform
 
 - https://gallery.ecr.aws/zinclabs/openobserve
 - https://github.com/openobserve/openobserve
-- https://github.com/truecharts/charts/tree/master/charts/stable/openobserve
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/openobserve
 
 ## Available Documentation

@@ -10,7 +10,6 @@ A highly customizable homepage
 
 - https://ghcr.io/gethomepage/homepage
 - https://github.com/benphelps/homepage
-- https://github.com/truecharts/charts/tree/master/charts/stable/homepage
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/homepage
 
 ## Available Documentation

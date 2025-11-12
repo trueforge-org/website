@@ -9,7 +9,6 @@ A Tiny Dashboard for Network UPS Tools.
 ## Chart Sources
 
 - https://github.com/Brandawg93/PeaNUT
-- https://github.com/truecharts/charts/tree/master/charts/stable/peanut
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/peanut
 - https://hub.docker.com/r/brandawg93/peanut
 

@@ -10,7 +10,6 @@ Open Source Conditional Access Module software
 
 - https://ghcr.io/linuxserver/oscam
 - https://git.streamboard.tv/common/oscam
-- https://github.com/truecharts/charts/tree/master/charts/stable/oscam
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/oscam
 
 ## Available Documentation

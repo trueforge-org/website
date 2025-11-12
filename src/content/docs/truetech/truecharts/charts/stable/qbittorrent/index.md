@@ -9,7 +9,6 @@ qBittorrent is a cross-platform free and open-source BitTorrent client
 ## Chart Sources
 
 - https://github.com/qbittorrent/qBittorrent
-- https://github.com/truecharts/charts/tree/master/charts/stable/qbittorrent
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/qbittorrent
 - https://hub.docker.com/r/mjmeli/qbittorrent-port-forward-gluetun-server
 
