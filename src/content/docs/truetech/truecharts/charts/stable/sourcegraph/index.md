@@ -2,12 +2,13 @@
 title: sourcegraph
 ---
 
-![Version: 9.15.6](https://img.shields.io/badge/Version-9.15.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.9.2509](https://img.shields.io/badge/AppVersion-6.9.2509-informational?style=flat-square)
+![Version: 9.16.0](https://img.shields.io/badge/Version-9.16.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.10.0](https://img.shields.io/badge/AppVersion-6.10.0-informational?style=flat-square)
 
 Sourcegraph Chart.
 
 ## Chart Sources
 
+- https://github.com/truecharts/charts/tree/master/charts/stable/sourcegraph
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/sourcegraph
 - https://hub.docker.com/r/sourcegraph/server
 
