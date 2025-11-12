@@ -2,7 +2,7 @@
 title: changedetection-io
 ---
 
-![Version: 5.11.17](https://img.shields.io/badge/Version-5.11.17-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.50.42](https://img.shields.io/badge/AppVersion-0.50.42-informational?style=flat-square)
+![Version: 5.11.18](https://img.shields.io/badge/Version-5.11.18-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.50.43](https://img.shields.io/badge/AppVersion-0.50.43-informational?style=flat-square)
 
 The best and simplest free open source website change detection, website watcher, restock monitor and notification service
 
@@ -11,6 +11,7 @@ The best and simplest free open source website change detection, website watcher
 - https://changedetection.io/
 - https://ghcr.io/dgtlmoon/changedetection.io
 - https://github.com/dgtlmoon/changedetection.io/tree/master
+- https://github.com/truecharts/charts/tree/master/charts/stable/changedetection-io
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/changedetection-io
 
 ## Available Documentation
