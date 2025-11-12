@@ -13,6 +13,7 @@ We’re excited to finally introduce **ContainerForge**, a new project under the
 💬 **Join the discussion:** on our [Discord](https://discord.gg/tVsPTHWTtr)  
 💻 **Explore the code:** [github.com/trueforge-org/containerforge](https://github.com/trueforge-org/containerforge)
 💖 **Support our work:**  Sponsor us on [GitHub](https://github.com/sponsors/trueforge-org) or [OpenCollective](https://opencollective.com/trueforge)
+
 ---
 
 ## 🧩 What Is ContainerForge?
