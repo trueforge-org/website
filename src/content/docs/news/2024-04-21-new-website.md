@@ -41,6 +41,6 @@ The TrueCharts team would also like to thank those who have generously donated t
 
 If you find some use from our new website experience or want to join the ranks of the over 250 people helping buy us Coffee ☕, you can do this via our Open Collective page here:
 
-[One time or recurring Coffee donations 🫶](https://opencollective.com/truecharts)
+[One time or recurring Coffee donations 🫶](https://opencollective.com/trueforge)
 
 Happy charting!

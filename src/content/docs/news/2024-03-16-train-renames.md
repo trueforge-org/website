@@ -40,11 +40,11 @@ You can read more on the steps required for running TrueNAS SCALE 24.04 Dragonfi
 
 ## Our Successful Bounty Program
 
-We're thrilled to share that our new bounty program has been incredibly successful! This initiative allows contributors to earn rewards for their valuable contributions to our project. If you'd like to learn more or get involved, check out our bounty program on Open Collective: [TrueCharts Bounties](https://opencollective.com/truecharts-bounties).
+We're thrilled to share that our new bounty program has been incredibly successful! This initiative allows contributors to earn rewards for their valuable contributions to our project. If you'd like to learn more or get involved, check out our bounty program on Open Collective: [TrueCharts Bounties](https://opencollective.com/trueforge-bounties).
 
 **A Note on Donations**
 
-While our bounty program has seen fantastic results, it's important to note that bounties do not replace donations. Our project relies on the continued support of our loyal donors to thrive. If you'd like to contribute to our cause, consider making a donation via our Open Collective page: [Donate to TrueCharts](https://opencollective.com/truecharts).
+While our bounty program has seen fantastic results, it's important to note that bounties do not replace donations. Our project relies on the continued support of our loyal donors to thrive. If you'd like to contribute to our cause, consider making a donation via our Open Collective page: [Donate to TrueCharts](https://opencollective.com/trueforge).
 
 ## Conclusion
 
