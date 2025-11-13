@@ -10,7 +10,6 @@ An automatic Video Library Manager for TV Shows
 
 - https://ghcr.io/linuxserver/medusa
 - https://github.com/linuxserver/docker-medusa
-- https://github.com/truecharts/charts/tree/master/charts/stable/medusa
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/medusa
 - https://pymedusa.com/
 

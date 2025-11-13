@@ -8,7 +8,6 @@ Full featured Z-Wave Control Panel and MQTT Gateway, using NodeJS and Vue.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/zwavejs2mqtt
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/zwavejs2mqtt
 - https://github.com/zwave-js/zwave-js-ui
 - https://hub.docker.com/r/zwavejs/zwave-js-ui

@@ -8,7 +8,6 @@ Sourcegraph Chart.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/sourcegraph
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/sourcegraph
 - https://hub.docker.com/r/sourcegraph/server
 

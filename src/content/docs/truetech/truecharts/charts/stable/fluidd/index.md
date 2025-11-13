@@ -10,7 +10,6 @@ Fluidd is a free and open-source Klipper web interface for managing your 3d prin
 
 - https://ghcr.io/fluidd-core/fluidd
 - https://github.com/fluidd-core/fluidd
-- https://github.com/truecharts/charts/tree/master/charts/stable/fluidd
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/fluidd
 
 ## Available Documentation
