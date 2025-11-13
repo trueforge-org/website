@@ -2,12 +2,13 @@
 title: tracks
 ---
 
-![Version: 8.11.6](https://img.shields.io/badge/Version-8.11.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 8.11.7](https://img.shields.io/badge/Version-8.11.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Tracks is a web-based todo application to help you implement the GTD methodology. 
 
 ## Chart Sources
 
+- https://github.com/truecharts/charts/tree/master/charts/stable/tracks
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/tracks
 - https://hub.docker.com/r/tracksapp/tracks
 
