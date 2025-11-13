@@ -2,7 +2,7 @@
 title: transmission
 ---
 
-![Version: 24.11.6](https://img.shields.io/badge/Version-24.11.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.0.6](https://img.shields.io/badge/AppVersion-4.0.6-informational?style=flat-square)
+![Version: 24.11.7](https://img.shields.io/badge/Version-24.11.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.0.6](https://img.shields.io/badge/AppVersion-4.0.6-informational?style=flat-square)
 
 fast, easy, and free BitTorrent client.
 
@@ -10,6 +10,7 @@ fast, easy, and free BitTorrent client.
 
 - https://github.com/linuxserver/docker-transmission
 - https://github.com/transmission/transmission
+- https://github.com/truecharts/charts/tree/master/charts/stable/transmission
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/transmission
 - https://hub.docker.com/r/linuxserver/transmission
 
