@@ -108,22 +108,25 @@ jobs:
       - name: Publish to Cloudflare Workers
         id: cloudflare
         continue-on-error: true
+        env:
+          CLOUDFLARE_ACCOUNT_ID: "${{ secrets.CLOUDFLARE_ACCOUNT_ID }}"
+          CLOUDFLARE_API_TOKEN: "${{ secrets.CLOUDFLARE_API_TOKEN }}"
         shell: bash
         run: |
           mkdir -p emptyDir
           npx wrangler deploy --assets emptyDir
 
-        uses: cloudflare/pages-action@f0a1cd58cd66095dee69bfa18fa5efd1dde93bca # v1
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          # By default Cloudflare marks `main` as the "production" branch.
-          # So when this workflow is pushed to refs/heads/main, we set the branch to `main`/"production".
-          branch: ${{ github.ref == 'refs/heads/main' && 'main' || github.head_ref }}
-          # The project name in Cloudflare
-          projectName: trueforge-website
-          directory: ./build
-          wranglerVersion: "3"
+        # uses: cloudflare/pages-action@f0a1cd58cd66095dee69bfa18fa5efd1dde93bca # v1
+        # with:
+        #   apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        #   accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        #   # By default Cloudflare marks `main` as the "production" branch.
+        #   # So when this workflow is pushed to refs/heads/main, we set the branch to `main`/"production".
+        #   branch: ${{ github.ref == 'refs/heads/main' && 'main' || github.head_ref }}
+        #   # The project name in Cloudflare
+        #   projectName: trueforge-website
+        #   directory: ./build
+        #   wranglerVersion: "3"
 
       - name: Comment deploy url
         if: github.event_name != 'push'
