@@ -2,7 +2,7 @@
 title: metube
 ---
 
-![Version: 16.14.4](https://img.shields.io/badge/Version-16.14.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2025.10.23](https://img.shields.io/badge/AppVersion-2025.10.23-informational?style=flat-square)
+![Version: 16.15.0](https://img.shields.io/badge/Version-16.15.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2025.11.13](https://img.shields.io/badge/AppVersion-2025.11.13-informational?style=flat-square)
 
 Web GUI for youtube-dl.
 
@@ -10,6 +10,7 @@ Web GUI for youtube-dl.
 
 - https://ghcr.io/alexta69/metube
 - https://github.com/alexta69/metube
+- https://github.com/truecharts/charts/tree/master/charts/stable/metube
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/metube
 
 ## Available Documentation
