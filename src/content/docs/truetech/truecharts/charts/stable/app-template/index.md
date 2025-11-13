@@ -2,13 +2,14 @@
 title: app-template
 ---
 
-![Version: 15.24.38](https://img.shields.io/badge/Version-15.24.38-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.24.296](https://img.shields.io/badge/AppVersion-0.24.296-informational?style=flat-square)
+![Version: 15.24.39](https://img.shields.io/badge/Version-15.24.39-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.24.301](https://img.shields.io/badge/AppVersion-0.24.301-informational?style=flat-square)
 
 Advanced Template to create your own TrueCharts-based Charts
 
 ## Chart Sources
 
 - https://ghcr.io/linuxserver/jackett
+- https://github.com/truecharts/charts/tree/master/charts/stable/app-template
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/app-template
 
 ## Available Documentation
