@@ -2,12 +2,13 @@
 title: truecommand
 ---
 
-![Version: 22.11.3](https://img.shields.io/badge/Version-22.11.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.1.0](https://img.shields.io/badge/AppVersion-3.1.0-informational?style=flat-square)
+![Version: 22.12.0](https://img.shields.io/badge/Version-22.12.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.2.0](https://img.shields.io/badge/AppVersion-3.2.0-informational?style=flat-square)
 
 Aggregated management of TrueNAS devices
 
 ## Chart Sources
 
+- https://github.com/truecharts/charts/tree/master/charts/stable/truecommand
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/truecommand
 - https://hub.docker.com/r/ixsystems/truecommand
 
