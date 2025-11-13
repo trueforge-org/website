@@ -105,9 +105,14 @@ jobs:
             |🔍 Latest deploy log | https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }} |
             ---
 
-      - name: Publish to Cloudflare Pages
+      - name: Publish to Cloudflare Workers
         id: cloudflare
         continue-on-error: true
+        shell: bash
+        run: |
+          mkdir -p emptyDir
+          npx wrangler deploy --assets emptyDir
+
         uses: cloudflare/pages-action@f0a1cd58cd66095dee69bfa18fa5efd1dde93bca # v1
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
