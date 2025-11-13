@@ -113,6 +113,9 @@ jobs:
           CLOUDFLARE_API_TOKEN: "${{ secrets.CLOUDFLARE_API_TOKEN }}"
         shell: bash
         run: |
+          mkdir -p emptyDir
+          node_modules/wrangler/bin/wrangler.js deploy --assets emptyDir
+
           environment=""
           url=""
           echo "Git Ref: ${{ github.ref }}"
