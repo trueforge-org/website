@@ -1,7 +1,7 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
   "compatibility_date": "2025-11-11",
-  "name": "truecharts-website",
+  "name": "trueforge-website",
   "assets": {
     "directory": "./build",
     "not_found_handling": "404-page",
