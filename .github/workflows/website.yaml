@@ -8,12 +8,12 @@ on:
   workflow_dispatch:
   pull_request:
     paths:
-      - '**'
+      - "**"
   push:
     branches:
       - main
     paths:
-      - '**'
+      - "**"
 # Use `bash --noprofile --norc -exo pipefail` by default for all `run` steps in this workflow:
 # https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions#defaultsrun
 defaults:
@@ -113,20 +113,25 @@ jobs:
           CLOUDFLARE_API_TOKEN: "${{ secrets.CLOUDFLARE_API_TOKEN }}"
         shell: bash
         run: |
-          mkdir -p emptyDir
-          npx wrangler deploy --assets emptyDir
+          environment=""
+          url=""
+          echo "Git Ref: ${{ github.ref }}"
+          if [ '${{ github.ref }}' == 'refs/heads/main' ]; then
+            echo "Publishing to PRODUCTION environment"
+            node_modules/wrangler/bin/wrangler.js deploy
 
-        # uses: cloudflare/pages-action@f0a1cd58cd66095dee69bfa18fa5efd1dde93bca # v1
-        # with:
-        #   apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-        #   accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-        #   # By default Cloudflare marks `main` as the "production" branch.
-        #   # So when this workflow is pushed to refs/heads/main, we set the branch to `main`/"production".
-        #   branch: ${{ github.ref == 'refs/heads/main' && 'main' || github.head_ref }}
-        #   # The project name in Cloudflare
-        #   projectName: trueforge-website
-        #   directory: ./build
-        #   wranglerVersion: "3"
+            environment="production"
+            url="https://trueforge.org"
+          else
+            echo "Publishing to PREVIEW environment"
+            node_modules/wrangler/bin/wrangler.js versions upload | tee upload-output.txt
+
+            environment="preview"
+            url=$(grep 'Version Preview URL: ' upload-output.txt | awk '{print $NF}')
+          fi
+
+          echo "environment=$environment" >> $GITHUB_OUTPUT
+          echo "url=$url" >> $GITHUB_OUTPUT
 
       - name: Comment deploy url
         if: github.event_name != 'push'
@@ -146,5 +151,4 @@ jobs:
             ---
 
       - name: Release-and-Website Completed
-
         run: echo "DONE"
