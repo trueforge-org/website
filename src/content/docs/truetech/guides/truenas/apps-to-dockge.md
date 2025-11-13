@@ -9,7 +9,7 @@ Even worse is that there is a lot of truenas specific crap inside of there, one 
 
 
 Luckly we've writhen a script for you, check it out here:
-https://github.com/trueforge-org/containerforge/scripts/apps2dockge.sh
+https://github.com/trueforge-org/containerforge/blob/main/scripts/apps2dockge.sh
 
 
 Using it is rather simple:
