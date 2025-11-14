@@ -2,13 +2,14 @@
 title: openwebrxplus
 ---
 
-![Version: 2.9.7](https://img.shields.io/badge/Version-2.9.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.2.97](https://img.shields.io/badge/AppVersion-1.2.97-informational?style=flat-square)
+![Version: 2.9.8](https://img.shields.io/badge/Version-2.9.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.2.98](https://img.shields.io/badge/AppVersion-1.2.98-informational?style=flat-square)
 
 Improved version of the OpenWebRX online SDR
 
 ## Chart Sources
 
 - https://github.com/luarvique/openwebrx
+- https://github.com/truecharts/charts/tree/master/charts/stable/openwebrxplus
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/openwebrxplus
 - https://hub.docker.com/r/slechev/openwebrxplus-softmbe
 
