@@ -2,7 +2,7 @@
 title: deconz
 ---
 
-![Version: 18.13.2](https://img.shields.io/badge/Version-18.13.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.32.0](https://img.shields.io/badge/AppVersion-2.32.0-informational?style=flat-square)
+![Version: 18.13.3](https://img.shields.io/badge/Version-18.13.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.32.1](https://img.shields.io/badge/AppVersion-2.32.1-informational?style=flat-square)
 
 deCONZ is an easy to use control software, with which you can set up and control Zigbee networks of any size without further programming effort.
 
@@ -10,6 +10,7 @@ deCONZ is an easy to use control software, with which you can set up and control
 
 - https://github.com/dresden-elektronik/deconz-rest-plugin
 - https://github.com/marthoc/docker-deconz
+- https://github.com/truecharts/charts/tree/master/charts/stable/deconz
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/deconz
 - https://hub.docker.com/r/deconzcommunity/deconz
 
