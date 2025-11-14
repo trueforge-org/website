@@ -2,12 +2,13 @@
 title: docker
 ---
 
-![Version: 11.13.5](https://img.shields.io/badge/Version-11.13.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 28.5.2](https://img.shields.io/badge/AppVersion-28.5.2-informational?style=flat-square)
+![Version: 12.0.0](https://img.shields.io/badge/Version-12.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 29.0.0](https://img.shields.io/badge/AppVersion-29.0.0-informational?style=flat-square)
 
 Dedicated App for using Docker-in-Docker
 
 ## Chart Sources
 
+- https://github.com/truecharts/charts/tree/master/charts/stable/docker
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/docker
 - https://hub.docker.com/_/docker
 
