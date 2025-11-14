@@ -10,7 +10,6 @@ Resilio Sync is a fast, reliable, and simple file sync and share solution, power
 
 - https://ghcr.io/linuxserver/resilio-sync
 - https://github.com/orgs/linuxserver/packages/container/package/resilio-sync
-- https://github.com/truecharts/charts/tree/master/charts/stable/resilio-sync
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/resilio-sync
 
 ## Available Documentation

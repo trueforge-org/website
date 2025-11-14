@@ -9,7 +9,6 @@ Open source DocuSign alternative. Create, fill, and sign digital documents.
 ## Chart Sources
 
 - https://github.com/docusealco/docuseal
-- https://github.com/truecharts/charts/tree/master/charts/stable/docuseal
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/docuseal
 - https://hub.docker.com/r/docuseal/docuseal
 

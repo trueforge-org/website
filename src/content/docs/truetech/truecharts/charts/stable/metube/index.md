@@ -10,7 +10,6 @@ Web GUI for youtube-dl.
 
 - https://ghcr.io/alexta69/metube
 - https://github.com/alexta69/metube
-- https://github.com/truecharts/charts/tree/master/charts/stable/metube
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/metube
 
 ## Available Documentation

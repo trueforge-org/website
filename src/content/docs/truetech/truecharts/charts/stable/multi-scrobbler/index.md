@@ -8,7 +8,6 @@ Track your music listening history from many sources and record to many scrobble
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/multi-scrobbler
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/multi-scrobbler
 - https://hub.docker.com/r/foxxmd/multi-scrobbler
 

@@ -11,7 +11,6 @@ A Helm chart for Kubernetes
 - https://filezilla-project.org/
 - https://ghcr.io/linuxserver/filezilla
 - https://github.com/linuxserver/docker-filezilla
-- https://github.com/truecharts/charts/tree/master/charts/stable/filezilla
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/filezilla
 
 ## Available Documentation

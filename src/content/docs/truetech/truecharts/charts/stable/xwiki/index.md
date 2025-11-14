@@ -9,7 +9,6 @@ XWiki is a free wiki software platform written in Java with a design emphasis on
 ## Chart Sources
 
 - https://gallery.ecr.aws/docker/library/xwiki
-- https://github.com/truecharts/charts/tree/master/charts/stable/xwiki
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/xwiki
 - https://github.com/xwiki/xwiki-docker
 

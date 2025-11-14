@@ -10,7 +10,6 @@ fast, easy, and free BitTorrent client.
 
 - https://github.com/linuxserver/docker-transmission
 - https://github.com/transmission/transmission
-- https://github.com/truecharts/charts/tree/master/charts/stable/transmission
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/transmission
 - https://hub.docker.com/r/linuxserver/transmission
 

@@ -8,7 +8,6 @@ Tracks is a web-based todo application to help you implement the GTD methodology
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/tracks
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/tracks
 - https://hub.docker.com/r/tracksapp/tracks
 

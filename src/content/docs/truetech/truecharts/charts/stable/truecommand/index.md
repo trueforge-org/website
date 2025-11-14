@@ -8,7 +8,6 @@ Aggregated management of TrueNAS devices
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/truecommand
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/truecommand
 - https://hub.docker.com/r/ixsystems/truecommand
 

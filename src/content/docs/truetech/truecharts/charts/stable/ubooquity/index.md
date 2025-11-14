@@ -9,7 +9,6 @@ Ubooquity is a free, lightweight and easy-to-use home server for your comics and
 ## Chart Sources
 
 - https://ghcr.io/linuxserver/ubooquity
-- https://github.com/truecharts/charts/tree/master/charts/stable/ubooquity
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/ubooquity
 
 ## Available Documentation

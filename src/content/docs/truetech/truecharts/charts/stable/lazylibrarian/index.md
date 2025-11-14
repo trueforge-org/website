@@ -9,7 +9,6 @@ Get all your books, like series with Sonarr...
 ## Chart Sources
 
 - https://ghcr.io/linuxserver/lazylibrarian
-- https://github.com/truecharts/charts/tree/master/charts/stable/lazylibrarian
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/lazylibrarian
 - https://gitlab.com/LazyLibrarian/LazyLibrarian.git
 - https://lazylibrarian.gitlab.io

@@ -9,7 +9,6 @@ An application that lets you automatically process files through a simple rule f
 ## Chart Sources
 
 - https://github.com/revenz/FileFlows
-- https://github.com/truecharts/charts/tree/master/charts/stable/fileflows
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/fileflows
 - https://hub.docker.com/r/revenz/fileflows
 
