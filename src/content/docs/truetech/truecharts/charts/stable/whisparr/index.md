@@ -2,7 +2,7 @@
 title: whisparr
 ---
 
-![Version: 13.12.5](https://img.shields.io/badge/Version-13.12.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.0.2.1373](https://img.shields.io/badge/AppVersion-3.0.2.1373-informational?style=flat-square)
+![Version: 13.12.6](https://img.shields.io/badge/Version-13.12.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.0.2.1376](https://img.shields.io/badge/AppVersion-3.0.2.1376-informational?style=flat-square)
 
 An adult media thingy.
 
@@ -10,6 +10,7 @@ An adult media thingy.
 
 - https://ghcr.io/hotio/whisparr
 - https://github.com/onedr0p/containers/tree/main/apps/whisparr
+- https://github.com/truecharts/charts/tree/master/charts/stable/whisparr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/whisparr
 
 ## Available Documentation
