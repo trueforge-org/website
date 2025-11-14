@@ -2,7 +2,7 @@
 title: jackett
 ---
 
-![Version: 26.0.8](https://img.shields.io/badge/Version-26.0.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.24.301](https://img.shields.io/badge/AppVersion-0.24.301-informational?style=flat-square)
+![Version: 26.0.9](https://img.shields.io/badge/Version-26.0.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.24.306](https://img.shields.io/badge/AppVersion-0.24.306-informational?style=flat-square)
 
 API Support for your favorite torrent trackers.
 
@@ -10,6 +10,7 @@ API Support for your favorite torrent trackers.
 
 - https://github.com/Jackett/Jackett
 - https://github.com/geek-cookbook/containers/pkgs/container/jackett
+- https://github.com/truecharts/charts/tree/master/charts/stable/jackett
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/jackett
 
 ## Available Documentation
