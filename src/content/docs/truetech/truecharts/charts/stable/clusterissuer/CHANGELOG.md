@@ -54,8 +54,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 10.8.0 • [Train: premium]
 
 - some readme fixes • [`65bdc5b`](https://github.com/trueforge-org/truecharts/commit/65bdc5bee8da831093597a659d090b06f50a9f7f) • [@Kjeld Schouten] (2025-10-12)
-- more tc to tf • [`70f87d4`](https://github.com/trueforge-org/truecharts/commit/70f87d44a930f912f6ba4eead6cdda9ca993572f) • [@Kjeld Schouten] (2025-10-10)
 - cut down on trains and copy to truecharts instead of charts • [`30fbfba`](https://github.com/trueforge-org/truecharts/commit/30fbfba1cbc1fdaa2d3da98698548c759815b54a) • [@Kjeld Schouten] (2025-10-10)
+- more tc to tf • [`70f87d4`](https://github.com/trueforge-org/truecharts/commit/70f87d44a930f912f6ba4eead6cdda9ca993572f) • [@Kjeld Schouten] (2025-10-10)
 - Commit daily changes • [`0c5d251`](https://github.com/trueforge-org/truecharts/commit/0c5d251be3ae436508bf66ff83e3d0a2b556df6a) • [@TrueCharts-Bot] (2025-10-07)
 - chore(helm): update chart common 28.21.1 → 28.22.0 (#40430) • [`04b47b8`](https://github.com/trueforge-org/truecharts/commit/04b47b8a4ff4dd72e51e572e26c68e41ce15222e) • [@TrueCharts Bot] (2025-10-06)
 
@@ -119,8 +119,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 10.3.3 • [Train: premium]
 
 - Change tccr.io into oci.trueforge.org (#38868) • [`fd8f1ad`](https://github.com/trueforge-org/truecharts/commit/fd8f1add2aafef585f63a929f122f618619bede3) • [@Kjeld Schouten] (2025-08-29)
-- chore(helm): update chart common 28.16.1 → 28.16.2 (#38562) • [`d3f1669`](https://github.com/trueforge-org/truecharts/commit/d3f166997de22289c9247208bc6b9b4c57d277a1) • [@TrueCharts Bot] (2025-08-18)
 - chore(helm): update image hello-world digest to a0dfb02 (#38561) • [`5fd703d`](https://github.com/trueforge-org/truecharts/commit/5fd703dde2df47a7e85746b0e170fb09fe3d4619) • [@TrueCharts Bot] (2025-08-18)
+- chore(helm): update chart common 28.16.1 → 28.16.2 (#38562) • [`d3f1669`](https://github.com/trueforge-org/truecharts/commit/d3f166997de22289c9247208bc6b9b4c57d277a1) • [@TrueCharts Bot] (2025-08-18)
 
 ## 10.3.2 • [Train: premium]
 
@@ -372,8 +372,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 8.0.10 • [Train: premium]
 
-- Commit daily changes • [`529340b`](https://github.com/trueforge-org/truecharts/commit/529340b7575e8cd6d00d2499271dc62e58a8d18d) • [@TrueCharts-Bot] (2024-05-26)
 - Commit daily changes • [`e50357a`](https://github.com/trueforge-org/truecharts/commit/e50357a154422a397a11141869f0973293102e49) • [@TrueCharts-Bot] (2024-05-26)
+- Commit daily changes • [`529340b`](https://github.com/trueforge-org/truecharts/commit/529340b7575e8cd6d00d2499271dc62e58a8d18d) • [@TrueCharts-Bot] (2024-05-26)
 - chore(deps): update container image common to v23.0.8@9e7419b by renovate (#22277) • [`bbcc969`](https://github.com/trueforge-org/truecharts/commit/bbcc969f0ed40e5d7256d4f107db88a4c3ce5ab3) • [@TrueCharts Bot] (2024-05-20)
 
 ## 8.0.9 • [Train: premium]
@@ -459,22 +459,22 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 7.8.7 • [Train: premium]
 
+- Commit daily changes • [`3bbe620`](https://github.com/trueforge-org/truecharts/commit/3bbe62084f52c024e50a48f42438dd8a595bda0e) • [@TrueCharts-Bot] (2024-04-17)
 - chore(clusterissuer): apply hotfix • [`eed4e07`](https://github.com/trueforge-org/truecharts/commit/eed4e074c4d005cbaedb49a6703229d41949943a) • [@Kjeld Schouten] (2024-04-17)
 - Commit daily changes • [`26af685`](https://github.com/trueforge-org/truecharts/commit/26af68565949440123d8ba215a7e8544ec455067) • [@TrueCharts-Bot] (2024-04-17)
 - Revert &#34;Commit daily changes&#34; • [`328900e`](https://github.com/trueforge-org/truecharts/commit/328900e43814c8ec97a259f5124b503dcad3dd34) • [@Kjeld Schouten] (2024-04-17)
-- Commit daily changes • [`3bbe620`](https://github.com/trueforge-org/truecharts/commit/3bbe62084f52c024e50a48f42438dd8a595bda0e) • [@TrueCharts-Bot] (2024-04-17)
 
 ## 7.8.6 • [Train: premium]
 
+- Update questions.yaml • [`dcd6dd9`](https://github.com/trueforge-org/truecharts/commit/dcd6dd9e51d5fbd81a570138e95a3121387a24ce) • [@Kjeld Schouten] (2024-04-17)
 - Update values.yaml • [`05c0f65`](https://github.com/trueforge-org/truecharts/commit/05c0f6568ffe398267dde8b87b556223655a63d1) • [@Kjeld Schouten] (2024-04-17)
 - fix(clusterissuer): Allow entering explicit cert-manager namespace for now • [`070017a`](https://github.com/trueforge-org/truecharts/commit/070017a945399a4174f84964df50aaa0f4f2fe7f) • [@Kjeld Schouten] (2024-04-17)
-- Update questions.yaml • [`dcd6dd9`](https://github.com/trueforge-org/truecharts/commit/dcd6dd9e51d5fbd81a570138e95a3121387a24ce) • [@Kjeld Schouten] (2024-04-17)
 - chore: bump charts to ensure new icons are released • [`9828a1e`](https://github.com/trueforge-org/truecharts/commit/9828a1ef02a808a8855e6e17cf4b601a21a315f5) • [@Kjeld Schouten] (2024-04-16)
 
 ## 7.8.5 • [Train: premium]
 
-- chore(deps): update container image common to v20.3.7@8cf9fc9 by renovate (#20819) • [`4413ae4`](https://github.com/trueforge-org/truecharts/commit/4413ae4d1cdd32a9d5f70d57f0c01e429ee90298) • [@TrueCharts Bot] (2024-04-16)
 - Webp icons2 (#20851) • [`8b489f4`](https://github.com/trueforge-org/truecharts/commit/8b489f48bb8f4f6a01050a08ad544323375bce74) • [@Kjeld Schouten] (2024-04-16)
+- chore(deps): update container image common to v20.3.7@8cf9fc9 by renovate (#20819) • [`4413ae4`](https://github.com/trueforge-org/truecharts/commit/4413ae4d1cdd32a9d5f70d57f0c01e429ee90298) • [@TrueCharts Bot] (2024-04-16)
 
 ## 7.8.4 • [Train: premium]
 
@@ -685,11 +685,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.1.0 • [Train: enterprise]
 
-- Commit daily changes • [`92663fd`](https://github.com/trueforge-org/truecharts/commit/92663fd20508f148c3750c79de3f37f44530a18a) • [@TrueCharts-Bot] (2024-01-01)
 - chore: move everything to consume OCI-hosted common-chart dependency • [`0eae972`](https://github.com/trueforge-org/truecharts/commit/0eae972794d2fe164dc298993e899508639d2f2b) • [@Kjeld Schouten] (2024-01-01)
+- Commit daily changes • [`92663fd`](https://github.com/trueforge-org/truecharts/commit/92663fd20508f148c3750c79de3f37f44530a18a) • [@TrueCharts-Bot] (2024-01-01)
+- chore(docs): lints some docs, uses front-matter instead of # h1, and fix list items in changelog (#16589) • [`12b5c56`](https://github.com/trueforge-org/truecharts/commit/12b5c56b241e801486c6cedab0b783949449048e) • [@Stavros Kois] (2023-12-31)
 - chore(docs): standardize ./img references (#16704) • [`6986224`](https://github.com/trueforge-org/truecharts/commit/698622495ce0dccf9f0dbbb324d5df196d3eba3c) • [@Stavros Kois] (2023-12-31)
 - Commit daily changes • [`bf535bc`](https://github.com/trueforge-org/truecharts/commit/bf535bc529cd11f520ea04d08751f4b3083b8c91) • [@TrueCharts-Bot] (2023-12-31)
-- chore(docs): lints some docs, uses front-matter instead of # h1, and fix list items in changelog (#16589) • [`12b5c56`](https://github.com/trueforge-org/truecharts/commit/12b5c56b241e801486c6cedab0b783949449048e) • [@Stavros Kois] (2023-12-31)
 - chore(deps): update helm general minor by renovate (#16579) • [`9eddcd9`](https://github.com/trueforge-org/truecharts/commit/9eddcd99d3acbcf55a2f3e67b046a8f288d56a59) • [@TrueCharts Bot] (2023-12-30)
 
 ## 6.0.3 • [Train: enterprise]
@@ -931,8 +931,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.8 • [Train: enterprise]
 
-- feat(docs): add detail to clusterissuer how-to (#9863) • [`e7c156d`](https://github.com/trueforge-org/truecharts/commit/e7c156dceb6d3e8c31deec933b1c3622e981694f) • [@ksimm1] (2023-06-24)
 - chore(deps): update container image tccr.io/truecharts/scratch to latest (#9868) • [`0afb2bd`](https://github.com/trueforge-org/truecharts/commit/0afb2bda946e900461196ade2ee7d5da7efef2ce) • [@TrueCharts Bot] (2023-06-24)
+- feat(docs): add detail to clusterissuer how-to (#9863) • [`e7c156d`](https://github.com/trueforge-org/truecharts/commit/e7c156dceb6d3e8c31deec933b1c3622e981694f) • [@ksimm1] (2023-06-24)
 
 ## 1.0.7 • [Train: enterprise]
 
@@ -954,8 +954,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.3 • [Train: enterprise]
 
-- fix(clusterissuer): Increase `max_length` for crt/key Web GUI fields (#9447) • [`e697bba`](https://github.com/trueforge-org/truecharts/commit/e697bba8752d2f321a1a676c099cc8f0181ce944) • [@Michael Schnerring] (2023-06-07)
 - chore(deps): update helm general non-major (#9423) • [`530ee15`](https://github.com/trueforge-org/truecharts/commit/530ee15b0fa60cf0444fc5a94c0d6b781711df41) • [@TrueCharts Bot] (2023-06-07)
+- fix(clusterissuer): Increase `max_length` for crt/key Web GUI fields (#9447) • [`e697bba`](https://github.com/trueforge-org/truecharts/commit/e697bba8752d2f321a1a676c099cc8f0181ce944) • [@Michael Schnerring] (2023-06-07)
 
 ## 1.0.2 • [Train: enterprise]
 
