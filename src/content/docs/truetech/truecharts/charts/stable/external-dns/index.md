@@ -9,7 +9,6 @@ ExternalDNS synchronizes exposed Kubernetes Services and Ingresses with DNS prov
 ## Chart Sources
 
 - https://github.com/kubernetes-sigs/external-dns
-- https://github.com/truecharts/charts/tree/master/charts/stable/external-dns
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/external-dns
 
 ## Available Documentation

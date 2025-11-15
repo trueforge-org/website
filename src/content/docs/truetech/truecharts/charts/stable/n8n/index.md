@@ -11,7 +11,6 @@ n8n is an extendable workflow automation tool.
 - https://docs.n8n.io/
 - https://ghcr.io/n8n-io/n8n
 - https://github.com/n8n-io/n8n
-- https://github.com/truecharts/charts/tree/master/charts/stable/n8n
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/n8n
 
 ## Available Documentation

@@ -10,7 +10,6 @@ deCONZ is an easy to use control software, with which you can set up and control
 
 - https://github.com/dresden-elektronik/deconz-rest-plugin
 - https://github.com/marthoc/docker-deconz
-- https://github.com/truecharts/charts/tree/master/charts/stable/deconz
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/deconz
 - https://hub.docker.com/r/deconzcommunity/deconz
 
