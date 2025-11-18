@@ -2,13 +2,14 @@
 title: wyoming-piper
 ---
 
-![Version: 7.11.3](https://img.shields.io/badge/Version-7.11.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.6.3](https://img.shields.io/badge/AppVersion-1.6.3-informational?style=flat-square)
+![Version: 8.0.0](https://img.shields.io/badge/Version-8.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.1.2](https://img.shields.io/badge/AppVersion-2.1.2-informational?style=flat-square)
 
 The Wyoming integration of piper
 
 ## Chart Sources
 
 - https://github.com/home-assistant/addons/tree/master/piper
+- https://github.com/truecharts/charts/tree/master/charts/stable/wyoming-piper
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/wyoming-piper
 - https://hub.docker.com/r/rhasspy/wyoming-piper
 
