@@ -9,7 +9,6 @@ The Wyoming integration of whisper
 ## Chart Sources
 
 - https://github.com/home-assistant/addons/tree/master/whisper
-- https://github.com/truecharts/charts/tree/master/charts/stable/wyoming-whisper
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/wyoming-whisper
 - https://hub.docker.com/r/rhasspy/wyoming-whisper
 
