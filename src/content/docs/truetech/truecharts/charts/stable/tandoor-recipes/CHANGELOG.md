@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 20.12.5 • [Train: stable]
+
+- chore(helm): update image ghcr.io/tandoorrecipes/recipes 2.3.4 → 2.3.5 (#41883) • [`30806a1`](https://github.com/trueforge-org/truecharts/commit/30806a131c94fd4908aa80f9433ab67b3c40e0e7) • [@TrueCharts Bot] (2025-11-19)
+
 ## 20.12.4 • [Train: stable]
 
 - chore(helm): update image ghcr.io/tandoorrecipes/recipes 2.3.3 → 2.3.4 (#41836) • [`22ef478`](https://github.com/trueforge-org/truecharts/commit/22ef478cd9c99057e62c146c025d04c4645214a4) • [@TrueCharts Bot] (2025-11-18)
@@ -454,9 +458,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 16.8.7 • [Train: stable]
 
-- Commit daily changes • [`3bbe620`](https://github.com/trueforge-org/truecharts/commit/3bbe62084f52c024e50a48f42438dd8a595bda0e) • [@TrueCharts-Bot] (2024-04-17)
 - Commit daily changes • [`26af685`](https://github.com/trueforge-org/truecharts/commit/26af68565949440123d8ba215a7e8544ec455067) • [@TrueCharts-Bot] (2024-04-17)
 - Revert &#34;Commit daily changes&#34; • [`328900e`](https://github.com/trueforge-org/truecharts/commit/328900e43814c8ec97a259f5124b503dcad3dd34) • [@Kjeld Schouten] (2024-04-17)
+- Commit daily changes • [`3bbe620`](https://github.com/trueforge-org/truecharts/commit/3bbe62084f52c024e50a48f42438dd8a595bda0e) • [@TrueCharts-Bot] (2024-04-17)
 - chore: bump charts to ensure new icons are released • [`9828a1e`](https://github.com/trueforge-org/truecharts/commit/9828a1ef02a808a8855e6e17cf4b601a21a315f5) • [@Kjeld Schouten] (2024-04-16)
 
 ## 16.8.6 • [Train: stable]

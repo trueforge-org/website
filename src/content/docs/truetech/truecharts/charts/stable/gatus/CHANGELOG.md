@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.24.0 • [Train: stable]
+
+- chore(helm): update image twinproduction/gatus v5.31.0 → v5.32.0 (#41887) • [`a3dc2e6`](https://github.com/trueforge-org/truecharts/commit/a3dc2e6f4d7b8b21600a617f9e899857309834f6) • [@TrueCharts Bot] (2025-11-19)
+
 ## 2.23.0 • [Train: stable]
 
 - Commit daily changes • [`7d18d94`](https://github.com/trueforge-org/truecharts/commit/7d18d94f66510575ff086164e339533d8b3ca302) • [@TrueCharts-Bot] (2025-11-11)
@@ -138,8 +142,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.7.3 • [Train: stable]
 
-- chore(helm): update chart common 28.16.5 → 28.16.6 (#39145) • [`827fa3c`](https://github.com/trueforge-org/truecharts/commit/827fa3cc55b82b3d292228d8b331331b863ffb3b) • [@TrueCharts Bot] (2025-09-07)
 - chore: fix links • [`1c28a12`](https://github.com/trueforge-org/truecharts/commit/1c28a127898e7db3a350e07a42810acd8eaa4c30) • [@Kjeld Schouten] (2025-09-07)
+- chore(helm): update chart common 28.16.5 → 28.16.6 (#39145) • [`827fa3c`](https://github.com/trueforge-org/truecharts/commit/827fa3cc55b82b3d292228d8b331331b863ffb3b) • [@TrueCharts Bot] (2025-09-07)
 
 ## 2.7.2 • [Train: stable]
 
