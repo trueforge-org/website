@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.11.9 • [Train: stable]
+
+- chore(helm): update image ghcr.io/minekube/gate digest to fb67f88 (#41915) • [`c1b0d2f`](https://github.com/trueforge-org/truecharts/commit/c1b0d2fe9dedf5c9f596043ffcceae01918d7f97) • [@TrueCharts Bot] (2025-11-20)
+
 ## 2.11.8 • [Train: stable]
 
 - chore(helm): update image ghcr.io/minekube/gate digest to 6c0d70d (#41772) • [`844a08a`](https://github.com/trueforge-org/truecharts/commit/844a08ae38b427e64799d958bdede2572809e9c4) • [@TrueCharts Bot] (2025-11-16)
@@ -58,9 +62,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.9.0 • [Train: stable]
 
+- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 - More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
-- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 
 ## 2.8.1 • [Train: stable]
 
