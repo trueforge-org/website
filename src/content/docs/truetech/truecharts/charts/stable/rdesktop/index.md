@@ -2,7 +2,7 @@
 title: rdesktop
 ---
 
-![Version: 11.11.11](https://img.shields.io/badge/Version-11.11.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 11.11.18](https://img.shields.io/badge/Version-11.11.18-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: ubuntu-kde](https://img.shields.io/badge/AppVersion-ubuntu-kde-informational?style=flat-square)
 
 Full desktop environments in many popular flavors for Alpine, Ubuntu, Arch, and Fedora accessible via RDP.
 
@@ -11,7 +11,6 @@ Full desktop environments in many popular flavors for Alpine, Ubuntu, Arch, and 
 - https://fleet.linuxserver.io/image?name=linuxserver/rdesktop
 - https://github.com/linuxserver/docker-rdesktop#readme
 - https://github.com/orgs/linuxserver/packages/container/package/rdesktop
-- https://github.com/truecharts/charts/tree/master/charts/stable/rdesktop
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/rdesktop
 
 ## Available Documentation
