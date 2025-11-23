@@ -35,8 +35,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.0.0 • [Train: stable]
 
-- Commit daily changes • [`92e9b4a`](https://github.com/trueforge-org/truecharts/commit/92e9b4afa1d752349b847bb6a59fce207405de08) • [@TrueCharts-Bot] (2025-11-06)
 - chore!: move non-common containers from tccr to containerforge (#41408) • [`bbff07c`](https://github.com/trueforge-org/truecharts/commit/bbff07c7978f171e134de3a3ca32dd1c056edd3e) • [@Kjeld Schouten] (2025-11-06)
+- Commit daily changes • [`92e9b4a`](https://github.com/trueforge-org/truecharts/commit/92e9b4afa1d752349b847bb6a59fce207405de08) • [@TrueCharts-Bot] (2025-11-06)
 
 ## 2.11.3 • [Train: stable]
 
@@ -205,8 +205,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.26.1 • [Train: stable]
 
-- chore(renovate): bump • [`54c1b56`](https://github.com/trueforge-org/truecharts/commit/54c1b567ca4d3cb7552e9404714c7d9d2030c3ed) • [@Kjeld Schouten] (2025-04-07)
 - feat(common): remove portal and ensure appUrl is used for notes.txt (#34047) • [`f8e3376`](https://github.com/trueforge-org/truecharts/commit/f8e33766bfc580b0cfa1ebbda93e110c98209022) • [@Kjeld Schouten] (2025-04-07)
+- chore(renovate): bump • [`54c1b56`](https://github.com/trueforge-org/truecharts/commit/54c1b567ca4d3cb7552e9404714c7d9d2030c3ed) • [@Kjeld Schouten] (2025-04-07)
 
 ## 1.26.0 • [Train: stable]
 
@@ -317,8 +317,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.11.2 • [Train: incubator]
 
-- Update values.yaml • [`0a26285`](https://github.com/trueforge-org/truecharts/commit/0a262859c5c45a3171ffc57c86a53c8dfa8eaaeb) • [@Kjeld Schouten] (2025-02-07)
 - Update Chart.yaml • [`88d7cab`](https://github.com/trueforge-org/truecharts/commit/88d7cabda1ef993b9113b5cf0363dd9b6791aa6c) • [@Kjeld Schouten] (2025-02-07)
+- Update values.yaml • [`0a26285`](https://github.com/trueforge-org/truecharts/commit/0a262859c5c45a3171ffc57c86a53c8dfa8eaaeb) • [@Kjeld Schouten] (2025-02-07)
 
 ## 1.11.1 • [Train: incubator]
 
@@ -444,8 +444,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 0.11.5 • [Train: incubator]
 
 - fix(website): remove references to deprecated guides • [`d25d00b`](https://github.com/trueforge-org/truecharts/commit/d25d00b9c237f6cbe63941158ccffe03ed9943e9) • [@Kjeld Schouten] (2024-11-04)
-- chore(helm): update image renovate/renovate 38.142.4 → 38.142.5 (#28769) • [`8ec6c8e`](https://github.com/trueforge-org/truecharts/commit/8ec6c8eea6c29bfa1c9ecc88dbc006efec78e869) • [@TrueCharts Bot] (2024-11-03)
 - Commit daily changes • [`b70a504`](https://github.com/trueforge-org/truecharts/commit/b70a504cf21acb2c97518fb6fb1b8ee135e7742d) • [@TrueCharts-Bot] (2024-11-03)
+- chore(helm): update image renovate/renovate 38.142.4 → 38.142.5 (#28769) • [`8ec6c8e`](https://github.com/trueforge-org/truecharts/commit/8ec6c8eea6c29bfa1c9ecc88dbc006efec78e869) • [@TrueCharts Bot] (2024-11-03)
 
 ## 0.11.4 • [Train: incubator]
 
