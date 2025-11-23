@@ -368,8 +368,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.0 • [Train: premium]
 
-- chore(kubernetes-dashboard): write our own code for kubernetes dashboard (#23797) • [`0a9b72b`](https://github.com/trueforge-org/truecharts/commit/0a9b72b07a5fa5b92b8fad2454eaf93a126a4c80) • [@Kjeld Schouten] (2024-06-26)
 - Commit daily changes • [`139c93d`](https://github.com/trueforge-org/truecharts/commit/139c93ddea0f96bca5e2ef73b1a729151877b491) • [@TrueCharts-Bot] (2024-06-26)
+- chore(kubernetes-dashboard): write our own code for kubernetes dashboard (#23797) • [`0a9b72b`](https://github.com/trueforge-org/truecharts/commit/0a9b72b07a5fa5b92b8fad2454eaf93a126a4c80) • [@Kjeld Schouten] (2024-06-26)
 
 ## 0.0.3 • [Train: premium]
 
