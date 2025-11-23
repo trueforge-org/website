@@ -2,7 +2,7 @@
 title: gatus
 ---
 
-![Version: 2.24.0](https://img.shields.io/badge/Version-2.24.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.32.0](https://img.shields.io/badge/AppVersion-5.32.0-informational?style=flat-square)
+![Version: 2.25.0](https://img.shields.io/badge/Version-2.25.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.33.0](https://img.shields.io/badge/AppVersion-5.33.0-informational?style=flat-square)
 
 Automated service health dashboard
 
