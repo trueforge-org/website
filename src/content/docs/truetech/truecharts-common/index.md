@@ -588,7 +588,7 @@ extraTpl:
 ---
 ---
 
-![Version: 28.28.0](https://img.shields.io/badge/Version-28.28.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.11.0](https://img.shields.io/badge/AppVersion-1.11.0-informational?style=flat-square)
+![Version: 28.29.0](https://img.shields.io/badge/Version-28.29.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.11.0](https://img.shields.io/badge/AppVersion-1.11.0-informational?style=flat-square)
 
 Function library for TrueCharts
 
@@ -600,10 +600,6 @@ Function library for TrueCharts
 - https://ghcr.io/tensorchord/cloudnative-vectorchord
 - https://ghcr.io/traefik/whoami
 - https://github.com/truecharts/containers/tree/master/apps/alpine
-- https://github.com/truecharts/containers/tree/master/apps/db-wait-mariadb
-- https://github.com/truecharts/containers/tree/master/apps/db-wait-mongodb
-- https://github.com/truecharts/containers/tree/master/apps/db-wait-postgres
-- https://github.com/truecharts/containers/tree/master/apps/db-wait-redis
 - https://github.com/truecharts/containers/tree/master/apps/gluetun
 - https://github.com/truecharts/containers/tree/master/apps/netshoot
 - https://github.com/truecharts/containers/tree/master/apps/openvpn-client
