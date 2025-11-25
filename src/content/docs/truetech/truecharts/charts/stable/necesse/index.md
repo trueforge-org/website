@@ -2,7 +2,7 @@
 title: necesse
 ---
 
-![Version: 8.11.3](https://img.shields.io/badge/Version-8.11.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: necesse](https://img.shields.io/badge/AppVersion-necesse-informational?style=flat-square)
+![Version: 8.12.0](https://img.shields.io/badge/Version-8.12.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: necesse](https://img.shields.io/badge/AppVersion-necesse-informational?style=flat-square)
 
 This Chart will download and install SteamCMD. It will also install Necesse and run it.
 

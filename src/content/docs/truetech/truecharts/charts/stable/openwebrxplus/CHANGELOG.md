@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.10.0 • [Train: stable]
+
+- chore(helm): update chart common 28.26.3 → 28.27.4 (#42030) • [`5b499f9`](https://github.com/trueforge-org/truecharts/commit/5b499f95e670407433c483536fb8febb8b8ec32a) • [@TrueCharts Bot] (2025-11-25)
+
 ## 2.9.9 • [Train: stable]
 
 - chore(helm): update image docker.io/slechev/openwebrxplus-softmbe 1.2.98 → 1.2.99 (#41934) • [`35ebf19`](https://github.com/trueforge-org/truecharts/commit/35ebf194e0481dcaa11fedfb30383f3ae76b2d55) • [@TrueCharts Bot] (2025-11-20)
