@@ -597,8 +597,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.2.7 • [Train: stable]
 
-- chore(helm): update chart common 25.0.0 → 25.1.0 by renovate (#27948) • [`37bd2b6`](https://github.com/trueforge-org/truecharts/commit/37bd2b67d5bdb5ac56a2f3d3f82a16353275ab67) • [@TrueCharts Bot] (2024-10-18)
 - chore(container): update image ghcr.io/mintplex-labs/anything-llm → by renovate (#27930) • [`8b1bb1e`](https://github.com/trueforge-org/truecharts/commit/8b1bb1e25f4556fe6ef63ee391432f87614fd803) • [@TrueCharts Bot] (2024-10-18)
+- chore(helm): update chart common 25.0.0 → 25.1.0 by renovate (#27948) • [`37bd2b6`](https://github.com/trueforge-org/truecharts/commit/37bd2b67d5bdb5ac56a2f3d3f82a16353275ab67) • [@TrueCharts Bot] (2024-10-18)
 
 ## 3.2.6 • [Train: stable]
 
@@ -675,8 +675,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.1.65 • [Train: stable]
 
-- chore(deps): update container image ghcr.io/mintplex-labs/anything-llm to latest@cca7af7 by renovate (#26679) • [`3beae23`](https://github.com/trueforge-org/truecharts/commit/3beae231119209b16b443186f7920b7ef5aaa1f7) • [@TrueCharts Bot] (2024-09-20)
 - chore(deps): update container image common to v24.1.18@7f6a309 by renovate (#26673) • [`e061ead`](https://github.com/trueforge-org/truecharts/commit/e061eade8e506c3fe7e51e000d60a82696a79375) • [@TrueCharts Bot] (2024-09-20)
+- chore(deps): update container image ghcr.io/mintplex-labs/anything-llm to latest@cca7af7 by renovate (#26679) • [`3beae23`](https://github.com/trueforge-org/truecharts/commit/3beae231119209b16b443186f7920b7ef5aaa1f7) • [@TrueCharts Bot] (2024-09-20)
 
 ## 3.1.64 • [Train: stable]
 
@@ -941,8 +941,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.0.2 • [Train: stable]
 
-- chore(deps): update container image common to v24.0.6@5cd15b8 by renovate (#23138) • [`b79d3fc`](https://github.com/trueforge-org/truecharts/commit/b79d3fce6d6f5a2533b217f2e9edb9e6e611d9e0) • [@TrueCharts Bot] (2024-06-15)
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/trueforge-org/truecharts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
+- chore(deps): update container image common to v24.0.6@5cd15b8 by renovate (#23138) • [`b79d3fc`](https://github.com/trueforge-org/truecharts/commit/b79d3fce6d6f5a2533b217f2e9edb9e6e611d9e0) • [@TrueCharts Bot] (2024-06-15)
 
 ## 3.0.1 • [Train: stable]
 
@@ -1276,8 +1276,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.4.11 • [Train: stable]
 
-- chore(deps): update container image ghcr.io/mintplex-labs/anything-llm to latest@cba07af by renovate (#19858) • [`7e92bd4`](https://github.com/trueforge-org/truecharts/commit/7e92bd4ff5289027eac14e4e2d4e2804b56f0284) • [@TrueCharts Bot] (2024-03-27)
 - chore(deps): update container image common to v20.2.9@10fd6c5 by renovate (#19817) • [`604ffe1`](https://github.com/trueforge-org/truecharts/commit/604ffe1d5fb655bc1b4140413af6e6102dba73f0) • [@TrueCharts Bot] (2024-03-27)
+- chore(deps): update container image ghcr.io/mintplex-labs/anything-llm to latest@cba07af by renovate (#19858) • [`7e92bd4`](https://github.com/trueforge-org/truecharts/commit/7e92bd4ff5289027eac14e4e2d4e2804b56f0284) • [@TrueCharts Bot] (2024-03-27)
 
 ## 1.4.10 • [Train: stable]
 
