@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.0.3 • [Train: stable]
+
+- chore(helm): update image ghcr.io/stirling-tools/s-pdf 2.0.0 → 2.0.1 (#42152) • [`e7f51b7`](https://github.com/trueforge-org/truecharts/commit/e7f51b7892a4545cf8e88984ee37e53562c51093) • [@TrueCharts Bot] (2025-11-26)
+
 ## 8.0.0 • [Train: stable]
 
 - chore(helm): update image ghcr.io/stirling-tools/s-pdf 1.6.0 → 2.0.0 (#42144) • [`b64118b`](https://github.com/trueforge-org/truecharts/commit/b64118b8fa9c7d4f8fd9ef0eebdcc49dda200182) • [@TrueCharts Bot] (2025-11-26)
@@ -77,8 +81,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.15.1 • [Train: stable]
 
-- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 - Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
+- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 
 ## 5.15.0 • [Train: stable]
 
