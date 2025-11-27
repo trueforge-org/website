@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 4.2.1 • [Train: stable]
+
+- chore(helm): update chart common 28.29.1 → 28.29.2 (#42180) • [`3da44f4`](https://github.com/trueforge-org/truecharts/commit/3da44f4bf863c4bf7aa9ca978f78faf0f96a99d3) • [@TrueCharts Bot] (2025-11-27)
+
 ## 4.2.0 • [Train: stable]
 
 - chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
@@ -273,8 +277,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.2 • [Train: system]
 
-- Update Chart.yaml • [`0db47c3`](https://github.com/trueforge-org/truecharts/commit/0db47c3658e6d1229dea3686ea73b6a21aff7c4b) • [@Kjeld Schouten] (2024-07-23)
 - Update values.yaml • [`10184e6`](https://github.com/trueforge-org/truecharts/commit/10184e6daba999b984afd69ff3c6056ae55d4151) • [@Kjeld Schouten] (2024-07-23)
+- Update Chart.yaml • [`0db47c3`](https://github.com/trueforge-org/truecharts/commit/0db47c3658e6d1229dea3686ea73b6a21aff7c4b) • [@Kjeld Schouten] (2024-07-23)
 
 ## 0.0.1 • [Train: system]
 
