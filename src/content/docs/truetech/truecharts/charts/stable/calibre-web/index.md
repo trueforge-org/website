@@ -8,7 +8,6 @@ Calibre-Web is a web app providing a clean interface for browsing, reading and d
 
 ## Chart Sources
 
-- https://fleet.linuxserver.io/image?name=linuxserver/calibre-web
 - https://github.com/janeczku/calibre-web
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/calibre-web
 

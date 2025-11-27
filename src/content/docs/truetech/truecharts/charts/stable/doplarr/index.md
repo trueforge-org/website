@@ -8,7 +8,6 @@ An *arr Request Bot for Discord
 
 ## Chart Sources
 
-- https://ghcr.io/kiranshila/doplarr
 - https://github.com/kiranshila/Doplarr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/doplarr
 

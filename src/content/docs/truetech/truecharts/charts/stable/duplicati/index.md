@@ -2,7 +2,7 @@
 title: duplicati
 ---
 
-![Version: 16.13.0](https://img.shields.io/badge/Version-16.13.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 16.13.0](https://img.shields.io/badge/Version-16.13.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.2.0](https://img.shields.io/badge/AppVersion-2.2.0-informational?style=flat-square)
 
 Store securely encrypted backups on cloud storage services!
 
@@ -10,7 +10,6 @@ Store securely encrypted backups on cloud storage services!
 
 - https://github.com/duplicati/duplicati
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/duplicati
-- https://hub.docker.com/r/duplicati/duplicati
 
 ## Available Documentation
 

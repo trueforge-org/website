@@ -8,7 +8,6 @@ Synchronize AdGuardHome config to replica instances.
 
 ## Chart Sources
 
-- https://ghcr.io/bakito/adguardhome-sync
 - https://github.com/bakito/adguardhome-sync/
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/adguardhome-sync
 
