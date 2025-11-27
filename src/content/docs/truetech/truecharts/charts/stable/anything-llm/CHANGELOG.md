@@ -683,8 +683,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.1.65 • [Train: stable]
 
-- chore(deps): update container image ghcr.io/mintplex-labs/anything-llm to latest@cca7af7 by renovate (#26679) • [`3beae23`](https://github.com/trueforge-org/truecharts/commit/3beae231119209b16b443186f7920b7ef5aaa1f7) • [@TrueCharts Bot] (2024-09-20)
 - chore(deps): update container image common to v24.1.18@7f6a309 by renovate (#26673) • [`e061ead`](https://github.com/trueforge-org/truecharts/commit/e061eade8e506c3fe7e51e000d60a82696a79375) • [@TrueCharts Bot] (2024-09-20)
+- chore(deps): update container image ghcr.io/mintplex-labs/anything-llm to latest@cca7af7 by renovate (#26679) • [`3beae23`](https://github.com/trueforge-org/truecharts/commit/3beae231119209b16b443186f7920b7ef5aaa1f7) • [@TrueCharts Bot] (2024-09-20)
 
 ## 3.1.64 • [Train: stable]
 
@@ -1165,8 +1165,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.5.10 • [Train: stable]
 
-- Webp icons2 (#20851) • [`8b489f4`](https://github.com/trueforge-org/truecharts/commit/8b489f48bb8f4f6a01050a08ad544323375bce74) • [@Kjeld Schouten] (2024-04-16)
 - chore(deps): update container image common to v20.3.7@8cf9fc9 by renovate (#20819) • [`4413ae4`](https://github.com/trueforge-org/truecharts/commit/4413ae4d1cdd32a9d5f70d57f0c01e429ee90298) • [@TrueCharts Bot] (2024-04-16)
+- Webp icons2 (#20851) • [`8b489f4`](https://github.com/trueforge-org/truecharts/commit/8b489f48bb8f4f6a01050a08ad544323375bce74) • [@Kjeld Schouten] (2024-04-16)
 
 ## 1.5.9 • [Train: stable]
 
@@ -1284,8 +1284,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.4.11 • [Train: stable]
 
-- chore(deps): update container image common to v20.2.9@10fd6c5 by renovate (#19817) • [`604ffe1`](https://github.com/trueforge-org/truecharts/commit/604ffe1d5fb655bc1b4140413af6e6102dba73f0) • [@TrueCharts Bot] (2024-03-27)
 - chore(deps): update container image ghcr.io/mintplex-labs/anything-llm to latest@cba07af by renovate (#19858) • [`7e92bd4`](https://github.com/trueforge-org/truecharts/commit/7e92bd4ff5289027eac14e4e2d4e2804b56f0284) • [@TrueCharts Bot] (2024-03-27)
+- chore(deps): update container image common to v20.2.9@10fd6c5 by renovate (#19817) • [`604ffe1`](https://github.com/trueforge-org/truecharts/commit/604ffe1d5fb655bc1b4140413af6e6102dba73f0) • [@TrueCharts Bot] (2024-03-27)
 
 ## 1.4.10 • [Train: stable]
 
