@@ -8,7 +8,6 @@ Jellyseerr is a fork of Overseerr with support for Jellyfin and Emby. It can be 
 
 ## Chart Sources
 
-- https://ghcr.io/fallenbagel/jellyseerr
 - https://github.com/Fallenbagel/jellyseerr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/jellyseerr
 
