@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 4.9.2 • [Train: stable]
+
+- chore(helm): update image oci.trueforge.org/containerforge/renovate 42.29.4 → 42.29.5 (#42341) • [`9d5c7c7`](https://github.com/trueforge-org/truecharts/commit/9d5c7c737b849eb7e22c01d79fef3aafd614df8b) • [@TrueCharts Bot] (2025-12-02)
+
 ## 4.9.1 • [Train: stable]
 
 - chore(helm): update image oci.trueforge.org/containerforge/renovate 42.29.3 → 42.29.4 (#42320) • [`b9f103a`](https://github.com/trueforge-org/truecharts/commit/b9f103abff1088a021619e9e6b661fea4adeff59) • [@TrueCharts Bot] (2025-12-02)

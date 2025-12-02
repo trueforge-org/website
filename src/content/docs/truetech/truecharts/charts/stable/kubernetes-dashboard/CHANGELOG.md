@@ -31,8 +31,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.0.0 • [Train: stable]
 
-- Commit daily changes • [`92e9b4a`](https://github.com/trueforge-org/truecharts/commit/92e9b4afa1d752349b847bb6a59fce207405de08) • [@TrueCharts-Bot] (2025-11-06)
 - chore!: move non-common containers from tccr to containerforge (#41408) • [`bbff07c`](https://github.com/trueforge-org/truecharts/commit/bbff07c7978f171e134de3a3ca32dd1c056edd3e) • [@Kjeld Schouten] (2025-11-06)
+- Commit daily changes • [`92e9b4a`](https://github.com/trueforge-org/truecharts/commit/92e9b4afa1d752349b847bb6a59fce207405de08) • [@TrueCharts-Bot] (2025-11-06)
 
 ## 2.12.2 • [Train: stable]
 
@@ -69,8 +69,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 2.8.0 • [Train: premium]
 
 - some readme fixes • [`65bdc5b`](https://github.com/trueforge-org/truecharts/commit/65bdc5bee8da831093597a659d090b06f50a9f7f) • [@Kjeld Schouten] (2025-10-12)
-- more tc to tf • [`70f87d4`](https://github.com/trueforge-org/truecharts/commit/70f87d44a930f912f6ba4eead6cdda9ca993572f) • [@Kjeld Schouten] (2025-10-10)
 - cut down on trains and copy to truecharts instead of charts • [`30fbfba`](https://github.com/trueforge-org/truecharts/commit/30fbfba1cbc1fdaa2d3da98698548c759815b54a) • [@Kjeld Schouten] (2025-10-10)
+- more tc to tf • [`70f87d4`](https://github.com/trueforge-org/truecharts/commit/70f87d44a930f912f6ba4eead6cdda9ca993572f) • [@Kjeld Schouten] (2025-10-10)
 - Commit daily changes • [`0c5d251`](https://github.com/trueforge-org/truecharts/commit/0c5d251be3ae436508bf66ff83e3d0a2b556df6a) • [@TrueCharts-Bot] (2025-10-07)
 - chore(helm): update chart common 28.21.1 → 28.22.0 (#40430) • [`04b47b8`](https://github.com/trueforge-org/truecharts/commit/04b47b8a4ff4dd72e51e572e26c68e41ce15222e) • [@TrueCharts Bot] (2025-10-06)
 
@@ -236,8 +236,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.13.3 • [Train: premium]
 
-- chore(helm): update image docker.io/kubernetesui/dashboard-api 1.10.2 → 1.10.3 (#32636) • [`cf47b7f`](https://github.com/trueforge-org/truecharts/commit/cf47b7fc3d2f607918daaaf9f6d2fe77d99f0f4b) • [@TrueCharts Bot] (2025-02-27)
 - chore(helm): update image docker.io/kubernetesui/dashboard-web 1.6.1 → 1.6.2 (#32637) • [`2605f23`](https://github.com/trueforge-org/truecharts/commit/2605f23124ba1b61cf917afb31b52d930b7e16af) • [@TrueCharts Bot] (2025-02-27)
+- chore(helm): update image docker.io/kubernetesui/dashboard-api 1.10.2 → 1.10.3 (#32636) • [`cf47b7f`](https://github.com/trueforge-org/truecharts/commit/cf47b7fc3d2f607918daaaf9f6d2fe77d99f0f4b) • [@TrueCharts Bot] (2025-02-27)
 
 ## 1.13.2 • [Train: premium]
 
@@ -253,10 +253,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.12.1 • [Train: premium]
 
-- chore(helm): update image docker.io/kubernetesui/dashboard-metrics-scraper 1.2.1 → 1.2.2 (#30839) • [`d852d10`](https://github.com/trueforge-org/truecharts/commit/d852d10afe205474db0947b7502896d1e2861586) • [@TrueCharts Bot] (2025-01-12)
 - chore(helm): update image docker.io/kubernetesui/dashboard-auth 1.2.2 → 1.2.3 (#30838) • [`28c8fa4`](https://github.com/trueforge-org/truecharts/commit/28c8fa41475f457bb2a14aa9688dca159562bf07) • [@TrueCharts Bot] (2025-01-12)
 - chore(helm): update image docker.io/kubernetesui/dashboard-web 1.6.0 → 1.6.1 (#30840) • [`48b6411`](https://github.com/trueforge-org/truecharts/commit/48b641184bdac9c159dbe600fd49e175028a961d) • [@TrueCharts Bot] (2025-01-12)
 - chore(helm): update image docker.io/kubernetesui/dashboard-api 1.10.1 → 1.10.2 (#30837) • [`c5398ce`](https://github.com/trueforge-org/truecharts/commit/c5398ce152ebff239c138e8e1ba3f8844488ed65) • [@TrueCharts Bot] (2025-01-12)
+- chore(helm): update image docker.io/kubernetesui/dashboard-metrics-scraper 1.2.1 → 1.2.2 (#30839) • [`d852d10`](https://github.com/trueforge-org/truecharts/commit/d852d10afe205474db0947b7502896d1e2861586) • [@TrueCharts Bot] (2025-01-12)
 
 ## 1.12.0 • [Train: premium]
 
@@ -382,8 +382,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.0 • [Train: premium]
 
-- chore(kubernetes-dashboard): write our own code for kubernetes dashboard (#23797) • [`0a9b72b`](https://github.com/trueforge-org/truecharts/commit/0a9b72b07a5fa5b92b8fad2454eaf93a126a4c80) • [@Kjeld Schouten] (2024-06-26)
 - Commit daily changes • [`139c93d`](https://github.com/trueforge-org/truecharts/commit/139c93ddea0f96bca5e2ef73b1a729151877b491) • [@TrueCharts-Bot] (2024-06-26)
+- chore(kubernetes-dashboard): write our own code for kubernetes dashboard (#23797) • [`0a9b72b`](https://github.com/trueforge-org/truecharts/commit/0a9b72b07a5fa5b92b8fad2454eaf93a126a4c80) • [@Kjeld Schouten] (2024-06-26)
 
 ## 0.0.3 • [Train: premium]
 
