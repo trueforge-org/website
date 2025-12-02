@@ -2,7 +2,7 @@
 title: n8n
 ---
 
-![Version: 17.45.2](https://img.shields.io/badge/Version-17.45.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.122.4](https://img.shields.io/badge/AppVersion-1.122.4-informational?style=flat-square)
+![Version: 17.46.0](https://img.shields.io/badge/Version-17.46.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.123.0](https://img.shields.io/badge/AppVersion-1.123.0-informational?style=flat-square)
 
 n8n is an extendable workflow automation tool.
 
