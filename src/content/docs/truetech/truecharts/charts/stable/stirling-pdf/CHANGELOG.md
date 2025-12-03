@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.1.7 • [Train: stable]
+
+- chore(helm): update image ghcr.io/stirling-tools/s-pdf 2.0.2 → 2.0.3 (#42365) • [`036d36a`](https://github.com/trueforge-org/truecharts/commit/036d36a5b2d13ed6b5f90d06a46850af297e70ac) • [@TrueCharts Bot] (2025-12-03)
+
 ## 8.1.4 • [Train: stable]
 
 - chore(helm): update image ghcr.io/stirling-tools/s-pdf 2.0.1 → 2.0.2 (#42255) • [`e6b3857`](https://github.com/trueforge-org/truecharts/commit/e6b385751b03bff2c6637ea5f479a377b4651636) • [@TrueCharts Bot] (2025-11-30)
@@ -73,8 +77,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.20.0 • [Train: stable]
 
-- some readme fixes • [`65bdc5b`](https://github.com/trueforge-org/truecharts/commit/65bdc5bee8da831093597a659d090b06f50a9f7f) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update image ghcr.io/stirling-tools/s-pdf 1.3.2 → 1.4.0 (#40648) • [`88b3f35`](https://github.com/trueforge-org/truecharts/commit/88b3f3598e027583a423402dc99314495ba5990b) • [@TrueCharts Bot] (2025-10-12)
+- some readme fixes • [`65bdc5b`](https://github.com/trueforge-org/truecharts/commit/65bdc5bee8da831093597a659d090b06f50a9f7f) • [@Kjeld Schouten] (2025-10-12)
 
 ## 5.17.0 • [Train: stable]
 
@@ -94,8 +98,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.15.1 • [Train: stable]
 
-- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 - Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
+- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 
 ## 5.15.0 • [Train: stable]
 
