@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 4.11.3 • [Train: stable]
+
+- chore(helm): update image ghcr.io/g0ldyy/comet digest to 821362e (#42419) • [`39ce55f`](https://github.com/trueforge-org/truecharts/commit/39ce55fdadddc2112e6e81062c703282aa1b468e) • [@TrueCharts Bot] (2025-12-04)
+
 ## 4.11.2 • [Train: stable]
 
 - chore(helm): update image ghcr.io/g0ldyy/comet digest to 5e76ed1 (#42275) • [`ec35e5a`](https://github.com/trueforge-org/truecharts/commit/ec35e5a35869756ceee45eb05be726b4f0ca50d8) • [@TrueCharts Bot] (2025-11-30)
@@ -68,9 +72,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.7.0 • [Train: stable]
 
+- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
 - more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
-- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 
 ## 4.6.1 • [Train: stable]
 
@@ -96,8 +100,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.4.1 • [Train: stable]
 
-- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 - chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
+- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 
 ## 4.4.0 • [Train: stable]
 
