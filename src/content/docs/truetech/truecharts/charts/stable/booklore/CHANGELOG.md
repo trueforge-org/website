@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.6.2 • [Train: stable]
+
+- chore(helm): update image ghcr.io/booklore-app/booklore v1.13.1 → v1.13.2 (#42472) • [`f1432a4`](https://github.com/trueforge-org/truecharts/commit/f1432a48adb6bbc84824744321365a908ab35737) • [@TrueCharts Bot] (2025-12-05)
+
 ## 1.6.1 • [Train: stable]
 
 - chore(helm): update image ghcr.io/booklore-app/booklore v1.13.0 → v1.13.1 (#42328) • [`7c2fbf3`](https://github.com/trueforge-org/truecharts/commit/7c2fbf3a6e4d5cf0bcbae534302d361a7db016ae) • [@TrueCharts Bot] (2025-12-02)
