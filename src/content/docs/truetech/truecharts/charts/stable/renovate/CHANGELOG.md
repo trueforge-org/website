@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 4.13.1 • [Train: stable]
+
+- chore(helm): update image oci.trueforge.org/containerforge/renovate 42.37.0 → 42.37.1 (#42454) • [`e0e5e51`](https://github.com/trueforge-org/truecharts/commit/e0e5e51f2eba1e13a4f891feb13f708f24098d8e) • [@TrueCharts Bot] (2025-12-05)
+
 ## 4.13.0 • [Train: stable]
 
 - chore(helm): update image oci.trueforge.org/containerforge/renovate 42.34.1 → 42.37.0 (#42450) • [`034133c`](https://github.com/trueforge-org/truecharts/commit/034133cc07d4e382a310e73f1e09617b3dcd51c0) • [@TrueCharts Bot] (2025-12-04)
@@ -408,15 +412,15 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.11.1 • [Train: incubator]
 
+- Update Chart.yaml • [`a93c641`](https://github.com/trueforge-org/truecharts/commit/a93c641e86de61d28d512dfa212b432327b12a4b) • [@Kjeld Schouten] (2025-02-07)
 - Update values.yaml • [`09a9fbf`](https://github.com/trueforge-org/truecharts/commit/09a9fbfad10be645a459a0c596b93c38e8d3b77a) • [@Kjeld Schouten] (2025-02-07)
 - Update values.yaml • [`a375f44`](https://github.com/trueforge-org/truecharts/commit/a375f4410471c4b9d0741a1b81ddf98ac2e1cc28) • [@Kjeld Schouten] (2025-02-07)
-- Update Chart.yaml • [`a93c641`](https://github.com/trueforge-org/truecharts/commit/a93c641e86de61d28d512dfa212b432327b12a4b) • [@Kjeld Schouten] (2025-02-07)
 
 ## 1.11.0 • [Train: incubator]
 
-- Update values.yaml • [`e776473`](https://github.com/trueforge-org/truecharts/commit/e776473aba6a535c440f7928c0fe8f24f284e53b) • [@Kjeld Schouten] (2025-02-07)
 - fix(renovate); correct renovate repo url • [`67e78fc`](https://github.com/trueforge-org/truecharts/commit/67e78fcd5ad7f3ba1186dc05ced6e823bcb88b26) • [@Kjeld Schouten] (2025-02-07)
 - chore(helm): update image renovate/renovate 39.156.1 → 39.162.1 (#31728) • [`c9611af`](https://github.com/trueforge-org/truecharts/commit/c9611af708d509f23e3417710a021488b639edef) • [@TrueCharts Bot] (2025-02-07)
+- Update values.yaml • [`e776473`](https://github.com/trueforge-org/truecharts/commit/e776473aba6a535c440f7928c0fe8f24f284e53b) • [@Kjeld Schouten] (2025-02-07)
 
 ## 1.10.1 • [Train: incubator]
 

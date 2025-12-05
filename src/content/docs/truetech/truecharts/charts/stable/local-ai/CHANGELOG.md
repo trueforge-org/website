@@ -586,8 +586,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 9.32.19 • [Train: stable]
 
-- chore(deps): update container image common to v20.3.7@8cf9fc9 by renovate (#20819) • [`4413ae4`](https://github.com/trueforge-org/truecharts/commit/4413ae4d1cdd32a9d5f70d57f0c01e429ee90298) • [@TrueCharts Bot] (2024-04-16)
 - Webp icons2 (#20851) • [`8b489f4`](https://github.com/trueforge-org/truecharts/commit/8b489f48bb8f4f6a01050a08ad544323375bce74) • [@Kjeld Schouten] (2024-04-16)
+- chore(deps): update container image common to v20.3.7@8cf9fc9 by renovate (#20819) • [`4413ae4`](https://github.com/trueforge-org/truecharts/commit/4413ae4d1cdd32a9d5f70d57f0c01e429ee90298) • [@TrueCharts Bot] (2024-04-16)
 
 ## 9.32.18 • [Train: stable]
 
@@ -648,8 +648,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 9.25.1 • [Train: stable]
 
 - Commit daily changes • [`896c815`](https://github.com/trueforge-org/truecharts/commit/896c8150daee1f445f8fd1216be81188c539db64) • [@TrueCharts-Bot] (2024-03-28)
-- chore(deps): update container image common to v20.2.9@10fd6c5 by renovate (#19817) • [`604ffe1`](https://github.com/trueforge-org/truecharts/commit/604ffe1d5fb655bc1b4140413af6e6102dba73f0) • [@TrueCharts Bot] (2024-03-27)
 - chore(deps): update container image docker.io/localai/localai to v2.11.0@30e7580 by renovate (#19857) • [`7a0ea42`](https://github.com/trueforge-org/truecharts/commit/7a0ea4282fdada2622210b154ca3a385f6a29d4d) • [@TrueCharts Bot] (2024-03-27)
+- chore(deps): update container image common to v20.2.9@10fd6c5 by renovate (#19817) • [`604ffe1`](https://github.com/trueforge-org/truecharts/commit/604ffe1d5fb655bc1b4140413af6e6102dba73f0) • [@TrueCharts Bot] (2024-03-27)
 
 ## 9.25.0 • [Train: stable]
 
@@ -889,8 +889,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 8.7.3 • [Train: stable]
 
-- chore(deps): update container image common to v17.2.19@4ebb688 by renovate (#16733) • [`026bebd`](https://github.com/trueforge-org/truecharts/commit/026bebde2d90a467a43b46a6b889eca2cb01cf3f) • [@TrueCharts Bot] (2024-01-01)
 - chore(questions): remove non-existent template refs (#16738) • [`1e0dbf1`](https://github.com/trueforge-org/truecharts/commit/1e0dbf15e95afae40c7b3a47b2d38e0562323270) • [@Stavros Kois] (2024-01-01)
+- chore(deps): update container image common to v17.2.19@4ebb688 by renovate (#16733) • [`026bebd`](https://github.com/trueforge-org/truecharts/commit/026bebde2d90a467a43b46a6b889eca2cb01cf3f) • [@TrueCharts Bot] (2024-01-01)
 
 ## 8.7.2 • [Train: stable]
 
@@ -1029,9 +1029,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 0.0.21 • [Train: stable]
 
 - Commit daily changes • [`72316cb`](https://github.com/trueforge-org/truecharts/commit/72316cbc6557d2b59e70739b7421907813f4ec85) • [@TrueCharts-Bot] (2023-12-04)
+- chore: bump everything to ensure catalog has latest versions • [`02d153a`](https://github.com/trueforge-org/truecharts/commit/02d153a62c739dabc92491b0f64739ad8db2c94d) • [@Kjeld Schouten] (2023-12-03)
 - Commit daily changes • [`1805e0a`](https://github.com/trueforge-org/truecharts/commit/1805e0a25ab55f07e62bdd17caefe9246ef198c2) • [@TrueCharts-Bot] (2023-12-03)
 - Commit daily changes • [`c5c271c`](https://github.com/trueforge-org/truecharts/commit/c5c271cb7efffb1c7200f9e6818a445658fa3890) • [@TrueCharts-Bot] (2023-12-03)
-- chore: bump everything to ensure catalog has latest versions • [`02d153a`](https://github.com/trueforge-org/truecharts/commit/02d153a62c739dabc92491b0f64739ad8db2c94d) • [@Kjeld Schouten] (2023-12-03)
 
 ## 0.0.20 • [Train: stable]
 
@@ -1109,8 +1109,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.4 • [Train: stable]
 
-- chore(deps): update container image tccr.io/truecharts/local-ai to v1.30.0 (#13022) • [`4faf08b`](https://github.com/trueforge-org/truecharts/commit/4faf08ba4ea8b1194e35aa0fbef050c0ebf8acf9) • [@TrueCharts Bot] (2023-09-28)
 - chore(deps): update container image tccr.io/truecharts/local-ai-cublas-cuda11 to v1.30.0 (#13023) • [`fef6bfd`](https://github.com/trueforge-org/truecharts/commit/fef6bfd354ba2a6ddb5667a1f7baba0b122eb3fa) • [@TrueCharts Bot] (2023-09-28)
+- chore(deps): update container image tccr.io/truecharts/local-ai to v1.30.0 (#13022) • [`4faf08b`](https://github.com/trueforge-org/truecharts/commit/4faf08ba4ea8b1194e35aa0fbef050c0ebf8acf9) • [@TrueCharts Bot] (2023-09-28)
 
 ## 0.0.3 • [Train: stable]
 
