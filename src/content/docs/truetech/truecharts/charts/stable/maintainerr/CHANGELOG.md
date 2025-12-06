@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.18.0 • [Train: stable]
+
+- chore(helm): update image docker.io/jorenn92/maintainerr 2.22.1 → 2.23.0 (#42525) • [`1e35382`](https://github.com/trueforge-org/truecharts/commit/1e35382f1cce42674a98beb997a226264186b8fe) • [@TrueCharts Bot] (2025-12-06)
+
 ## 5.17.1 • [Train: stable]
 
 - chore(helm): update image docker.io/jorenn92/maintainerr 2.22.0 → 2.22.1 (#42287) • [`8fd8371`](https://github.com/trueforge-org/truecharts/commit/8fd837145d7269721f06e9b7727a6649cc00b413) • [@TrueCharts Bot] (2025-11-30)
