@@ -70,8 +70,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.6.1 • [Train: stable]
 
-- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 - Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
+- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 
 ## 4.6.0 • [Train: stable]
 
@@ -275,8 +275,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 3.1.1 • [Train: stable]
 
 - Commit daily changes • [`6a5d0ec`](https://github.com/trueforge-org/truecharts/commit/6a5d0ec00d4c1d2b7c51371717c727790c923ca3) • [@TrueCharts-Bot] (2024-06-10)
-- chore(deps): update container image common to v24.0.1@cbdb720 by renovate (#23037) • [`6562794`](https://github.com/trueforge-org/truecharts/commit/6562794ee894054a9bc5ecdf95b097521ac410ab) • [@TrueCharts Bot] (2024-06-09)
 - update some doc links • [`2faffd0`](https://github.com/trueforge-org/truecharts/commit/2faffd0000550fb157a327728aa12ff0c22d4afe) • [@Stavros Kois] (2024-06-09)
+- chore(deps): update container image common to v24.0.1@cbdb720 by renovate (#23037) • [`6562794`](https://github.com/trueforge-org/truecharts/commit/6562794ee894054a9bc5ecdf95b097521ac410ab) • [@TrueCharts Bot] (2024-06-09)
 
 ## 3.1.0 • [Train: stable]
 
@@ -371,8 +371,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.9.7 • [Train: stable]
 
-- chore: update docs links • [`6e36f6e`](https://github.com/trueforge-org/truecharts/commit/6e36f6e157ba9f221e921172d26d8040eb044707) • [@Kjeld Schouten] (2024-04-20)
 - chore(deps): update container image common to v20.3.11@dae6129 by renovate (#20875) • [`53e2bed`](https://github.com/trueforge-org/truecharts/commit/53e2bed79fb73bb5e6334edafb90af207aa3fb35) • [@TrueCharts Bot] (2024-04-20)
+- chore: update docs links • [`6e36f6e`](https://github.com/trueforge-org/truecharts/commit/6e36f6e157ba9f221e921172d26d8040eb044707) • [@Kjeld Schouten] (2024-04-20)
 
 ## 1.9.6 • [Train: stable]
 
@@ -528,8 +528,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.0 • [Train: incubator]
 
-- chore(bitmagnet): move to stable • [`2d2d889`](https://github.com/trueforge-org/truecharts/commit/2d2d8894a512cc2cdd56f52de4294a00ad588456) • [@Kjeld Schouten] (2024-02-24)
 - chore: BREAKING CHANGE remove SCALE-GPU GUI support in favor of custom-GPU GUI • [`e2ec0b0`](https://github.com/trueforge-org/truecharts/commit/e2ec0b02c6202c43cc19f4c4ad047025985ebb51) • [@Kjeld Schouten] (2024-02-24)
+- chore(bitmagnet): move to stable • [`2d2d889`](https://github.com/trueforge-org/truecharts/commit/2d2d8894a512cc2cdd56f52de4294a00ad588456) • [@Kjeld Schouten] (2024-02-24)
 
 ## 0.0.1 • [Train: incubator]
 
