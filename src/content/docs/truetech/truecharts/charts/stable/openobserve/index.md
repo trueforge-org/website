@@ -2,7 +2,7 @@
 title: openobserve
 ---
 
-![Version: 1.14.3](https://img.shields.io/badge/Version-1.14.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.20.3](https://img.shields.io/badge/AppVersion-0.20.3-informational?style=flat-square)
+![Version: 1.15.0](https://img.shields.io/badge/Version-1.15.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.30.0](https://img.shields.io/badge/AppVersion-0.30.0-informational?style=flat-square)
 
 Fast, scalable and cost-effective open source observability platform
 

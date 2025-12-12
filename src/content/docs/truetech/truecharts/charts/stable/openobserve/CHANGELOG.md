@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.15.0 • [Train: stable]
+
+- chore(helm): update image public.ecr.aws/zinclabs/openobserve v0.20.3 → v0.30.0 (#42696) • [`bab4c7f`](https://github.com/trueforge-org/truecharts/commit/bab4c7f4dcb14bd72272b74f6989e6812b5f4305) • [@TrueCharts Bot] (2025-12-12)
+
 ## 1.14.3 • [Train: stable]
 
 - chore(helm): update image public.ecr.aws/zinclabs/openobserve v0.20.2 → v0.20.3 (#42570) • [`fc77ea1`](https://github.com/trueforge-org/truecharts/commit/fc77ea1475294870be958ed4e790a90eaf08b5a1) • [@TrueCharts Bot] (2025-12-08)
@@ -90,9 +94,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.8.0 • [Train: stable]
 
+- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
 - more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
-- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 
 ## 1.7.0 • [Train: stable]
 
