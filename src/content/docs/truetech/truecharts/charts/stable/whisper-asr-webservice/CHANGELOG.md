@@ -48,9 +48,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 7.9.0 • [Train: stable]
 
-- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 - More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
+- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 
 ## 7.8.0 • [Train: stable]
 
@@ -546,8 +546,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.1.3 • [Train: stable]
 
-- chore(deps): update container image common to v17.2.19@4ebb688 by renovate (#16733) • [`026bebd`](https://github.com/trueforge-org/truecharts/commit/026bebde2d90a467a43b46a6b889eca2cb01cf3f) • [@TrueCharts Bot] (2024-01-01)
 - chore(questions): remove non-existent template refs (#16738) • [`1e0dbf1`](https://github.com/trueforge-org/truecharts/commit/1e0dbf15e95afae40c7b3a47b2d38e0562323270) • [@Stavros Kois] (2024-01-01)
+- chore(deps): update container image common to v17.2.19@4ebb688 by renovate (#16733) • [`026bebd`](https://github.com/trueforge-org/truecharts/commit/026bebde2d90a467a43b46a6b889eca2cb01cf3f) • [@TrueCharts Bot] (2024-01-01)
 
 ## 3.1.2 • [Train: stable]
 
@@ -688,8 +688,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.9 • [Train: stable]
 
-- chore(deps): update container image tccr.io/truecharts/whisper-asr-webservice-gpu to v1.2.2 (#14296) • [`2bb6570`](https://github.com/trueforge-org/truecharts/commit/2bb65708e999bbba7261a066ab422200998a7e3c) • [@TrueCharts Bot] (2023-11-03)
 - chore(deps): update container image tccr.io/truecharts/whisper-asr-webservice-cpu to v1.2.2 (#14295) • [`503627b`](https://github.com/trueforge-org/truecharts/commit/503627b6e1848b440297bc8068307d2794c5403c) • [@TrueCharts Bot] (2023-11-03)
+- chore(deps): update container image tccr.io/truecharts/whisper-asr-webservice-gpu to v1.2.2 (#14296) • [`2bb6570`](https://github.com/trueforge-org/truecharts/commit/2bb65708e999bbba7261a066ab422200998a7e3c) • [@TrueCharts Bot] (2023-11-03)
 
 ## 1.0.8 • [Train: stable]
 

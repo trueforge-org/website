@@ -2,7 +2,7 @@
 title: openwebrxplus
 ---
 
-![Version: 2.11.3](https://img.shields.io/badge/Version-2.11.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.2.100](https://img.shields.io/badge/AppVersion-1.2.100-informational?style=flat-square)
+![Version: 2.11.4](https://img.shields.io/badge/Version-2.11.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.2.101](https://img.shields.io/badge/AppVersion-1.2.101-informational?style=flat-square)
 
 Improved version of the OpenWebRX online SDR
 
