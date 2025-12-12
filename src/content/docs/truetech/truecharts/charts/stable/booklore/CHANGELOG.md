@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.7.0 • [Train: stable]
+
+- chore(helm): update image ghcr.io/booklore-app/booklore v1.13.2 → v1.14.1 (#42706) • [`45c1f13`](https://github.com/trueforge-org/truecharts/commit/45c1f135d74c5d192ee9b83b93abdf6ecaf0a99e) • [@TrueCharts Bot] (2025-12-12)
+
 ## 1.6.2 • [Train: stable]
 
 - chore(helm): update image ghcr.io/booklore-app/booklore v1.13.1 → v1.13.2 (#42472) • [`f1432a4`](https://github.com/trueforge-org/truecharts/commit/f1432a48adb6bbc84824744321365a908ab35737) • [@TrueCharts Bot] (2025-12-05)
@@ -25,8 +29,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.5.1 • [Train: stable]
 
-- chore(helm): update chart common 28.29.1 → 28.29.2 (#42180) • [`3da44f4`](https://github.com/trueforge-org/truecharts/commit/3da44f4bf863c4bf7aa9ca978f78faf0f96a99d3) • [@TrueCharts Bot] (2025-11-27)
 - chore(helm): update chart mariadb 17.11.0 → 17.11.1 (#42181) • [`62c4b50`](https://github.com/trueforge-org/truecharts/commit/62c4b5089a187d4f4cc84de9483e7c106ff20053) • [@TrueCharts Bot] (2025-11-27)
+- chore(helm): update chart common 28.29.1 → 28.29.2 (#42180) • [`3da44f4`](https://github.com/trueforge-org/truecharts/commit/3da44f4bf863c4bf7aa9ca978f78faf0f96a99d3) • [@TrueCharts Bot] (2025-11-27)
 
 ## 1.5.0 • [Train: stable]
 
