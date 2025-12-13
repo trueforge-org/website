@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.7.1 • [Train: incubator]
 
+- Commit daily changes • [`14369bf`](https://github.com/trueforge-org/truecharts/commit/14369bfb0826a8f80f1af86b48c7212e1ce01b45) • [@TrueCharts-Bot] (2025-12-13)
 - chore(helm): update image alpine (#42523) • [`eb2f32b`](https://github.com/trueforge-org/truecharts/commit/eb2f32b30e81365386ca777297b7b5a40d392215) • [@TrueCharts Bot] (2025-12-12)
 
 ## 0.7.0 • [Train: incubator]
@@ -33,9 +34,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.5.0 • [Train: incubator]
 
-- chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
 - chore(helm): pin dependencies (#42168) • [`52ef92f`](https://github.com/trueforge-org/truecharts/commit/52ef92f785480a7e270d96fce950eea5609a990c) • [@TrueCharts Bot] (2025-11-27)
 - fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
+- chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
 
 ## 0.4.0 • [Train: incubator]
 
