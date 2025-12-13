@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 0.7.2 • [Train: incubator]
+
+- chore(helm): update chart common 28.29.2 → 28.29.10 (#42426) • [`1fc9e35`](https://github.com/trueforge-org/truecharts/commit/1fc9e3509224b519f967f373c29bef9841759213) • [@TrueCharts Bot] (2025-12-13)
+
 ## 0.7.1 • [Train: incubator]
 
 - Commit daily changes • [`14369bf`](https://github.com/trueforge-org/truecharts/commit/14369bfb0826a8f80f1af86b48c7212e1ce01b45) • [@TrueCharts-Bot] (2025-12-13)

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 4.14.2 • [Train: stable]
+
+- chore(helm): update chart common 28.29.2 → 28.29.10 (#42426) • [`1fc9e35`](https://github.com/trueforge-org/truecharts/commit/1fc9e3509224b519f967f373c29bef9841759213) • [@TrueCharts Bot] (2025-12-13)
+
 ## 4.14.1 • [Train: stable]
 
 - chore(helm): update chart common 28.29.1 → 28.29.2 (#42180) • [`3da44f4`](https://github.com/trueforge-org/truecharts/commit/3da44f4bf863c4bf7aa9ca978f78faf0f96a99d3) • [@TrueCharts Bot] (2025-11-27)
@@ -106,8 +110,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.3.5 • [Train: system]
 
-- chore(helm): update chart common 28.16.5 → 28.16.6 (#39145) • [`827fa3c`](https://github.com/trueforge-org/truecharts/commit/827fa3cc55b82b3d292228d8b331331b863ffb3b) • [@TrueCharts Bot] (2025-09-07)
 - chore: fix links • [`1c28a12`](https://github.com/trueforge-org/truecharts/commit/1c28a127898e7db3a350e07a42810acd8eaa4c30) • [@Kjeld Schouten] (2025-09-07)
+- chore(helm): update chart common 28.16.5 → 28.16.6 (#39145) • [`827fa3c`](https://github.com/trueforge-org/truecharts/commit/827fa3cc55b82b3d292228d8b331331b863ffb3b) • [@TrueCharts Bot] (2025-09-07)
 
 ## 4.3.4 • [Train: system]
 
@@ -242,13 +246,13 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.2.0 • [Train: system]
 
-- Update snapshot.storage.k8s.io_volumesnapshotcontents.yaml • [`c41cc59`](https://github.com/trueforge-org/truecharts/commit/c41cc5922d40ea59705822e50dca7827e7abbd48) • [@Kjeld Schouten] (2024-10-08)
-- Update groupsnapshot.storage.k8s.io_volumegroupsnapshotcontents.yaml • [`e9cf625`](https://github.com/trueforge-org/truecharts/commit/e9cf62510609071dd04ebb140c4231e8a85b5da0) • [@Kjeld Schouten] (2024-10-08)
-- Update snapshot.storage.k8s.io_volumesnapshotclasses.yaml • [`07118ea`](https://github.com/trueforge-org/truecharts/commit/07118ea714d289665ba417f8b53a094483ec05a0) • [@Kjeld Schouten] (2024-10-08)
 - Update snapshot.storage.k8s.io_volumesnapshots.yaml • [`5784d46`](https://github.com/trueforge-org/truecharts/commit/5784d463cd95bba7c6306ed178ec09cd6149bea6) • [@Kjeld Schouten] (2024-10-08)
 - Update groupsnapshot.storage.k8s.io_volumegroupsnapshots.yaml • [`703ccdc`](https://github.com/trueforge-org/truecharts/commit/703ccdc80b464ac42b2b9726dcf5c2c6fabca9f4) • [@Kjeld Schouten] (2024-10-08)
 - Update values.yaml • [`89beaa6`](https://github.com/trueforge-org/truecharts/commit/89beaa6a99de2a46c27db96c241bb419438c27fe) • [@Kjeld Schouten] (2024-10-08)
 - Update groupsnapshot.storage.k8s.io_volumegroupsnapshotclasses.yaml • [`aecd96a`](https://github.com/trueforge-org/truecharts/commit/aecd96a694d91405fc1b66872cbe2d39e9fa5936) • [@Kjeld Schouten] (2024-10-08)
+- Update snapshot.storage.k8s.io_volumesnapshotcontents.yaml • [`c41cc59`](https://github.com/trueforge-org/truecharts/commit/c41cc5922d40ea59705822e50dca7827e7abbd48) • [@Kjeld Schouten] (2024-10-08)
+- Update groupsnapshot.storage.k8s.io_volumegroupsnapshotcontents.yaml • [`e9cf625`](https://github.com/trueforge-org/truecharts/commit/e9cf62510609071dd04ebb140c4231e8a85b5da0) • [@Kjeld Schouten] (2024-10-08)
+- Update snapshot.storage.k8s.io_volumesnapshotclasses.yaml • [`07118ea`](https://github.com/trueforge-org/truecharts/commit/07118ea714d289665ba417f8b53a094483ec05a0) • [@Kjeld Schouten] (2024-10-08)
 - chore(deps): update ignored by renovate (major) (#26918) • [`6e62659`](https://github.com/trueforge-org/truecharts/commit/6e62659dba986bd6823c533423e053b090120c05) • [@TrueCharts Bot] (2024-10-02)
 
 ## 3.1.1 • [Train: system]
