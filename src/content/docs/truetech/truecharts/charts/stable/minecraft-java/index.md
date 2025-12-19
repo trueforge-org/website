@@ -2,7 +2,7 @@
 title: minecraft-java
 ---
 
-![Version: 23.46.2](https://img.shields.io/badge/Version-23.46.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2025.10.5](https://img.shields.io/badge/AppVersion-2025.10.5-informational?style=flat-square)
+![Version: 23.56.3](https://img.shields.io/badge/Version-23.56.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2025.12.0](https://img.shields.io/badge/AppVersion-2025.12.0-informational?style=flat-square)
 
 Minecraft Java Dedicated Server
 

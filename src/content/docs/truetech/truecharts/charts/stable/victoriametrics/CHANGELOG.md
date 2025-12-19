@@ -11,6 +11,14 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 4.25.0 • [Train: stable]
+
+- chore(helm): update image docker.io/victoriametrics/victoria-metrics v1.131.0 → v1.132.0 (#42851) • [`2f1f217`](https://github.com/trueforge-org/truecharts/commit/2f1f2175cf46e5c65bb8a0d6b5108c530c09a230) • [@TrueCharts Bot] (2025-12-15)
+
+## 4.24.2 • [Train: stable]
+
+- chore(helm): update chart common 28.29.10 → 28.29.11 (#42782) • [`8c3a695`](https://github.com/trueforge-org/truecharts/commit/8c3a695331cb4630af7a7196268e59cb5929d995) • [@TrueCharts Bot] (2025-12-13)
+
 ## 4.24.1 • [Train: stable]
 
 - chore(helm): update chart common 28.29.2 → 28.29.10 (#42426) • [`1fc9e35`](https://github.com/trueforge-org/truecharts/commit/1fc9e3509224b519f967f373c29bef9841759213) • [@TrueCharts Bot] (2025-12-13)
@@ -143,8 +151,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.8.2 • [Train: stable]
 
-- chore: fix links • [`1c28a12`](https://github.com/trueforge-org/truecharts/commit/1c28a127898e7db3a350e07a42810acd8eaa4c30) • [@Kjeld Schouten] (2025-09-07)
 - chore(helm): update chart common 28.16.5 → 28.16.6 (#39145) • [`827fa3c`](https://github.com/trueforge-org/truecharts/commit/827fa3cc55b82b3d292228d8b331331b863ffb3b) • [@TrueCharts Bot] (2025-09-07)
+- chore: fix links • [`1c28a12`](https://github.com/trueforge-org/truecharts/commit/1c28a127898e7db3a350e07a42810acd8eaa4c30) • [@Kjeld Schouten] (2025-09-07)
 
 ## 4.8.1 • [Train: stable]
 
@@ -508,8 +516,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.2 • [Train: incubator]
 
-- chore(docs): fix few more (#20721) • [`77af3eb`](https://github.com/trueforge-org/truecharts/commit/77af3ebf004ef9efaf50026106a8d1c626f17715) • [@Stavros Kois] (2024-04-14)
 - Add frontmatters to charts except &#34;stable&#34; (#20720) • [`df07fd3`](https://github.com/trueforge-org/truecharts/commit/df07fd3eaba11868249b0dbc6ad87add1ca1ce57) • [@bitpushr] (2024-04-14)
+- chore(docs): fix few more (#20721) • [`77af3eb`](https://github.com/trueforge-org/truecharts/commit/77af3ebf004ef9efaf50026106a8d1c626f17715) • [@Stavros Kois] (2024-04-14)
 - Commit daily changes • [`4a38895`](https://github.com/trueforge-org/truecharts/commit/4a388954e565e29d142385a88bbd0bfe3db07584) • [@TrueCharts-Bot] (2024-04-09)
 - chore(deps): update ignored updates to v20.2.13@62d5260 by renovate (#20412) • [`962d304`](https://github.com/trueforge-org/truecharts/commit/962d30473c918ebea6e2e4d2076a6b79ef35018e) • [@TrueCharts Bot] (2024-04-08)
 

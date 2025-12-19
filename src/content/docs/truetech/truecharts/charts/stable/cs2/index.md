@@ -2,7 +2,7 @@
 title: cs2
 ---
 
-![Version: 6.13.2](https://img.shields.io/badge/Version-6.13.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: cs2](https://img.shields.io/badge/AppVersion-cs2-informational?style=flat-square)
+![Version: 6.13.3](https://img.shields.io/badge/Version-6.13.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: cs2](https://img.shields.io/badge/AppVersion-cs2-informational?style=flat-square)
 
 A custom SteamCMD chart that runs CS2.
 

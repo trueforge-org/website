@@ -2,7 +2,7 @@
 title: unturned
 ---
 
-![Version: 9.13.2](https://img.shields.io/badge/Version-9.13.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: unturned](https://img.shields.io/badge/AppVersion-unturned-informational?style=flat-square)
+![Version: 9.13.3](https://img.shields.io/badge/Version-9.13.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: unturned](https://img.shields.io/badge/AppVersion-unturned-informational?style=flat-square)
 
 Unturned SteamCMD
 

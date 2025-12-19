@@ -2,7 +2,7 @@
 title: stash
 ---
 
-![Version: 18.14.2](https://img.shields.io/badge/Version-18.14.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.29.3](https://img.shields.io/badge/AppVersion-0.29.3-informational?style=flat-square)
+![Version: 18.15.1](https://img.shields.io/badge/Version-18.15.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.30.1](https://img.shields.io/badge/AppVersion-0.30.1-informational?style=flat-square)
 
 An organizer for your porn, written in Go
 

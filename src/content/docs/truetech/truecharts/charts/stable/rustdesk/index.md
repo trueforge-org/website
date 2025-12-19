@@ -2,7 +2,7 @@
 title: rustdesk
 ---
 
-![Version: 2.13.2](https://img.shields.io/badge/Version-2.13.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.1.14](https://img.shields.io/badge/AppVersion-1.1.14-informational?style=flat-square)
+![Version: 2.13.3](https://img.shields.io/badge/Version-2.13.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.1.14](https://img.shields.io/badge/AppVersion-1.1.14-informational?style=flat-square)
 
 rustdesk self-hosted
 

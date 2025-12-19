@@ -2,7 +2,7 @@
 title: smartctl-exporter
 ---
 
-![Version: 5.13.2](https://img.shields.io/badge/Version-5.13.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.14.0](https://img.shields.io/badge/AppVersion-0.14.0-informational?style=flat-square)
+![Version: 5.13.3](https://img.shields.io/badge/Version-5.13.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.14.0](https://img.shields.io/badge/AppVersion-0.14.0-informational?style=flat-square)
 
 Prometheus exporter for SMART using smartctl binary to gather metrics.
 
