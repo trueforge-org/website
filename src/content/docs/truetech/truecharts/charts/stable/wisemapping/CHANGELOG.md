@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 4.13.5 • [Train: stable]
+
+- chore(wisemapping): update image docker.io/wisemapping/wisemapping digest to f302946 (#42990) • [`4cad24b`](https://github.com/trueforge-org/truecharts/commit/4cad24be8ea00d4807910f5669bc978ec6c96bd4) • [@TrueCharts Bot] (2025-12-19)
+
 ## 4.13.4 • [Train: stable]
 
 - chore(helm): update chart common 28.29.10 → 28.29.11 (#42782) • [`8c3a695`](https://github.com/trueforge-org/truecharts/commit/8c3a695331cb4630af7a7196268e59cb5929d995) • [@TrueCharts Bot] (2025-12-13)
