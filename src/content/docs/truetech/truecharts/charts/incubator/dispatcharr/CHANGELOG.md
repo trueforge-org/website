@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 0.8.0 • [Train: incubator]
+
+- feat(dispatcharr): update image docker.io/dispatcharr/dispatcharr 0.14.0 → 0.15.0 (#43015) • [`5a1cf11`](https://github.com/trueforge-org/truecharts/commit/5a1cf113325878c82a504e16f65863f1fbb528ae) • [@TrueCharts Bot] (2025-12-20)
+
 ## 0.7.4 • [Train: incubator]
 
 - chore(dispatcharr): update image alpine digest to 865b95f (#42975) • [`82dffc7`](https://github.com/trueforge-org/truecharts/commit/82dffc77530840400e26673e096d1ac611d7f338) • [@TrueCharts Bot] (2025-12-19)
@@ -46,9 +50,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.5.0 • [Train: incubator]
 
-- chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
 - chore(helm): pin dependencies (#42168) • [`52ef92f`](https://github.com/trueforge-org/truecharts/commit/52ef92f785480a7e270d96fce950eea5609a990c) • [@TrueCharts Bot] (2025-11-27)
 - fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
+- chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
 
 ## 0.4.0 • [Train: incubator]
 
