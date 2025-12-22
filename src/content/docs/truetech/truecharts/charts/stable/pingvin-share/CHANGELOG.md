@@ -108,8 +108,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.3.5 • [Train: stable]
 
-- chore: fix links • [`1c28a12`](https://github.com/trueforge-org/truecharts/commit/1c28a127898e7db3a350e07a42810acd8eaa4c30) • [@Kjeld Schouten] (2025-09-07)
 - chore(helm): update chart common 28.16.5 → 28.16.6 (#39145) • [`827fa3c`](https://github.com/trueforge-org/truecharts/commit/827fa3cc55b82b3d292228d8b331331b863ffb3b) • [@TrueCharts Bot] (2025-09-07)
+- chore: fix links • [`1c28a12`](https://github.com/trueforge-org/truecharts/commit/1c28a127898e7db3a350e07a42810acd8eaa4c30) • [@Kjeld Schouten] (2025-09-07)
 
 ## 4.3.4 • [Train: stable]
 
@@ -500,9 +500,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 0.0.25 • [Train: incubator]
 
 - Commit daily changes • [`394da26`](https://github.com/trueforge-org/truecharts/commit/394da26ab82f36b5b0e312037f4e8245b006fef5) • [@TrueCharts-Bot] (2023-12-06)
-- Commit daily changes • [`c5c271c`](https://github.com/trueforge-org/truecharts/commit/c5c271cb7efffb1c7200f9e6818a445658fa3890) • [@TrueCharts-Bot] (2023-12-03)
 - chore: bump everything to ensure catalog has latest versions • [`02d153a`](https://github.com/trueforge-org/truecharts/commit/02d153a62c739dabc92491b0f64739ad8db2c94d) • [@Kjeld Schouten] (2023-12-03)
 - Commit daily changes • [`1805e0a`](https://github.com/trueforge-org/truecharts/commit/1805e0a25ab55f07e62bdd17caefe9246ef198c2) • [@TrueCharts-Bot] (2023-12-03)
+- Commit daily changes • [`c5c271c`](https://github.com/trueforge-org/truecharts/commit/c5c271cb7efffb1c7200f9e6818a445658fa3890) • [@TrueCharts-Bot] (2023-12-03)
 
 ## 0.0.24 • [Train: incubator]
 
@@ -511,10 +511,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.23 • [Train: incubator]
 
-- Commit daily changes • [`57a03f8`](https://github.com/trueforge-org/truecharts/commit/57a03f87318553c6d549bb9ae286dcd3cb3d8d5e) • [@TrueCharts-Bot] (2023-12-02)
-- chore: fix annotations again • [`968da8e`](https://github.com/trueforge-org/truecharts/commit/968da8ed456fb6015744404b9cd21b832b0f9b38) • [@Kjeld Schouten] (2023-12-02)
-- Commit daily changes • [`4029aea`](https://github.com/trueforge-org/truecharts/commit/4029aea090973758ef3c4f7952ae41c2cf78bcb0) • [@TrueCharts-Bot] (2023-12-02)
 - chore: update annotations • [`5e194fb`](https://github.com/trueforge-org/truecharts/commit/5e194fb0bb5e2db19f02aac9cfd3cf32f28694f2) • [@Kjeld Schouten] (2023-12-02)
+- chore: fix annotations again • [`968da8e`](https://github.com/trueforge-org/truecharts/commit/968da8ed456fb6015744404b9cd21b832b0f9b38) • [@Kjeld Schouten] (2023-12-02)
+- Commit daily changes • [`57a03f8`](https://github.com/trueforge-org/truecharts/commit/57a03f87318553c6d549bb9ae286dcd3cb3d8d5e) • [@TrueCharts-Bot] (2023-12-02)
+- Commit daily changes • [`4029aea`](https://github.com/trueforge-org/truecharts/commit/4029aea090973758ef3c4f7952ae41c2cf78bcb0) • [@TrueCharts-Bot] (2023-12-02)
 - Commit daily changes • [`a0cab80`](https://github.com/trueforge-org/truecharts/commit/a0cab8013532aa7e3751411c7a16cc020866fa8d) • [@TrueCharts-Bot] (2023-12-02)
 - Commit daily changes • [`e75af59`](https://github.com/trueforge-org/truecharts/commit/e75af597d02003f3848de446c0b2f0c9dc4c10a1) • [@TrueCharts-Bot] (2023-12-01)
 - chore: cleanup chart.yaml and add min-max scale version • [`286f68a`](https://github.com/trueforge-org/truecharts/commit/286f68aed0da4d274bcd7e7266934adee6667c6c) • [@Kjeld Schouten] (2023-11-30)
@@ -552,38 +552,38 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 0.0.19 • [Train: incubator]
 
 - Commit daily changes • [`3c21085`](https://github.com/trueforge-org/truecharts/commit/3c21085dcaf868d5d18a05311f9f24b7ff0ca5d2) • [@TrueCharts-Bot] (2023-02-10)
-- Commit bumped Chart Version • [`c39fc6f`](https://github.com/trueforge-org/truecharts/commit/c39fc6fde41d4b57e73f7cabf80b01e26060398f) • [@TrueCharts-Bot] (2023-02-03)
 - Revert &#34;Commit daily changes&#34; • [`110ae61`](https://github.com/trueforge-org/truecharts/commit/110ae6125b24f4a5def05781696141f3ff44ed12) • [@Kjeld Schouten-Lebbing] (2023-02-03)
 - Commit daily changes • [`208c291`](https://github.com/trueforge-org/truecharts/commit/208c2919fec945cc14276a229222915ae0ec50b4) • [@TrueCharts-Bot] (2023-02-03)
 - Merge pull request #6949 from truecharts/renovate/tccr.io-truecharts-pingvin-share-0.x • [`b079e20`](https://github.com/trueforge-org/truecharts/commit/b079e2076c896d73f6b83c5693240322d459f243) • [@TrueCharts Bot] (2023-02-03)
+- Commit bumped Chart Version • [`c39fc6f`](https://github.com/trueforge-org/truecharts/commit/c39fc6fde41d4b57e73f7cabf80b01e26060398f) • [@TrueCharts-Bot] (2023-02-03)
 
 ## 0.0.18 • [Train: incubator]
 
-- fix(charts):  clean more non-link sources (#6925) • [`c6e2ae0`](https://github.com/trueforge-org/truecharts/commit/c6e2ae0c177f777c1e1c19adf39303d36dc89082) • [@Stavros Kois] (2023-02-03)
 - chore(deps): update container image tccr.io/truecharts/pingvin-share to v0.9.0 • [`699b351`](https://github.com/trueforge-org/truecharts/commit/699b3516039c659dfe75281870d88d67f7db10fc) • [@TrueCharts-Admin] (2023-02-03)
+- fix(charts):  clean more non-link sources (#6925) • [`c6e2ae0`](https://github.com/trueforge-org/truecharts/commit/c6e2ae0c177f777c1e1c19adf39303d36dc89082) • [@Stavros Kois] (2023-02-03)
 
 ## 0.0.17 • [Train: incubator]
 
 - Commit daily changes • [`ed743f6`](https://github.com/trueforge-org/truecharts/commit/ed743f6c5c2534c39143d6f822d19bb47913ecd2) • [@TrueCharts-Bot] (2023-02-01)
 - Commit daily changes • [`adda47b`](https://github.com/trueforge-org/truecharts/commit/adda47bb6418f0deda603b30b02d21c6978f93a0) • [@TrueCharts-Bot] (2023-02-01)
+- Merge pull request #6791 from truecharts/renovate/tccr.io-truecharts-pingvin-share-0.x • [`c1f12e5`](https://github.com/trueforge-org/truecharts/commit/c1f12e56e3d5a7ba5da89c372370e382b91ed9b1) • [@TrueCharts Bot] (2023-01-31)
+- Commit bumped Chart Version • [`d612cc8`](https://github.com/trueforge-org/truecharts/commit/d612cc8d1b768524e5a9870a8081694081ed6d17) • [@TrueCharts-Bot] (2023-01-31)
 - Commit daily changes • [`dfff570`](https://github.com/trueforge-org/truecharts/commit/dfff570b9c1a46b2b8a4178626c6b4299be83e22) • [@TrueCharts-Bot] (2023-01-31)
 - Commit daily changes • [`ed66075`](https://github.com/trueforge-org/truecharts/commit/ed660759772ba0148d1e6de709596011b2ceee63) • [@TrueCharts-Bot] (2023-01-31)
 - Commit daily changes • [`0fb22dd`](https://github.com/trueforge-org/truecharts/commit/0fb22dd1e2a9fe895502d16547469e94a3d706c9) • [@TrueCharts-Bot] (2023-01-31)
 - Commit daily changes • [`3f63d20`](https://github.com/trueforge-org/truecharts/commit/3f63d20af933f7fb1f1dc555ed585f475a4eb92f) • [@TrueCharts-Bot] (2023-01-31)
-- Merge pull request #6791 from truecharts/renovate/tccr.io-truecharts-pingvin-share-0.x • [`c1f12e5`](https://github.com/trueforge-org/truecharts/commit/c1f12e56e3d5a7ba5da89c372370e382b91ed9b1) • [@TrueCharts Bot] (2023-01-31)
-- Commit bumped Chart Version • [`d612cc8`](https://github.com/trueforge-org/truecharts/commit/d612cc8d1b768524e5a9870a8081694081ed6d17) • [@TrueCharts-Bot] (2023-01-31)
 
 ## 0.0.16 • [Train: incubator]
 
 - chore(deps): update container image tccr.io/truecharts/pingvin-share to v0.8.0 • [`9adcd09`](https://github.com/trueforge-org/truecharts/commit/9adcd096fddc256329e4738e9e92965fcaefe5ba) • [@TrueCharts-Admin] (2023-01-31)
-- Commit bumped Chart Version • [`a8aa9bf`](https://github.com/trueforge-org/truecharts/commit/a8aa9bfedd19758dc5ebf0fa1e64fc781668b582) • [@TrueCharts-Bot] (2023-01-16)
 - Merge pull request #6424 from truecharts/renovate/tccr.io-truecharts-pingvin-share-0.x • [`0ea54e6`](https://github.com/trueforge-org/truecharts/commit/0ea54e6f0f9dd390589a9efc158ece6cf156bce4) • [@TrueCharts Bot] (2023-01-16)
+- Commit bumped Chart Version • [`a8aa9bf`](https://github.com/trueforge-org/truecharts/commit/a8aa9bfedd19758dc5ebf0fa1e64fc781668b582) • [@TrueCharts-Bot] (2023-01-16)
 
 ## 0.0.15 • [Train: incubator]
 
-- Merge pull request #6402 from truecharts/renovate/tccr.io-truecharts-pingvin-share-0.6.x • [`3981fac`](https://github.com/trueforge-org/truecharts/commit/3981facc235b5539fecf80dfbae4206dbc7b2958) • [@TrueCharts Bot] (2023-01-16)
 - Commit bumped Chart Version • [`6a27b5e`](https://github.com/trueforge-org/truecharts/commit/6a27b5e056422b39efca32f5c87a38f5959d137e) • [@TrueCharts-Bot] (2023-01-16)
 - chore(deps): update container image tccr.io/truecharts/pingvin-share to v0.7.0 • [`cb60b0f`](https://github.com/trueforge-org/truecharts/commit/cb60b0f5c88d9636b3419907614b3d7d79f74c13) • [@TrueCharts-Admin] (2023-01-16)
+- Merge pull request #6402 from truecharts/renovate/tccr.io-truecharts-pingvin-share-0.6.x • [`3981fac`](https://github.com/trueforge-org/truecharts/commit/3981facc235b5539fecf80dfbae4206dbc7b2958) • [@TrueCharts Bot] (2023-01-16)
 
 ## 0.0.14 • [Train: incubator]
 
@@ -597,11 +597,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - Commit daily changes • [`ca008eb`](https://github.com/trueforge-org/truecharts/commit/ca008eb2afe01c75e63679218a2f8514f756d67e) • [@TrueCharts-Bot] (2024-06-01)
 - Commit daily changes • [`4357b53`](https://github.com/trueforge-org/truecharts/commit/4357b533a97aa77ffa16998ce8b568336e3892a9) • [@TrueCharts-Bot] (2024-05-31)
-- chore(deps): update container image stonith404/pingvin-share to v0.24.2@d04dedd by renovate (#22653) • [`9f7d57c`](https://github.com/trueforge-org/truecharts/commit/9f7d57c1cc1b894bbe2d1febbad3164a8783f4aa) • [@TrueCharts Bot] (2024-05-30)
 - chore(deps): update container image common to v23.0.10@46ba38c by renovate (#22650) • [`f2e9285`](https://github.com/trueforge-org/truecharts/commit/f2e9285719fd297f267b1af1be98fc1021c53d6f) • [@TrueCharts Bot] (2024-05-30)
+- chore(deps): update container image stonith404/pingvin-share to v0.24.2@d04dedd by renovate (#22653) • [`9f7d57c`](https://github.com/trueforge-org/truecharts/commit/9f7d57c1cc1b894bbe2d1febbad3164a8783f4aa) • [@TrueCharts Bot] (2024-05-30)
 - chore(deps): update container image tccr.io/truecharts/pingvin-share to v0.6.0 • [`52957b6`](https://github.com/trueforge-org/truecharts/commit/52957b6e9ad207d0d7be5fa1206a5b0ef94abf01) • [@TrueCharts-Admin] (2023-01-11)
-- Merge pull request #6207 from truecharts/renovate/tccr.io-truecharts-pingvin-share-0.5.x • [`203e436`](https://github.com/trueforge-org/truecharts/commit/203e436f092bcffcb5e27d672d342bf009134d2b) • [@TrueCharts Bot] (2023-01-10)
 - Commit bumped Chart Version • [`0fe4edd`](https://github.com/trueforge-org/truecharts/commit/0fe4edd2d2a96258c8e53c069c3d2a994b82fc8e) • [@TrueCharts-Bot] (2023-01-10)
+- Merge pull request #6207 from truecharts/renovate/tccr.io-truecharts-pingvin-share-0.5.x • [`203e436`](https://github.com/trueforge-org/truecharts/commit/203e436f092bcffcb5e27d672d342bf009134d2b) • [@TrueCharts Bot] (2023-01-10)
 
 ## 0.0.12 • [Train: incubator]
 
@@ -621,9 +621,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 0.0.10 • [Train: incubator]
 
 - -.- • [`e92e179`](https://github.com/trueforge-org/truecharts/commit/e92e1793de1744296d0bb62d0e3efcb25a385126) • [@Stavros kois] (2024-05-12)
-- Commit daily changes • [`d478e84`](https://github.com/trueforge-org/truecharts/commit/d478e848ceecae24ece77717cb807e86b330b95a) • [@TrueCharts-Bot] (2022-12-26)
 - chore(deps): update helm general non-major (#5839) • [`3a29755`](https://github.com/trueforge-org/truecharts/commit/3a29755f395e41b8dee8c6f2802243869346e7ea) • [@TrueCharts Bot] (2022-12-26)
 - Commit daily changes • [`927ca59`](https://github.com/trueforge-org/truecharts/commit/927ca5989df40c942f283bbf39d8b61c5e6505c9) • [@TrueCharts-Bot] (2022-12-26)
+- Commit daily changes • [`d478e84`](https://github.com/trueforge-org/truecharts/commit/d478e848ceecae24ece77717cb807e86b330b95a) • [@TrueCharts-Bot] (2022-12-26)
 
 ## 0.0.9 • [Train: incubator]
 
@@ -633,16 +633,16 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 0.0.8 • [Train: incubator]
 
 - fixissue • [`5c90271`](https://github.com/trueforge-org/truecharts/commit/5c90271604b5b6c40dc6b4ae6ecded113ec943a1) • [@Stavros kois] (2024-05-12)
+- Merge pull request #5632 from truecharts/renovate/tccr.io-truecharts-pingvin-share-0.x • [`17d4e36`](https://github.com/trueforge-org/truecharts/commit/17d4e365d99a05a671b02c8fd14e17a07dda8faa) • [@TrueCharts Bot] (2022-12-22)
 - Merge branch &#39;master&#39; of github.com:truecharts/charts • [`43c69f6`](https://github.com/trueforge-org/truecharts/commit/43c69f6ddaab1e72c67c31dfd9b164e2c828ad71) • [@Kjeld Schouten-Lebbing] (2022-12-22)
 - Commit bumped Chart Version • [`8c56bcb`](https://github.com/trueforge-org/truecharts/commit/8c56bcbff27265dbbac7c95228f501f040c62910) • [@TrueCharts-Bot] (2022-12-22)
-- Merge pull request #5632 from truecharts/renovate/tccr.io-truecharts-pingvin-share-0.x • [`17d4e36`](https://github.com/trueforge-org/truecharts/commit/17d4e365d99a05a671b02c8fd14e17a07dda8faa) • [@TrueCharts Bot] (2022-12-22)
 
 ## 0.0.7 • [Train: incubator]
 
 - more fixes • [`f56cec4`](https://github.com/trueforge-org/truecharts/commit/f56cec4b474d4340f638abe5c6eb5ecfd8b89a7a) • [@Stavros kois] (2024-05-12)
 - chore(deps): update container image tccr.io/truecharts/pingvin-share to v0.4.0 • [`b57b2b7`](https://github.com/trueforge-org/truecharts/commit/b57b2b7c6c3efa8c1a893f07cb949c1723530325) • [@TrueCharts-Admin] (2022-12-22)
-- Commit bumped Chart Version • [`39c50fe`](https://github.com/trueforge-org/truecharts/commit/39c50fefd0cce4f6c6696a41f3b62b2c28732fcf) • [@TrueCharts-Bot] (2022-12-19)
 - chore(deps): update helm general non-major • [`6485adc`](https://github.com/trueforge-org/truecharts/commit/6485adc96ab6dfb4c81b36735337a526d05322eb) • [@TrueCharts-Admin] (2022-12-19)
+- Commit bumped Chart Version • [`39c50fe`](https://github.com/trueforge-org/truecharts/commit/39c50fefd0cce4f6c6696a41f3b62b2c28732fcf) • [@TrueCharts-Bot] (2022-12-19)
 
 ## 0.0.6 • [Train: incubator]
 
