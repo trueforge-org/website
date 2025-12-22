@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.15.7 • [Train: stable]
+
+- fix(docuseal): update image docker.io/docuseal/docuseal 2.2.6 → 2.2.7 (#43068) • [`e12c8ab`](https://github.com/trueforge-org/truecharts/commit/e12c8ab4b27b4ad9871efaa8ef32eb60e2df981a) • [@TrueCharts Bot] (2025-12-22)
+
 ## 5.15.6 • [Train: stable]
 
 - chore(helm): update image docker.io/docuseal/docuseal 2.2.5 → 2.2.6 (#42848) • [`fbf877c`](https://github.com/trueforge-org/truecharts/commit/fbf877c2111a3be2f0e7e56d481f9594b43bb74c) • [@TrueCharts Bot] (2025-12-15)
@@ -246,8 +250,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.0.6 • [Train: stable]
 
-- chore(helm): update chart common 28.12.6 → 28.12.7 (#37188) • [`0f93b7d`](https://github.com/trueforge-org/truecharts/commit/0f93b7dddf18d6ec567159463c0edea43413d372) • [@TrueCharts Bot] (2025-07-07)
 - chore(helm): update image docker.io/docuseal/docuseal 2.0.5 → 2.0.6 (#37191) • [`9f9b0af`](https://github.com/trueforge-org/truecharts/commit/9f9b0af2b339ada75d290c1590c24564e1951724) • [@TrueCharts Bot] (2025-07-07)
+- chore(helm): update chart common 28.12.6 → 28.12.7 (#37188) • [`0f93b7d`](https://github.com/trueforge-org/truecharts/commit/0f93b7dddf18d6ec567159463c0edea43413d372) • [@TrueCharts Bot] (2025-07-07)
 
 ## 5.0.5 • [Train: stable]
 
