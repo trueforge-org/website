@@ -25,8 +25,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.15.0 • [Train: stable]
 
-- fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
 - chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
+- fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
 
 ## 3.14.0 • [Train: stable]
 
@@ -328,8 +328,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.5 • [Train: incubator]
 
-- chore(volsync): remove credentials option for volsync as it has not database or persistence • [`6dbab77`](https://github.com/trueforge-org/truecharts/commit/6dbab7745092b09850efdaf609c88917f94303d3) • [@Kjeld Schouten] (2024-05-19)
 - Commit daily changes • [`eb306f1`](https://github.com/trueforge-org/truecharts/commit/eb306f178d74a7a5a9d6e45233bcdf723e9d311f) • [@TrueCharts-Bot] (2024-05-19)
+- chore(volsync): remove credentials option for volsync as it has not database or persistence • [`6dbab77`](https://github.com/trueforge-org/truecharts/commit/6dbab7745092b09850efdaf609c88917f94303d3) • [@Kjeld Schouten] (2024-05-19)
 - Commit daily changes • [`4308336`](https://github.com/trueforge-org/truecharts/commit/43083361ae3f9b47e2466e1f7d20164ef8fa3c06) • [@TrueCharts-Bot] (2024-05-16)
 - Commit daily changes • [`e809331`](https://github.com/trueforge-org/truecharts/commit/e809331fb204e410a5254aa77c65ece76bb65d5e) • [@TrueCharts-Bot] (2024-05-13)
 - Commit daily changes • [`e147a6b`](https://github.com/trueforge-org/truecharts/commit/e147a6b787eb49a391434ab3fa80e3eb5cc997c3) • [@TrueCharts-Bot] (2024-05-12)
