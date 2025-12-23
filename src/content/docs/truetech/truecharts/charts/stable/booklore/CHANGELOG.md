@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.8.1 • [Train: stable]
+
+- fix(helm-deps): update chart mariadb 17.11.2 → 17.11.3 (#43002) • [`a07b8e8`](https://github.com/trueforge-org/truecharts/commit/a07b8e8bee9b7bcbc34552375df99349ea19f7d4) • [@TrueCharts Bot] (2025-12-23)
+
 ## 1.8.0 • [Train: stable]
 
 - feat(booklore): update image ghcr.io/booklore-app/booklore v1.14.1 → v1.15.0 (#43014) • [`2737af3`](https://github.com/trueforge-org/truecharts/commit/2737af30f1ac83c0155df06add14a0d646cc3609) • [@TrueCharts Bot] (2025-12-20)
