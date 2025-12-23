@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.16.1 • [Train: stable]
+
+- fix(helm-deps): update chart common 28.29.11 → 28.29.16 (#43001) • [`6f5ada5`](https://github.com/trueforge-org/truecharts/commit/6f5ada5ffe7f3b9323f579b1604d5bbf432b3964) • [@TrueCharts Bot] (2025-12-23)
+
 ## 2.16.0 • [Train: stable]
 
 - feat(prometheus-pve-exporter): update image docker.io/prompve/prometheus-pve-exporter 3.7.0 → 3.8.0 (#43119) • [`a6f0371`](https://github.com/trueforge-org/truecharts/commit/a6f037158a7d023f5d2f30480d6a0c180ee8e9d8) • [@TrueCharts Bot] (2025-12-23)

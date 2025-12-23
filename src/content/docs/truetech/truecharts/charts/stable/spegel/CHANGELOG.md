@@ -15,6 +15,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - chore: Add a bunch of direct-from-upstream system charts for clustertool-use (#23768) • [`e1bc567`](https://github.com/trueforge-org/truecharts/commit/e1bc5676c686f29322d66bd7e71f4c41c411ecf5) • [@Kjeld Schouten] (2024-06-25)
 
+## 4.16.2 • [Train: stable]
+
+- fix(helm-deps): update chart common 28.29.11 → 28.29.16 (#43001) • [`6f5ada5`](https://github.com/trueforge-org/truecharts/commit/6f5ada5ffe7f3b9323f579b1604d5bbf432b3964) • [@TrueCharts Bot] (2025-12-23)
+
 ## 4.16.1 • [Train: stable]
 
 - fix(spegel): Remove deprecated resolve latest (#42994) • [`1203ba7`](https://github.com/trueforge-org/truecharts/commit/1203ba764ee4d9f90c34de82c6c7a681b4f92045) • [@Boemeltrein] (2025-12-20)

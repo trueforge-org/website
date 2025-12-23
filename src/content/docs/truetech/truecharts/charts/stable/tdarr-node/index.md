@@ -2,7 +2,7 @@
 title: tdarr-node
 ---
 
-![Version: 12.25.3](https://img.shields.io/badge/Version-12.25.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.58.02](https://img.shields.io/badge/AppVersion-2.58.02-informational?style=flat-square)
+![Version: 12.25.4](https://img.shields.io/badge/Version-12.25.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.58.02](https://img.shields.io/badge/AppVersion-2.58.02-informational?style=flat-square)
 
 Audio/Video library transcoding automation
 

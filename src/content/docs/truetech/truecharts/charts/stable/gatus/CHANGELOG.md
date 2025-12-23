@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.27.6 • [Train: stable]
+
+- fix(helm-deps): update chart common 28.29.11 → 28.29.16 (#43001) • [`6f5ada5`](https://github.com/trueforge-org/truecharts/commit/6f5ada5ffe7f3b9323f579b1604d5bbf432b3964) • [@TrueCharts Bot] (2025-12-23)
+
 ## 2.27.5 • [Train: stable]
 
 - chore(gatus): move to ghcr image (#43072) • [`fdc8a9c`](https://github.com/trueforge-org/truecharts/commit/fdc8a9c42b3a0662433abb5ca688a1e4deebbcfd) • [@Boemeltrein] (2025-12-22)

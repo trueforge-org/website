@@ -2,15 +2,15 @@
 title: gatus
 ---
 
-![Version: 2.27.5](https://img.shields.io/badge/Version-2.27.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.33.1](https://img.shields.io/badge/AppVersion-5.33.1-informational?style=flat-square)
+![Version: 2.27.6](https://img.shields.io/badge/Version-2.27.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.33.1](https://img.shields.io/badge/AppVersion-5.33.1-informational?style=flat-square)
 
 Automated service health dashboard
 
 ## Chart Sources
 
+- https://ghcr.io/twin/gatus
 - https://github.com/TwiN/gatus
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/gatus
-- https://hub.docker.com/r/twinproduction/gatus
 
 ## Available Documentation
 
