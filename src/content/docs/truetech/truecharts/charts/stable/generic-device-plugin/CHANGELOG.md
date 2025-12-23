@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.13.7 • [Train: stable]
+
+- chore(generic-device-plugin): update image ghcr.io/squat/generic-device-plugin digest to 2b53d25 (#43113) • [`ada2b78`](https://github.com/trueforge-org/truecharts/commit/ada2b78966a90812ac5c36d1e898e2fa8411318f) • [@TrueCharts Bot] (2025-12-23)
+
 ## 2.13.6 • [Train: stable]
 
 - chore(generic-device-plugin): update image ghcr.io/squat/generic-device-plugin digest to 29a59a3 (#42923) • [`8a32558`](https://github.com/trueforge-org/truecharts/commit/8a325582aa6e2830c3182b80a3d47f57c08e9392) • [@TrueCharts Bot] (2025-12-17)
@@ -56,8 +60,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.11.6 • [Train: stable]
 
-- Commit daily changes • [`dfe2909`](https://github.com/trueforge-org/truecharts/commit/dfe2909e3628718e83ddfecffe2770551fea0c74) • [@TrueCharts-Bot] (2025-11-04)
 - chore(helm): update image ghcr.io/squat/generic-device-plugin digest to 0cf725e (#41390) • [`72f2ce9`](https://github.com/trueforge-org/truecharts/commit/72f2ce9ef679fbd7aea7bdcb40861307e1936259) • [@TrueCharts Bot] (2025-11-04)
+- Commit daily changes • [`dfe2909`](https://github.com/trueforge-org/truecharts/commit/dfe2909e3628718e83ddfecffe2770551fea0c74) • [@TrueCharts-Bot] (2025-11-04)
 
 ## 2.11.5 • [Train: stable]
 
@@ -93,9 +97,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.9.0 • [Train: stable]
 
+- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 - More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
-- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 
 ## 2.8.0 • [Train: stable]
 
