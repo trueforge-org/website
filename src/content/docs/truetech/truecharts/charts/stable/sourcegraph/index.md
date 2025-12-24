@@ -2,7 +2,7 @@
 title: sourcegraph
 ---
 
-![Version: 9.19.4](https://img.shields.io/badge/Version-9.19.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.11.1446](https://img.shields.io/badge/AppVersion-6.11.1446-informational?style=flat-square)
+![Version: 9.19.5](https://img.shields.io/badge/Version-9.19.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.11.2752](https://img.shields.io/badge/AppVersion-6.11.2752-informational?style=flat-square)
 
 Sourcegraph Chart.
 
