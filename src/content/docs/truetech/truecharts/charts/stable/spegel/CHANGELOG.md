@@ -15,6 +15,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - chore: Add a bunch of direct-from-upstream system charts for clustertool-use (#23768) • [`e1bc567`](https://github.com/trueforge-org/truecharts/commit/e1bc5676c686f29322d66bd7e71f4c41c411ecf5) • [@Kjeld Schouten] (2024-06-25)
 
+## 4.16.3 • [Train: stable]
+
+- fix(helm-deps): update chart common 28.29.16 → 28.29.17 (#43139) • [`38a365c`](https://github.com/trueforge-org/truecharts/commit/38a365cbb0ada824b1f2c00678684dcbe5936d40) • [@TrueCharts Bot] (2025-12-24)
+
 ## 4.16.2 • [Train: stable]
 
 - fix(helm-deps): update chart common 28.29.11 → 28.29.16 (#43001) • [`6f5ada5`](https://github.com/trueforge-org/truecharts/commit/6f5ada5ffe7f3b9323f579b1604d5bbf432b3964) • [@TrueCharts Bot] (2025-12-23)
@@ -307,8 +311,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.0.4 • [Train: incubator]
 
-- Update values.yaml • [`83f874f`](https://github.com/trueforge-org/truecharts/commit/83f874f8e60dc44c9f67827aac74665c9f519b43) • [@Kjeld Schouten] (2024-10-24)
 - fix(spegel): always enabled storage • [`037d068`](https://github.com/trueforge-org/truecharts/commit/037d06877a8faa41f53108432aac83c568d7f1ce) • [@Kjeld Schouten] (2024-10-24)
+- Update values.yaml • [`83f874f`](https://github.com/trueforge-org/truecharts/commit/83f874f8e60dc44c9f67827aac74665c9f519b43) • [@Kjeld Schouten] (2024-10-24)
 - fix(spegel): ensure its a daemonset • [`646e088`](https://github.com/trueforge-org/truecharts/commit/646e0882d71fcd8aa3bf476a80476542d021db51) • [@Kjeld Schouten] (2024-10-23)
 
 ## 2.0.3 • [Train: incubator]

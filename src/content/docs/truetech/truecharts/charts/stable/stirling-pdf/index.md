@@ -2,7 +2,7 @@
 title: stirling-pdf
 ---
 
-![Version: 8.4.17](https://img.shields.io/badge/Version-8.4.17-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.1.5](https://img.shields.io/badge/AppVersion-2.1.5-informational?style=flat-square)
+![Version: 8.4.18](https://img.shields.io/badge/Version-8.4.18-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.1.5](https://img.shields.io/badge/AppVersion-2.1.5-informational?style=flat-square)
 
 A robust, locally hosted web-based PDF manipulation tool.
 

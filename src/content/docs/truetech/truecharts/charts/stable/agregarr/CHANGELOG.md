@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.0.1 • [Train: stable]
+
+- fix(helm-deps): update chart common 28.29.16 → 28.29.17 (#43139) • [`38a365c`](https://github.com/trueforge-org/truecharts/commit/38a365cbb0ada824b1f2c00678684dcbe5936d40) • [@TrueCharts Bot] (2025-12-24)
+
 ## 2.0.0 • [Train: stable]
 
 - BREAKING CHANGE(agregarr): Update image ghcr.io/agregarr/agregarr 1.4.2 → 2.0.0 (#43134) • [`838d9df`](https://github.com/trueforge-org/truecharts/commit/838d9df362c20e633c2eb61ca1f38757dc787a30) • [@TrueCharts Bot] (2025-12-24)

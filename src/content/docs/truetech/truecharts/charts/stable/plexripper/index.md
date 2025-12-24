@@ -2,7 +2,7 @@
 title: plexripper
 ---
 
-![Version: 11.14.4](https://img.shields.io/badge/Version-11.14.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.32.0](https://img.shields.io/badge/AppVersion-0.32.0-informational?style=flat-square)
+![Version: 11.14.5](https://img.shields.io/badge/Version-11.14.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.32.0](https://img.shields.io/badge/AppVersion-0.32.0-informational?style=flat-square)
 
 A multi-platform media downloader that indexes and downloads content from your accessible Plex servers.
 

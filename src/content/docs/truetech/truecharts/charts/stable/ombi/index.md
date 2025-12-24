@@ -2,7 +2,7 @@
 title: ombi
 ---
 
-![Version: 22.13.5](https://img.shields.io/badge/Version-22.13.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.47.1](https://img.shields.io/badge/AppVersion-4.47.1-informational?style=flat-square)
+![Version: 22.13.6](https://img.shields.io/badge/Version-22.13.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.47.1](https://img.shields.io/badge/AppVersion-4.47.1-informational?style=flat-square)
 
 Want a Movie or TV Show on Plex or Emby? Use Ombi!
 

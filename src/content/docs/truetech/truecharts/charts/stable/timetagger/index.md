@@ -2,7 +2,7 @@
 title: timetagger
 ---
 
-![Version: 10.14.3](https://img.shields.io/badge/Version-10.14.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 25.12.1](https://img.shields.io/badge/AppVersion-25.12.1-informational?style=flat-square)
+![Version: 10.14.4](https://img.shields.io/badge/Version-10.14.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 25.12.1](https://img.shields.io/badge/AppVersion-25.12.1-informational?style=flat-square)
 
 An open source time-tracker with an interactive user experience and powerful reporting.
 

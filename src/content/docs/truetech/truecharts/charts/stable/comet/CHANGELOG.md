@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 4.11.10 • [Train: stable]
+
+- fix(helm-deps): update chart common 28.29.16 → 28.29.17 (#43139) • [`38a365c`](https://github.com/trueforge-org/truecharts/commit/38a365cbb0ada824b1f2c00678684dcbe5936d40) • [@TrueCharts Bot] (2025-12-24)
+
 ## 4.11.9 • [Train: stable]
 
 - chore(comet): update image ghcr.io/g0ldyy/comet digest to 563271f (#43120) • [`d9135ff`](https://github.com/trueforge-org/truecharts/commit/d9135ffc1a23fda0a3229e7116e259d6438c6582) • [@TrueCharts Bot] (2025-12-24)

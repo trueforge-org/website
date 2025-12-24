@@ -2,7 +2,7 @@
 title: pairdrop
 ---
 
-![Version: 2.13.4](https://img.shields.io/badge/Version-2.13.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.11.2](https://img.shields.io/badge/AppVersion-1.11.2-informational?style=flat-square)
+![Version: 2.13.5](https://img.shields.io/badge/Version-2.13.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.11.2](https://img.shields.io/badge/AppVersion-1.11.2-informational?style=flat-square)
 
 Local file sharing in your web browser.
 
