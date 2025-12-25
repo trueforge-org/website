@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.0.0 • [Train: stable]
+
+- feat(gatus): add sidecar (#43147) • [`dc79dec`](https://github.com/trueforge-org/truecharts/commit/dc79deccd05ef5c28070f1bb2c32dd3b392a851a) • [@Boemeltrein] (2025-12-25)
+
 ## 2.27.7 • [Train: stable]
 
 - fix(helm-deps): update chart common 28.29.16 → 28.29.17 (#43139) • [`38a365c`](https://github.com/trueforge-org/truecharts/commit/38a365cbb0ada824b1f2c00678684dcbe5936d40) • [@TrueCharts Bot] (2025-12-24)
@@ -104,9 +108,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.16.0 • [Train: stable]
 
+- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
 - more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
-- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 
 ## 2.15.0 • [Train: stable]
 
@@ -141,8 +145,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.11.2 • [Train: stable]
 
-- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 - Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
+- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 
 ## 2.11.1 • [Train: stable]
 
