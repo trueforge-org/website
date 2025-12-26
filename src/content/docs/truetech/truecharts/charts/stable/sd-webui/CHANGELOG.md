@@ -86,8 +86,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.6.1 • [Train: stable]
 
-- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 - chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
+- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 
 ## 4.6.0 • [Train: stable]
 
@@ -399,8 +399,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.2.15 • [Train: incubator]
 
-- chore(container): update image ghcr.io/neggles/sd-webui-docker → by renovate (#27931) • [`233df3b`](https://github.com/trueforge-org/truecharts/commit/233df3b774f09c10ef80eb99fdd6fbd5a71b955f) • [@TrueCharts Bot] (2024-10-18)
 - chore(helm): update chart common 25.0.0 → 25.1.0 by renovate (#27948) • [`37bd2b6`](https://github.com/trueforge-org/truecharts/commit/37bd2b67d5bdb5ac56a2f3d3f82a16353275ab67) • [@TrueCharts Bot] (2024-10-18)
+- chore(container): update image ghcr.io/neggles/sd-webui-docker → by renovate (#27931) • [`233df3b`](https://github.com/trueforge-org/truecharts/commit/233df3b774f09c10ef80eb99fdd6fbd5a71b955f) • [@TrueCharts Bot] (2024-10-18)
 
 ## 2.2.14 • [Train: incubator]
 
@@ -914,13 +914,13 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 1.0.6 • [Train: incubator]
 
 - Commit daily changes • [`ca008eb`](https://github.com/trueforge-org/truecharts/commit/ca008eb2afe01c75e63679218a2f8514f756d67e) • [@TrueCharts-Bot] (2024-06-01)
-- chore(deps): update container image ghcr.io/neggles/sd-webui-docker to latest@6e0740a by renovate (#22679) • [`31f31a8`](https://github.com/trueforge-org/truecharts/commit/31f31a8db8e4dfad0091698e4d034c7ed07edd53) • [@TrueCharts Bot] (2024-05-31)
 - Commit daily changes • [`4357b53`](https://github.com/trueforge-org/truecharts/commit/4357b533a97aa77ffa16998ce8b568336e3892a9) • [@TrueCharts-Bot] (2024-05-31)
+- chore(deps): update container image ghcr.io/neggles/sd-webui-docker to latest@6e0740a by renovate (#22679) • [`31f31a8`](https://github.com/trueforge-org/truecharts/commit/31f31a8db8e4dfad0091698e4d034c7ed07edd53) • [@TrueCharts Bot] (2024-05-31)
 
 ## 1.0.5 • [Train: incubator]
 
-- chore(deps): update container image ghcr.io/neggles/sd-webui-docker to latest@ceefbb9 by renovate (#22647) • [`84e5724`](https://github.com/trueforge-org/truecharts/commit/84e57246f716c3a24f764472c88d4bbd90e96f52) • [@TrueCharts Bot] (2024-05-30)
 - chore(deps): update container image common to v23.0.10@46ba38c by renovate (#22650) • [`f2e9285`](https://github.com/trueforge-org/truecharts/commit/f2e9285719fd297f267b1af1be98fc1021c53d6f) • [@TrueCharts Bot] (2024-05-30)
+- chore(deps): update container image ghcr.io/neggles/sd-webui-docker to latest@ceefbb9 by renovate (#22647) • [`84e5724`](https://github.com/trueforge-org/truecharts/commit/84e57246f716c3a24f764472c88d4bbd90e96f52) • [@TrueCharts Bot] (2024-05-30)
 
 ## 1.0.4 • [Train: incubator]
 
@@ -991,9 +991,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.1.8 • [Train: incubator]
 
+- Commit daily changes • [`26af685`](https://github.com/trueforge-org/truecharts/commit/26af68565949440123d8ba215a7e8544ec455067) • [@TrueCharts-Bot] (2024-04-17)
 - Revert &#34;Commit daily changes&#34; • [`328900e`](https://github.com/trueforge-org/truecharts/commit/328900e43814c8ec97a259f5124b503dcad3dd34) • [@Kjeld Schouten] (2024-04-17)
 - Commit daily changes • [`3bbe620`](https://github.com/trueforge-org/truecharts/commit/3bbe62084f52c024e50a48f42438dd8a595bda0e) • [@TrueCharts-Bot] (2024-04-17)
-- Commit daily changes • [`26af685`](https://github.com/trueforge-org/truecharts/commit/26af68565949440123d8ba215a7e8544ec455067) • [@TrueCharts-Bot] (2024-04-17)
 - chore(deps): update ignored updates to v20.3.8@52f4118 by renovate (#20876) • [`0347003`](https://github.com/trueforge-org/truecharts/commit/03470036d7e37c8fbcb25953e7558c6f2961e9c0) • [@TrueCharts Bot] (2024-04-16)
 
 ## 0.1.7 • [Train: incubator]
