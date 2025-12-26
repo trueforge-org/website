@@ -128,3 +128,12 @@ The melomel is drinkable immediately, though additional aging will further smoot
 - Easily adaptable to different juices or honey varieties
 
 If your goal is a reliable, no-nonsense melomel that works more like farmhouse brewing than precision winemaking, this method fits perfectly.
+
+---
+
+## Support Manic Meads
+
+Enjoyed this content? Consider supporting further experiments and recipes:  
+https://opencollective.com/manicmeads  
+
+Every contribution helps keep the project alive. Thank you! 🍯

@@ -118,3 +118,12 @@ We can determine whether:
 What began as an unexpected byproduct in a mango melomel has turned into a reproducible and clearly Brett-associated flavor outcome. The combination of Hornindal kveik and Brettanomyces claussenii does not merely add funk—it fundamentally reshapes the character of the cyser.
 
 Whether that transformation is desirable will depend entirely on the drinker—but it is unmistakably deliberate, repeatable, and worth further exploration.
+
+---
+
+## Support Manic Meads
+
+Enjoyed this content? Consider supporting further experiments and recipes:  
+https://opencollective.com/manicmeads  
+
+Every contribution helps keep the project alive. Thank you! 🍯
