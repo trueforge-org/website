@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 13.13.6 • [Train: stable]
 
+- fix seer image links • [`4d39c85`](https://github.com/trueforge-org/truecharts/commit/4d39c85722a410dda77242a492234679564ffeba) • [@Kjeld Schouten] (2025-12-26)
 - fix(helm-deps): update chart common 28.29.16 → 28.29.17 (#43139) • [`38a365c`](https://github.com/trueforge-org/truecharts/commit/38a365cbb0ada824b1f2c00678684dcbe5936d40) • [@TrueCharts Bot] (2025-12-24)
 
 ## 13.13.5 • [Train: stable]
