@@ -2,7 +2,7 @@
 title: app-template
 ---
 
-![Version: 15.29.44](https://img.shields.io/badge/Version-15.29.44-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.24.569](https://img.shields.io/badge/AppVersion-0.24.569-informational?style=flat-square)
+![Version: 15.29.45](https://img.shields.io/badge/Version-15.29.45-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.24.590](https://img.shields.io/badge/AppVersion-0.24.590-informational?style=flat-square)
 
 Advanced Template to create your own TrueCharts-based Charts
 
