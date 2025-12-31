@@ -8,9 +8,9 @@ Automated service health dashboard
 
 ## Chart Sources
 
+- https://ghcr.io/home-operations/gatus-sidecar
 - https://ghcr.io/twin/gatus
 - https://github.com/TwiN/gatus
-- https://ghcr.io/home-operations/gatus-sidecar
 - https://github.com/home-operations/gatus-sidecar
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/gatus
 

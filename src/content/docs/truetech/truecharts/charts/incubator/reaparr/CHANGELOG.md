@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.6.5 • [Train: incubator]
 
+- Commit daily changes • [`bed0865`](https://github.com/trueforge-org/truecharts/commit/bed0865332310784db067bacc1b26b35e323292d) • [@TrueCharts-Bot] (2025-12-31)
 - fix(helm-deps): update chart common 28.29.16 → 28.29.17 (#43139) • [`38a365c`](https://github.com/trueforge-org/truecharts/commit/38a365cbb0ada824b1f2c00678684dcbe5936d40) • [@TrueCharts Bot] (2025-12-24)
 
 ## 0.6.4 • [Train: incubator]
