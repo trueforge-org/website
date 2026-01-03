@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.1.0 • [Train: stable]
+
+- feat(gatus): update image ghcr.io/twin/gatus v5.33.1 → v5.34.0 (#43350) • [`5b4c2fb`](https://github.com/trueforge-org/truecharts/commit/5b4c2fb418174c52f0bbe3a47ae2cf8bc66fdf0c) • [@TrueCharts Bot] (2026-01-03)
+
 ## 3.0.0 • [Train: stable]
 
 - Commit daily changes • [`bed0865`](https://github.com/trueforge-org/truecharts/commit/bed0865332310784db067bacc1b26b35e323292d) • [@TrueCharts-Bot] (2025-12-31)
@@ -46,8 +50,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.27.0 • [Train: stable]
 
-- chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
 - fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
+- chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
 
 ## 2.26.0 • [Train: stable]
 
