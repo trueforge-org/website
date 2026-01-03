@@ -53,11 +53,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 - chore(apps): move all container references to TCCR (#1448) • [`46c3126`](https://github.com/trueforge-org/truecharts/commit/46c3126fa4ee491b5e5a2f09ab8b8f5b9c533f5c) • [@Kjeld Schouten-Lebbing] (2021-12-03)
 - fix(common): correct some mistakes in configMap handling in common (#1369) • [`f718d00`](https://github.com/trueforge-org/truecharts/commit/f718d002dac3c0d1a7867de5fabae61f3de430c6) • [@Kjeld Schouten-Lebbing] (2021-11-21)
 - chore(apps): clean up Chart.yaml (#1322) • [`fa93d84`](https://github.com/trueforge-org/truecharts/commit/fa93d84e2916fcf2cee7a229b794b38b2ea73498) • [@Stavros Kois] (2021-11-14)
+- feat(common): Add simple servicetype as a LoadBalancer Alias (#1284) • [`6a54105`](https://github.com/trueforge-org/truecharts/commit/6a54105c7adab8c1ce6b56ca3347be8ea84737fa) • [@Kjeld Schouten-Lebbing] (2021-11-06)
 - feat(common): introduce simplePVC and simplyHP aliasses for persistence types (#1286) • [`b832ea9`](https://github.com/trueforge-org/truecharts/commit/b832ea9c800eb2444566fd0d2771723c9fa45903) • [@Kjeld Schouten-Lebbing] (2021-11-06)
 - chore(common): add additional aliasses for simple hostpath persistence (#1287) • [`32c6f11`](https://github.com/trueforge-org/truecharts/commit/32c6f11de45471a5d0971748f3f843d92f5b963d) • [@Kjeld Schouten-Lebbing] (2021-11-06)
-- feat(common): Add simple servicetype as a LoadBalancer Alias (#1284) • [`6a54105`](https://github.com/trueforge-org/truecharts/commit/6a54105c7adab8c1ce6b56ca3347be8ea84737fa) • [@Kjeld Schouten-Lebbing] (2021-11-06)
-- Commit released Helm Chart and docs for TrueCharts • [`8f73fe8`](https://github.com/trueforge-org/truecharts/commit/8f73fe8f661e85bd8a6b4a15b96a151004f7751e) • [@TrueCharts-Bot] (2021-10-20)
 - security(Apps): Improve Snyk hardening advisory (#1208) • [`834479f`](https://github.com/trueforge-org/truecharts/commit/834479f0dbd01650c7da2504ca048cb00f69db42) • [@Kjeld Schouten-Lebbing] (2021-10-20)
+- Commit released Helm Chart and docs for TrueCharts • [`8f73fe8`](https://github.com/trueforge-org/truecharts/commit/8f73fe8f661e85bd8a6b4a15b96a151004f7751e) • [@TrueCharts-Bot] (2021-10-20)
 
 ## 3.2.0 • [Train: library]
 
@@ -85,8 +85,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.1.2 • [Train: library]
 
-- fix: make sure autopermissions sets the group owner correctly (#994) • [`0fb8f8b`](https://github.com/trueforge-org/truecharts/commit/0fb8f8bb90e797f85aa3bf6fdf3ba85ca8e41619) • [@Kjeld Schouten-Lebbing] (2021-09-14)
 - Commit released Helm Chart and docs for TrueCharts • [`fdd666d`](https://github.com/trueforge-org/truecharts/commit/fdd666d46248473aa9a5e4c5989f74f626fdf7d4) • [@TrueCharts-Bot] (2021-09-14)
+- fix: make sure autopermissions sets the group owner correctly (#994) • [`0fb8f8b`](https://github.com/trueforge-org/truecharts/commit/0fb8f8bb90e797f85aa3bf6fdf3ba85ca8e41619) • [@Kjeld Schouten-Lebbing] (2021-09-14)
 
 ## 3.1.1 • [Train: library]
 
@@ -143,8 +143,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.1 • [Train: library]
 
-- some common-test polish • [`7ee8e92`](https://github.com/trueforge-org/truecharts/commit/7ee8e92c696d1453e440491784964e7f51cda229) • [@Kjeld Schouten] (2024-10-19)
 - Update Chart.yaml • [`9afc35c`](https://github.com/trueforge-org/truecharts/commit/9afc35c4a6ef75692bc29a0a6e5fddb9d6b6d601) • [@Kjeld Schouten] (2024-10-19)
+- some common-test polish • [`7ee8e92`](https://github.com/trueforge-org/truecharts/commit/7ee8e92c696d1453e440491784964e7f51cda229) • [@Kjeld Schouten] (2024-10-19)
 
 ## 1.0.0 • [Train: library]
 
@@ -162,8 +162,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 - feat(common): Add CNPG Vectorchord extension (#40702) • [`e818f93`](https://github.com/trueforge-org/truecharts/commit/e818f936efc74ac5c6dd48331142365f821750fd) • [@Boemeltrein] (2025-10-18)
 - feat(common): Add support for setting extra env to CNPG pods (#40673) • [`e892b37`](https://github.com/trueforge-org/truecharts/commit/e892b37565cdcf1a14260c9c5840ee7d8c64306b) • [@astro-stan] (2025-10-17)
 - feat(common): Add support for specifying default S3 region when it cannot be determined from the URL (#40668) • [`61ef119`](https://github.com/trueforge-org/truecharts/commit/61ef119c1d153aec45835d9ff314a0172fda05a3) • [@astro-stan] (2025-10-15)
-- some readme fixes • [`65bdc5b`](https://github.com/trueforge-org/truecharts/commit/65bdc5bee8da831093597a659d090b06f50a9f7f) • [@Kjeld Schouten] (2025-10-12)
 - More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
+- some readme fixes • [`65bdc5b`](https://github.com/trueforge-org/truecharts/commit/65bdc5bee8da831093597a659d090b06f50a9f7f) • [@Kjeld Schouten] (2025-10-12)
 - more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 - feat(common): Add `customCA` and `customCASecretRef` support for CNPG (#40523) • [`f15cd12`](https://github.com/trueforge-org/truecharts/commit/f15cd12039a4cc753965cc5c324242251ccc1ef6) • [@astro-stan] (2025-10-11)
 - more tc to tf • [`70f87d4`](https://github.com/trueforge-org/truecharts/commit/70f87d44a930f912f6ba4eead6cdda9ca993572f) • [@Kjeld Schouten] (2025-10-10)
@@ -187,8 +187,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 - fix(common): correct skipEmptyWalArchiveCheck template syntax in cluster (#37317) • [`02c0f5f`](https://github.com/trueforge-org/truecharts/commit/02c0f5f38626d2295845aeb448a812fc04f2fa4a) • [@Aspen] (2025-07-09)
 - common: fix gluetun and add test (#37090) • [`931df75`](https://github.com/trueforge-org/truecharts/commit/931df7567ea67e3a600169781890db109d4b862b) • [@Stavros Kois] (2025-07-07)
 - feat(common): add support for pod affinity and set default affinity (#31536) • [`51f6319`](https://github.com/trueforge-org/truecharts/commit/51f631985c950fe57f31a811cf4823b372b5fafb) • [@Kjeld Schouten] (2025-06-14)
-- feat(common): Add optional service account override to workload podSpec (#36051) • [`67df323`](https://github.com/trueforge-org/truecharts/commit/67df3235eafbb6620969d5fec59db325561c1857) • [@Douglas Chimento] (2025-06-07)
 - feat(common): refactor horizontal pod autoscaler (#34625) • [`1cab3ee`](https://github.com/trueforge-org/truecharts/commit/1cab3eec1bd097e65d434310857a99d315828db2) • [@Kjeld Schouten] (2025-06-07)
+- feat(common): Add optional service account override to workload podSpec (#36051) • [`67df323`](https://github.com/trueforge-org/truecharts/commit/67df3235eafbb6620969d5fec59db325561c1857) • [@Douglas Chimento] (2025-06-07)
 - chore(helm): update image tccr.io/tccr/code-server v4.100.2 → v4.100.3 (#36044) • [`8beabbe`](https://github.com/trueforge-org/truecharts/commit/8beabbea88b09adb975a146350b9a542206ea796) • [@TrueCharts Bot] (2025-06-06)
 - Commit daily changes • [`8cb809b`](https://github.com/trueforge-org/truecharts/commit/8cb809b51f12feaf132263dd76fad67f0566bbfa) • [@TrueCharts-Bot] (2025-06-04)
 - chore(helm): update image tccr.io/tccr/tailscale v1.82.5 → v1.84.0 (#35775) • [`0dd7c48`](https://github.com/trueforge-org/truecharts/commit/0dd7c4883c3dc7c8ced4a08ed994d55a66896040) • [@TrueCharts Bot] (2025-05-29)
@@ -199,18 +199,18 @@ If you need more than 2 scrolls to find your current version, please consider up
 - Commit daily changes • [`0c7f4b7`](https://github.com/trueforge-org/truecharts/commit/0c7f4b78d787cc05de9d26860220dd50c6ff00a1) • [@TrueCharts-Bot] (2025-05-11)
 - chore(helm): update image tccr.io/tccr/code-server v4.99.3 → v4.99.4 (#35096) • [`d569dbb`](https://github.com/trueforge-org/truecharts/commit/d569dbb40db948a7bcc2120a3e84a5454a14ace6) • [@TrueCharts Bot] (2025-05-10)
 - Commit daily changes • [`a8041f1`](https://github.com/trueforge-org/truecharts/commit/a8041f19fc10d6d4d9317287e9fc9fa2668aee79) • [@TrueCharts-Bot] (2025-04-22)
+- chore(common): tweak/expand VPA test suite (#34626) • [`ae61bd0`](https://github.com/trueforge-org/truecharts/commit/ae61bd0bb6b0a2099fe82cf014ed069c205a21a0) • [@Stavros Kois] (2025-04-21)
+- feat(common): add support for Vertical Pod Autoscaler (#34502) • [`dc19a3e`](https://github.com/trueforge-org/truecharts/commit/dc19a3ecdc179f637beec4a991c252889691f85c) • [@Kjeld Schouten] (2025-04-21)
 - Commit daily changes • [`841ea73`](https://github.com/trueforge-org/truecharts/commit/841ea732f99b5c0f5da73e67eb08db415db77310) • [@TrueCharts-Bot] (2025-04-21)
 - feat(common): force recreate on single-replica with RWO storage (#33990) • [`3cd69ef`](https://github.com/trueforge-org/truecharts/commit/3cd69ef570dfbe297291dd59bf67cc3cf8c82f0d) • [@Kjeld Schouten] (2025-04-21)
-- feat(common): add support for Vertical Pod Autoscaler (#34502) • [`dc19a3e`](https://github.com/trueforge-org/truecharts/commit/dc19a3ecdc179f637beec4a991c252889691f85c) • [@Kjeld Schouten] (2025-04-21)
-- chore(common): tweak/expand VPA test suite (#34626) • [`ae61bd0`](https://github.com/trueforge-org/truecharts/commit/ae61bd0bb6b0a2099fe82cf014ed069c205a21a0) • [@Stavros Kois] (2025-04-21)
 - feat(common): add nginx ingress integration (#34469) • [`784a5fc`](https://github.com/trueforge-org/truecharts/commit/784a5fcfde796bd9ced78667a2aa97bffa42190f) • [@Kjeld Schouten] (2025-04-21)
 - chore(helm): update image tccr.io/tccr/code-server v4.99.2 → v4.99.3 (#34592) • [`cf51a82`](https://github.com/trueforge-org/truecharts/commit/cf51a823d55dae4c25fc518ce727ea92a38ddbde) • [@TrueCharts Bot] (2025-04-20)
 - Commit daily changes • [`f9c2289`](https://github.com/trueforge-org/truecharts/commit/f9c2289797b684753e3fbfacecd6afb6f9d2425d) • [@TrueCharts-Bot] (2025-04-17)
 - feat(common): move metallb/traefik service annotations to integrations (#33905) • [`0f36f89`](https://github.com/trueforge-org/truecharts/commit/0f36f8923a0b3ef363759a6adb59a2c63015e028) • [@Kjeld Schouten] (2025-04-16)
 - fix(common): Update volume_emptyDIr_test.yaml for new defaults (#34368) • [`72797d1`](https://github.com/trueforge-org/truecharts/commit/72797d1cc616078759fed3a06a4e0ef5c7b0d662) • [@Alfred Göppel] (2025-04-14)
 - Commit daily changes • [`abc1be6`](https://github.com/trueforge-org/truecharts/commit/abc1be6855582cd7f7949402e3088ea5fcdaedd3) • [@TrueCharts-Bot] (2025-04-11)
-- chore(helm): update image tccr.io/tccr/db-wait-mongodb digest to faee7b7 (#34199) • [`53dc15c`](https://github.com/trueforge-org/truecharts/commit/53dc15cdb84e64f484892a284ec64703178cbcb6) • [@TrueCharts Bot] (2025-04-10)
 - Commit daily changes • [`81131bc`](https://github.com/trueforge-org/truecharts/commit/81131bc7f2a3f63487ba9bff2396ea05abbba2ba) • [@TrueCharts-Bot] (2025-04-10)
+- chore(helm): update image tccr.io/tccr/db-wait-mongodb digest to faee7b7 (#34199) • [`53dc15c`](https://github.com/trueforge-org/truecharts/commit/53dc15cdb84e64f484892a284ec64703178cbcb6) • [@TrueCharts Bot] (2025-04-10)
 - feat(common): BREAKING CHANGE allow gitops cnpg recovery without editing values (#33786) • [`30781eb`](https://github.com/trueforge-org/truecharts/commit/30781eb54ce910392b66445fe46c9034bae48d54) • [@Kjeld Schouten] (2025-04-07)
 - fix(common-test): allow for any version of common • [`82172ef`](https://github.com/trueforge-org/truecharts/commit/82172ef42b5b156186d8d56a1ee06ce0f016e67c) • [@Kjeld Schouten] (2025-04-07)
 - chore(helm): update image tccr.io/tccr/tailscale v1.78.3 → v1.80.3 (#32943) • [`b4ca6ba`](https://github.com/trueforge-org/truecharts/commit/b4ca6ba83325ccd2a8ec2a1a4752ba109034bea3) • [@TrueCharts Bot] (2025-03-06)
@@ -218,8 +218,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 - feat(common): Allow configuring default topologyKey (#32461) • [`c5b724d`](https://github.com/trueforge-org/truecharts/commit/c5b724d69f0bb83f208344b7123ed7ad09830e41) • [@Aspen] (2025-02-24)
 - chore(helm): update image tccr.io/tccr/code-server v4.96.4 → v4.97.2 (#32393) • [`f0c30ad`](https://github.com/trueforge-org/truecharts/commit/f0c30ad214ae65f4ca1d8b5eeaa8e5f855af6119) • [@TrueCharts Bot] (2025-02-21)
 - feat(common): enable middlewares when referenced on ingress and add chart&#43;common middlewares (#31535) • [`5fd65bb`](https://github.com/trueforge-org/truecharts/commit/5fd65bb3d51a739e5c80317040c762ac6fc06e41) • [@Kjeld Schouten] (2025-02-09)
-- feat(common): include dependencies as a common-subtree (#31534) • [`73f16f0`](https://github.com/trueforge-org/truecharts/commit/73f16f0e77cf89a91bed100e1aa37179c7037bc5) • [@Kjeld Schouten] (2025-02-09)
 - feat(traefik-integration): actually default to false (#31868) • [`41e5d62`](https://github.com/trueforge-org/truecharts/commit/41e5d6258f2ae298cfd3a8cad2605a7446c79e61) • [@Stavros Kois] (2025-02-09)
+- feat(common): include dependencies as a common-subtree (#31534) • [`73f16f0`](https://github.com/trueforge-org/truecharts/commit/73f16f0e77cf89a91bed100e1aa37179c7037bc5) • [@Kjeld Schouten] (2025-02-09)
 - feat(common): Add destinationPVC when volsync direct copy method is used (#31659) • [`12f2121`](https://github.com/trueforge-org/truecharts/commit/12f212140b71f41e301ce33eb700640bfc2f6233) • [@Alexandre Acebedo] (2025-02-06)
 - chore(docs,tests): remove references to fixedMiddlewares and allowCors(middlewares) • [`53ca726`](https://github.com/trueforge-org/truecharts/commit/53ca726d212cdc20690c08d2c608e90b2cbc22c5) • [@Stavros Kois] (2025-02-02)
 - feat(common): allow for CNPG UID/GID (#31499) • [`8a7f540`](https://github.com/trueforge-org/truecharts/commit/8a7f540e51a6cfba98afaa667f8f8c02c0dc9e62) • [@Kjeld Schouten] (2025-02-01)
