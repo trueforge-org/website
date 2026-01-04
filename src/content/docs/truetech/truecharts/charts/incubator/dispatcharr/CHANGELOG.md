@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 0.9.0 • [Train: incubator]
+
+- feat(dispatcharr): update image docker.io/dispatcharr/dispatcharr 0.15.1 → 0.16.0 (#43377) • [`4b09f40`](https://github.com/trueforge-org/truecharts/commit/4b09f401421b1036663d9d1f6eae8d3159ff4b94) • [@TrueCharts Bot] (2026-01-04)
+
 ## 0.8.3 • [Train: incubator]
 
 - fix(helm-deps): update chart common 28.29.16 → 28.29.17 (#43139) • [`38a365c`](https://github.com/trueforge-org/truecharts/commit/38a365cbb0ada824b1f2c00678684dcbe5936d40) • [@TrueCharts Bot] (2025-12-24)
