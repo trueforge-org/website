@@ -154,8 +154,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 11.5.1 • [Train: stable]
 
-- chore(helm): update chart common 28.16.5 → 28.16.6 (#39145) • [`827fa3c`](https://github.com/trueforge-org/truecharts/commit/827fa3cc55b82b3d292228d8b331331b863ffb3b) • [@TrueCharts Bot] (2025-09-07)
 - chore: fix links • [`1c28a12`](https://github.com/trueforge-org/truecharts/commit/1c28a127898e7db3a350e07a42810acd8eaa4c30) • [@Kjeld Schouten] (2025-09-07)
+- chore(helm): update chart common 28.16.5 → 28.16.6 (#39145) • [`827fa3c`](https://github.com/trueforge-org/truecharts/commit/827fa3cc55b82b3d292228d8b331331b863ffb3b) • [@TrueCharts Bot] (2025-09-07)
 
 ## 11.5.0 • [Train: stable]
 
@@ -654,8 +654,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.1.3 • [Train: stable]
 
-- chore(deps): update container image common to v17.2.19@4ebb688 by renovate (#16733) • [`026bebd`](https://github.com/trueforge-org/truecharts/commit/026bebde2d90a467a43b46a6b889eca2cb01cf3f) • [@TrueCharts Bot] (2024-01-01)
 - chore(questions): remove non-existent template refs (#16738) • [`1e0dbf1`](https://github.com/trueforge-org/truecharts/commit/1e0dbf15e95afae40c7b3a47b2d38e0562323270) • [@Stavros Kois] (2024-01-01)
+- chore(deps): update container image common to v17.2.19@4ebb688 by renovate (#16733) • [`026bebd`](https://github.com/trueforge-org/truecharts/commit/026bebde2d90a467a43b46a6b889eca2cb01cf3f) • [@TrueCharts Bot] (2024-01-01)
 
 ## 5.1.2 • [Train: stable]
 
@@ -667,8 +667,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.1.0 • [Train: stable]
 
-- Commit daily changes • [`92663fd`](https://github.com/trueforge-org/truecharts/commit/92663fd20508f148c3750c79de3f37f44530a18a) • [@TrueCharts-Bot] (2024-01-01)
 - chore: move everything to consume OCI-hosted common-chart dependency • [`0eae972`](https://github.com/trueforge-org/truecharts/commit/0eae972794d2fe164dc298993e899508639d2f2b) • [@Kjeld Schouten] (2024-01-01)
+- Commit daily changes • [`92663fd`](https://github.com/trueforge-org/truecharts/commit/92663fd20508f148c3750c79de3f37f44530a18a) • [@TrueCharts-Bot] (2024-01-01)
 - chore(docs): lints some docs, uses front-matter instead of # h1, and fix list items in changelog (#16589) • [`12b5c56`](https://github.com/trueforge-org/truecharts/commit/12b5c56b241e801486c6cedab0b783949449048e) • [@Stavros Kois] (2023-12-31)
 - chore(docs): standardize ./img references (#16704) • [`6986224`](https://github.com/trueforge-org/truecharts/commit/698622495ce0dccf9f0dbbb324d5df196d3eba3c) • [@Stavros Kois] (2023-12-31)
 - chore(deps): update helm general minor by renovate (#16579) • [`9eddcd9`](https://github.com/trueforge-org/truecharts/commit/9eddcd99d3acbcf55a2f3e67b046a8f288d56a59) • [@TrueCharts Bot] (2023-12-30)
@@ -751,8 +751,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - Commit daily changes • [`5c47316`](https://github.com/trueforge-org/truecharts/commit/5c47316bce202cf69670b425b3335578a2730504) • [@TrueCharts-Bot] (2023-12-16)
 - Commit daily changes • [`a75ade9`](https://github.com/trueforge-org/truecharts/commit/a75ade9cecec94cdb45441704c760cdb51054a57) • [@TrueCharts-Bot] (2023-12-15)
-- Commit daily changes • [`836a202`](https://github.com/trueforge-org/truecharts/commit/836a202222e70213ddd12fcecb0b4a74bfa88631) • [@TrueCharts-Bot] (2023-12-14)
 - Merge branch &#39;master&#39; of github.com:truecharts/charts • [`d85f6a7`](https://github.com/trueforge-org/truecharts/commit/d85f6a76ea5ed62e71514fc874b4b8b1e6c73230) • [@Kjeld Schouten] (2023-12-14)
+- Commit daily changes • [`836a202`](https://github.com/trueforge-org/truecharts/commit/836a202222e70213ddd12fcecb0b4a74bfa88631) • [@TrueCharts-Bot] (2023-12-14)
 - chore(wizarr) downgrade image to 3.5.1 (#16020) • [`8ee0332`](https://github.com/trueforge-org/truecharts/commit/8ee03324ad7a65b3e7df6cdb07dd5699d1771dd9) • [@Xstar97TheNoob] (2023-12-13)
 
 ## 3.0.14 • [Train: stable]
@@ -846,10 +846,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 - feat: hide advanced ingress options behind checbox (#9203) • [`de12a7e`](https://github.com/trueforge-org/truecharts/commit/de12a7e49a8e934cf5f9b53e11ac4e44bed1fcfc) • [@Kjeld Schouten] (2023-05-28)
 - fix: fix mistakes on questions.yaml • [`8cb036a`](https://github.com/trueforge-org/truecharts/commit/8cb036ac171e8787140d492d724f5a55e8321073) • [@Kjeld Schouten-Lebbing] (2023-05-22)
 - Commit daily changes • [`94c00b8`](https://github.com/trueforge-org/truecharts/commit/94c00b8c6fb66a5bb068f18fb26cd62297f35359) • [@TrueCharts-Bot] (2023-03-24)
-- update security context questions • [`893b55d`](https://github.com/trueforge-org/truecharts/commit/893b55dc56a6a658d921b59ec48696c23cb21926) • [@Kjeld Schouten-Lebbing] (2023-03-01)
 - adapt workload and container questions for all apps • [`3c47107`](https://github.com/trueforge-org/truecharts/commit/3c471071cc485e386195989e12a1c45af51d67ac) • [@Kjeld Schouten-Lebbing] (2023-03-01)
-- Merge pull request #7733 from truecharts/renovate/tccr.io-truecharts-wizarr-2.0.x • [`6b94b34`](https://github.com/trueforge-org/truecharts/commit/6b94b343a3f11cfd7f3acb4bbbdf5e7bf3e96ade) • [@TrueCharts Bot] (2023-02-27)
+- update security context questions • [`893b55d`](https://github.com/trueforge-org/truecharts/commit/893b55dc56a6a658d921b59ec48696c23cb21926) • [@Kjeld Schouten-Lebbing] (2023-03-01)
 - Commit bumped Chart Version • [`477c1c6`](https://github.com/trueforge-org/truecharts/commit/477c1c69ea98293d40b4cbb5a869c58cae7c80e8) • [@TrueCharts-Bot] (2023-02-27)
+- Merge pull request #7733 from truecharts/renovate/tccr.io-truecharts-wizarr-2.0.x • [`6b94b34`](https://github.com/trueforge-org/truecharts/commit/6b94b343a3f11cfd7f3acb4bbbdf5e7bf3e96ade) • [@TrueCharts Bot] (2023-02-27)
 
 ## 1.0.7 • [Train: incubator]
 
@@ -866,15 +866,15 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.5 • [Train: incubator]
 
-- chore(deps): update container image tccr.io/truecharts/wizarr to v2.0.1 • [`42ed66c`](https://github.com/trueforge-org/truecharts/commit/42ed66ce20f31639a91df11e193503510a2447bd) • [@TrueCharts-Admin] (2023-02-25)
 - Commit bumped Chart Version • [`e7a4db2`](https://github.com/trueforge-org/truecharts/commit/e7a4db2dd9cbd613fd4405159ab2e7295949c61b) • [@TrueCharts-Bot] (2023-02-25)
 - Merge pull request #7556 from truecharts/renovate/tccr.io-truecharts-wizarr-2.x • [`fe7125e`](https://github.com/trueforge-org/truecharts/commit/fe7125eed66406a2e761e9e3889059f8e8a12b65) • [@TrueCharts Bot] (2023-02-25)
+- chore(deps): update container image tccr.io/truecharts/wizarr to v2.0.1 • [`42ed66c`](https://github.com/trueforge-org/truecharts/commit/42ed66ce20f31639a91df11e193503510a2447bd) • [@TrueCharts-Admin] (2023-02-25)
 
 ## 1.0.4 • [Train: incubator]
 
 - chore(deps): update container image tccr.io/truecharts/wizarr to v2.0.0 • [`de204c5`](https://github.com/trueforge-org/truecharts/commit/de204c54a368255124a12665679c69378a585322) • [@TrueCharts-Admin] (2023-02-25)
-- Commit bumped Chart Version • [`eb616dd`](https://github.com/trueforge-org/truecharts/commit/eb616dd9ad7c529e6e515e49681ade4922bf2113) • [@TrueCharts-Bot] (2023-02-23)
 - Merge pull request #7507 from truecharts/renovate/tccr.io-truecharts-wizarr-1.6.x • [`bd6b7cd`](https://github.com/trueforge-org/truecharts/commit/bd6b7cd6293489f5583fabdc5d47ead72f30c01e) • [@TrueCharts Bot] (2023-02-23)
+- Commit bumped Chart Version • [`eb616dd`](https://github.com/trueforge-org/truecharts/commit/eb616dd9ad7c529e6e515e49681ade4922bf2113) • [@TrueCharts-Bot] (2023-02-23)
 
 ## 1.0.3 • [Train: incubator]
 
@@ -923,17 +923,17 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - Commit daily changes • [`adda47b`](https://github.com/trueforge-org/truecharts/commit/adda47bb6418f0deda603b30b02d21c6978f93a0) • [@TrueCharts-Bot] (2023-02-01)
 - Commit daily changes • [`ed743f6`](https://github.com/trueforge-org/truecharts/commit/ed743f6c5c2534c39143d6f822d19bb47913ecd2) • [@TrueCharts-Bot] (2023-02-01)
-- Commit daily changes • [`3f63d20`](https://github.com/trueforge-org/truecharts/commit/3f63d20af933f7fb1f1dc555ed585f475a4eb92f) • [@TrueCharts-Bot] (2023-01-31)
 - Commit daily changes • [`dfff570`](https://github.com/trueforge-org/truecharts/commit/dfff570b9c1a46b2b8a4178626c6b4299be83e22) • [@TrueCharts-Bot] (2023-01-31)
 - Commit daily changes • [`ed66075`](https://github.com/trueforge-org/truecharts/commit/ed660759772ba0148d1e6de709596011b2ceee63) • [@TrueCharts-Bot] (2023-01-31)
 - Commit daily changes • [`0fb22dd`](https://github.com/trueforge-org/truecharts/commit/0fb22dd1e2a9fe895502d16547469e94a3d706c9) • [@TrueCharts-Bot] (2023-01-31)
+- Commit daily changes • [`3f63d20`](https://github.com/trueforge-org/truecharts/commit/3f63d20af933f7fb1f1dc555ed585f475a4eb92f) • [@TrueCharts-Bot] (2023-01-31)
 - chore(deps): update helm general non-major (#5856) • [`a9910a4`](https://github.com/trueforge-org/truecharts/commit/a9910a47b28520db47f2c41fa3cf59811147c1c7) • [@TrueCharts Bot] (2022-12-27)
 
 ## 0.0.4 • [Train: incubator]
 
+- Commit daily changes • [`d478e84`](https://github.com/trueforge-org/truecharts/commit/d478e848ceecae24ece77717cb807e86b330b95a) • [@TrueCharts-Bot] (2022-12-26)
 - chore(deps): update helm general non-major (#5839) • [`3a29755`](https://github.com/trueforge-org/truecharts/commit/3a29755f395e41b8dee8c6f2802243869346e7ea) • [@TrueCharts Bot] (2022-12-26)
 - Commit daily changes • [`927ca59`](https://github.com/trueforge-org/truecharts/commit/927ca5989df40c942f283bbf39d8b61c5e6505c9) • [@TrueCharts-Bot] (2022-12-26)
-- Commit daily changes • [`d478e84`](https://github.com/trueforge-org/truecharts/commit/d478e848ceecae24ece77717cb807e86b330b95a) • [@TrueCharts-Bot] (2022-12-26)
 
 ## 0.0.3 • [Train: incubator]
 
@@ -941,8 +941,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.2 • [Train: incubator]
 
-- Commit bumped Chart Version • [`39c50fe`](https://github.com/trueforge-org/truecharts/commit/39c50fefd0cce4f6c6696a41f3b62b2c28732fcf) • [@TrueCharts-Bot] (2022-12-19)
 - chore(deps): update helm general non-major • [`6485adc`](https://github.com/trueforge-org/truecharts/commit/6485adc96ab6dfb4c81b36735337a526d05322eb) • [@TrueCharts-Admin] (2022-12-19)
+- Commit bumped Chart Version • [`39c50fe`](https://github.com/trueforge-org/truecharts/commit/39c50fefd0cce4f6c6696a41f3b62b2c28732fcf) • [@TrueCharts-Bot] (2022-12-19)
 
 ## 0.0.1 • [Train: incubator]
 
