@@ -2,7 +2,7 @@
 title: comet
 ---
 
-![Version: 4.11.13](https://img.shields.io/badge/Version-4.11.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 4.11.14](https://img.shields.io/badge/Version-4.11.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 comet self-hosted
 
