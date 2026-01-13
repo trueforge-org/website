@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 0.2.1 • [Train: incubator]
+
+- fix(tracearr): update image ghcr.io/connorgallopo/tracearr 1.4.0 → 1.4.3 (#43504) • [`8d78517`](https://github.com/trueforge-org/truecharts/commit/8d78517644acf8f84714986cba36158a4c15755b) • [@TrueCharts Bot] (2026-01-13)
+
 ## 0.2.0 • [Train: incubator]
 
 - feat(tracearr): update image ghcr.io/connorgallopo/tracearr 1.3.9 → 1.4.0 (#43294) • [`0f54bdb`](https://github.com/trueforge-org/truecharts/commit/0f54bdb221de3f92229925f6cf06277e01dfc292) • [@TrueCharts Bot] (2025-12-31)

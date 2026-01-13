@@ -11,6 +11,14 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.13.8 • [Train: stable]
+
+- chore(minecraft-gate): update image ghcr.io/minekube/gate digest to c208350 (#43550) • [`c5d5eb2`](https://github.com/trueforge-org/truecharts/commit/c5d5eb292747875777f80ff19f5b036c0bf3d89e) • [@TrueCharts Bot] (2026-01-13)
+
+## 2.13.7 • [Train: stable]
+
+- chore(minecraft-gate): update image ghcr.io/minekube/gate digest to cb4b26d (#43437) • [`65b3587`](https://github.com/trueforge-org/truecharts/commit/65b358750cde6a3a8f729a4ae5d667843c74d7dc) • [@TrueCharts Bot] (2026-01-07)
+
 ## 2.13.6 • [Train: stable]
 
 - fix(helm-deps): update chart common 28.29.16 → 28.29.17 (#43139) • [`38a365c`](https://github.com/trueforge-org/truecharts/commit/38a365cbb0ada824b1f2c00678684dcbe5936d40) • [@TrueCharts Bot] (2025-12-24)

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.11.12 • [Train: stable]
+
+- chore(openwebrxplus): update image docker.io/slechev/openwebrxplus-softmbe digest to 2b49a13 (#43453) • [`818fdda`](https://github.com/trueforge-org/truecharts/commit/818fddac709e02e386e3b4c8a270a05c423585c5) • [@TrueCharts Bot] (2026-01-13)
+
 ## 2.11.11 • [Train: stable]
 
 - fix(openwebrxplus): update image docker.io/slechev/openwebrxplus-softmbe 1.2.102 → 1.2.103 (#43238) • [`bbae61e`](https://github.com/trueforge-org/truecharts/commit/bbae61efe1fbf17255a34326f322fe8d7b1b4a0c) • [@TrueCharts Bot] (2025-12-29)
