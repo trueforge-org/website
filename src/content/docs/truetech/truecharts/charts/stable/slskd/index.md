@@ -2,7 +2,7 @@
 title: slskd
 ---
 
-![Version: 4.15.7](https://img.shields.io/badge/Version-4.15.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.24.2](https://img.shields.io/badge/AppVersion-0.24.2-informational?style=flat-square)
+![Version: 4.15.9](https://img.shields.io/badge/Version-4.15.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.24.3](https://img.shields.io/badge/AppVersion-0.24.3-informational?style=flat-square)
 
 Slskd is a modern client-server application for the Soulseek file sharing network.
 

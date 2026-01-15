@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.13.14 • [Train: stable]
+
+- fix(helm-deps): update chart common 28.29.17 → 28.29.18 (#43630) • [`e34cb1b`](https://github.com/trueforge-org/truecharts/commit/e34cb1b6971df52ea12410d994ed34976b7fdc08) • [@TrueCharts Bot] (2026-01-15)
+
 ## 2.13.13 • [Train: stable]
 
 - chore(orcaslicer): update image ghcr.io/linuxserver/orcaslicer digest to 6a6968e (#43590) • [`0c101dc`](https://github.com/trueforge-org/truecharts/commit/0c101dcb3e24c53b61f51ec1217547027cc88649) • [@TrueCharts Bot] (2026-01-14)

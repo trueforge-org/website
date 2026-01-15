@@ -2,7 +2,7 @@
 title: myspeed
 ---
 
-![Version: 1.13.5](https://img.shields.io/badge/Version-1.13.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.0.9](https://img.shields.io/badge/AppVersion-1.0.9-informational?style=flat-square)
+![Version: 1.13.6](https://img.shields.io/badge/Version-1.13.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.0.9](https://img.shields.io/badge/AppVersion-1.0.9-informational?style=flat-square)
 
 Speedtest automation made simple.
 

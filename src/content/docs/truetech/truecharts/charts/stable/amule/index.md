@@ -2,7 +2,7 @@
 title: amule
 ---
 
-![Version: 11.13.5](https://img.shields.io/badge/Version-11.13.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.3.3](https://img.shields.io/badge/AppVersion-2.3.3-informational?style=flat-square)
+![Version: 11.13.6](https://img.shields.io/badge/Version-11.13.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.3.3](https://img.shields.io/badge/AppVersion-2.3.3-informational?style=flat-square)
 
 aMule is an eMule-like client for the eDonkey and Kademlia networks.
 

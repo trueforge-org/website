@@ -2,7 +2,7 @@
 title: flashpaper
 ---
 
-![Version: 5.13.5](https://img.shields.io/badge/Version-5.13.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: master](https://img.shields.io/badge/AppVersion-master-informational?style=flat-square)
+![Version: 5.13.6](https://img.shields.io/badge/Version-5.13.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: master](https://img.shields.io/badge/AppVersion-master-informational?style=flat-square)
 
 One-time encrypted password/secret sharing
 

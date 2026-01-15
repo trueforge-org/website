@@ -2,7 +2,7 @@
 title: mosdns
 ---
 
-![Version: 12.13.5](https://img.shields.io/badge/Version-12.13.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.3.3](https://img.shields.io/badge/AppVersion-5.3.3-informational?style=flat-square)
+![Version: 12.13.6](https://img.shields.io/badge/Version-12.13.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.3.3](https://img.shields.io/badge/AppVersion-5.3.3-informational?style=flat-square)
 
 A location-based pluggable DNS forwarder/splitter.
 

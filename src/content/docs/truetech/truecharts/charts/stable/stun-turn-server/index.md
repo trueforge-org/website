@@ -2,7 +2,7 @@
 title: stun-turn-server
 ---
 
-![Version: 9.13.6](https://img.shields.io/badge/Version-9.13.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 9.13.7](https://img.shields.io/badge/Version-9.13.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 This is a Basic STUN & TURN server that was mainly created for Nextcloud Talk.
 

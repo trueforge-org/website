@@ -2,7 +2,7 @@
 title: komga
 ---
 
-![Version: 16.14.6](https://img.shields.io/badge/Version-16.14.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.23.6](https://img.shields.io/badge/AppVersion-1.23.6-informational?style=flat-square)
+![Version: 16.14.7](https://img.shields.io/badge/Version-16.14.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.23.6](https://img.shields.io/badge/AppVersion-1.23.6-informational?style=flat-square)
 
 A comics/mangas server to serve/stream pages via API
 

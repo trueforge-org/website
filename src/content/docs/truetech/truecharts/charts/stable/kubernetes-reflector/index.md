@@ -2,7 +2,7 @@
 title: kubernetes-reflector
 ---
 
-![Version: 7.13.9](https://img.shields.io/badge/Version-7.13.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 9.1.45](https://img.shields.io/badge/AppVersion-9.1.45-informational?style=flat-square)
+![Version: 7.13.10](https://img.shields.io/badge/Version-7.13.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 9.1.45](https://img.shields.io/badge/AppVersion-9.1.45-informational?style=flat-square)
 
 Kubernetes-Reflector is a Kubernetes addon designed to monitor and reflect changes to secrets and configmaps across namespaces
 

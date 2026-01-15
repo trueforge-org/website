@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.16.3 • [Train: stable]
+
+- fix(helm-deps): update chart common 28.29.17 → 28.29.18 (#43630) • [`e34cb1b`](https://github.com/trueforge-org/truecharts/commit/e34cb1b6971df52ea12410d994ed34976b7fdc08) • [@TrueCharts Bot] (2026-01-15)
+
 ## 1.16.2 • [Train: stable]
 
 - fix(openobserve): update image public.ecr.aws/zinclabs/openobserve v0.40.1 → v0.40.4 (#43476) • [`3436a8d`](https://github.com/trueforge-org/truecharts/commit/3436a8d569745b3b4a2de6662c1dbbc87b85dd1f) • [@TrueCharts Bot] (2026-01-13)

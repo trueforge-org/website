@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.15.6 • [Train: stable]
+
+- fix(helm-deps): update chart common 28.29.17 → 28.29.18 (#43630) • [`e34cb1b`](https://github.com/trueforge-org/truecharts/commit/e34cb1b6971df52ea12410d994ed34976b7fdc08) • [@TrueCharts Bot] (2026-01-15)
+
 ## 3.15.5 • [Train: stable]
 
 - fix(helm-deps): update chart common 28.29.16 → 28.29.17 (#43139) • [`38a365c`](https://github.com/trueforge-org/truecharts/commit/38a365cbb0ada824b1f2c00678684dcbe5936d40) • [@TrueCharts Bot] (2025-12-24)
@@ -331,8 +335,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.6 • [Train: incubator]
 
-- Update Chart.yaml • [`cd22d77`](https://github.com/trueforge-org/truecharts/commit/cd22d7797f9481eb35738a333dbfdeaabe57bea4) • [@Kjeld Schouten] (2024-05-19)
 - Update common.yaml • [`ed24534`](https://github.com/trueforge-org/truecharts/commit/ed245346e458de6307e2df5b5f964172ea33830e) • [@Kjeld Schouten] (2024-05-19)
+- Update Chart.yaml • [`cd22d77`](https://github.com/trueforge-org/truecharts/commit/cd22d7797f9481eb35738a333dbfdeaabe57bea4) • [@Kjeld Schouten] (2024-05-19)
 
 ## 1.0.5 • [Train: incubator]
 

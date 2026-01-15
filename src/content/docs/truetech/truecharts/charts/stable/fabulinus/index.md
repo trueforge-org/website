@@ -2,7 +2,7 @@
 title: fabulinus
 ---
 
-![Version: 5.13.5](https://img.shields.io/badge/Version-5.13.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest-cpu](https://img.shields.io/badge/AppVersion-latest-cpu-informational?style=flat-square)
+![Version: 5.13.6](https://img.shields.io/badge/Version-5.13.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest-cpu](https://img.shields.io/badge/AppVersion-latest-cpu-informational?style=flat-square)
 
 Fabulinus is the server component of the TitanML Takeoff server.
 
