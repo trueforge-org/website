@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.13.7 • [Train: stable]
+
+- chore(rustdesk): update image docker.io/rustdesk/rustdesk-server-s6 digest to dcf800f (#43592) • [`373c4c3`](https://github.com/trueforge-org/truecharts/commit/373c4c398c04d361e65dc8efe7cb3dcfd48a423a) • [@TrueCharts Bot] (2026-01-14)
+
 ## 2.13.6 • [Train: stable]
 
 - fix(rustdesk): update image docker.io/rustdesk/rustdesk-server-s6 1.1.14 → 1.1.15 (#43526) • [`9174233`](https://github.com/trueforge-org/truecharts/commit/9174233c479b98ca3e0ece8caf93c4ce585ff30a) • [@TrueCharts Bot] (2026-01-13)

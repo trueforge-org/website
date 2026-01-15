@@ -2,7 +2,7 @@
 title: strapi
 ---
 
-![Version: 17.23.4](https://img.shields.io/badge/Version-17.23.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.33.2](https://img.shields.io/badge/AppVersion-5.33.2-informational?style=flat-square)
+![Version: 17.23.5](https://img.shields.io/badge/Version-17.23.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.33.3](https://img.shields.io/badge/AppVersion-5.33.3-informational?style=flat-square)
 
 Open-source headless CMS. JavaScript, fully customizable and developer-first.
 

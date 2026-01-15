@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.2.0 • [Train: stable]
+
+- feat(agregarr): update image ghcr.io/agregarr/agregarr 2.1.0 → v2.2.0 (#43619) • [`102a8ea`](https://github.com/trueforge-org/truecharts/commit/102a8ea113d92e4c9c31c2c3b5cd1a12aba00969) • [@TrueCharts Bot] (2026-01-14)
+
 ## 2.1.0 • [Train: stable]
 
 - feat(agregarr): update image ghcr.io/agregarr/agregarr 2.0.0 → 2.1.0 (#43332) • [`4aa5120`](https://github.com/trueforge-org/truecharts/commit/4aa5120c4f09a7be01baafacdf1a3b5b5d0fdcd8) • [@TrueCharts Bot] (2026-01-02)

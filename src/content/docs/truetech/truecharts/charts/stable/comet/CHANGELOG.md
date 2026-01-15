@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 4.11.15 • [Train: stable]
+
+- chore(comet): update image ghcr.io/g0ldyy/comet digest to a95e85b (#43492) • [`093c5f3`](https://github.com/trueforge-org/truecharts/commit/093c5f36ffdc7aa9deb2614db6484ad9f4606422) • [@TrueCharts Bot] (2026-01-13)
+
 ## 4.11.14 • [Train: stable]
 
 - chore(comet): update image ghcr.io/g0ldyy/comet digest to a81965a (#43420) • [`70b9fc6`](https://github.com/trueforge-org/truecharts/commit/70b9fc6737b65123da1890509e123b3db8b0f04e) • [@TrueCharts Bot] (2026-01-06)
@@ -69,8 +73,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.11.0 • [Train: stable]
 
-- fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
 - chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
+- fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
 
 ## 4.10.1 • [Train: stable]
 

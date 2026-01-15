@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 0.10.0 • [Train: incubator]
+
+- feat(dispatcharr): update image docker.io/dispatcharr/dispatcharr 0.16.0 → 0.17.0 (#43600) • [`b71bcb2`](https://github.com/trueforge-org/truecharts/commit/b71bcb27cd76c88ab248c9aec381d403aa17aef1) • [@TrueCharts Bot] (2026-01-14)
+
 ## 0.9.0 • [Train: incubator]
 
 - feat(dispatcharr): update image docker.io/dispatcharr/dispatcharr 0.15.1 → 0.16.0 (#43377) • [`4b09f40`](https://github.com/trueforge-org/truecharts/commit/4b09f401421b1036663d9d1f6eae8d3159ff4b94) • [@TrueCharts Bot] (2026-01-04)
@@ -66,9 +70,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.5.0 • [Train: incubator]
 
-- chore(helm): pin dependencies (#42168) • [`52ef92f`](https://github.com/trueforge-org/truecharts/commit/52ef92f785480a7e270d96fce950eea5609a990c) • [@TrueCharts Bot] (2025-11-27)
 - fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
 - chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
+- chore(helm): pin dependencies (#42168) • [`52ef92f`](https://github.com/trueforge-org/truecharts/commit/52ef92f785480a7e270d96fce950eea5609a990c) • [@TrueCharts Bot] (2025-11-27)
 
 ## 0.4.0 • [Train: incubator]
 

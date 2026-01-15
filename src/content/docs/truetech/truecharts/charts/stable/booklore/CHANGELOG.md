@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.10.0 • [Train: stable]
+
+- feat(booklore): update image ghcr.io/booklore-app/booklore v1.16.5 → v1.17.0 (#43505) • [`a8b4e23`](https://github.com/trueforge-org/truecharts/commit/a8b4e23bc07687c8060edd856a55487ee0784ea9) • [@TrueCharts Bot] (2026-01-13)
+
 ## 1.9.6 • [Train: stable]
 
 - fix(booklore): update image ghcr.io/booklore-app/booklore v1.16.4 → v1.16.5 (#43401) • [`5467a75`](https://github.com/trueforge-org/truecharts/commit/5467a754dc85a5474b203c6e00db6975a2b75d72) • [@TrueCharts Bot] (2026-01-05)
@@ -46,8 +50,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.8.1 • [Train: stable]
 
-- fix(helm-deps): update chart common 28.29.11 → 28.29.16 (#43001) • [`6f5ada5`](https://github.com/trueforge-org/truecharts/commit/6f5ada5ffe7f3b9323f579b1604d5bbf432b3964) • [@TrueCharts Bot] (2025-12-23)
 - fix(helm-deps): update chart mariadb 17.11.2 → 17.11.3 (#43002) • [`a07b8e8`](https://github.com/trueforge-org/truecharts/commit/a07b8e8bee9b7bcbc34552375df99349ea19f7d4) • [@TrueCharts Bot] (2025-12-23)
+- fix(helm-deps): update chart common 28.29.11 → 28.29.16 (#43001) • [`6f5ada5`](https://github.com/trueforge-org/truecharts/commit/6f5ada5ffe7f3b9323f579b1604d5bbf432b3964) • [@TrueCharts Bot] (2025-12-23)
 
 ## 1.8.0 • [Train: stable]
 
@@ -55,8 +59,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.7.2 • [Train: stable]
 
-- chore(helm): update chart common 28.29.10 → 28.29.11 (#42782) • [`8c3a695`](https://github.com/trueforge-org/truecharts/commit/8c3a695331cb4630af7a7196268e59cb5929d995) • [@TrueCharts Bot] (2025-12-13)
 - chore(helm): update chart mariadb 17.11.1 → 17.11.2 (#42783) • [`f504d55`](https://github.com/trueforge-org/truecharts/commit/f504d55241e5ca313e1d8fcb89994c7e72e005de) • [@TrueCharts Bot] (2025-12-13)
+- chore(helm): update chart common 28.29.10 → 28.29.11 (#42782) • [`8c3a695`](https://github.com/trueforge-org/truecharts/commit/8c3a695331cb4630af7a7196268e59cb5929d995) • [@TrueCharts Bot] (2025-12-13)
 
 ## 1.7.1 • [Train: stable]
 

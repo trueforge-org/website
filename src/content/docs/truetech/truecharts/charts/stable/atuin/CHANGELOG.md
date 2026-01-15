@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 6.18.0 • [Train: stable]
+
+- feat(atuin): update image ghcr.io/atuinsh/atuin v18.10.0 → v18.11.0 (#43548) • [`e6c032e`](https://github.com/trueforge-org/truecharts/commit/e6c032ed81612809ed225cb6f285bd0b8535a91d) • [@TrueCharts Bot] (2026-01-13)
+
 ## 6.17.5 • [Train: stable]
 
 - fix(helm-deps): update chart common 28.29.16 → 28.29.17 (#43139) • [`38a365c`](https://github.com/trueforge-org/truecharts/commit/38a365cbb0ada824b1f2c00678684dcbe5936d40) • [@TrueCharts Bot] (2025-12-24)
