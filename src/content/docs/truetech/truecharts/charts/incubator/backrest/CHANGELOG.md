@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 0.2.0 • [Train: incubator]
+
+- feat(backrest): update image docker.io/garethgeorge/backrest v1.10.1 → v1.11.1 (#43665) • [`1629ce8`](https://github.com/trueforge-org/truecharts/commit/1629ce8a8613afadf7c865ecd0f97459c821f9e5) • [@TrueCharts Bot] (2026-01-16)
+
 ## 0.1.2 • [Train: incubator]
 
 - fix(helm-deps): update chart common 28.29.17 → 28.29.18 (#43630) • [`e34cb1b`](https://github.com/trueforge-org/truecharts/commit/e34cb1b6971df52ea12410d994ed34976b7fdc08) • [@TrueCharts Bot] (2026-01-15)
