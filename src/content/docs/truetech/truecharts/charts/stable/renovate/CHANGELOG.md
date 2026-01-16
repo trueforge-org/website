@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 4.25.0 • [Train: stable]
+
+- feat(renovate): update image oci.trueforge.org/containerforge/renovate 42.52.2 → 42.83.0 (#43688) • [`9587281`](https://github.com/trueforge-org/truecharts/commit/95872816c670393a24e9c36ed6da2b80759b1f71) • [@TrueCharts Bot] (2026-01-16)
+
 ## 4.24.5 • [Train: stable]
 
 - fix(helm-deps): update chart common 28.29.17 → 28.29.18 (#43630) • [`e34cb1b`](https://github.com/trueforge-org/truecharts/commit/e34cb1b6971df52ea12410d994ed34976b7fdc08) • [@TrueCharts Bot] (2026-01-15)
@@ -247,9 +251,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.9.0 • [Train: stable]
 
-- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
 - more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
+- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 
 ## 2.8.0 • [Train: stable]
 
@@ -379,15 +383,15 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.26.3 • [Train: stable]
 
-- Commit daily changes • [`81131bc`](https://github.com/trueforge-org/truecharts/commit/81131bc7f2a3f63487ba9bff2396ea05abbba2ba) • [@TrueCharts-Bot] (2025-04-10)
 - chore(ci): use BETA 17 for CI • [`bfa0e23`](https://github.com/trueforge-org/truecharts/commit/bfa0e23468e297bb4f003badbca0951715613d78) • [@Kjeld Schouten] (2025-04-10)
+- Commit daily changes • [`81131bc`](https://github.com/trueforge-org/truecharts/commit/81131bc7f2a3f63487ba9bff2396ea05abbba2ba) • [@TrueCharts-Bot] (2025-04-10)
 - fix(renovate): bump • [`8fed901`](https://github.com/trueforge-org/truecharts/commit/8fed901336061fb25d9c9a506867579999208b53) • [@Kjeld Schouten] (2025-04-09)
 
 ## 1.26.2 • [Train: stable]
 
+- hmm • [`2ec6932`](https://github.com/trueforge-org/truecharts/commit/2ec6932556467294b337207fc3a5ea5993806f19) • [@Kjeld Schouten] (2025-04-09)
 - fix(renovate): use our container BETA • [`afd99cc`](https://github.com/trueforge-org/truecharts/commit/afd99cc2921c7e748207a8a718713c6bc851103c) • [@Kjeld Schouten] (2025-04-09)
 - chore: update clustertool version everywhere • [`bb99174`](https://github.com/trueforge-org/truecharts/commit/bb991743f2c9d580bc4097334aebe393333dc6d7) • [@Kjeld Schouten] (2025-04-09)
-- hmm • [`2ec6932`](https://github.com/trueforge-org/truecharts/commit/2ec6932556467294b337207fc3a5ea5993806f19) • [@Kjeld Schouten] (2025-04-09)
 
 ## 1.26.1 • [Train: stable]
 

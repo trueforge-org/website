@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.24.2 • [Train: stable]
+
+- fix(peanut): update image docker.io/brandawg93/peanut 5.21.0 → 5.21.1 (#43681) • [`2653399`](https://github.com/trueforge-org/truecharts/commit/2653399b48410d6089a773ab1f62f3dcdc7a0258) • [@TrueCharts Bot] (2026-01-16)
+
 ## 8.24.1 • [Train: stable]
 
 - fix(helm-deps): update chart common 28.29.17 → 28.29.18 (#43630) • [`e34cb1b`](https://github.com/trueforge-org/truecharts/commit/e34cb1b6971df52ea12410d994ed34976b7fdc08) • [@TrueCharts Bot] (2026-01-15)
@@ -70,8 +74,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 8.18.0 • [Train: stable]
 
-- chore(helm): update image docker.io/brandawg93/peanut 5.16.0 → 5.17.0 (#41643) • [`dfb0965`](https://github.com/trueforge-org/truecharts/commit/dfb0965303c6c6949a52ecca1ced1cd4be54f406) • [@TrueCharts Bot] (2025-11-12)
 - Commit daily changes • [`0accf63`](https://github.com/trueforge-org/truecharts/commit/0accf6365ee2c01479d21a5a62bf4ee11d4245b3) • [@TrueCharts-Bot] (2025-11-12)
+- chore(helm): update image docker.io/brandawg93/peanut 5.16.0 → 5.17.0 (#41643) • [`dfb0965`](https://github.com/trueforge-org/truecharts/commit/dfb0965303c6c6949a52ecca1ced1cd4be54f406) • [@TrueCharts Bot] (2025-11-12)
 
 ## 8.17.3 • [Train: stable]
 
@@ -123,8 +127,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 8.11.1 • [Train: stable]
 
-- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 - Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
+- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 
 ## 8.11.0 • [Train: stable]
 
@@ -154,8 +158,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 8.8.3 • [Train: stable]
 
-- chore: fix links • [`1c28a12`](https://github.com/trueforge-org/truecharts/commit/1c28a127898e7db3a350e07a42810acd8eaa4c30) • [@Kjeld Schouten] (2025-09-07)
 - chore(helm): update chart common 28.16.5 → 28.16.6 (#39145) • [`827fa3c`](https://github.com/trueforge-org/truecharts/commit/827fa3cc55b82b3d292228d8b331331b863ffb3b) • [@TrueCharts Bot] (2025-09-07)
+- chore: fix links • [`1c28a12`](https://github.com/trueforge-org/truecharts/commit/1c28a127898e7db3a350e07a42810acd8eaa4c30) • [@Kjeld Schouten] (2025-09-07)
 
 ## 8.8.2 • [Train: stable]
 
