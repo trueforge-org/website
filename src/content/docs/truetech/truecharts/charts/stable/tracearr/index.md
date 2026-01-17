@@ -1,17 +1,17 @@
 ---
-title: dispatcharr
+title: tracearr
 ---
 
-![Version: 0.10.1](https://img.shields.io/badge/Version-0.10.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.17.0](https://img.shields.io/badge/AppVersion-0.17.0-informational?style=flat-square)
+![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.4.5](https://img.shields.io/badge/AppVersion-1.4.5-informational?style=flat-square)
 
-Your Ultimate IPTV & Stream Management Companion
+Streaming access manager for Plex, Jellyfin, and Emby with account sharing detection.
 
 ## Chart Sources
 
-- https://github.com/Dispatcharr/Dispatcharr
-- https://github.com/Dispatcharr/Dispatcharr/blob/main/docker/docker-compose.aio.yml
-- https://github.com/trueforge-org/truecharts/tree/master/charts/incubator/dispatcharr
-- https://hub.docker.com/r/dispatcharr/dispatcharr
+- https://ghcr.io/connorgallopo/tracearr
+- https://github.com/connorgallopo/Tracearr
+- https://github.com/connorgallopo/Tracearr/blob/main/docker/docker-compose.yml
+- https://github.com/trueforge-org/truecharts/tree/master/charts/stable/tracearr
 
 ## Available Documentation
 
@@ -24,7 +24,7 @@ Your Ultimate IPTV & Stream Management Companion
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/incubator/dispatcharr)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/incubator/tracearr)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 
@@ -34,7 +34,7 @@ For more information about this Chart, please check the docs on the TrueCharts [
 
 To install TrueCharts Helm charts using Helm, you can use our OCI Repository.
 
-`helm install mychart oci://oci.trueforge.org/truecharts/dispatcharr`
+`helm install mychart oci://oci.trueforge.org/truecharts/tracearr`
 
 For more information on how to install TrueCharts Helm charts, checkout the [instructions on the website](https://trueforge.org/truecharts/guides/)
 
@@ -42,12 +42,12 @@ For more information on how to install TrueCharts Helm charts, checkout the [ins
 
 All our charts have dedicated documentation pages.
 The documentation for this chart can be found here:
-https://trueforge.org/truecharts/incubator/dispatcharr
+https://trueforge.org/truecharts/incubator/tracearr
 
 ### Configuration Options
 
 To view the chart specific options, please view Values.yaml included in the chart.
-The most recent version of which, is available here: https://github.com/trueforge-org/truecharts/blob/master/charts/incubator/dispatcharr/values.yaml
+The most recent version of which, is available here: https://github.com/trueforge-org/truecharts/blob/master/charts/incubator/tracearr/values.yaml
 
 All our Charts use a shared "common" library chart that contains most of the templating and options.
 For the complete overview of all available options, please checkout the documentation for them on the [common docs on our website](https://trueforge.org/truecharts-common/)

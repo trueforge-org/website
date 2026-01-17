@@ -3,13 +3,17 @@ title: Changelog
 pagefind: false
 ---
 
-All history information can be found at [Github History](https://github.com/trueforge-org/truecharts/commits/master/charts/incubator/dispatcharr)
+All history information can be found at [Github History](https://github.com/trueforge-org/truecharts/commits/master/charts/stable/dispatcharr)
 
 :::tip
 
 If you need more than 2 scrolls to find your current version, please consider updating the chart as soon as possible.
 
 :::
+
+## 1.0.0 • [Train: stable]
+
+- fix(charts): move incubator charts to stable (#43727) • [`5eb5fb4`](https://github.com/trueforge-org/truecharts/commit/5eb5fb4138f2294f6e8d3608b2bfe35d167fa349) • [@Alfred Göppel] (2026-01-17)
 
 ## 0.10.1 • [Train: incubator]
 
@@ -74,9 +78,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.5.0 • [Train: incubator]
 
-- chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
 - chore(helm): pin dependencies (#42168) • [`52ef92f`](https://github.com/trueforge-org/truecharts/commit/52ef92f785480a7e270d96fce950eea5609a990c) • [@TrueCharts Bot] (2025-11-27)
 - fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
+- chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
 
 ## 0.4.0 • [Train: incubator]
 

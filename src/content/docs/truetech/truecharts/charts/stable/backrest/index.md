@@ -2,14 +2,14 @@
 title: backrest
 ---
 
-![Version: 0.2.0](https://img.shields.io/badge/Version-0.2.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.11.1](https://img.shields.io/badge/AppVersion-1.11.1-informational?style=flat-square)
+![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.11.1](https://img.shields.io/badge/AppVersion-1.11.1-informational?style=flat-square)
 
 Web-accessible backup solution built on top of restic.
 
 ## Chart Sources
 
 - https://github.com/garethgeorge/backrest
-- https://github.com/trueforge-org/truecharts/tree/master/charts/incubator/backrest
+- https://github.com/trueforge-org/truecharts/tree/master/charts/stable/backrest
 - https://hub.docker.com/r/garethgeorge/backrest
 
 ## Available Documentation
@@ -23,7 +23,7 @@ Web-accessible backup solution built on top of restic.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/incubator/backrest)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/backrest)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 
@@ -41,12 +41,12 @@ For more information on how to install TrueCharts Helm charts, checkout the [ins
 
 All our charts have dedicated documentation pages.
 The documentation for this chart can be found here:
-https://trueforge.org/truecharts/incubator/backrest
+https://trueforge.org/truecharts/stable/backrest
 
 ### Configuration Options
 
 To view the chart specific options, please view Values.yaml included in the chart.
-The most recent version of which, is available here: https://github.com/trueforge-org/truecharts/blob/master/charts/incubator/backrest/values.yaml
+The most recent version of which, is available here: https://github.com/trueforge-org/truecharts/blob/master/charts/stable/backrest/values.yaml
 
 All our Charts use a shared "common" library chart that contains most of the templating and options.
 For the complete overview of all available options, please checkout the documentation for them on the [common docs on our website](https://trueforge.org/truecharts-common/)

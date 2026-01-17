@@ -3,13 +3,17 @@ title: Changelog
 pagefind: false
 ---
 
-All history information can be found at [Github History](https://github.com/trueforge-org/truecharts/commits/master/charts/incubator/backrest)
+All history information can be found at [Github History](https://github.com/trueforge-org/truecharts/commits/master/charts/stable/backrest)
 
 :::tip
 
 If you need more than 2 scrolls to find your current version, please consider updating the chart as soon as possible.
 
 :::
+
+## 1.0.0 • [Train: stable]
+
+- fix(charts): move incubator charts to stable (#43727) • [`5eb5fb4`](https://github.com/trueforge-org/truecharts/commit/5eb5fb4138f2294f6e8d3608b2bfe35d167fa349) • [@Alfred Göppel] (2026-01-17)
 
 ## 0.2.0 • [Train: incubator]
 
