@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.0.1 • [Train: stable]
+
+- feat(avm-exporter): Add exporter for fritzbox (#43740) • [`228c98c`](https://github.com/trueforge-org/truecharts/commit/228c98c2c75427348aa83bab4f57a04ae49282c0) • [@Alfred Göppel] (2026-01-17)
+
 ## 1.0.0 • [Train: stable]
 
 - lets see • [`dd5baf2`](https://github.com/trueforge-org/truecharts/commit/dd5baf25b396b3d4d51d2691a3827b53c41bcd8c) • [@alfi0812] (2026-01-17)
