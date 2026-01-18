@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.0 • [Train: stable]
 
+- Commit daily changes • [`fcab5e0`](https://github.com/trueforge-org/truecharts/commit/fcab5e0a8881480a1a1f64fe6b0ae0e582f5872b) • [@TrueCharts-Bot] (2026-01-18)
 - fix(charts): move incubator charts to stable (#43727) • [`5eb5fb4`](https://github.com/trueforge-org/truecharts/commit/5eb5fb4138f2294f6e8d3608b2bfe35d167fa349) • [@Alfred Göppel] (2026-01-17)
 
 ## 0.6.6 • [Train: incubator]
@@ -76,9 +77,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.1.0 • [Train: incubator]
 
+- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
 - more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
-- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 
 ## 0.0.1 • [Train: incubator]
 

@@ -26,7 +26,7 @@ where it is not.
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/incubator/csi-addons-controller)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/csi-addons-controller)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 
@@ -44,12 +44,12 @@ For more information on how to install TrueCharts Helm charts, checkout the [ins
 
 All our charts have dedicated documentation pages.
 The documentation for this chart can be found here:
-https://trueforge.org/truecharts/incubator/csi-addons-controller
+https://trueforge.org/truecharts/stable/csi-addons-controller
 
 ### Configuration Options
 
 To view the chart specific options, please view Values.yaml included in the chart.
-The most recent version of which, is available here: https://github.com/trueforge-org/truecharts/blob/master/charts/incubator/csi-addons-controller/values.yaml
+The most recent version of which, is available here: https://github.com/trueforge-org/truecharts/blob/master/charts/stable/csi-addons-controller/values.yaml
 
 All our Charts use a shared "common" library chart that contains most of the templating and options.
 For the complete overview of all available options, please checkout the documentation for them on the [common docs on our website](https://trueforge.org/truecharts-common/)
