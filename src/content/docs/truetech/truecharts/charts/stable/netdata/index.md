@@ -2,7 +2,7 @@
 title: netdata
 ---
 
-![Version: 13.16.10](https://img.shields.io/badge/Version-13.16.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.8.5](https://img.shields.io/badge/AppVersion-2.8.5-informational?style=flat-square)
+![Version: 13.16.11](https://img.shields.io/badge/Version-13.16.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.8.5](https://img.shields.io/badge/AppVersion-2.8.5-informational?style=flat-square)
 
 Netdata is high-fidelity infrastructure monitoring and troubleshooting.
 

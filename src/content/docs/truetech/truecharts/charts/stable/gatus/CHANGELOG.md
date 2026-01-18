@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.1.2 • [Train: stable]
+
+- fix(helm-deps): update chart common 28.29.18 → 28.29.20 (#43754) • [`557717e`](https://github.com/trueforge-org/truecharts/commit/557717e0ab950b8b886f8cadf3b7585aa2a31187) • [@TrueCharts Bot] (2026-01-18)
+
 ## 3.1.1 • [Train: stable]
 
 - fix(helm-deps): update chart common 28.29.17 → 28.29.18 (#43630) • [`e34cb1b`](https://github.com/trueforge-org/truecharts/commit/e34cb1b6971df52ea12410d994ed34976b7fdc08) • [@TrueCharts Bot] (2026-01-15)
@@ -135,8 +139,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.13.1 • [Train: stable]
 
-- chore(helm): update image twinproduction/gatus v5.25.1 → v5.25.2 (#40359) • [`b4fa7cb`](https://github.com/trueforge-org/truecharts/commit/b4fa7cbb8e0bfbd1dc0e63a247886916bde95b53) • [@TrueCharts Bot] (2025-10-04)
 - Commit daily changes • [`044fb16`](https://github.com/trueforge-org/truecharts/commit/044fb16f843c28067054900ff9c84fbe0c7e2f44) • [@TrueCharts-Bot] (2025-10-04)
+- chore(helm): update image twinproduction/gatus v5.25.1 → v5.25.2 (#40359) • [`b4fa7cb`](https://github.com/trueforge-org/truecharts/commit/b4fa7cbb8e0bfbd1dc0e63a247886916bde95b53) • [@TrueCharts Bot] (2025-10-04)
 
 ## 2.13.0 • [Train: stable]
 
@@ -154,8 +158,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.11.2 • [Train: stable]
 
-- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 - chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
+- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 
 ## 2.11.1 • [Train: stable]
 
