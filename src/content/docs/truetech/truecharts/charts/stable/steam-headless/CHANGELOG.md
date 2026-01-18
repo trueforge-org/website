@@ -277,8 +277,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.0.6 • [Train: stable]
 
-- chore(helm): update image docker.io/josh5/steam-headless digest to 003b747 (#37151) • [`716d54e`](https://github.com/trueforge-org/truecharts/commit/716d54e30a6f74bf3076b4cabcb09fd549f3c16c) • [@TrueCharts Bot] (2025-07-07)
 - chore(helm): update chart common 28.12.6 → 28.12.7 (#37188) • [`0f93b7d`](https://github.com/trueforge-org/truecharts/commit/0f93b7dddf18d6ec567159463c0edea43413d372) • [@TrueCharts Bot] (2025-07-07)
+- chore(helm): update image docker.io/josh5/steam-headless digest to 003b747 (#37151) • [`716d54e`](https://github.com/trueforge-org/truecharts/commit/716d54e30a6f74bf3076b4cabcb09fd549f3c16c) • [@TrueCharts Bot] (2025-07-07)
 
 ## 6.0.5 • [Train: stable]
 
@@ -332,8 +332,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.5.2 • [Train: stable]
 
-- chore(helm): update chart common to v25.4.10 (#31268) • [`f9718aa`](https://github.com/trueforge-org/truecharts/commit/f9718aaf9e3fecb4b1f41a31e6dd511af47db88a) • [@TrueCharts Bot] (2025-01-27)
 - chore(helm): update image docker.io/josh5/steam-headless digest to d4e35c6 (#31266) • [`c140bd8`](https://github.com/trueforge-org/truecharts/commit/c140bd8ed090b438be65b085dce26e24cb17bdbb) • [@TrueCharts Bot] (2025-01-27)
+- chore(helm): update chart common to v25.4.10 (#31268) • [`f9718aa`](https://github.com/trueforge-org/truecharts/commit/f9718aaf9e3fecb4b1f41a31e6dd511af47db88a) • [@TrueCharts Bot] (2025-01-27)
 
 ## 5.5.1 • [Train: stable]
 
@@ -568,8 +568,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.0.11 • [Train: stable]
 
-- Commit daily changes • [`529340b`](https://github.com/trueforge-org/truecharts/commit/529340b7575e8cd6d00d2499271dc62e58a8d18d) • [@TrueCharts-Bot] (2024-05-26)
 - Commit daily changes • [`e50357a`](https://github.com/trueforge-org/truecharts/commit/e50357a154422a397a11141869f0973293102e49) • [@TrueCharts-Bot] (2024-05-26)
+- Commit daily changes • [`529340b`](https://github.com/trueforge-org/truecharts/commit/529340b7575e8cd6d00d2499271dc62e58a8d18d) • [@TrueCharts-Bot] (2024-05-26)
 - chore(deps): update container image josh5/steam-headless to latest@f7dd7e6 by renovate (#22439) • [`f0b6c7f`](https://github.com/trueforge-org/truecharts/commit/f0b6c7f28e6c064f0e5e662b1d0cc6945db8a41c) • [@TrueCharts Bot] (2024-05-25)
 
 ## 4.0.10 • [Train: stable]
@@ -1017,18 +1017,18 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 0.0.8 • [Train: stable]
 
 - Commit daily changes • [`a75ade9`](https://github.com/trueforge-org/truecharts/commit/a75ade9cecec94cdb45441704c760cdb51054a57) • [@TrueCharts-Bot] (2023-12-15)
+- Commit daily changes • [`58ebe44`](https://github.com/trueforge-org/truecharts/commit/58ebe44c1035f18876fd999e45680d1f22c3c3a6) • [@TrueCharts-Bot] (2023-12-14)
 - Commit daily changes • [`836a202`](https://github.com/trueforge-org/truecharts/commit/836a202222e70213ddd12fcecb0b4a74bfa88631) • [@TrueCharts-Bot] (2023-12-14)
 - Merge branch &#39;master&#39; of github.com:truecharts/charts • [`d85f6a7`](https://github.com/trueforge-org/truecharts/commit/d85f6a76ea5ed62e71514fc874b4b8b1e6c73230) • [@Kjeld Schouten] (2023-12-14)
-- Commit daily changes • [`58ebe44`](https://github.com/trueforge-org/truecharts/commit/58ebe44c1035f18876fd999e45680d1f22c3c3a6) • [@TrueCharts-Bot] (2023-12-14)
 - Commit daily changes • [`0389064`](https://github.com/trueforge-org/truecharts/commit/0389064d4964c10ef3297a94d24d3120e8e7dece) • [@TrueCharts-Bot] (2023-12-13)
 - Commit daily changes • [`b9f4cca`](https://github.com/trueforge-org/truecharts/commit/b9f4ccaee6a5612110484ca4e8e91c6ede3465c8) • [@TrueCharts-Bot] (2023-12-12)
 - Commit daily changes • [`3ac7442`](https://github.com/trueforge-org/truecharts/commit/3ac7442c25a2d0d2648f9de45f218f95fec3d062) • [@TrueCharts-Bot] (2023-12-12)
 - Commit daily changes • [`84eca1f`](https://github.com/trueforge-org/truecharts/commit/84eca1fd32b6dd0181feeca73f43ba861d2459b2) • [@TrueCharts-Bot] (2023-12-11)
 - Commit daily changes • [`22527b3`](https://github.com/trueforge-org/truecharts/commit/22527b3c61ba1b4c97f581b18b8af8c296bb65de) • [@TrueCharts-Bot] (2023-12-08)
 - Commit daily changes • [`fbb0226`](https://github.com/trueforge-org/truecharts/commit/fbb022673bbeefc08112d0876393978319b52f4d) • [@TrueCharts-Bot] (2023-12-07)
+- Commit daily changes • [`1805e0a`](https://github.com/trueforge-org/truecharts/commit/1805e0a25ab55f07e62bdd17caefe9246ef198c2) • [@TrueCharts-Bot] (2023-12-03)
 - chore: bump everything to ensure catalog has latest versions • [`02d153a`](https://github.com/trueforge-org/truecharts/commit/02d153a62c739dabc92491b0f64739ad8db2c94d) • [@Kjeld Schouten] (2023-12-03)
 - Commit daily changes • [`c5c271c`](https://github.com/trueforge-org/truecharts/commit/c5c271cb7efffb1c7200f9e6818a445658fa3890) • [@TrueCharts-Bot] (2023-12-03)
-- Commit daily changes • [`1805e0a`](https://github.com/trueforge-org/truecharts/commit/1805e0a25ab55f07e62bdd17caefe9246ef198c2) • [@TrueCharts-Bot] (2023-12-03)
 
 ## 0.0.7 • [Train: incubator]
 
@@ -1044,8 +1044,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 - Commit daily changes • [`a0cab80`](https://github.com/trueforge-org/truecharts/commit/a0cab8013532aa7e3751411c7a16cc020866fa8d) • [@TrueCharts-Bot] (2023-12-02)
 - Commit daily changes • [`e75af59`](https://github.com/trueforge-org/truecharts/commit/e75af597d02003f3848de446c0b2f0c9dc4c10a1) • [@TrueCharts-Bot] (2023-12-01)
 - chore: cleanup chart.yaml and add min-max scale version • [`286f68a`](https://github.com/trueforge-org/truecharts/commit/286f68aed0da4d274bcd7e7266934adee6667c6c) • [@Kjeld Schouten] (2023-11-30)
-- Commit daily changes • [`0027f37`](https://github.com/trueforge-org/truecharts/commit/0027f3756f8bc222b262970613f7465d746b0548) • [@TrueCharts-Bot] (2023-11-28)
 - Commit daily changes • [`d1c2213`](https://github.com/trueforge-org/truecharts/commit/d1c22138f95fdb77ed67ed1702ac71741ce17f1b) • [@TrueCharts-Bot] (2023-11-28)
+- Commit daily changes • [`0027f37`](https://github.com/trueforge-org/truecharts/commit/0027f3756f8bc222b262970613f7465d746b0548) • [@TrueCharts-Bot] (2023-11-28)
 - Commit daily changes • [`3fab41f`](https://github.com/trueforge-org/truecharts/commit/3fab41f7a192404c061a8db8398e3e45f59e5a19) • [@TrueCharts-Bot] (2023-11-28)
 - Commit daily changes • [`4de86ea`](https://github.com/trueforge-org/truecharts/commit/4de86ea59047107374ee7b4f1d20183eea31fa81) • [@TrueCharts-Bot] (2023-11-27)
 - Commit daily changes • [`3c71f33`](https://github.com/trueforge-org/truecharts/commit/3c71f33be8b7323571e960711c76a6a3c0e75960) • [@TrueCharts-Bot] (2023-11-27)

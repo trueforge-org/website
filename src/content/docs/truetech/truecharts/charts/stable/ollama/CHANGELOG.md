@@ -159,9 +159,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 8.13.0 • [Train: stable]
 
-- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
 - more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
+- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 
 ## 8.12.3 • [Train: stable]
 
@@ -620,8 +620,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 7.6.12 • [Train: stable]
 
-- chore(helm): update image docker.io/ollama/ollama 0.4.3 → 0.4.4 (#29782) • [`3e4b156`](https://github.com/trueforge-org/truecharts/commit/3e4b156d2abb12e95a574dc05c1c70da988cfd77) • [@TrueCharts Bot] (2024-11-24)
 - chore(helm): update image ghcr.io/open-webui/open-webui digest to 7f44971 (#29775) • [`11498e0`](https://github.com/trueforge-org/truecharts/commit/11498e032800d15258464acfe1e57e86b185d44d) • [@TrueCharts Bot] (2024-11-24)
+- chore(helm): update image docker.io/ollama/ollama 0.4.3 → 0.4.4 (#29782) • [`3e4b156`](https://github.com/trueforge-org/truecharts/commit/3e4b156d2abb12e95a574dc05c1c70da988cfd77) • [@TrueCharts Bot] (2024-11-24)
 
 ## 7.6.11 • [Train: stable]
 
@@ -696,8 +696,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 7.4.4 • [Train: stable]
 
-- chore(charts): explicitly reference docker.io (#28025) • [`d9eb4a9`](https://github.com/trueforge-org/truecharts/commit/d9eb4a96dddfe7ddede2de3b54e4a9c8a50d5212) • [@Kjeld Schouten] (2024-10-19)
 - chore(helm): update image ghcr.io/open-webui/open-webui digest to ff2413b (#28007) • [`5ae5ca6`](https://github.com/trueforge-org/truecharts/commit/5ae5ca6403b69f79dd810f102dca380da17fbd6a) • [@TrueCharts Bot] (2024-10-19)
+- chore(charts): explicitly reference docker.io (#28025) • [`d9eb4a9`](https://github.com/trueforge-org/truecharts/commit/d9eb4a96dddfe7ddede2de3b54e4a9c8a50d5212) • [@Kjeld Schouten] (2024-10-19)
 
 ## 7.4.3 • [Train: stable]
 
@@ -950,14 +950,14 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 7.1.6 • [Train: stable]
 
-- chore(deps): update container image ollama/ollama to 0.1.46-rocm@ae28b7c by renovate (#23759) • [`7f8b2ca`](https://github.com/trueforge-org/truecharts/commit/7f8b2cac84647bd6f6c3e00fa7b22434455d8711) • [@TrueCharts Bot] (2024-06-25)
 - chore(deps): update container image ollama/ollama to 0.1.46@d257e66 by renovate (#23760) • [`30fcd6b`](https://github.com/trueforge-org/truecharts/commit/30fcd6b49289310b0953dab4809ae1a4443871c7) • [@TrueCharts Bot] (2024-06-25)
+- chore(deps): update container image ollama/ollama to 0.1.46-rocm@ae28b7c by renovate (#23759) • [`7f8b2ca`](https://github.com/trueforge-org/truecharts/commit/7f8b2cac84647bd6f6c3e00fa7b22434455d8711) • [@TrueCharts Bot] (2024-06-25)
 
 ## 7.1.5 • [Train: stable]
 
 - Commit daily changes • [`9411886`](https://github.com/trueforge-org/truecharts/commit/9411886c97a1caf15be813c29fc09b0c19f66335) • [@TrueCharts-Bot] (2024-06-23)
-- chore(deps): update container image ollama/ollama to v0.1.46@e9bb7b7 by renovate (#23682) • [`70f1667`](https://github.com/trueforge-org/truecharts/commit/70f1667b10f84a36a30ebad3913b65cfd113f51c) • [@TrueCharts Bot] (2024-06-22)
 - chore(deps): update container image common to v24.1.2@b2bbd35 by renovate (#23666) • [`535656c`](https://github.com/trueforge-org/truecharts/commit/535656ced292cb037c91ff1b89dc93b430d6aa5c) • [@TrueCharts Bot] (2024-06-22)
+- chore(deps): update container image ollama/ollama to v0.1.46@e9bb7b7 by renovate (#23682) • [`70f1667`](https://github.com/trueforge-org/truecharts/commit/70f1667b10f84a36a30ebad3913b65cfd113f51c) • [@TrueCharts Bot] (2024-06-22)
 
 ## 7.1.4 • [Train: stable]
 
@@ -1002,8 +1002,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 7.0.15 • [Train: stable]
 
-- chore(deps): update container image ollama/ollama to 0.1.43-rocm@f118007 by renovate (#23221) • [`fec38e6`](https://github.com/trueforge-org/truecharts/commit/fec38e6bfc8bec31e600a358d05acc930edc891e) • [@TrueCharts Bot] (2024-06-12)
 - chore(deps): update container image ollama/ollama to 0.1.43@ccb6b01 by renovate (#23222) • [`6416d11`](https://github.com/trueforge-org/truecharts/commit/6416d11fa4d72f0dac84f197bbb4e0f02b66c3fc) • [@TrueCharts Bot] (2024-06-12)
+- chore(deps): update container image ollama/ollama to 0.1.43-rocm@f118007 by renovate (#23221) • [`fec38e6`](https://github.com/trueforge-org/truecharts/commit/fec38e6bfc8bec31e600a358d05acc930edc891e) • [@TrueCharts Bot] (2024-06-12)
 
 ## 7.0.14 • [Train: stable]
 
@@ -1074,8 +1074,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.0.35 • [Train: stable]
 
-- chore(deps): update container image ollama/ollama to 0.1.40-rocm@6e7fa39 by renovate (#22724) • [`ffba02b`](https://github.com/trueforge-org/truecharts/commit/ffba02b02906e645c09bfee8b05baa9ef0a5ac1d) • [@TrueCharts Bot] (2024-06-01)
 - chore(deps): update container image ollama/ollama to 0.1.40@95f3621 by renovate (#22725) • [`71ce5e9`](https://github.com/trueforge-org/truecharts/commit/71ce5e93816eb2ca6e96c37d2a0cf50dee2d5d89) • [@TrueCharts Bot] (2024-06-01)
+- chore(deps): update container image ollama/ollama to 0.1.40-rocm@6e7fa39 by renovate (#22724) • [`ffba02b`](https://github.com/trueforge-org/truecharts/commit/ffba02b02906e645c09bfee8b05baa9ef0a5ac1d) • [@TrueCharts Bot] (2024-06-01)
 
 ## 6.0.34 • [Train: stable]
 
@@ -1099,8 +1099,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.0.29 • [Train: stable]
 
-- Commit daily changes • [`e50357a`](https://github.com/trueforge-org/truecharts/commit/e50357a154422a397a11141869f0973293102e49) • [@TrueCharts-Bot] (2024-05-26)
 - Commit daily changes • [`529340b`](https://github.com/trueforge-org/truecharts/commit/529340b7575e8cd6d00d2499271dc62e58a8d18d) • [@TrueCharts-Bot] (2024-05-26)
+- Commit daily changes • [`e50357a`](https://github.com/trueforge-org/truecharts/commit/e50357a154422a397a11141869f0973293102e49) • [@TrueCharts-Bot] (2024-05-26)
 - chore(deps): update container image ollama/ollama to v0.1.39 by renovate (#22411) • [`114b79b`](https://github.com/trueforge-org/truecharts/commit/114b79b06d9adbdde5809814956a7cc00d4d8d10) • [@TrueCharts Bot] (2024-05-25)
 
 ## 6.0.27 • [Train: stable]
@@ -1186,8 +1186,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 6.0.5 • [Train: stable]
 
 - Commit daily changes • [`17d5f88`](https://github.com/trueforge-org/truecharts/commit/17d5f886bfd21d2f7e021feee2657a89a9869488) • [@TrueCharts-Bot] (2024-05-02)
-- chore: bump common to release improved checks on volsync and cnpg (#21454) • [`afc5e7e`](https://github.com/trueforge-org/truecharts/commit/afc5e7eafa19a1b65a13d021fedf7510b485bd13) • [@Kjeld Schouten] (2024-05-01)
 - Feat(ollama): Add header auth option to ollama  (#21395) • [`4f6697b`](https://github.com/trueforge-org/truecharts/commit/4f6697b57229fc454bf2a0a0ee39ebfa38e59ab2) • [@zenoftheblues@gmail.com] (2024-05-01)
+- chore: bump common to release improved checks on volsync and cnpg (#21454) • [`afc5e7e`](https://github.com/trueforge-org/truecharts/commit/afc5e7eafa19a1b65a13d021fedf7510b485bd13) • [@Kjeld Schouten] (2024-05-01)
 
 ## 6.0.4 • [Train: stable]
 
@@ -1284,8 +1284,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.4.10 • [Train: stable]
 
-- chore(deps): update container image common to v20.3.7@8cf9fc9 by renovate (#20819) • [`4413ae4`](https://github.com/trueforge-org/truecharts/commit/4413ae4d1cdd32a9d5f70d57f0c01e429ee90298) • [@TrueCharts Bot] (2024-04-16)
 - Webp icons2 (#20851) • [`8b489f4`](https://github.com/trueforge-org/truecharts/commit/8b489f48bb8f4f6a01050a08ad544323375bce74) • [@Kjeld Schouten] (2024-04-16)
+- chore(deps): update container image common to v20.3.7@8cf9fc9 by renovate (#20819) • [`4413ae4`](https://github.com/trueforge-org/truecharts/commit/4413ae4d1cdd32a9d5f70d57f0c01e429ee90298) • [@TrueCharts Bot] (2024-04-16)
 
 ## 5.4.9 • [Train: stable]
 
@@ -1555,8 +1555,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - Commit daily changes • [`af3787c`](https://github.com/trueforge-org/truecharts/commit/af3787c5b0035c875a4f37a80a6cc7c8484f52d7) • [@TrueCharts-Bot] (2024-02-21)
 - Commit daily changes • [`a3510a2`](https://github.com/trueforge-org/truecharts/commit/a3510a2ba2c92a58b3ff4038f3b1ed8a08b73f8c) • [@TrueCharts-Bot] (2024-02-18)
-- Merge branch &#39;master&#39; of github.com:truecharts/charts • [`07c3b1c`](https://github.com/trueforge-org/truecharts/commit/07c3b1c5990ce846f3334a5bd35e2f290541f800) • [@Kjeld Schouten] (2024-02-17)
 - Commit daily changes • [`eac17c7`](https://github.com/trueforge-org/truecharts/commit/eac17c7bfdbdb4b9c8533909040a6b1d28315261) • [@TrueCharts-Bot] (2024-02-17)
+- Merge branch &#39;master&#39; of github.com:truecharts/charts • [`07c3b1c`](https://github.com/trueforge-org/truecharts/commit/07c3b1c5990ce846f3334a5bd35e2f290541f800) • [@Kjeld Schouten] (2024-02-17)
 - Commit daily changes • [`69f7e1f`](https://github.com/trueforge-org/truecharts/commit/69f7e1f275ae4d83f2c8913ff7f547811f8cff58) • [@TrueCharts-Bot] (2024-02-16)
 - Commit daily changes • [`b685bef`](https://github.com/trueforge-org/truecharts/commit/b685bef5ebbb5647a1192058a44fedb7ac6d5536) • [@TrueCharts-Bot] (2024-02-15)
 - chore(deps): update helm general minor by renovate (#17760) • [`8dd082a`](https://github.com/trueforge-org/truecharts/commit/8dd082a2d2a11be839ad9ba3098d8f3eefa2fdc6) • [@TrueCharts Bot] (2024-02-14)
