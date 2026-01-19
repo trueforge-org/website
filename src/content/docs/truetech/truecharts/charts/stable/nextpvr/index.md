@@ -2,7 +2,7 @@
 title: nextpvr
 ---
 
-![Version: 12.13.8](https://img.shields.io/badge/Version-12.13.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: stable](https://img.shields.io/badge/AppVersion-stable-informational?style=flat-square)
+![Version: 12.13.9](https://img.shields.io/badge/Version-12.13.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: stable](https://img.shields.io/badge/AppVersion-stable-informational?style=flat-square)
 
 NextPVR is a personal video recorder application, with the goal making it easy to watch or record live TV.
 
