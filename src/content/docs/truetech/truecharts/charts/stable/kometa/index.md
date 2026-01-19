@@ -2,7 +2,7 @@
 title: kometa
 ---
 
-![Version: 4.13.9](https://img.shields.io/badge/Version-4.13.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.2.2](https://img.shields.io/badge/AppVersion-2.2.2-informational?style=flat-square)
+![Version: 4.13.10](https://img.shields.io/badge/Version-4.13.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.2.2](https://img.shields.io/badge/AppVersion-2.2.2-informational?style=flat-square)
 
 Python script to update metadata and automatically build collections.
 

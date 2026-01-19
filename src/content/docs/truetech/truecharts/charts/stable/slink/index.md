@@ -2,7 +2,7 @@
 title: slink
 ---
 
-![Version: 5.16.13](https://img.shields.io/badge/Version-5.16.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.8.7](https://img.shields.io/badge/AppVersion-1.8.7-informational?style=flat-square)
+![Version: 5.16.14](https://img.shields.io/badge/Version-5.16.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.8.7](https://img.shields.io/badge/AppVersion-1.8.7-informational?style=flat-square)
 
 A self-hosted image sharing platform built with Symfony and SvelteKit️.
 

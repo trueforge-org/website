@@ -2,7 +2,7 @@
 title: ps3netsrv
 ---
 
-![Version: 3.13.7](https://img.shields.io/badge/Version-3.13.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.11.0](https://img.shields.io/badge/AppVersion-1.11.0-informational?style=flat-square)
+![Version: 3.13.8](https://img.shields.io/badge/Version-3.13.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.11.0](https://img.shields.io/badge/AppVersion-1.11.0-informational?style=flat-square)
 
 Allows Multiman or Webman to stream and play game backups over the network.
 

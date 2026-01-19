@@ -2,7 +2,7 @@
 title: flowise
 ---
 
-![Version: 9.13.9](https://img.shields.io/badge/Version-9.13.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.0.12](https://img.shields.io/badge/AppVersion-3.0.12-informational?style=flat-square)
+![Version: 9.13.10](https://img.shields.io/badge/Version-9.13.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.0.12](https://img.shields.io/badge/AppVersion-3.0.12-informational?style=flat-square)
 
 Drag & drop UI to build your customized LLM flow.
 
