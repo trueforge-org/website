@@ -2,7 +2,7 @@
 title: xwiki
 ---
 
-![Version: 16.18.8](https://img.shields.io/badge/Version-16.18.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 17.10.2](https://img.shields.io/badge/AppVersion-17.10.2-informational?style=flat-square)
+![Version: 16.18.9](https://img.shields.io/badge/Version-16.18.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 17.10.2](https://img.shields.io/badge/AppVersion-17.10.2-informational?style=flat-square)
 
 XWiki is a free wiki software platform written in Java with a design emphasis on extensibility
 

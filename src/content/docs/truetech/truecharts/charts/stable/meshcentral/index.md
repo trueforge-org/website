@@ -2,7 +2,7 @@
 title: meshcentral
 ---
 
-![Version: 18.13.10](https://img.shields.io/badge/Version-18.13.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.1.55](https://img.shields.io/badge/AppVersion-1.1.55-informational?style=flat-square)
+![Version: 18.13.11](https://img.shields.io/badge/Version-18.13.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.1.55](https://img.shields.io/badge/AppVersion-1.1.55-informational?style=flat-square)
 
 MeshCentral is a full computer management web site
 

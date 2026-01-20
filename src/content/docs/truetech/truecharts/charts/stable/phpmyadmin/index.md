@@ -2,7 +2,7 @@
 title: phpmyadmin
 ---
 
-![Version: 8.13.9](https://img.shields.io/badge/Version-8.13.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.2.3](https://img.shields.io/badge/AppVersion-5.2.3-informational?style=flat-square)
+![Version: 8.13.10](https://img.shields.io/badge/Version-8.13.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.2.3](https://img.shields.io/badge/AppVersion-5.2.3-informational?style=flat-square)
 
 A web interface for MySQL and MariaDB.
 

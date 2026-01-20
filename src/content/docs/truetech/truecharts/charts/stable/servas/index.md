@@ -2,7 +2,7 @@
 title: servas
 ---
 
-![Version: 9.19.13](https://img.shields.io/badge/Version-9.19.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.1.0](https://img.shields.io/badge/AppVersion-1.1.0-informational?style=flat-square)
+![Version: 9.19.14](https://img.shields.io/badge/Version-9.19.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.1.0](https://img.shields.io/badge/AppVersion-1.1.0-informational?style=flat-square)
 
 A self-hosted bookmark management tool.
 

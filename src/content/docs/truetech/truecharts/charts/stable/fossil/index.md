@@ -2,7 +2,7 @@
 title: fossil
 ---
 
-![Version: 14.13.9](https://img.shields.io/badge/Version-14.13.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.15.1](https://img.shields.io/badge/AppVersion-2.15.1-informational?style=flat-square)
+![Version: 14.13.10](https://img.shields.io/badge/Version-14.13.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.15.1](https://img.shields.io/badge/AppVersion-2.15.1-informational?style=flat-square)
 
 A simple, high-reliability, distributed software configuration management system
 

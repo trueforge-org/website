@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.13.17 • [Train: stable]
+
+- fix(helm-deps): update chart common 28.29.24 → 28.29.27 (#43825) • [`01774c7`](https://github.com/trueforge-org/truecharts/commit/01774c784b9fad99aa7af6aa15d498e8765df0a0) • [@TrueCharts Bot] (2026-01-20)
+
 ## 2.13.16 • [Train: stable]
 
 - fix(helm-deps): update chart common 28.29.23 → 28.29.24 (#43809) • [`d70fdda`](https://github.com/trueforge-org/truecharts/commit/d70fdda0290a948b573d38f0f30e866ea0afb878) • [@TrueCharts Bot] (2026-01-19)
@@ -57,8 +61,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.13.5 • [Train: stable]
 
-- chore(helm): update image ghcr.io/squat/generic-device-plugin digest to d64b1c8 (#42774) • [`642359b`](https://github.com/trueforge-org/truecharts/commit/642359b47d45b7025e6b24da6ab9ed9eb1558bec) • [@TrueCharts Bot] (2025-12-13)
 - chore(helm): update chart common 28.29.10 → 28.29.11 (#42782) • [`8c3a695`](https://github.com/trueforge-org/truecharts/commit/8c3a695331cb4630af7a7196268e59cb5929d995) • [@TrueCharts Bot] (2025-12-13)
+- chore(helm): update image ghcr.io/squat/generic-device-plugin digest to d64b1c8 (#42774) • [`642359b`](https://github.com/trueforge-org/truecharts/commit/642359b47d45b7025e6b24da6ab9ed9eb1558bec) • [@TrueCharts Bot] (2025-12-13)
 
 ## 2.13.4 • [Train: stable]
 
