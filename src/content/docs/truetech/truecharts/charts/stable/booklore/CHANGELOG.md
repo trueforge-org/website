@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.10.10 • [Train: stable]
+
+- fix(booklore) Add bookdrop folder to booklore (#43836) • [`3960b5b`](https://github.com/trueforge-org/truecharts/commit/3960b5bf1c93e8e830ef0fee9620c098afc454c5) • [@yodatak] (2026-01-20)
+
 ## 1.10.9 • [Train: stable]
 
 - fix(helm-deps): update chart mariadb 17.11.10 → 17.11.11 (#43870) • [`4fad0b8`](https://github.com/trueforge-org/truecharts/commit/4fad0b84c1ce04da1680eec06440f58bddfd4ce4) • [@TrueCharts Bot] (2026-01-20)
