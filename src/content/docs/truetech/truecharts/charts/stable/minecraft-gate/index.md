@@ -2,7 +2,7 @@
 title: minecraft-gate
 ---
 
-![Version: 2.13.19](https://img.shields.io/badge/Version-2.13.19-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 2.13.20](https://img.shields.io/badge/Version-2.13.20-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 An extensible, high performant & paralleled Minecraft proxy server.
 

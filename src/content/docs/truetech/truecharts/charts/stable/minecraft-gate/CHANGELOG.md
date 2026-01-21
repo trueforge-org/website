@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.13.20 • [Train: stable]
+
+- chore(minecraft-gate): update image ghcr.io/minekube/gate digest to 31442bb (#43918) • [`2b54104`](https://github.com/trueforge-org/truecharts/commit/2b54104198a97095a03eb38f70ada60730e9852b) • [@TrueCharts Bot] (2026-01-21)
+
 ## 2.13.19 • [Train: stable]
 
 - fix(helm-deps): update chart common 28.29.24 → 28.29.27 (#43825) • [`01774c7`](https://github.com/trueforge-org/truecharts/commit/01774c784b9fad99aa7af6aa15d498e8765df0a0) • [@TrueCharts Bot] (2026-01-20)
@@ -77,8 +81,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.13.3 • [Train: stable]
 
-- chore(helm): update image ghcr.io/minekube/gate digest to 5d6c998 (#42742) • [`eb74761`](https://github.com/trueforge-org/truecharts/commit/eb74761886fc94fc0a36faa5f5b7260f24d07051) • [@TrueCharts Bot] (2025-12-13)
 - chore(helm): update chart common 28.29.2 → 28.29.10 (#42426) • [`1fc9e35`](https://github.com/trueforge-org/truecharts/commit/1fc9e3509224b519f967f373c29bef9841759213) • [@TrueCharts Bot] (2025-12-13)
+- chore(helm): update image ghcr.io/minekube/gate digest to 5d6c998 (#42742) • [`eb74761`](https://github.com/trueforge-org/truecharts/commit/eb74761886fc94fc0a36faa5f5b7260f24d07051) • [@TrueCharts Bot] (2025-12-13)
 
 ## 2.13.2 • [Train: stable]
 
@@ -152,9 +156,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.9.0 • [Train: stable]
 
-- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
 - more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
+- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 
 ## 2.8.1 • [Train: stable]
 
@@ -169,8 +173,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.7.2 • [Train: stable]
 
-- Commit daily changes • [`044fb16`](https://github.com/trueforge-org/truecharts/commit/044fb16f843c28067054900ff9c84fbe0c7e2f44) • [@TrueCharts-Bot] (2025-10-04)
 - chore(helm): update image ghcr.io/minekube/gate digest to 8963697 (#40353) • [`eee69f9`](https://github.com/trueforge-org/truecharts/commit/eee69f99597afb3b5011c5d0db747824db0e2506) • [@TrueCharts Bot] (2025-10-04)
+- Commit daily changes • [`044fb16`](https://github.com/trueforge-org/truecharts/commit/044fb16f843c28067054900ff9c84fbe0c7e2f44) • [@TrueCharts-Bot] (2025-10-04)
 
 ## 2.7.1 • [Train: stable]
 
