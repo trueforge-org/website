@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.17.2 • [Train: stable]
+
+- fix(openobserve): update image public.ecr.aws/zinclabs/openobserve v0.50.1 → v0.50.2 (#43928) • [`7c2109c`](https://github.com/trueforge-org/truecharts/commit/7c2109ca694d185585a0f13250424dc07f2312b0) • [@TrueCharts Bot] (2026-01-21)
+
 ## 1.17.1 • [Train: stable]
 
 - fix(openobserve): update image public.ecr.aws/zinclabs/openobserve v0.50.0 → v0.50.1 (#43908) • [`9d4e929`](https://github.com/trueforge-org/truecharts/commit/9d4e929201f5f0e083bfa6d17036f65b4a036e82) • [@TrueCharts Bot] (2026-01-21)
