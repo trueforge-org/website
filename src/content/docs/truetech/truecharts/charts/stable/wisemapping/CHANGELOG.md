@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 4.13.14 • [Train: stable]
+
+- fix(helm-deps): update chart common to v28.29.30 (#43902) • [`2bda3b6`](https://github.com/trueforge-org/truecharts/commit/2bda3b6dbd422da4676aa35dcf136a9d4aba86f2) • [@TrueCharts Bot] (2026-01-22)
+
 ## 4.13.13 • [Train: stable]
 
 - fix(helm-deps): update chart common 28.29.24 → 28.29.27 (#43825) • [`01774c7`](https://github.com/trueforge-org/truecharts/commit/01774c784b9fad99aa7af6aa15d498e8765df0a0) • [@TrueCharts Bot] (2026-01-20)
@@ -75,8 +79,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.11.5 • [Train: stable]
 
-- chore(helm): update image docker.io/wisemapping/wisemapping digest to ae8a963 (#41556) • [`fb5b761`](https://github.com/trueforge-org/truecharts/commit/fb5b76140451932df8a3ab70fbfebfe7239a5f27) • [@TrueCharts Bot] (2025-11-09)
 - Commit daily changes • [`0d9a801`](https://github.com/trueforge-org/truecharts/commit/0d9a8012163003f1c431e02a221c9033465f05e4) • [@TrueCharts-Bot] (2025-11-09)
+- chore(helm): update image docker.io/wisemapping/wisemapping digest to ae8a963 (#41556) • [`fb5b761`](https://github.com/trueforge-org/truecharts/commit/fb5b76140451932df8a3ab70fbfebfe7239a5f27) • [@TrueCharts Bot] (2025-11-09)
 
 ## 4.11.4 • [Train: stable]
 
@@ -410,9 +414,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.2.8 • [Train: incubator]
 
+- Commit daily changes • [`26af685`](https://github.com/trueforge-org/truecharts/commit/26af68565949440123d8ba215a7e8544ec455067) • [@TrueCharts-Bot] (2024-04-17)
 - Revert &#34;Commit daily changes&#34; • [`328900e`](https://github.com/trueforge-org/truecharts/commit/328900e43814c8ec97a259f5124b503dcad3dd34) • [@Kjeld Schouten] (2024-04-17)
 - Commit daily changes • [`3bbe620`](https://github.com/trueforge-org/truecharts/commit/3bbe62084f52c024e50a48f42438dd8a595bda0e) • [@TrueCharts-Bot] (2024-04-17)
-- Commit daily changes • [`26af685`](https://github.com/trueforge-org/truecharts/commit/26af68565949440123d8ba215a7e8544ec455067) • [@TrueCharts-Bot] (2024-04-17)
 - chore(deps): update ignored updates to v20.3.8@52f4118 by renovate (#20876) • [`0347003`](https://github.com/trueforge-org/truecharts/commit/03470036d7e37c8fbcb25953e7558c6f2961e9c0) • [@TrueCharts Bot] (2024-04-16)
 
 ## 0.2.7 • [Train: incubator]

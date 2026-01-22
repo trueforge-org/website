@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.0.1 • [Train: stable]
+
+- fix(helm-deps): update chart common to v28.29.30 (#43902) • [`2bda3b6`](https://github.com/trueforge-org/truecharts/commit/2bda3b6dbd422da4676aa35dcf136a9d4aba86f2) • [@TrueCharts Bot] (2026-01-22)
+
 ## 1.0.0 • [Train: stable]
 
 - Commit daily changes • [`c6f52c3`](https://github.com/trueforge-org/truecharts/commit/c6f52c35ef4187a7f85b57ce0179492a57eb8f0e) • [@TrueCharts-Bot] (2026-01-22)

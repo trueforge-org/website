@@ -2,7 +2,7 @@
 title: pigallery2
 ---
 
-![Version: 8.13.11](https://img.shields.io/badge/Version-8.13.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 8.13.12](https://img.shields.io/badge/Version-8.13.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Homepage: http://bpatrik.github.io/pigallery2/
 

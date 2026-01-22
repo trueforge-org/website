@@ -2,7 +2,7 @@
 title: frigate
 ---
 
-![Version: 18.15.13](https://img.shields.io/badge/Version-18.15.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.16.3](https://img.shields.io/badge/AppVersion-0.16.3-informational?style=flat-square)
+![Version: 18.15.14](https://img.shields.io/badge/Version-18.15.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.16.3](https://img.shields.io/badge/AppVersion-0.16.3-informational?style=flat-square)
 
 NVR With Realtime Object Detection for IP Cameras
 

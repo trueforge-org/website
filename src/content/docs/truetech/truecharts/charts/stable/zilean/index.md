@@ -2,7 +2,7 @@
 title: zilean
 ---
 
-![Version: 4.11.10](https://img.shields.io/badge/Version-4.11.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.5.0](https://img.shields.io/badge/AppVersion-3.5.0-informational?style=flat-square)
+![Version: 4.11.11](https://img.shields.io/badge/Version-4.11.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.5.0](https://img.shields.io/badge/AppVersion-3.5.0-informational?style=flat-square)
 
 Zilean self-hosted
 
