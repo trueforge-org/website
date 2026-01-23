@@ -2,7 +2,7 @@
 title: teslamate
 ---
 
-![Version: 5.15.11](https://img.shields.io/badge/Version-5.15.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.2.0](https://img.shields.io/badge/AppVersion-2.2.0-informational?style=flat-square)
+![Version: 5.15.12](https://img.shields.io/badge/Version-5.15.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.2.0](https://img.shields.io/badge/AppVersion-2.2.0-informational?style=flat-square)
 
 A self-hosted data logger for your Tesla
 

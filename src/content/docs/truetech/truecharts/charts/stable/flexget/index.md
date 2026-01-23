@@ -2,7 +2,7 @@
 title: flexget
 ---
 
-![Version: 12.15.21](https://img.shields.io/badge/Version-12.15.21-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.18.38](https://img.shields.io/badge/AppVersion-3.18.38-informational?style=flat-square)
+![Version: 12.15.22](https://img.shields.io/badge/Version-12.15.22-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.18.38](https://img.shields.io/badge/AppVersion-3.18.38-informational?style=flat-square)
 
 FlexGet is a multipurpose automation tool for all of your media
 

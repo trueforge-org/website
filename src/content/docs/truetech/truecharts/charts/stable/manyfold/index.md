@@ -2,7 +2,7 @@
 title: manyfold
 ---
 
-![Version: 4.40.10](https://img.shields.io/badge/Version-4.40.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.131.0](https://img.shields.io/badge/AppVersion-0.131.0-informational?style=flat-square)
+![Version: 4.40.11](https://img.shields.io/badge/Version-4.40.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.131.0](https://img.shields.io/badge/AppVersion-0.131.0-informational?style=flat-square)
 
 A Digital Asset Manager (DAM), specifically designed for 3D print files.
 

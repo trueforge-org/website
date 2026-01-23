@@ -2,7 +2,7 @@
 title: etesync
 ---
 
-![Version: 13.27.16](https://img.shields.io/badge/Version-13.27.16-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.14.2](https://img.shields.io/badge/AppVersion-0.14.2-informational?style=flat-square)
+![Version: 13.27.17](https://img.shields.io/badge/Version-13.27.17-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.14.2](https://img.shields.io/badge/AppVersion-0.14.2-informational?style=flat-square)
 
 Secure, end-to-end encrypted, and privacy respecting sync for your contacts, calendars, tasks and notes.
 

@@ -2,7 +2,7 @@
 title: whoogle
 ---
 
-![Version: 14.6.6](https://img.shields.io/badge/Version-14.6.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.2.2](https://img.shields.io/badge/AppVersion-1.2.2-informational?style=flat-square)
+![Version: 14.6.7](https://img.shields.io/badge/Version-14.6.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.2.2](https://img.shields.io/badge/AppVersion-1.2.2-informational?style=flat-square)
 
 A self-hosted, ad-free, privacy-respecting metasearch engine
 
