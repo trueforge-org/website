@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.12.0 • [Train: stable]
+
+- feat(spoolman): update image ghcr.io/donkie/spoolman 0.22.1 → 0.23.0 (#44038) • [`ae3a69c`](https://github.com/trueforge-org/truecharts/commit/ae3a69c32201c704c25213637bc8e8cc3c61bf0e) • [@TrueCharts Bot] (2026-01-23)
+
 ## 1.11.12 • [Train: stable]
 
 - fix(helm-deps): update chart common 28.29.30 → 28.29.35 (#43970) • [`b2f0b22`](https://github.com/trueforge-org/truecharts/commit/b2f0b229730d91f0c30c6f11ad626485a1627220) • [@TrueCharts Bot] (2026-01-23)
