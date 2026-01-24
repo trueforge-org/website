@@ -88,6 +88,8 @@ jobs:
         run: npm run check
 
       - name: Build
+        env:
+          NODE_OPTIONS: "--max-old-space-size=4096"
         run: npm run build
 
       - name: Comment deploy start
