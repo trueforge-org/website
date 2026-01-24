@@ -31,13 +31,13 @@ In tandem with ClusterTool development, over the course of the last month we've 
 
 - [Link](/truecharts/guides/) to our new Helm-specific guides, including a quick-start guide for installing *charts*, guides for adding storage and backup/restore functionality to *charts*, example VPN setup instructions for your *charts* and more
 
-- [Link](/truetool) to our all-new ClusterTool docs section which includes various sections on what ClusterTool is, what the various functions of it do and more
+- [Link](/forgetool) to our all-new ClusterTool docs section which includes various sections on what ClusterTool is, what the various functions of it do and more
 
-- [Link](/truetool/getting-started) to our ClusterTool getting started guide
+- [Link](/forgetool/getting-started) to our ClusterTool getting started guide
 
 - Link to our TrueNAS SCALE -> ClusterTool/Talos migration guide which includes instructions for **prerequisite steps to be performed by users on TrueNAS SCALE prior to migrating to Talos via ClusterTool** *(2025 note: Migration is no longer possible or supported)*
 
-- [Link](/truecharts/systemrequirements) to our Talos VM system requirements section, which leads into platform-specific, start-to-finish guides on how to setup a Talos VM for our users be it on [SCALE](/truetool/virtual-machines/truenas-scale), [Proxmox](/truetool/virtual-machines/proxmox), [unRAID](/truetool/virtual-machines/unraid) or other host platforms.
+- [Link](/truecharts/systemrequirements) to our Talos VM system requirements section, which leads into platform-specific, start-to-finish guides on how to setup a Talos VM for our users be it on [SCALE](/forgetool/virtual-machines/truenas-scale), [Proxmox](/forgetool/virtual-machines/proxmox), [unRAID](/forgetool/virtual-machines/unraid) or other host platforms.
 
 As always, we welcome feedback and additions to our docs which you can submit by opening a PR in [this](https://github.com/truecharts/website) repo for review. Specifically, we welcome instructions for setting up a Talos VM on platforms other than the ones we've already written guides for.
 
