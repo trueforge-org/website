@@ -4,7 +4,7 @@ title: CNPG
 
 ### Adding Credentials
 
-You can add the credentials by copy-pasting the [Full Examples](/truecharts-common/credentials#full-examples) section in the common-docs and adapting those accordingly
+You can add the credentials by copy-pasting the [Full Examples](/truetech/truecharts-common/credentials#full-examples) section in the common-docs and adapting those accordingly
 
 :::note[Bucket Creation]
 
@@ -97,5 +97,5 @@ This section shows some more-advanced configurations which may be useful in some
 If your S3 storage target is using a self-signed certificate, you can provide CNPG
 with a certificate to use when performing TLS validation.
 
-To do so, simply set the [`customCA`](/truecharts-common/credentials#customca) OR
-[`customCASecretRef`](/truecharts-common/credentials#customcasecretref) keys in your `credentials.$name`.
+To do so, simply set the [`customCA`](/truetech/truecharts-common/credentials#customca) OR
+[`customCASecretRef`](/truetech/truecharts-common/credentials#customcasecretref) keys in your `credentials.$name`.

@@ -59,4 +59,4 @@ In some cases, an ingress might already been partly defined. When that's the cas
 
 ## More info
 
-For more info, checkout the common-chart [ingress options](/truecharts-common/ingress/)
+For more info, checkout the common-chart [ingress options](/truetech/truecharts-common/ingress/)
