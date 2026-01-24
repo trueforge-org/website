@@ -81,7 +81,7 @@ We use upstream containers. If the password is not on our website, please refer 
 
 ## My Chart application has had an upstream update, but the Chart is not updated yet?
 
-It can sometimes take a few days for our automation tools to pick up updates, please sit tight. Please only report missed updates via a [GitHub issue](https://github.com/trueforge-org/truecharts/issues/new/choose) when 7 days have passed *after the new upstream*container\* has become available.
+It can sometimes take a few days for our automation tools to pick up updates, please sit tight. Please only report missed updates via a [GitHub issue](https://github.com/trueforge-org/truetech/truecharts/issues/new/choose) when 7 days have passed *after the new upstream*container\* has become available.
 
 ## Isn't there more documentation for a chart?
 
@@ -156,7 +156,7 @@ Once deleted you can attempt the update (or if you were already updated to lates
 ## Operator-Related
 
 Truecharts charts usually require a certain set of "operators" to properly work and function. Usually missing operators will lead to errors.
-All required and recommended operators are listed in our [quick-start guide](/truecharts/guides/)
+All required and recommended operators are listed in our [quick-start guide](/truetech/truecharts/guides/)
 
 ### "monitoring.coreos.com/v1" ensure CRDs are installed first
 
