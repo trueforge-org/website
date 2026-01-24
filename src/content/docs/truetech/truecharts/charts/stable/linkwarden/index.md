@@ -2,7 +2,7 @@
 title: linkwarden
 ---
 
-![Version: 7.15.16](https://img.shields.io/badge/Version-7.15.16-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.13.5](https://img.shields.io/badge/AppVersion-2.13.5-informational?style=flat-square)
+![Version: 7.15.17](https://img.shields.io/badge/Version-7.15.17-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.13.5](https://img.shields.io/badge/AppVersion-2.13.5-informational?style=flat-square)
 
 Linkwarden is a self-hosted, open-source collaborative bookmark manager to collect, organize and archive webpages.
 

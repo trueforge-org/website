@@ -2,7 +2,7 @@
 title: doplarr
 ---
 
-![Version: 12.14.14](https://img.shields.io/badge/Version-12.14.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.6.3](https://img.shields.io/badge/AppVersion-3.6.3-informational?style=flat-square)
+![Version: 12.14.15](https://img.shields.io/badge/Version-12.14.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.6.3](https://img.shields.io/badge/AppVersion-3.6.3-informational?style=flat-square)
 
 An *arr Request Bot for Discord
 

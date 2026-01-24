@@ -2,7 +2,7 @@
 title: jellyfin
 ---
 
-![Version: 22.2.24](https://img.shields.io/badge/Version-22.2.24-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 10.11.6](https://img.shields.io/badge/AppVersion-10.11.6-informational?style=flat-square)
+![Version: 22.2.25](https://img.shields.io/badge/Version-22.2.25-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 10.11.6](https://img.shields.io/badge/AppVersion-10.11.6-informational?style=flat-square)
 
 Jellyfin is a Free Software Media System
 

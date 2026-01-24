@@ -2,7 +2,7 @@
 title: lazylibrarian
 ---
 
-![Version: 21.14.14](https://img.shields.io/badge/Version-21.14.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 7.0.0](https://img.shields.io/badge/AppVersion-7.0.0-informational?style=flat-square)
+![Version: 21.14.15](https://img.shields.io/badge/Version-21.14.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 7.0.0](https://img.shields.io/badge/AppVersion-7.0.0-informational?style=flat-square)
 
 Get all your books, like series with Sonarr...
 

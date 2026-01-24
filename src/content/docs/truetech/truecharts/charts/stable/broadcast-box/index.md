@@ -2,7 +2,7 @@
 title: broadcast-box
 ---
 
-![Version: 2.13.14](https://img.shields.io/badge/Version-2.13.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 2.13.15](https://img.shields.io/badge/Version-2.13.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Easily broadcast/stream to others with sub-second latency
 

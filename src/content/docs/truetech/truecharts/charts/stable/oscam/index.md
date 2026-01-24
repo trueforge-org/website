@@ -2,7 +2,7 @@
 title: oscam
 ---
 
-![Version: 16.14.27](https://img.shields.io/badge/Version-16.14.27-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 11937.0.0](https://img.shields.io/badge/AppVersion-11937.0.0-informational?style=flat-square)
+![Version: 16.14.28](https://img.shields.io/badge/Version-16.14.28-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 11937.0.0](https://img.shields.io/badge/AppVersion-11937.0.0-informational?style=flat-square)
 
 Open Source Conditional Access Module software
 
