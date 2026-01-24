@@ -116,7 +116,7 @@ or by using [cosign](https://github.com/sigstore/cosign):
 ```sh
 cosign verify-attestation --new-bundle-format --type slsaprovenance1 \
     --certificate-oidc-issuer "https://token.actions.githubusercontent.com" \
-    --certificate-identity-regexp "^https://github.com/trueforge-org/containers/.github/workflows/app-builder.yaml@refs/heads/main" \
+    --certificate-identity-regexp "https://github.com/trueforge-org/containerforge/blob/main/.github/workflows/app-builder.yaml" \
     oci.trueforge.org/containerforge/${APP}:${TAG}
 ```
 

@@ -5,7 +5,7 @@ title: Volume Snapshot
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/truecharts-common/volumesnapshot#full-examples) section for complete examples.
+- See the [Full Examples](/truetech/truecharts-common/volumesnapshot#full-examples) section for complete examples.
 
 :::
 
@@ -132,7 +132,7 @@ Define the source of the volume snapshot
 
 At least one of the following keys must be defined
 
-[`volumeSnapshotContentName`](/truecharts-common/volumesnapshot#volumesnapshotcontentname), [`persistentVolumeClaimName`](/truecharts-common/volumesnapshot#persistentvolumeclaimname)
+[`volumeSnapshotContentName`](/truetech/truecharts-common/volumesnapshot#volumesnapshotcontentname), [`persistentVolumeClaimName`](/truetech/truecharts-common/volumesnapshot#persistentvolumeclaimname)
 
 :::
 

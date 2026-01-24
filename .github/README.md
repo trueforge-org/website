@@ -9,6 +9,7 @@
   - `date`
   - `authors` (The key in the `authors` object in `src/content/docs/news/authors.ts`)
 
+
 ## Supported Code Block Languages
 
 Check upstream [docs](https://github.com/shikijs/textmate-grammars-themes/blob/main/packages/tm-grammars/README.md#grammars)

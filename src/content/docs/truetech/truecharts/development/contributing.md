@@ -86,4 +86,4 @@ Please take note of the difference between a TODO and Feature
 ---
 
 Someone will come along and review the changes. If everything looks good then they will merge it with the main repo.
-If you need any help don't be afraid to ask in the discord channel: [https://discord.gg/tFcTpBp](https://discord.gg/tFcTpBp)
+If you need any help don't be afraid to ask in the discord channel: [https://discord.com/invite/tVsPTHWTtr](https://discord.com/invite/tVsPTHWTtr)

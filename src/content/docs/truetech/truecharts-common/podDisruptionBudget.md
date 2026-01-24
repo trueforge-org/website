@@ -5,7 +5,7 @@ title: Pod Disruption Budget
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/truecharts-common/poddisruptionbudget#full-examples) section for complete examples.
+- See the [Full Examples](/truetech/truecharts-common/poddisruptionbudget#full-examples) section for complete examples.
 
 :::
 
@@ -53,7 +53,7 @@ Define Pod Disruption Budget
 
 At least one of the following keys must be defined
 
-[`minAvailable`](/truecharts-common/poddisruptionbudget#minavailable), [`maxUnavailable`](/truecharts-common/poddisruptionbudget#maxunavailable)
+[`minAvailable`](/truetech/truecharts-common/poddisruptionbudget#minavailable), [`maxUnavailable`](/truetech/truecharts-common/poddisruptionbudget#maxunavailable)
 
 :::
 

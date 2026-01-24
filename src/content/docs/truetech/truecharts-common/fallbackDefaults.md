@@ -5,7 +5,7 @@ title: Fallback Defaults
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/truecharts-common/fallbackdefaults#full-examples) section for complete examples.
+- See the [Full Examples](/truetech/truecharts-common/fallbackdefaults#full-examples) section for complete examples.
 
 :::
 
@@ -65,7 +65,7 @@ Define default probe type when not defined in the container level
 
 Valid Values:
 
-- See [Probe Types](/truecharts-common/container/probes#probesprobetype)
+- See [Probe Types](/truetech/truecharts-common/container/probes#probesprobetype)
 
 Example
 
@@ -90,7 +90,7 @@ Define default service protocol when not defined in the service
 
 Valid Values:
 
-- See [Service Protocols](/truecharts-common/service/ports#protocol)
+- See [Service Protocols](/truetech/truecharts-common/service/ports#protocol)
 
 Example
 
@@ -115,7 +115,7 @@ Define default service type when not defined in the service
 
 Valid Values:
 
-- See [Service Types](/truecharts-common/service#type)
+- See [Service Types](/truetech/truecharts-common/service#type)
 
 Example
 
@@ -161,7 +161,7 @@ Define default persistence type when not defined in the persistence
 
 Valid Values:
 
-- See [Persistence Types](/truecharts-common/persistence#type)
+- See [Persistence Types](/truetech/truecharts-common/persistence#type)
 
 Example
 

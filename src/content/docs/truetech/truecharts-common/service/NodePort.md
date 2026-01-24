@@ -5,8 +5,8 @@ title: NodePort
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/truecharts-common/service/nodeport#full-examples) section for complete examples.
-- See the [Service](/truecharts-common/service) documentation for more information
+- See the [Full Examples](/truetech/truecharts-common/service/nodeport#full-examples) section for complete examples.
+- See the [Service](/truetech/truecharts-common/service) documentation for more information
 
 :::
 
@@ -16,7 +16,7 @@ title: NodePort
 
 :::tip
 
-- See available service keys [here](/truecharts-common/service).
+- See available service keys [here](/truetech/truecharts-common/service).
 - This options apply only when `type: NodePort`.
 
 :::

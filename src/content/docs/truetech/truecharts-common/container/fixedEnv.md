@@ -5,15 +5,15 @@ title: FixedEnv
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/truecharts-common/container/fixedenv#full-examples) section for complete examples.
+- See the [Full Examples](/truetech/truecharts-common/container/fixedenv#full-examples) section for complete examples.
 
 :::
 
 :::tip
 
 Variable names will be scanned for duplicates across all
-[secrets](/truecharts-common/secret), [configmaps](/truecharts-common/configmap),
-[env](/truecharts-common/container/env), [envList](/truecharts-common/container/envlist) and [fixedEnv](/truecharts-common/container/fixedenv)
+[secrets](/truetech/truecharts-common/secret), [configmaps](/truetech/truecharts-common/configmap),
+[env](/truetech/truecharts-common/container/env), [envList](/truetech/truecharts-common/container/envlist) and [fixedEnv](/truetech/truecharts-common/container/fixedenv)
 and will throw an error if it finds any.
 
 :::
@@ -33,17 +33,17 @@ Override fixedEnv for the container
 
 By default it will set the following environment variables:
 
-- `TZ`: [Default TZ](/truecharts-common#tz) or [fixedEnv.TZ](/truecharts-common/container/fixedenv#fixedenvtz)
-- `UMASK`: [Default UMASK](/truecharts-common/securitycontext#securitycontextcontainerumask) or [fixedEnv.UMASK](/truecharts-common/container/fixedenv#fixedenvumask)
-- `UMASK_SET`: [Default UMASK](/truecharts-common/securitycontext#securitycontextcontainerumask) or [fixedEnv.UMASK](/truecharts-common/container/fixedenv#fixedenvumask)
+- `TZ`: [Default TZ](/truecharts-common#tz) or [fixedEnv.TZ](/truetech/truecharts-common/container/fixedenv#fixedenvtz)
+- `UMASK`: [Default UMASK](/truetech/truecharts-common/securitycontext#securitycontextcontainerumask) or [fixedEnv.UMASK](/truetech/truecharts-common/container/fixedenv#fixedenvumask)
+- `UMASK_SET`: [Default UMASK](/truetech/truecharts-common/securitycontext#securitycontextcontainerumask) or [fixedEnv.UMASK](/truetech/truecharts-common/container/fixedenv#fixedenvumask)
 - `S6_READ_ONLY_ROOT`: `1`
-  - Only when [`readOnlyRootFilesystem`](/truecharts-common/container/securitycontext#securitycontextreadonlyrootfilesystem) or [`runAsNonRoot`](/truecharts-common/container/securitycontext#securitycontextrunasnonroot) is `true`
-- `PUID`, `USER_ID`, `UID`: [Default PUID](/truecharts-common/securitycontext#securitycontextcontainerpuid) or [fixedEnv.PUID](/truecharts-common/container/fixedenv#fixedenvpuid)
-  - Only when [`runAsUser`](/truecharts-common/securitycontext#securitycontextcontainerrunasuser) or [`runAsGroup`](/truecharts-common/securitycontext#securitycontextcontainerrunasgroup) is `0`
-- `PGID`, `GROUP_ID`, `GID`: Same as [`fsGroup`](/truecharts-common/securitycontext#securitycontextpodfsgroup)
-  - Only when [`runAsUser`](/truecharts-common/securitycontext#securitycontextcontainerrunasuser) or [`runAsGroup`](/truecharts-common/securitycontext#securitycontextcontainerrunasgroup) is `0`
-- `NVIDIA_DRIVER_CAPABILITIES`: [Default NVIDIA_CAPS](/truecharts-common/containeroptions#nvidia_caps) or [fixedEnv.NVIDIA_CAPS](/truecharts-common/container/fixedenv#fixedenvnvidia_caps)
-  - Only when `nvidia.com/gpu` is set to `> 0` under [`resources`](/truecharts-common/container/resources)
+  - Only when [`readOnlyRootFilesystem`](/truetech/truecharts-common/container/securitycontext#securitycontextreadonlyrootfilesystem) or [`runAsNonRoot`](/truetech/truecharts-common/container/securitycontext#securitycontextrunasnonroot) is `true`
+- `PUID`, `USER_ID`, `UID`: [Default PUID](/truetech/truecharts-common/securitycontext#securitycontextcontainerpuid) or [fixedEnv.PUID](/truetech/truecharts-common/container/fixedenv#fixedenvpuid)
+  - Only when [`runAsUser`](/truetech/truecharts-common/securitycontext#securitycontextcontainerrunasuser) or [`runAsGroup`](/truetech/truecharts-common/securitycontext#securitycontextcontainerrunasgroup) is `0`
+- `PGID`, `GROUP_ID`, `GID`: Same as [`fsGroup`](/truetech/truecharts-common/securitycontext#securitycontextpodfsgroup)
+  - Only when [`runAsUser`](/truetech/truecharts-common/securitycontext#securitycontextcontainerrunasuser) or [`runAsGroup`](/truetech/truecharts-common/securitycontext#securitycontextcontainerrunasgroup) is `0`
+- `NVIDIA_DRIVER_CAPABILITIES`: [Default NVIDIA_CAPS](/truetech/truecharts-common/containeroptions#nvidia_caps) or [fixedEnv.NVIDIA_CAPS](/truetech/truecharts-common/container/fixedenv#fixedenvnvidia_caps)
+  - Only when `nvidia.com/gpu` is set to `> 0` under [`resources`](/truetech/truecharts-common/container/resources)
 
 :::
 
@@ -104,7 +104,7 @@ Override the umask for the container
 | Type       | `string`                                                                   |
 | Required   | ❌                                                                         |
 | Helm `tpl` | ❌                                                                         |
-| Default    | See [here](/truecharts-common/securitycontext/#securitycontextcontainerumask) |
+| Default    | See [here](/truetech/truecharts-common/securitycontext/#securitycontextcontainerumask) |
 
 Example
 
@@ -130,7 +130,7 @@ Override the PUID for the container
 | Type       | `string`                                                                  |
 | Required   | ❌                                                                        |
 | Helm `tpl` | ❌                                                                        |
-| Default    | See [here](/truecharts-common/securitycontext/#securitycontextcontainerpuid) |
+| Default    | See [here](/truetech/truecharts-common/securitycontext/#securitycontextcontainerpuid) |
 
 Example
 
@@ -156,7 +156,7 @@ Override the NVIDIA_CAPS for the container
 | Type       | `list`                                                         |
 | Required   | ❌                                                             |
 | Helm `tpl` | ❌                                                             |
-| Default    | See [here](/truecharts-common/containeroptions#nvidia_caps)       |
+| Default    | See [here](/truetech/truecharts-common/containeroptions#nvidia_caps)       |
 
 Example
 
