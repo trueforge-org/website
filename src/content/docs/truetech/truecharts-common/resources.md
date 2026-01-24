@@ -5,7 +5,7 @@ title: Resources
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/truetech/truecharts-common/resources#full-examples) section for complete examples.
+- See the [Full Examples](/truecharts-common/resources#full-examples) section for complete examples.
 
 :::
 
@@ -29,7 +29,7 @@ resources:
 
 ## `resources.limits`
 
-See [Resources Limits](/truetech/truecharts-common/container/resources#resourceslimits)
+See [Resources Limits](/truecharts-common/container/resources#resourceslimits)
 
 Default
 
@@ -44,7 +44,7 @@ resources:
 
 ### `resources.limits.cpu`
 
-See [Resources Limits CPU](/truetech/truecharts-common/container/resources#resourceslimitscpu)
+See [Resources Limits CPU](/truecharts-common/container/resources#resourceslimitscpu)
 
 Default
 
@@ -58,7 +58,7 @@ resources:
 
 ### `resources.limits.memory`
 
-See [Resources Limits Memory](/truetech/truecharts-common/container/resources#resourceslimitsmemory)
+See [Resources Limits Memory](/truecharts-common/container/resources#resourceslimitsmemory)
 
 Default
 
@@ -72,7 +72,7 @@ resources:
 
 ### `resources.requests."gpu.intel.com/i915"`
 
-See [Resources Requests GPU](/truetech/truecharts-common/container/resources#resourceslimitsgpuintelcomi915)
+See [Resources Requests GPU](/truecharts-common/container/resources#resourceslimitsgpuintelcomi915)
 
 Default: `not set`
 
@@ -80,7 +80,7 @@ Default: `not set`
 
 #### `resources.limits."nvidia.com/gpu"`
 
-See [Resources Limits GPU](/truetech/truecharts-common/container/resources#resourceslimitsnvidiacomgpu)
+See [Resources Limits GPU](/truecharts-common/container/resources#resourceslimitsnvidiacomgpu)
 
 Default: `not set`
 
@@ -88,7 +88,7 @@ Default: `not set`
 
 #### `resources.limits."amd.com/gpu"`
 
-See [Resources Limits GPU](/truetech/truecharts-common/container/resources#resourceslimitsamdcomgpu)
+See [Resources Limits GPU](/truecharts-common/container/resources#resourceslimitsamdcomgpu)
 
 Default: `not set`
 
@@ -96,7 +96,7 @@ Default: `not set`
 
 ## `resources.requests`
 
-See [Resources Requests](/truetech/truecharts-common/container/resources#resourcesrequests)
+See [Resources Requests](/truecharts-common/container/resources#resourcesrequests)
 
 Default
 
@@ -111,7 +111,7 @@ resources:
 
 ### `resources.requests.cpu`
 
-See [Resources Requests CPU](/truetech/truecharts-common/container/resources#resourcesrequestscpu)
+See [Resources Requests CPU](/truecharts-common/container/resources#resourcesrequestscpu)
 
 Default
 
@@ -125,7 +125,7 @@ resources:
 
 ### `resources.requests.memory`
 
-See [Resources Requests Memory](/truetech/truecharts-common/container/resources#resourcesrequestsmemory)
+See [Resources Requests Memory](/truecharts-common/container/resources#resourcesrequestsmemory)
 
 Default
 

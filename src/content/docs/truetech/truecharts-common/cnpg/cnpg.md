@@ -5,10 +5,10 @@ title: CNPG
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/truetech/truecharts-common/cnpg/cnpg#full-examples) section for complete examples.
+- See the [Full Examples](/truecharts-common/cnpg/cnpg#full-examples) section for complete examples.
 - This page is targeted primarily at chart developers. If you are looking for
   how to configure a CNPG backup/restore, visit the
-  [dedicated guide page](/truetech/truecharts/guides/backup--restore/cnpg-backup-restore)
+  [dedicated guide page](/truecharts/guides/backup%20%26%20restore/cnpg-backup-restore)
 
 :::
 
@@ -60,7 +60,7 @@ Define the cluster name.
 
 There is predefined cluster called `main`, which is configured with sensible
 defaults (see common chart's `values.yaml`). It is **disabled** by default and
-must be [enabled](/truetech/truecharts-common/cnpg/cnpg#enabled) if needed.
+must be [enabled](/truecharts-common/cnpg/cnpg#enabled) if needed.
 
 :::
 
@@ -362,7 +362,7 @@ cnpg:
 
 Database cluster configuration
 
-See more details in [CNPG Cluster](/truetech/truecharts-common/cnpg/cluster)
+See more details in [CNPG Cluster](/truecharts-common/cnpg/cluster)
 
 |            |                          |
 | ---------- | ------------------------ |
@@ -394,7 +394,7 @@ TODO
 
 :::note
 
-See the dedicated [CNPG backup/restore guide](/truetech/truecharts/guides/backup%20%26%20restore/cnpg-backup-restore)
+See the dedicated [CNPG backup/restore guide](/truecharts/guides/backup%20%26%20restore/cnpg-backup-restore)
 
 :::
 
@@ -406,7 +406,7 @@ TODO
 
 :::note
 
-See the dedicated [CNPG backup/restore guide](/truetech/truecharts/guides/backup%20%26%20restore/cnpg-backup-restore)
+See the dedicated [CNPG backup/restore guide](/truecharts/guides/backup%20%26%20restore/cnpg-backup-restore)
 
 :::
 

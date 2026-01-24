@@ -5,10 +5,10 @@ title: CNPG Cluster
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/truetech/truecharts-common/cnpg/cluster#full-examples) section for complete examples.
+- See the [Full Examples](/truecharts-common/cnpg/cluster#full-examples) section for complete examples.
 - This page is targeted primarily at chart developers. If you are looking for
   how to configure a CNPG backup/restore, visit the
-  [dedicated guide page](/truetech/truecharts/guides/backup--restore/cnpg-backup-restore)
+  [dedicated guide page](/truecharts/guides/backup%20%26%20restore/cnpg-backup-restore)
 
 :::
 
@@ -78,7 +78,7 @@ Define additional environment variables for the cluster's pods
 
 :::tip
 
-See container env options in the [container env](/truetech/truecharts-common/container/env) section.
+See container env options in the [container env](/truecharts-common/container/env) section.
 
 :::
 
@@ -108,7 +108,7 @@ Define additional environment variables for the cluster's pods
 
 :::tip
 
-See container envFrom options in the [container envFrom](/truetech/truecharts-common/container/envFrom) section.
+See container envFrom options in the [container envFrom](/truecharts-common/container/envFrom) section.
 
 :::
 
