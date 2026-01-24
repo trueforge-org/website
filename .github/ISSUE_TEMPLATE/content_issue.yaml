@@ -35,3 +35,10 @@ body:
     attributes:
       label: Suggested change
       description: Optional but helpful
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: I've read and agree with the following
+      options:
+        - label: I've checked all open and closed issues and my issue is not there.
+          required: true

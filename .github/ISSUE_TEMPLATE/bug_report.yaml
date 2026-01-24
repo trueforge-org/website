@@ -37,6 +37,8 @@ body:
       required: true
   - type: textarea
     id: actual
+    validations:
+      required: true
     attributes:
       label: Actual behavior
 
@@ -44,3 +46,11 @@ body:
     id: context
     attributes:
       label: Additional context
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: I've read and agree with the following
+      options:
+        - label: I've checked all open and closed issues and my issue is not there.
+          required: true
