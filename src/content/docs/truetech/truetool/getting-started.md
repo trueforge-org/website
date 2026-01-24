@@ -12,7 +12,7 @@ Please follow this guide step by step and only skip (Optional) sections.
 
 ### (Optional) Create a Git Repository to store your config
 
-With our new ClusterTool, we started for fully embrace Infrastructure-as-Code.
+With our new ForgeTool, we started for fully embrace Infrastructure-as-Code.
 This means all configs can, safely, be saved towards a (public *or* private) GIT repository for processing, testing and safekeeping!
 
 For this reason we also include integrated SOPS Encryption, Decryption and an automated encryption-check.
@@ -32,9 +32,9 @@ and cloned, github repo.
 From this step forward, we're going to assume a github repo. If you're starting with a local folder,
 that's perfectly fine, however some steps need to be skipped.
 
-## 2. Downloading ClusterTool
+## 2. Downloading ForgeTool
 
-ClusterTool is available on [GitHub](https://github.com/trueforge-org/truecharts/releases).
+ForgeTool is available on [GitHub](https://github.com/trueforge-org/forgetool/releases).
 Please extract the archive and copy the executable into your `configuration folder`.
 
 ## 3. Initialisation
@@ -43,11 +43,11 @@ First off we need to generate all file and folder structure for us to store any 
 
 For this, in a terminal, run:
 
-`clustertool init`
+`forgetool clusterinit`
 
 or, on Windows:
 
-`ClusterTool.exe init`
+`forgetool.exe cluster init`
 
 This builds all config files and folders.
 
@@ -93,7 +93,7 @@ This file contains purely the structure of the Talos Cluster and its nodes thems
 As such, it also contains a number of `${VARIABLE}` references to `clusterenv.yaml`. These should **not** be removed.
 
 We generate an opinionated variant of this file, that is optimised to run with our default setup.
-*Making any changes outside of the nodes section, might completely break ClusterTool*
+*Making any changes outside of the nodes section, might completely break ForgeTool*
 
 We would advise to adapt the nodes so they fit your cluster design. By default we've a single node,
 with a single disk and a single network interface added.
@@ -111,11 +111,11 @@ For More info, see: [here](https://docs.github.com/en/authentication/connecting-
 
 To finalize all the configuration changes please run:Ö
 
-`clustertool init`
+`forgetool cluster init`
 
 or, on Windows:
 
-`ClusterTool.exe init`
+`forgetool.exe cluster init`
 
 again. This will generate all remaining necessary files
 
@@ -124,7 +124,7 @@ again. This will generate all remaining necessary files
 :::caution[Compatibility]
 
 While our genconfig *can* generate a clusterconfig, that can get applied 'out of the box' through TalosCTL.
-By default, our `talconfig.yaml` is completely designed around our ClusterTool expected defaults.
+By default, our `talconfig.yaml` is completely designed around our ForgeTool expected defaults.
 
 Hence these cannot be expected to work directly through TalosCTL.
 
@@ -135,11 +135,11 @@ To create these files, which are not saved to git by default, from the config yo
 
 In a terminal, run:
 
-`clustertool genconfig`
+`forgetool genconfig`
 
 or, on Windows:
 
-`ClusterTool.exe genconfig`
+`forgetool.exe genconfig`
 
 This also will update a number of files we (pre)generate for FluxCD and/or prepare to be uploaded to the cluster.
 This includes things like the CNI (Cilium and MetalLB).
@@ -150,32 +150,32 @@ To save your config, it's important to first ensure none of your secrets leak ou
 
 For this, in a terminal, run:
 
-`clustertool encrypt`
+`forgetool encrypt`
 
 or, on Windows:
 
-`ClusterTool.exe encrypt`
+`forgetool.exe encrypt`
 
 It's important to note that from this point onwards, some settings might be hidden behind encryption text.
 You can still safely alter anything else, but to access these settings again, please follow the below:
 
 In a terminal, run:
 
-`clustertool decrypt`
+`forgetool decrypt`
 
 or, on Windows:
 
-`ClusterTool.exe decrypt`
+`forgetool.exe decrypt`
 
 To be 100% sure encryption worked out correctly, you can always check for the encryption status by running:
 
 In a terminal, run:
 
-`clustertool checkcrypt`
+`forgetool checkcrypt`
 
 or, on Windows:
 
-`ClusterTool.exe checkcrypt`
+`forgetool.exe checkcrypt`
 
 We **highly** advise to always run `checkcrypt` before sending data to git.
 
@@ -191,11 +191,11 @@ To ensure stability, we will first apply the configuration to the first ControlP
 
 For this, in a terminal, run:
 
-`ClusterTool talos apply`
+`forgetool talos apply`
 
 or, on Windows:
 
-`ClusterTool.exe talos apply`
+`forgetool.exe talos apply`
 
 You will be asked if you want to bootstrap the cluster, to do this enter `y` or `yes`
 After this is finished successfully, make sure the node is running correctly. It should have everything loaded already.
@@ -203,7 +203,7 @@ After this is finished successfully, make sure the node is running correctly. It
 :::note[Warnings/Errors]
 
 It is completly normal that the bootstrap takes some time and reboots your talos vm.
-Additionally clustertool might show multiple warnings/errors during the bootstrap while the vm is unreachable.
+Additionally ForgeTool might show multiple warnings/errors during the bootstrap while the vm is unreachable.
 Example Warnigs/Errors:
 
 ```bash
@@ -236,11 +236,11 @@ This is completely automated, we can apply the configuration to every node in th
 
 In a terminal, run:
 
-`ClusterTool talos apply`
+`forgetool talos apply`
 
 or, on Windows:
 
-`ClusterTool.exe talos apply`
+`forgetool talos apply`
 
 ## 11. Final
 

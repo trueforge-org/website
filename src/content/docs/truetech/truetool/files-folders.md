@@ -18,8 +18,8 @@ not doing so *will* result in future data loss
  you can add your own here
 - /generated/ -> This folder will contain some pre-generated files that will be used to bootstrap the cluster and,
 if configured, can be consumed by fluxcd for automatic updates and manual configuration
-- .devcontainer -> Contains a preconfigured dev-container for vscode usage of clustertool
+- .devcontainer -> Contains a preconfigured dev-container for vscode usage of forgetool
 - .vscode -> Contains recommended extensions for your talos cluster in vscode
 - /repositories/ -> Contains all repositories used within fluxcd helm-releases
-- /clusters/ -> Contains all kubernetes clusters you run within the same clustertool github repo
+- /clusters/ -> Contains all kubernetes clusters you run within the same forgetool github repo
 - /kubernetes/ -> Contains all the files of your kubernetes cluster
