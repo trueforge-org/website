@@ -1,0 +1,37 @@
+name: ✍️ Content issue / update
+description: Report incorrect, outdated, or unclear website content
+labels: [content]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Affected page or guide
+      description: URL or page title
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: issue_type
+    attributes:
+      label: Issue type
+      options:
+        - label: Typo / grammar
+        - label: Outdated information
+        - label: Missing information
+        - label: Clarity / wording improvement
+        - label: SEO improvement
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the issue
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested change
+      description: Optional but helpful

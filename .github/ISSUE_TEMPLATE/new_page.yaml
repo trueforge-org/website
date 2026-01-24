@@ -1,0 +1,36 @@
+name: 🧭 New page / content request
+description: Propose a new guide, article, or page
+labels: [new-page]
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: What should be added?
+      description: Short description of the new content
+    validations:
+      required: true
+
+  - type: dropdown
+    id: content_type
+    attributes:
+      label: Content type
+      options:
+        - Guide / Tutorial
+        - News / Announcement
+        - Landing page
+        - FAQ / Reference
+    validations:
+      required: true
+
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Why is this needed?
+    validations:
+      required: true
+
+  - type: textarea
+    id: outline
+    attributes:
+      label: Rough outline
+      description: Optional section ideas or bullet points

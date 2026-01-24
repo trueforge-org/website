@@ -1,0 +1,46 @@
+name: 🐛 Bug report
+description: Report something that is broken or not working as expected
+labels: [bug]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the bug
+      description: What is broken? Be clear and concise.
+    validations:
+      required: true
+
+  - type: input
+    id: location
+    attributes:
+      label: Where does it happen?
+      description: URL, page name, or section
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1.
+        2.
+        3.
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
