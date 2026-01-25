@@ -43,7 +43,7 @@ First off we need to generate all file and folder structure for us to store any 
 
 For this, in a terminal, run:
 
-`forgetool clusterinit`
+`forgetool cluster init`
 
 or, on Windows:
 
