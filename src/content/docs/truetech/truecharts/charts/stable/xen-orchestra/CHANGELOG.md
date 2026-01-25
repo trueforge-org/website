@@ -95,8 +95,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 11.22.0 • [Train: stable]
 
-- fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
 - chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
+- fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
 
 ## 11.21.0 • [Train: stable]
 
@@ -191,8 +191,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 11.12.0 • [Train: stable]
 
-- chore(helm): update image docker.io/ronivay/xen-orchestra 5.188.0 → 5.189.0 (#40079) • [`f6eca5a`](https://github.com/trueforge-org/truecharts/commit/f6eca5a53a48d709c27e9d41501c9ff63692e6d8) • [@TrueCharts Bot] (2025-09-27)
 - Commit daily changes • [`752d863`](https://github.com/trueforge-org/truecharts/commit/752d8637aa7ce955a97ef8991f0788ccc6a2e9ff) • [@TrueCharts-Bot] (2025-09-27)
+- chore(helm): update image docker.io/ronivay/xen-orchestra 5.188.0 → 5.189.0 (#40079) • [`f6eca5a`](https://github.com/trueforge-org/truecharts/commit/f6eca5a53a48d709c27e9d41501c9ff63692e6d8) • [@TrueCharts Bot] (2025-09-27)
 
 ## 11.11.0 • [Train: stable]
 
@@ -701,8 +701,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 8.11.0 • [Train: stable]
 
 - Commit daily changes • [`4cfcfb0`](https://github.com/trueforge-org/truecharts/commit/4cfcfb0324596df0870511c656314b8af9e3f7ee) • [@TrueCharts-Bot] (2024-04-28)
-- Merge branch &#39;master&#39; of github.com:truecharts/charts • [`4093da1`](https://github.com/trueforge-org/truecharts/commit/4093da14198218d1cc87512febb19aae2d1e9e5c) • [@Kjeld Schouten] (2024-04-27)
 - chore(deps): update container image ronivay/xen-orchestra to v5.141.0@8c61290 by renovate (#21424) • [`c12637a`](https://github.com/trueforge-org/truecharts/commit/c12637aecafefcd32c86494da9f98a3e4c73158d) • [@TrueCharts Bot] (2024-04-27)
+- Merge branch &#39;master&#39; of github.com:truecharts/charts • [`4093da1`](https://github.com/trueforge-org/truecharts/commit/4093da14198218d1cc87512febb19aae2d1e9e5c) • [@Kjeld Schouten] (2024-04-27)
 
 ## 8.10.16 • [Train: stable]
 
@@ -1127,11 +1127,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.1.25 • [Train: stable]
 
-- Commit daily changes • [`4029aea`](https://github.com/trueforge-org/truecharts/commit/4029aea090973758ef3c4f7952ae41c2cf78bcb0) • [@TrueCharts-Bot] (2023-12-02)
-- Commit daily changes • [`57a03f8`](https://github.com/trueforge-org/truecharts/commit/57a03f87318553c6d549bb9ae286dcd3cb3d8d5e) • [@TrueCharts-Bot] (2023-12-02)
-- chore: update annotations • [`5e194fb`](https://github.com/trueforge-org/truecharts/commit/5e194fb0bb5e2db19f02aac9cfd3cf32f28694f2) • [@Kjeld Schouten] (2023-12-02)
 - chore: fix annotations again • [`968da8e`](https://github.com/trueforge-org/truecharts/commit/968da8ed456fb6015744404b9cd21b832b0f9b38) • [@Kjeld Schouten] (2023-12-02)
 - Commit daily changes • [`a0cab80`](https://github.com/trueforge-org/truecharts/commit/a0cab8013532aa7e3751411c7a16cc020866fa8d) • [@TrueCharts-Bot] (2023-12-02)
+- Commit daily changes • [`57a03f8`](https://github.com/trueforge-org/truecharts/commit/57a03f87318553c6d549bb9ae286dcd3cb3d8d5e) • [@TrueCharts-Bot] (2023-12-02)
+- Commit daily changes • [`4029aea`](https://github.com/trueforge-org/truecharts/commit/4029aea090973758ef3c4f7952ae41c2cf78bcb0) • [@TrueCharts-Bot] (2023-12-02)
+- chore: update annotations • [`5e194fb`](https://github.com/trueforge-org/truecharts/commit/5e194fb0bb5e2db19f02aac9cfd3cf32f28694f2) • [@Kjeld Schouten] (2023-12-02)
 - Commit daily changes • [`e75af59`](https://github.com/trueforge-org/truecharts/commit/e75af597d02003f3848de446c0b2f0c9dc4c10a1) • [@TrueCharts-Bot] (2023-12-01)
 - chore: cleanup chart.yaml and add min-max scale version • [`286f68a`](https://github.com/trueforge-org/truecharts/commit/286f68aed0da4d274bcd7e7266934adee6667c6c) • [@Kjeld Schouten] (2023-11-30)
 - Commit daily changes • [`d1c2213`](https://github.com/trueforge-org/truecharts/commit/d1c22138f95fdb77ed67ed1702ac71741ce17f1b) • [@TrueCharts-Bot] (2023-11-28)
@@ -1392,8 +1392,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - adapt workload and container questions for all apps • [`3c47107`](https://github.com/trueforge-org/truecharts/commit/3c471071cc485e386195989e12a1c45af51d67ac) • [@Kjeld Schouten-Lebbing] (2023-03-01)
 - update security context questions • [`893b55d`](https://github.com/trueforge-org/truecharts/commit/893b55dc56a6a658d921b59ec48696c23cb21926) • [@Kjeld Schouten-Lebbing] (2023-03-01)
-- Commit bumped Chart Version • [`b231ef0`](https://github.com/trueforge-org/truecharts/commit/b231ef0e8ce455e863862edfca8264af3443c26b) • [@TrueCharts-Bot] (2023-02-11)
 - Merge pull request #7177 from truecharts/renovate/tccr.io-truecharts-xenorchestra-5.109.0 • [`20c6898`](https://github.com/trueforge-org/truecharts/commit/20c6898c5df79e0256cf9f8f1179f30911d096ee) • [@TrueCharts Bot] (2023-02-11)
+- Commit bumped Chart Version • [`b231ef0`](https://github.com/trueforge-org/truecharts/commit/b231ef0e8ce455e863862edfca8264af3443c26b) • [@TrueCharts-Bot] (2023-02-11)
 
 ## 3.0.20 • [Train: stable]
 
@@ -1402,8 +1402,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.0.19 • [Train: stable]
 
-- Commit bumped Chart Version • [`6058ae8`](https://github.com/trueforge-org/truecharts/commit/6058ae8419a8084696494550620a8ffd301bff65) • [@TrueCharts-Bot] (2023-02-05)
 - Merge pull request #6998 from truecharts/renovate/tccr.io-truecharts-xenorchestra-5.x • [`01415bd`](https://github.com/trueforge-org/truecharts/commit/01415bd578eb0f60305eff7815fc648e3cfcafaf) • [@TrueCharts Bot] (2023-02-05)
+- Commit bumped Chart Version • [`6058ae8`](https://github.com/trueforge-org/truecharts/commit/6058ae8419a8084696494550620a8ffd301bff65) • [@TrueCharts-Bot] (2023-02-05)
 
 ## 3.0.18 • [Train: stable]
 
@@ -1415,8 +1415,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 3.0.17 • [Train: stable]
 
 - chore(deps): update container image tccr.io/truecharts/xenorchestra to v5.108.0 • [`986f84f`](https://github.com/trueforge-org/truecharts/commit/986f84f9c052bd28a5541e0bc22ec910b5f8b1bb) • [@TrueCharts-Admin] (2023-01-31)
-- Commit bumped Chart Version • [`0e98896`](https://github.com/trueforge-org/truecharts/commit/0e98896ae0a04414fd4244a7e28a4db7d7fee940) • [@TrueCharts-Bot] (2023-01-24)
 - Merge pull request #6682 from truecharts/renovate/tccr.io-truecharts-xenorchestra-5.107.5 • [`e2a3e83`](https://github.com/trueforge-org/truecharts/commit/e2a3e83a8c8e9b96d044e9698b7dff2e67a1f636) • [@TrueCharts Bot] (2023-01-24)
+- Commit bumped Chart Version • [`0e98896`](https://github.com/trueforge-org/truecharts/commit/0e98896ae0a04414fd4244a7e28a4db7d7fee940) • [@TrueCharts-Bot] (2023-01-24)
 
 ## 3.0.16 • [Train: stable]
 
@@ -1443,9 +1443,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.0.12 • [Train: stable]
 
+- Commit daily changes • [`d478e84`](https://github.com/trueforge-org/truecharts/commit/d478e848ceecae24ece77717cb807e86b330b95a) • [@TrueCharts-Bot] (2022-12-26)
 - chore(deps): update helm general non-major (#5839) • [`3a29755`](https://github.com/trueforge-org/truecharts/commit/3a29755f395e41b8dee8c6f2802243869346e7ea) • [@TrueCharts Bot] (2022-12-26)
 - Commit daily changes • [`927ca59`](https://github.com/trueforge-org/truecharts/commit/927ca5989df40c942f283bbf39d8b61c5e6505c9) • [@TrueCharts-Bot] (2022-12-26)
-- Commit daily changes • [`d478e84`](https://github.com/trueforge-org/truecharts/commit/d478e848ceecae24ece77717cb807e86b330b95a) • [@TrueCharts-Bot] (2022-12-26)
 
 ## 3.0.11 • [Train: stable]
 
@@ -1453,8 +1453,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.0.10 • [Train: stable]
 
-- Commit bumped Chart Version • [`ed89321`](https://github.com/trueforge-org/truecharts/commit/ed893217541712b14cfddc7b4961c27086bdafb7) • [@TrueCharts-Bot] (2022-12-24)
 - Merge pull request #5679 from truecharts/renovate/tccr.io-truecharts-xenorchestra-5.x • [`759b6cf`](https://github.com/trueforge-org/truecharts/commit/759b6cf0040b36ffd1011b6f991ce58b6fcdc69b) • [@TrueCharts Bot] (2022-12-24)
+- Commit bumped Chart Version • [`ed89321`](https://github.com/trueforge-org/truecharts/commit/ed893217541712b14cfddc7b4961c27086bdafb7) • [@TrueCharts-Bot] (2022-12-24)
 
 ## 3.0.9 • [Train: stable]
 
@@ -1478,8 +1478,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 3.0.5 • [Train: stable]
 
 - chore(deps): update container image tccr.io/truecharts/xenorchestra to v5.107.2 • [`b64c479`](https://github.com/trueforge-org/truecharts/commit/b64c4791022276ec58277117db8021d2ecbefd9d) • [@TrueCharts-Admin] (2022-12-11)
-- Commit bumped Chart Version • [`9bfb465`](https://github.com/trueforge-org/truecharts/commit/9bfb46585e7ace1709f8f24cdf6c6265f95394ef) • [@TrueCharts-Bot] (2022-12-03)
 - Merge pull request #5110 from truecharts/renovate/tccr.io-truecharts-xenorchestra-5.x • [`b9d0306`](https://github.com/trueforge-org/truecharts/commit/b9d0306396b1ecf6474097b3917a2fb0d7ed3866) • [@TrueCharts Bot] (2022-12-03)
+- Commit bumped Chart Version • [`9bfb465`](https://github.com/trueforge-org/truecharts/commit/9bfb46585e7ace1709f8f24cdf6c6265f95394ef) • [@TrueCharts-Bot] (2022-12-03)
 
 ## 3.0.4 • [Train: stable]
 
@@ -1494,8 +1494,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 3.0.2 • [Train: stable]
 
 - Update container image tccr.io/truecharts/xenorchestra to 5.106.1 • [`31cb2f4`](https://github.com/trueforge-org/truecharts/commit/31cb2f474fb4339bddcddfe05a63a3f62918bfbf) • [@TrueCharts-Admin] (2022-11-27)
-- Merge pull request #4619 from truecharts/renovate/tccr.io-truecharts-xenorchestra-5.x • [`9c11e13`](https://github.com/trueforge-org/truecharts/commit/9c11e132db836649f7ed2bb208dc05661b86f36f) • [@TrueCharts Bot] (2022-11-19)
 - Commit bumped Chart Version • [`79bc321`](https://github.com/trueforge-org/truecharts/commit/79bc321d7c1664527d960549df43d3c2e5ab9bfe) • [@TrueCharts-Bot] (2022-11-19)
+- Merge pull request #4619 from truecharts/renovate/tccr.io-truecharts-xenorchestra-5.x • [`9c11e13`](https://github.com/trueforge-org/truecharts/commit/9c11e132db836649f7ed2bb208dc05661b86f36f) • [@TrueCharts Bot] (2022-11-19)
 
 ## 3.0.1 • [Train: stable]
 
@@ -1521,9 +1521,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.2 • [Train: incubator]
 
-- questions.yaml cleanup (#4377) • [`9559a83`](https://github.com/trueforge-org/truecharts/commit/9559a835155e0418fc79d976c134866df951b40c) • [@Stavros Kois] (2022-11-11)
 - bump everything (#4376) • [`3b9ba2a`](https://github.com/trueforge-org/truecharts/commit/3b9ba2a1dfdc7e5561126091835d0f538999d13b) • [@Stavros Kois] (2022-11-11)
 - feat(apps): readd ingressList to all Apps that already have Ingress itself • [`668157c`](https://github.com/trueforge-org/truecharts/commit/668157c363529cc8f3dd57089533732d5baee31f) • [@Kjeld Schouten-Lebbing] (2022-11-11)
+- questions.yaml cleanup (#4377) • [`9559a83`](https://github.com/trueforge-org/truecharts/commit/9559a835155e0418fc79d976c134866df951b40c) • [@Stavros Kois] (2022-11-11)
 
 ## 1.0.1 • [Train: incubator]
 
@@ -1531,10 +1531,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.0 • [Train: incubator]
 
-- fix(apps): remove references to targetPort • [`800312b`](https://github.com/trueforge-org/truecharts/commit/800312b29574d87c6591fa5590b8028da3e6d5b9) • [@Kjeld Schouten-Lebbing] (2022-11-11)
 - fix(apps): remove removed includes • [`f4fb894`](https://github.com/trueforge-org/truecharts/commit/f4fb8943e1f46b3ba2f705aac6792ad3bc1337d2) • [@Kjeld Schouten-Lebbing] (2022-11-11)
-- chore(apps): Major Change to GUI • [`2ef737f`](https://github.com/trueforge-org/truecharts/commit/2ef737f7d3d8fbb7a1ffe46456963004f37d9f45) • [@Kjeld Schouten-Lebbing] (2022-11-10)
+- fix(apps): remove references to targetPort • [`800312b`](https://github.com/trueforge-org/truecharts/commit/800312b29574d87c6591fa5590b8028da3e6d5b9) • [@Kjeld Schouten-Lebbing] (2022-11-11)
 - chore: Auto-update chart README [skip ci] • [`ba9389e`](https://github.com/trueforge-org/truecharts/commit/ba9389e4da8aa4bab028f912000dbd4e975f99fb) • [@truecharts-bot] (2022-11-10)
+- chore(apps): Major Change to GUI • [`2ef737f`](https://github.com/trueforge-org/truecharts/commit/2ef737f7d3d8fbb7a1ffe46456963004f37d9f45) • [@Kjeld Schouten-Lebbing] (2022-11-10)
 
 ## 0.0.15 • [Train: incubator]
 
@@ -1543,10 +1543,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.14 • [Train: incubator]
 
-- chore: Auto-update chart README [skip ci] • [`9ba8308`](https://github.com/trueforge-org/truecharts/commit/9ba8308ab3a3d7ea99da57d1b0054292e4d08753) • [@truecharts-bot] (2022-11-08)
-- chore(deps): update helm general non-major (#4342) • [`ec3d563`](https://github.com/trueforge-org/truecharts/commit/ec3d56395c3202bfad45c19266686bf4c5315f01) • [@TrueCharts Bot] (2022-11-08)
 - chore: Auto-update chart README [skip ci] • [`3180582`](https://github.com/trueforge-org/truecharts/commit/31805828c6aed71e55a911fb3aef5b5c9916ad3b) • [@truecharts-bot] (2022-11-08)
 - chore: Auto-update chart README [skip ci] • [`6053fd9`](https://github.com/trueforge-org/truecharts/commit/6053fd928080c895ac04de0d8509550c46a04ace) • [@truecharts-bot] (2022-11-08)
+- chore: Auto-update chart README [skip ci] • [`9ba8308`](https://github.com/trueforge-org/truecharts/commit/9ba8308ab3a3d7ea99da57d1b0054292e4d08753) • [@truecharts-bot] (2022-11-08)
+- chore(deps): update helm general non-major (#4342) • [`ec3d563`](https://github.com/trueforge-org/truecharts/commit/ec3d56395c3202bfad45c19266686bf4c5315f01) • [@TrueCharts Bot] (2022-11-08)
 
 ## 0.0.13 • [Train: incubator]
 
@@ -1556,8 +1556,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.12 • [Train: incubator]
 
-- chore(deps): update helm general non-major (#4317) • [`2275750`](https://github.com/trueforge-org/truecharts/commit/227575098c2c6bfa994215eb2f9d4eedbdde2192) • [@TrueCharts Bot] (2022-11-06)
 - chore: Auto-update chart README [skip ci] • [`e5bdcae`](https://github.com/trueforge-org/truecharts/commit/e5bdcaea0fe5ba99bbf73e66030894594ecd9754) • [@truecharts-bot] (2022-11-06)
+- chore(deps): update helm general non-major (#4317) • [`2275750`](https://github.com/trueforge-org/truecharts/commit/227575098c2c6bfa994215eb2f9d4eedbdde2192) • [@TrueCharts Bot] (2022-11-06)
 
 ## 0.0.11 • [Train: incubator]
 
@@ -1577,8 +1577,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.8 • [Train: incubator]
 
-- chore(deps): update helm general non-major (#4182) • [`8a3205d`](https://github.com/trueforge-org/truecharts/commit/8a3205d1dc070bd7e1f0d3253d6280ca6edabac3) • [@TrueCharts Bot] (2022-10-25)
 - chore: Auto-update chart README [skip ci] • [`bccedce`](https://github.com/trueforge-org/truecharts/commit/bccedce1b8fbbc42401112fa6b873cd7cb4f28a9) • [@truecharts-bot] (2022-10-25)
+- chore(deps): update helm general non-major (#4182) • [`8a3205d`](https://github.com/trueforge-org/truecharts/commit/8a3205d1dc070bd7e1f0d3253d6280ca6edabac3) • [@TrueCharts Bot] (2022-10-25)
 
 ## 0.0.7 • [Train: incubator]
 

@@ -34,8 +34,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.32.1 • [Train: stable]
 
-- fix(helm-deps): update chart common 28.29.30 → 28.29.35 (#43970) • [`b2f0b22`](https://github.com/trueforge-org/truecharts/commit/b2f0b229730d91f0c30c6f11ad626485a1627220) • [@TrueCharts Bot] (2026-01-23)
 - fix(renovate): update image oci.trueforge.org/containerforge/renovate 42.90.0 → 42.90.2 (#44023) • [`ac03cec`](https://github.com/trueforge-org/truecharts/commit/ac03cec997bf1dc4c11665290bccdff1ab28acf5) • [@TrueCharts Bot] (2026-01-23)
+- fix(helm-deps): update chart common 28.29.30 → 28.29.35 (#43970) • [`b2f0b22`](https://github.com/trueforge-org/truecharts/commit/b2f0b229730d91f0c30c6f11ad626485a1627220) • [@TrueCharts Bot] (2026-01-23)
 
 ## 4.32.0 • [Train: stable]
 
