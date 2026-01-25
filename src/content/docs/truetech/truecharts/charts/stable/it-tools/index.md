@@ -2,13 +2,12 @@
 title: it-tools
 ---
 
-![Version: 8.13.15](https://img.shields.io/badge/Version-8.13.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2024.10.22](https://img.shields.io/badge/AppVersion-2024.10.22-informational?style=flat-square)
+![Version: 8.13.16](https://img.shields.io/badge/Version-8.13.16-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2024.10.22](https://img.shields.io/badge/AppVersion-2024.10.22-informational?style=flat-square)
 
 Useful tools for developer and people working in IT.
 
 ## Chart Sources
 
-- https://ghcr.io/corentinth/it-tools
 - https://github.com/CorentinTh/it-tools
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/it-tools
 
