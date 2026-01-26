@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/devcontainers/spec/main/schemas/devContainer.schema.json",
   "name": "TrueForge Website",
-  "image": "oci.trueforge.org/containerforge/node:22.20.0@sha256:0d7011c0cfa0d010fa93c711ed870c7bc88a26588ef040629132939dd6816097",
+  "image": "oci.trueforge.org/containerforge/node:22.20.0@sha256:ddd2e92871c2738c4b20cee69e8423049698d6da5f1a9ef910a6acd30e547fed",
   "postCreateCommand": "npm install",
   "postStartCommand": "git config --global --add safe.directory ${containerWorkspaceFolder}",
   "remoteUser": "root",
