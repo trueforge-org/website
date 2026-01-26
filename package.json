@@ -3,7 +3,7 @@
   "type": "module",
   "version": "0.0.1",
   "scripts": {
-    "dev": "export NODE_OPTIONS=--max-old-space-size=12000 && astro dev",
+    "dev": "export NODE_OPTIONS=--max-old-space-size=12000 && astro dev --host",
     "start": "export NODE_OPTIONS=--max-old-space-size=12000 && astro dev",
     "check": "export NODE_OPTIONS=--max-old-space-size=12000 && astro check",
     "build": "export NODE_OPTIONS=--max-old-space-size=12000 && astro build",
