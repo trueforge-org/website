@@ -75,8 +75,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 11.18.0 • [Train: stable]
 
-- chore(helm): update image docker.io/portainer/portainer-ce 2.35.0 → 2.36.0 (#42161) • [`cb0e5fd`](https://github.com/trueforge-org/truecharts/commit/cb0e5fd000197641602e113df95a2c976f86e422) • [@TrueCharts Bot] (2025-11-27)
 - chore(helm): update image docker.io/portainer/portainer-ee 2.35.0 → 2.36.0 (#42162) • [`a2a8596`](https://github.com/trueforge-org/truecharts/commit/a2a8596fada6e554d86a821e840137fb30badc71) • [@TrueCharts Bot] (2025-11-27)
+- chore(helm): update image docker.io/portainer/portainer-ce 2.35.0 → 2.36.0 (#42161) • [`cb0e5fd`](https://github.com/trueforge-org/truecharts/commit/cb0e5fd000197641602e113df95a2c976f86e422) • [@TrueCharts Bot] (2025-11-27)
 
 ## 11.17.0 • [Train: stable]
 
@@ -151,8 +151,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 11.9.0 • [Train: stable]
 
-- chore(helm): update image docker.io/portainer/portainer-ee 2.33.1 → 2.34.0 (#39690) • [`917c84a`](https://github.com/trueforge-org/truecharts/commit/917c84a7caa8e5284cdf7fab6784fdf504f13d9f) • [@TrueCharts Bot] (2025-09-18)
 - chore(helm): update image docker.io/portainer/portainer-ce 2.33.1 → 2.34.0 (#39689) • [`aee1ef7`](https://github.com/trueforge-org/truecharts/commit/aee1ef7ea5c8f7fef5d11c7c01e035ef0394ecc4) • [@TrueCharts Bot] (2025-09-18)
+- chore(helm): update image docker.io/portainer/portainer-ee 2.33.1 → 2.34.0 (#39690) • [`917c84a`](https://github.com/trueforge-org/truecharts/commit/917c84a7caa8e5284cdf7fab6784fdf504f13d9f) • [@TrueCharts Bot] (2025-09-18)
 
 ## 11.8.0 • [Train: stable]
 
@@ -268,8 +268,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 10.17.2 • [Train: stable]
 
-- chore(helm): update image docker.io/portainer/portainer-ee 2.31.1 → 2.31.2 (#36731) • [`369c033`](https://github.com/trueforge-org/truecharts/commit/369c0333017f8191fe1025ebc5b06a824e2e30e4) • [@TrueCharts Bot] (2025-06-28)
 - chore(helm): update image docker.io/portainer/portainer-ce 2.31.1 → 2.31.2 (#36730) • [`d3fc194`](https://github.com/trueforge-org/truecharts/commit/d3fc1948b2110c4e3003c5ec1c19252aaa5a61d1) • [@TrueCharts Bot] (2025-06-28)
+- chore(helm): update image docker.io/portainer/portainer-ee 2.31.1 → 2.31.2 (#36731) • [`369c033`](https://github.com/trueforge-org/truecharts/commit/369c0333017f8191fe1025ebc5b06a824e2e30e4) • [@TrueCharts Bot] (2025-06-28)
 
 ## 10.17.1 • [Train: stable]
 
@@ -298,8 +298,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 10.15.0 • [Train: stable]
 
-- chore(helm): update image docker.io/portainer/portainer-ce 2.28.1 → 2.29.0 (#34454) • [`960295c`](https://github.com/trueforge-org/truecharts/commit/960295cbfc4162d763a310a7182f0e78e7817370) • [@TrueCharts Bot] (2025-04-16)
 - chore(helm): update image docker.io/portainer/portainer-ee 2.28.1 → 2.29.0 (#34455) • [`233c3a4`](https://github.com/trueforge-org/truecharts/commit/233c3a4464fcaadfd7797c126d3466341b76c3f4) • [@TrueCharts Bot] (2025-04-16)
+- chore(helm): update image docker.io/portainer/portainer-ce 2.28.1 → 2.29.0 (#34454) • [`960295c`](https://github.com/trueforge-org/truecharts/commit/960295cbfc4162d763a310a7182f0e78e7817370) • [@TrueCharts Bot] (2025-04-16)
 
 ## 10.14.0 • [Train: stable]
 
@@ -335,8 +335,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 10.10.0 • [Train: stable]
 
-- chore(helm): update image docker.io/portainer/portainer-ee 2.25.1 → 2.26.1 (#30920) • [`91f172a`](https://github.com/trueforge-org/truecharts/commit/91f172a3eccb6d810c0385742499b25ab1964eca) • [@TrueCharts Bot] (2025-01-24)
 - chore(helm): update image docker.io/portainer/portainer-ce 2.25.1 → 2.26.1 (#30919) • [`3dc6889`](https://github.com/trueforge-org/truecharts/commit/3dc68898cd0812b83f9fd01bb86287801c3e4874) • [@TrueCharts Bot] (2025-01-24)
+- chore(helm): update image docker.io/portainer/portainer-ee 2.25.1 → 2.26.1 (#30920) • [`91f172a`](https://github.com/trueforge-org/truecharts/commit/91f172a3eccb6d810c0385742499b25ab1964eca) • [@TrueCharts Bot] (2025-01-24)
 
 ## 10.9.0 • [Train: stable]
 
@@ -371,8 +371,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 10.6.2 • [Train: stable]
 
-- chore(helm): update image docker.io/portainer/portainer-ee digest to 3045fa2 (#29390) • [`d362d35`](https://github.com/trueforge-org/truecharts/commit/d362d35d20fcdef5308d37fe0280de10089e2c03) • [@TrueCharts Bot] (2024-11-15)
 - chore(helm): update image docker.io/portainer/portainer-ce digest to 5801bc8 (#29389) • [`700e7ef`](https://github.com/trueforge-org/truecharts/commit/700e7ef520f71b1d9990ea2a64aa9397a3c2b0d5) • [@TrueCharts Bot] (2024-11-15)
+- chore(helm): update image docker.io/portainer/portainer-ee digest to 3045fa2 (#29390) • [`d362d35`](https://github.com/trueforge-org/truecharts/commit/d362d35d20fcdef5308d37fe0280de10089e2c03) • [@TrueCharts Bot] (2024-11-15)
 
 ## 10.6.1 • [Train: stable]
 
@@ -509,8 +509,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 - Commit daily changes • [`6e72827`](https://github.com/trueforge-org/truecharts/commit/6e728271ad5ff1a3cbf3ce945fcb7f056a556484) • [@TrueCharts-Bot] (2024-05-09)
 - Commit daily changes • [`7bac265`](https://github.com/trueforge-org/truecharts/commit/7bac265a259104ead30b5c1fababc2fc0a869620) • [@TrueCharts-Bot] (2024-05-08)
 - Commit daily changes • [`410bacb`](https://github.com/trueforge-org/truecharts/commit/410bacb1c125e67432259a71529f46c58054e4ef) • [@TrueCharts-Bot] (2024-05-07)
-- chore(docs): exclude changelog from pagefind (#21693) • [`f91c384`](https://github.com/trueforge-org/truecharts/commit/f91c384060835b0cff91205b8ee00de36b10d689) • [@Stavros Kois] (2024-05-06)
 - Commit daily changes • [`460ce98`](https://github.com/trueforge-org/truecharts/commit/460ce98e609cda3c2b24a7f670cd204abb4a2123) • [@TrueCharts-Bot] (2024-05-06)
+- chore(docs): exclude changelog from pagefind (#21693) • [`f91c384`](https://github.com/trueforge-org/truecharts/commit/f91c384060835b0cff91205b8ee00de36b10d689) • [@Stavros Kois] (2024-05-06)
 - chore(deps): update portainer to v2.20.2@b41dfa2 by renovate (patch) (#21598) • [`8b2e415`](https://github.com/trueforge-org/truecharts/commit/8b2e415ba8e7da0b990ee68de64af5b85a18340d) • [@TrueCharts Bot] (2024-05-05)
 
 ## 9.0.5 • [Train: stable]
@@ -756,8 +756,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 7.1.11 • [Train: stable]
 
-- Merge branch &#39;master&#39; of github.com:truecharts/charts • [`07c3b1c`](https://github.com/trueforge-org/truecharts/commit/07c3b1c5990ce846f3334a5bd35e2f290541f800) • [@Kjeld Schouten] (2024-02-17)
 - Commit daily changes • [`eac17c7`](https://github.com/trueforge-org/truecharts/commit/eac17c7bfdbdb4b9c8533909040a6b1d28315261) • [@TrueCharts-Bot] (2024-02-17)
+- Merge branch &#39;master&#39; of github.com:truecharts/charts • [`07c3b1c`](https://github.com/trueforge-org/truecharts/commit/07c3b1c5990ce846f3334a5bd35e2f290541f800) • [@Kjeld Schouten] (2024-02-17)
 - Commit daily changes • [`294fe34`](https://github.com/trueforge-org/truecharts/commit/294fe34b4648403217b29c57ff7c9b9ff0b4f653) • [@TrueCharts-Bot] (2024-02-13)
 - Merge branch &#39;master&#39; of github.com:truecharts/charts • [`74dcc8c`](https://github.com/trueforge-org/truecharts/commit/74dcc8cfc99a39f74e7976566f414e744f345596) • [@Kjeld Schouten] (2024-02-13)
 - Commit daily changes • [`a59c8b1`](https://github.com/trueforge-org/truecharts/commit/a59c8b181ddc13ec0e32f16526f043bce8861c97) • [@TrueCharts-Bot] (2024-02-12)
@@ -926,9 +926,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.0.22 • [Train: stable]
 
-- Commit daily changes • [`58ebe44`](https://github.com/trueforge-org/truecharts/commit/58ebe44c1035f18876fd999e45680d1f22c3c3a6) • [@TrueCharts-Bot] (2023-12-14)
 - Commit daily changes • [`836a202`](https://github.com/trueforge-org/truecharts/commit/836a202222e70213ddd12fcecb0b4a74bfa88631) • [@TrueCharts-Bot] (2023-12-14)
 - Merge branch &#39;master&#39; of github.com:truecharts/charts • [`d85f6a7`](https://github.com/trueforge-org/truecharts/commit/d85f6a76ea5ed62e71514fc874b4b8b1e6c73230) • [@Kjeld Schouten] (2023-12-14)
+- Commit daily changes • [`58ebe44`](https://github.com/trueforge-org/truecharts/commit/58ebe44c1035f18876fd999e45680d1f22c3c3a6) • [@TrueCharts-Bot] (2023-12-14)
 - Commit daily changes • [`0389064`](https://github.com/trueforge-org/truecharts/commit/0389064d4964c10ef3297a94d24d3120e8e7dece) • [@TrueCharts-Bot] (2023-12-13)
 - Commit daily changes • [`9edb8f3`](https://github.com/trueforge-org/truecharts/commit/9edb8f34a2c42615d9769c78aab806ed32594375) • [@TrueCharts-Bot] (2023-12-09)
 - chore(deps): update portainer (#15838) • [`f1a5af1`](https://github.com/trueforge-org/truecharts/commit/f1a5af148ac816b87358eec7f23a9395c54f4ea6) • [@TrueCharts Bot] (2023-12-08)
