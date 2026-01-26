@@ -1,0 +1,32 @@
+{
+  "$schema": "https://raw.githubusercontent.com/devcontainers/spec/main/schemas/devContainer.schema.json",
+  "name": "TrueForge Website",
+  "image": "oci.trueforge.org/containerforge/node:22.20.0@sha256:0d7011c0cfa0d010fa93c711ed870c7bc88a26588ef040629132939dd6816097",
+  "postCreateCommand": "npm install",
+  "postStartCommand": "git config --global --add safe.directory ${containerWorkspaceFolder}",
+  "remoteUser": "root",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "SimonSiefke.svg-preview",
+        "ecmel.vscode-html-css",
+        "formulahendry.code-runner",
+        "streetsidesoftware.code-spell-checker",
+        "Codium.codium",
+        "mhutchie.git-graph",
+        "yzhang.markdown-all-in-one",
+        "searKing.preview-vscode",
+        "DavidAnson.vscode-markdownlint",
+        "GitHub.copilot",
+        "EditorConfig.editorconfig",
+        "PKief.material-icon-theme",
+        "usernamehw.errorlens",
+        "redhat.vscode-yaml",
+		    "eamodio.gitlens",
+        "hossaini.bootstrap-intellisense",
+		    "astro-build.astro-vscode",
+		    "mrmlnc.vscode-duplicate"
+      ]
+    }
+  }
+}

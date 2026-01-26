@@ -1,14 +1,22 @@
 {
     "recommendations": [
-        "astro-build.astro-vscode",
-        "redhat.vscode-yaml",
-        "mrmlnc.vscode-duplicate",
+        "SimonSiefke.svg-preview",
+        "ecmel.vscode-html-css",
+        "formulahendry.code-runner",
+        "streetsidesoftware.code-spell-checker",
+        "Codium.codium",
         "mhutchie.git-graph",
-        "eamodio.gitlens",
         "yzhang.markdown-all-in-one",
         "searKing.preview-vscode",
         "DavidAnson.vscode-markdownlint",
-        "IgorSbitnev.error-gutters",
-        "usernamehw.errorlens"
+        "GitHub.copilot",
+        "EditorConfig.editorconfig",
+        "PKief.material-icon-theme",
+        "usernamehw.errorlens",
+        "redhat.vscode-yaml",
+		"eamodio.gitlens",
+        "hossaini.bootstrap-intellisense",
+		"astro-build.astro-vscode",
+		"mrmlnc.vscode-duplicate"
     ]
-}
+  }
