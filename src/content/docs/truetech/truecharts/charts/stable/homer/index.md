@@ -2,7 +2,7 @@
 title: homer
 ---
 
-![Version: 13.17.13](https://img.shields.io/badge/Version-13.17.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 25.11.1](https://img.shields.io/badge/AppVersion-25.11.1-informational?style=flat-square)
+![Version: 13.17.14](https://img.shields.io/badge/Version-13.17.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 25.11.1](https://img.shields.io/badge/AppVersion-25.11.1-informational?style=flat-square)
 
 A dead simple static homepage for your server to keep your services on hand.
 

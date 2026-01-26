@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.0.14 • [Train: stable]
+
+- fix(helm-deps): update chart common 28.29.36 → 28.29.37 (#44120) • [`6fef4f5`](https://github.com/trueforge-org/truecharts/commit/6fef4f53787f24b468c8db964f464a66742b2e69) • [@TrueCharts Bot] (2026-01-26)
+
 ## 1.0.13 • [Train: stable]
 
 - fix(tracearr): update image ghcr.io/connorgallopo/tracearr 1.4.6 → 1.4.7 (#44129) • [`3c4ca04`](https://github.com/trueforge-org/truecharts/commit/3c4ca04b140d8fd3e77afb82a92d8214a496ef60) • [@TrueCharts Bot] (2026-01-26)

@@ -2,7 +2,7 @@
 title: spegel
 ---
 
-![Version: 4.16.11](https://img.shields.io/badge/Version-4.16.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.6.0](https://img.shields.io/badge/AppVersion-0.6.0-informational?style=flat-square)
+![Version: 4.16.12](https://img.shields.io/badge/Version-4.16.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.6.0](https://img.shields.io/badge/AppVersion-0.6.0-informational?style=flat-square)
 
 Stateless cluster local OCI registry mirror.
 

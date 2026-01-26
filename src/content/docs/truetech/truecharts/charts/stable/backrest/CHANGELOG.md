@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.0.8 • [Train: stable]
+
+- fix(helm-deps): update chart common 28.29.36 → 28.29.37 (#44120) • [`6fef4f5`](https://github.com/trueforge-org/truecharts/commit/6fef4f53787f24b468c8db964f464a66742b2e69) • [@TrueCharts Bot] (2026-01-26)
+
 ## 1.0.7 • [Train: stable]
 
 - fix(helm-deps): update chart common 28.29.35 → 28.29.36 (#44059) • [`e5dbc41`](https://github.com/trueforge-org/truecharts/commit/e5dbc41f1dd51cbc6a269913ca4d8c19244927b8) • [@TrueCharts Bot] (2026-01-24)
@@ -53,6 +57,6 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.1.1 • [Train: incubator]
 
-- Commit daily changes • [`92d3516`](https://github.com/trueforge-org/truecharts/commit/92d35160776d91274e51c447d43f17c8cb5caad7) • [@TrueCharts-Bot] (2026-01-03)
 - chore(backrest): pin image docker.io/garethgeorge/backrest digest to 1308397 (#43329) • [`68fd8a6`](https://github.com/trueforge-org/truecharts/commit/68fd8a6db1e5ff620a7b340e39f1c251a1eef950) • [@TrueCharts Bot] (2026-01-03)
+- Commit daily changes • [`92d3516`](https://github.com/trueforge-org/truecharts/commit/92d35160776d91274e51c447d43f17c8cb5caad7) • [@TrueCharts-Bot] (2026-01-03)
 - feat(backrest): add initial chart files and configuration (#43328) • [`8f3ab64`](https://github.com/trueforge-org/truecharts/commit/8f3ab648f9f9b0dc6a3d7e1f8ed3378ffc6991f6) • [@jogotcha] (2026-01-02)

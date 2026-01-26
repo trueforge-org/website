@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.11.7 • [Train: stable]
+
+- fix(helm-deps): update chart common 28.29.36 → 28.29.37 (#44120) • [`6fef4f5`](https://github.com/trueforge-org/truecharts/commit/6fef4f53787f24b468c8db964f464a66742b2e69) • [@TrueCharts Bot] (2026-01-26)
+
 ## 1.11.6 • [Train: stable]
 
 - fix(booklore): update image ghcr.io/booklore-app/booklore v1.18.4 → v1.18.5 (#44078) • [`dd04db9`](https://github.com/trueforge-org/truecharts/commit/dd04db9a86b5d11ae68688defae184d2e252d8e1) • [@TrueCharts Bot] (2026-01-24)

@@ -2,7 +2,7 @@
 title: victoriametrics
 ---
 
-![Version: 4.27.4](https://img.shields.io/badge/Version-4.27.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.134.0](https://img.shields.io/badge/AppVersion-1.134.0-informational?style=flat-square)
+![Version: 4.27.5](https://img.shields.io/badge/Version-4.27.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.134.0](https://img.shields.io/badge/AppVersion-1.134.0-informational?style=flat-square)
 
 Fast, cost-effective monitoring solution and time series database
 

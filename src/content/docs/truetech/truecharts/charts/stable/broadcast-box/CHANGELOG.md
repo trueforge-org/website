@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.13.17 • [Train: stable]
+
+- fix(helm-deps): update chart common 28.29.36 → 28.29.37 (#44120) • [`6fef4f5`](https://github.com/trueforge-org/truecharts/commit/6fef4f53787f24b468c8db964f464a66742b2e69) • [@TrueCharts Bot] (2026-01-26)
+
 ## 2.13.16 • [Train: stable]
 
 - chore(broadcast-box): update image seaduboi/broadcast-box digest to 5c86a1d (#44093) • [`20ee578`](https://github.com/trueforge-org/truecharts/commit/20ee578fbe3ea83855781cebf1726b456682f708) • [@TrueCharts Bot] (2026-01-25)

@@ -2,7 +2,7 @@
 title: openvscode-server
 ---
 
-![Version: 12.17.15](https://img.shields.io/badge/Version-12.17.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.106.3](https://img.shields.io/badge/AppVersion-1.106.3-informational?style=flat-square)
+![Version: 12.17.16](https://img.shields.io/badge/Version-12.17.16-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.106.3](https://img.shields.io/badge/AppVersion-1.106.3-informational?style=flat-square)
 
 Openvscode-server provides a version of VS Code that runs a server on a remote machine.
 
