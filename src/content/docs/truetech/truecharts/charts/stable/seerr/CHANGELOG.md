@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 13.13.16 • [Train: stable]
+
+- chore(seerr): update image oci.trueforge.org/containerforge/seerr digest to e8c16a3 (#44126) • [`dd68940`](https://github.com/trueforge-org/truecharts/commit/dd68940fa66244176d2dbcfe8f2e7cef36d4c80a) • [@TrueCharts Bot] (2026-01-26)
+
 ## 13.13.15 • [Train: stable]
 
 - fix(helm-deps): update chart common 28.29.35 → 28.29.36 (#44059) • [`e5dbc41`](https://github.com/trueforge-org/truecharts/commit/e5dbc41f1dd51cbc6a269913ca4d8c19244927b8) • [@TrueCharts Bot] (2026-01-24)
