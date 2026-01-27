@@ -2,7 +2,7 @@
 title: qbitrr
 ---
 
-![Version: 8.7.6](https://img.shields.io/badge/Version-8.7.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.7.1](https://img.shields.io/badge/AppVersion-5.7.1-informational?style=flat-square)
+![Version: 8.8.0](https://img.shields.io/badge/Version-8.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.8.1](https://img.shields.io/badge/AppVersion-5.8.1-informational?style=flat-square)
 
 A simple script to monitor qBit and communicate with Radarr and Sonarr.
 
