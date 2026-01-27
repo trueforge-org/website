@@ -2,7 +2,7 @@
 title: anything-llm
 ---
 
-![Version: 4.13.31](https://img.shields.io/badge/Version-4.13.31-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 4.13.32](https://img.shields.io/badge/Version-4.13.32-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Open-source ChatGPT experience for LLMs, embedders, and vector databases.
 
