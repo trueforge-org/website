@@ -2,7 +2,7 @@
 title: zurg
 ---
 
-![Version: 2.13.14](https://img.shields.io/badge/Version-2.13.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.9.3](https://img.shields.io/badge/AppVersion-0.9.3-informational?style=flat-square)
+![Version: 2.13.15](https://img.shields.io/badge/Version-2.13.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.9.3](https://img.shields.io/badge/AppVersion-0.9.3-informational?style=flat-square)
 
 zurg Self-Hosted
 

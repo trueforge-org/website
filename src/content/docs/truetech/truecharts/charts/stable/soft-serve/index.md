@@ -2,7 +2,7 @@
 title: soft-serve
 ---
 
-![Version: 9.15.16](https://img.shields.io/badge/Version-9.15.16-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.11.3](https://img.shields.io/badge/AppVersion-0.11.3-informational?style=flat-square)
+![Version: 9.15.17](https://img.shields.io/badge/Version-9.15.17-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.11.3](https://img.shields.io/badge/AppVersion-0.11.3-informational?style=flat-square)
 
 A tasty, self-hostable Git server for the command line.
 

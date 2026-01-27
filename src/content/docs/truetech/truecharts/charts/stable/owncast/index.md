@@ -2,7 +2,7 @@
 title: owncast
 ---
 
-![Version: 16.13.15](https://img.shields.io/badge/Version-16.13.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.2.4](https://img.shields.io/badge/AppVersion-0.2.4-informational?style=flat-square)
+![Version: 16.13.16](https://img.shields.io/badge/Version-16.13.16-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.2.4](https://img.shields.io/badge/AppVersion-0.2.4-informational?style=flat-square)
 
 Take control over your live stream video by running it yourself. Streaming + chat out of the box.
 

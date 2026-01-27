@@ -2,7 +2,7 @@
 title: nexus-oss
 ---
 
-![Version: 8.20.9](https://img.shields.io/badge/Version-8.20.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.88.0](https://img.shields.io/badge/AppVersion-3.88.0-informational?style=flat-square)
+![Version: 8.20.10](https://img.shields.io/badge/Version-8.20.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.88.0](https://img.shields.io/badge/AppVersion-3.88.0-informational?style=flat-square)
 
 Sonatype Nexus open source is a artifact repository manager
 
