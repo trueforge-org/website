@@ -2,7 +2,7 @@
 title: grafana
 ---
 
-![Version: 21.6.5](https://img.shields.io/badge/Version-21.6.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 12.3.1](https://img.shields.io/badge/AppVersion-12.3.1-informational?style=flat-square)
+![Version: 21.6.6](https://img.shields.io/badge/Version-21.6.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 12.3.2](https://img.shields.io/badge/AppVersion-12.3.2-informational?style=flat-square)
 
 Grafana is an open source, feature rich metrics dashboard and graph editor for Graphite, Elasticsearch, OpenTSDB, Prometheus and InfluxDB.
 
