@@ -6,7 +6,7 @@ Below are the instructions for creating a Talos VM atop an UnRaid host for use w
 
 ## Downloading Talos
 
-1. Obtain the Talos ISO [here](https://github.com/siderolabs/talos/releases/download/v1.7.0/metal-amd64.iso) by pasting the link into your web browser
+1. Obtain the Talos ISO [here](https://github.com/siderolabs/talos/releases/download/v1.12.0/metal-amd64.iso) by pasting the link into your web browser
 
 2. Once download copy the isos into the `shares folder`
 
