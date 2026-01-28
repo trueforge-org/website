@@ -10,7 +10,7 @@ Below are the instructions for creating a Talos VM atop a vSphere host for use w
 
 2. Hardware Type select `Bare-Metal Machine`..
 
-3. Select a Supported Talos version (e.g. `1.8.0`).
+3. Select a Supported Talos version (e.g. `1.12.0`).
 
 4. Select Machine Architecture amd64.
 
@@ -37,7 +37,7 @@ Retain the `URL` for use in the next step.
 
 3. Paste the `URL` from the `Creating Talos iso` step above.
 
-4. Provide an Item Name (e.g. `talos-metal-1.8.0`)
+4. Provide an Item Name (e.g. `talos-metal-1.12.0`)
 
 5. Select Actions > Continue on the SSL Certificate prompt for factory.talos.dev
 
@@ -102,3 +102,4 @@ Retain the `URL` for use in the next step.
 4. Paste `- siderolabs/vmtoolsd-guest-agent` above the previous line, then ensure the tabspacing of the new line matches.
 
 5. Repeat steps 2-4 for the worker section.
+
