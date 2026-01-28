@@ -10,7 +10,7 @@ Below are the instructions for creating a Talos VM atop a Proxmox host for use w
 
 2. Select `ISO Images` and then select `Download from URL`
 
-3. Paste the Talos Linux Image link [here](https://github.com/siderolabs/talos/releases/download/v1.7.0/metal-amd64.iso) into the `URL` field
+3. Paste the Talos Linux Image link [here](https://github.com/siderolabs/talos/releases/download/v1.12.0/metal-amd64.iso) into the `URL` field
 
 4. Select `Query URL` then name the file `taloslinux.iso`
 
