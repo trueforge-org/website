@@ -6,7 +6,7 @@ Below are the instructions for creating a Talos VM inside a VirtualBox host for 
 
 ## Downloading Talos
 
-Obtain the Talos ISO [here](https://github.com/siderolabs/talos/releases/download/v1.7.0/metal-amd64.iso) by pasting the link into your web browser
+Obtain the Talos ISO [here](https://github.com/siderolabs/talos/releases/download/v1.12.0/metal-amd64.iso) by pasting the link into your web browser
 
 ## Creating the VM
 
