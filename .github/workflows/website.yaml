@@ -57,7 +57,7 @@ jobs:
         run: npm i --package-lock-only
 
       - name: Setup astro Cache
-        uses: actions/cache@8b402f58fbc84540c8b491a91e594a4576fec3d7 # v5
+        uses: actions/cache@cdf6c1fa76f9f475f3d7449005a359c84ca0f306 # v5
         with:
           # Cache for build and optimized images.
           key: astro-${{ hashFiles('package-lock.json') }}
@@ -65,7 +65,7 @@ jobs:
           restore-keys: astro-
 
       - name: Setup npm Cache
-        uses: actions/cache@8b402f58fbc84540c8b491a91e594a4576fec3d7 # v5
+        uses: actions/cache@cdf6c1fa76f9f475f3d7449005a359c84ca0f306 # v5
         with:
           # Cache for npm
           path: ~/.npm
@@ -74,7 +74,7 @@ jobs:
 
       - name: Setup node_modules Cache
         id: modulescache
-        uses: actions/cache@8b402f58fbc84540c8b491a91e594a4576fec3d7 # v5
+        uses: actions/cache@cdf6c1fa76f9f475f3d7449005a359c84ca0f306 # v5
         with:
           # Cache for npm and optimized images.
           path: ./node_modules
