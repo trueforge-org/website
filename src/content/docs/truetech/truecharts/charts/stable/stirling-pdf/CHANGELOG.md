@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.13.4 • [Train: stable]
+
+- fix(stirling-pdf): update image ghcr.io/stirling-tools/s-pdf 2.4.0 → 2.4.1 (#44269) • [`6242e26`](https://github.com/trueforge-org/truecharts/commit/6242e2610cbea14de63ed59d850b70117b30033b) • [@TrueCharts Bot] (2026-01-29)
+
 ## 8.13.3 • [Train: stable]
 
 - fix(helm-deps): update chart common 28.29.37 → 28.29.40 (#44167) • [`09e7d81`](https://github.com/trueforge-org/truecharts/commit/09e7d81949c4fcf2049ea2213a6e8acbc115c618) • [@TrueCharts Bot] (2026-01-27)
