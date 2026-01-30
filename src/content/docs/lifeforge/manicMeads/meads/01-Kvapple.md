@@ -23,11 +23,6 @@ Base Mead procedure and ingredient list, applying the deviations below.
   and clear pressed apple juices. Adjust the ratio to taste (example: 10 L
   hazy + 5 L clear for body and brightness).
 
-## Fermentation / Yeast Notes (deviations)
-
-- Use the same yeast and malolactic approach as Base Mead unless you prefer a different kveik strain optimized for apple-forward fermentations.
-- Consider delaying malolactic inoculation until active fermentation slows if you want more fresh apple acidity to persist.
-
 ## Tasting Notes (template)
 
 Semi-Dry
