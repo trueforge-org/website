@@ -2,7 +2,7 @@
 title: orcaslicer
 ---
 
-![Version: 2.13.23](https://img.shields.io/badge/Version-2.13.23-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.3.1](https://img.shields.io/badge/AppVersion-2.3.1-informational?style=flat-square)
+![Version: 2.13.24](https://img.shields.io/badge/Version-2.13.24-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.3.1](https://img.shields.io/badge/AppVersion-2.3.1-informational?style=flat-square)
 
 Orca Slicer is an open source slicer for FDM printers.
 

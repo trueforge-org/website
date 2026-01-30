@@ -2,7 +2,7 @@
 title: cloudcommander
 ---
 
-![Version: 9.8.24](https://img.shields.io/badge/Version-9.8.24-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 19.1.17](https://img.shields.io/badge/AppVersion-19.1.17-informational?style=flat-square)
+![Version: 9.8.25](https://img.shields.io/badge/Version-9.8.25-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 19.1.18](https://img.shields.io/badge/AppVersion-19.1.18-informational?style=flat-square)
 
 [b]CloudCommander[/b] is a simple web file browser with a built in text editor and archive compress/extract abilities.[br/]
 
