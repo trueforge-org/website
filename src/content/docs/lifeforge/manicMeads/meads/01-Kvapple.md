@@ -1,5 +1,5 @@
 ---
-title: "01 - Kvapple"
+title: "#1 Kvapple"
 description: "Kvapple: A simple cyser recipe using a mix of hazy and clear apple juices."
 date: 2026-01-30
 tags:
@@ -7,10 +7,6 @@ tags:
 - kvapple
 - recipe
 ---
-
-# Kvapple
-
-## Story / Intro
 
 An attempt to create a balanced simple Cyser, using off-the-shelve ingredients.
 

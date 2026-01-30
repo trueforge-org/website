@@ -1,5 +1,5 @@
 ---
-title: "03 - Pveik"
+title: "#3 Pveik"
 description: "Pveik: A kveik melomel recipe using 100% mixed hazy pear juices."
 date: 2026-01-30
 tags:
@@ -8,9 +8,7 @@ tags:
 - recipe
 ---
 
-# Pveik
 
-## Story / Intro
 
 After trying apple with pear, which led to the pear being barely present, it was time to try a 100% pear based kveik melomel.
 

@@ -1,5 +1,5 @@
 ---
-title: "02 - Appear"
+title: "#2 Appear"
 description: "A apple and pear cyser experiment blending both juices"
 date: 2026-01-30
 tags:
@@ -8,10 +8,6 @@ tags:
 - pear
 - recipe
 ---
-
-# Appear
-
-## Story / Intro
 
 This was a 50/50 experiment combining apple and pear juices to see if the
 flavours could be blended into a softer palate. The apple component itself was
