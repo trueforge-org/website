@@ -11,7 +11,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 0.1.1 • [Train: incubator]
+
+- fix(helm-deps): update chart common 28.26.3 → 28.26.4 (#44333) • [`1d99e6f`](https://github.com/trueforge-org/truecharts/commit/1d99e6fba199984c6430c5a4125942a9e87e1674) • [@TrueCharts Bot] (2026-01-30)
+
 ## 0.1.0 • [Train: incubator]
 
-- feat(multus-cni): Add multus-cni chart (#43365) • [`2c4b477`](https://github.com/trueforge-org/truecharts/commit/2c4b477b48e55cae7573b8723e83a364f0b12489) • [@astro-stan] (2026-01-30)
 - chore(multus-cni): pin dependencies (#44328) • [`60afaf5`](https://github.com/trueforge-org/truecharts/commit/60afaf54c30bddf8fa6fe20666e5f3ef65a862d0) • [@TrueCharts Bot] (2026-01-30)
+- feat(multus-cni): Add multus-cni chart (#43365) • [`2c4b477`](https://github.com/trueforge-org/truecharts/commit/2c4b477b48e55cae7573b8723e83a364f0b12489) • [@astro-stan] (2026-01-30)
