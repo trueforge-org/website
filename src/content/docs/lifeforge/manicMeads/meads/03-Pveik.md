@@ -3,9 +3,9 @@ title: "03 - Pveik"
 description: "Pveik: A kveik melomel recipe using 100% mixed hazy pear juices."
 date: 2026-01-30
 tags:
-  - mead
-  - pveik
-  - recipe
+- mead
+- pveik
+- recipe
 ---
 
 # Pveik

@@ -3,10 +3,10 @@ title: "02 - Appear"
 description: "A apple and pear cyser experiment blending both juices"
 date: 2026-01-30
 tags:
-  - mead
-  - appear
-  - pear
-  - recipe
+- mead
+- appear
+- pear
+- recipe
 ---
 
 # Appear

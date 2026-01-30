@@ -3,9 +3,9 @@ title: "Base Mead"
 description: "A simple base mead workflow: maceration, fermentation, fining and clearing stages."
 date: 2026-01-30
 tags:
-	- mead
-	- base
-	- recipe
+- mead
+- base
+- recipe
 ---
 
 # Base Mead

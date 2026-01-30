@@ -3,9 +3,9 @@ title: "01 - Kvapple"
 description: "Kvapple: A simple cyser recipe using a mix of hazy and clear apple juices."
 date: 2026-01-30
 tags:
-  - mead
-  - kvapple
-  - recipe
+- mead
+- kvapple
+- recipe
 ---
 
 # Kvapple
