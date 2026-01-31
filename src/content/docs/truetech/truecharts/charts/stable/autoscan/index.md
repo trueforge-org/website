@@ -8,7 +8,7 @@ Autoscan replaces the default Plex and Emby behaviour for picking up file change
 
 ## Chart Sources
 
-- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/autoscan
+- https://github.com/trueforge-org/containers/tree/main/apps/autoscan
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/autoscan
 - https://hotio.dev/containers/autoscan
 

@@ -9,7 +9,7 @@ Free and easy binary newsreader
 ## Chart Sources
 
 - https://ghcr.io/onedr0p/exportarr
-- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/sabnzbd
+- https://github.com/trueforge-org/containers/tree/main/apps/sabnzbd
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/sabnzbd
 - https://sabnzbd.org/
 

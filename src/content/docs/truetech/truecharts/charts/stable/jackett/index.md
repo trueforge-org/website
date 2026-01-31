@@ -10,7 +10,7 @@ API Support for your favorite torrent trackers.
 
 - https://github.com/Jackett/Jackett
 - https://github.com/geek-cookbook/containers/pkgs/container/jackett
-- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/jackett
+- https://github.com/trueforge-org/containers/tree/main/apps/jackett
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/jackett
 
 ## Available Documentation

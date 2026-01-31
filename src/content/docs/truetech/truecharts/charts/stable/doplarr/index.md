@@ -9,7 +9,7 @@ An *arr Request Bot for Discord
 ## Chart Sources
 
 - https://github.com/kiranshila/Doplarr
-- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/doplarr
+- https://github.com/trueforge-org/containers/tree/main/apps/doplarr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/doplarr
 
 ## Available Documentation

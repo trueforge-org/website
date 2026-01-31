@@ -10,7 +10,7 @@ Looks and smells like Sonarr but made for music
 
 - https://ghcr.io/onedr0p/exportarr
 - https://github.com/Lidarr/Lidarr
-- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/lidarr
+- https://github.com/trueforge-org/containers/tree/main/apps/lidarr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/lidarr
 
 ## Available Documentation

@@ -9,7 +9,7 @@ Airsonic is a Free and Open Source community driven media server
 ## Chart Sources
 
 - https://github.com/airsonic/airsonic-advanced
-- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/airsonic-advanced
+- https://github.com/trueforge-org/containers/tree/main/apps/airsonic-advanced
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/airsonic-advanced
 
 ## Available Documentation

@@ -10,8 +10,8 @@ Open source home automation that puts local control and privacy first.
 
 - https://github.com/cdr/code-server
 - https://github.com/home-assistant/home-assistant
-- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/go-yq
-- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/home-assistant
+- https://github.com/trueforge-org/containers/tree/main/apps/go-yq
+- https://github.com/trueforge-org/containers/tree/main/apps/home-assistant
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/home-assistant
 
 ## Available Documentation

@@ -599,15 +599,15 @@ Function library for TrueCharts
 - https://ghcr.io/tensorchord/cloudnative-pgvecto.rs
 - https://ghcr.io/tensorchord/cloudnative-vectorchord
 - https://ghcr.io/traefik/whoami
-- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/code-server
-- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/go-yq
-- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/kubectl
-- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/mariadb-client
-- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/mongosh
-- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/postgresql-client
-- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/scratch
-- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/ubuntu
-- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/valkey-tools
+- https://github.com/trueforge-org/containers/tree/main/apps/code-server
+- https://github.com/trueforge-org/containers/tree/main/apps/go-yq
+- https://github.com/trueforge-org/containers/tree/main/apps/kubectl
+- https://github.com/trueforge-org/containers/tree/main/apps/mariadb-client
+- https://github.com/trueforge-org/containers/tree/main/apps/mongosh
+- https://github.com/trueforge-org/containers/tree/main/apps/postgresql-client
+- https://github.com/trueforge-org/containers/tree/main/apps/scratch
+- https://github.com/trueforge-org/containers/tree/main/apps/ubuntu
+- https://github.com/trueforge-org/containers/tree/main/apps/valkey-tools
 - https://github.com/trueforge-org/truecharts/tree/master/charts/library/common
 - https://hub.docker.com/_/
 

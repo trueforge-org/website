@@ -10,7 +10,7 @@ Bazarr is a companion application to Sonarr and Radarr. It manages and downloads
 
 - https://ghcr.io/onedr0p/exportarr
 - https://github.com/morpheus65535/bazarr
-- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/bazarr
+- https://github.com/trueforge-org/containers/tree/main/apps/bazarr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/bazarr
 
 ## Available Documentation

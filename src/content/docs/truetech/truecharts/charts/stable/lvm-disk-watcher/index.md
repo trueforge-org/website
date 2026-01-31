@@ -9,7 +9,7 @@ Watches for empty disk to setup with LVM for use with TopoLVM
 ## Chart Sources
 
 - https://github.com/lvm-disk-watcher/lvm-disk-watcher
-- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/lvm-disk-watcher
+- https://github.com/trueforge-org/containers/tree/main/apps/lvm-disk-watcher
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/lvm-disk-watcher
 - https://lvm-disk-watcher.universe.tf
 

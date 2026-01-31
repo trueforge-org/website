@@ -9,7 +9,7 @@ Usenet meta search
 ## Chart Sources
 
 - https://github.com/theotherp/nzbhydra2
-- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/nzbhydra2
+- https://github.com/trueforge-org/containers/tree/main/apps/nzbhydra2
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/nzbhydra
 
 ## Available Documentation

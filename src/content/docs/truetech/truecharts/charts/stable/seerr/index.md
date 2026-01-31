@@ -9,7 +9,7 @@ seerr is a fork of Overseerr with support for Jellyfin and Emby. It can be used 
 ## Chart Sources
 
 - https://github.com/Fallenbagel/seerr
-- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/seerr
+- https://github.com/trueforge-org/containers/tree/main/apps/seerr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/seerr
 
 ## Available Documentation

@@ -9,7 +9,7 @@ Useful tools for developer and people working in IT.
 ## Chart Sources
 
 - https://github.com/CorentinTh/it-tools
-- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/it-tools
+- https://github.com/trueforge-org/containers/tree/main/apps/it-tools
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/it-tools
 
 ## Available Documentation

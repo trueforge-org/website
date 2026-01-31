@@ -8,7 +8,7 @@ A new generation cross-platform cloud backup tool.
 
 ## Chart Sources
 
-- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/duplicacy
+- https://github.com/trueforge-org/containers/tree/main/apps/duplicacy
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/duplicacy
 - https://hotio.dev/containers/duplicacy
 

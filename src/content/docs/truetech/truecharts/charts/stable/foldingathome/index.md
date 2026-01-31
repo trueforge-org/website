@@ -8,7 +8,7 @@ Folding@home is a distributed computing project for simulating protein dynamics,
 
 ## Chart Sources
 
-- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/foldingathome
+- https://github.com/trueforge-org/containers/tree/main/apps/foldingathome
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/foldingathome
 
 ## Available Documentation

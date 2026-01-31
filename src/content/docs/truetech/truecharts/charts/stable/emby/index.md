@@ -9,7 +9,7 @@ Emby Server is a home media server
 ## Chart Sources
 
 - https://github.com/linuxserver/docker-emby.git
-- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/emby
+- https://github.com/trueforge-org/containers/tree/main/apps/emby
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/emby
 - https://hub.docker.com/r/alpine/socat
 

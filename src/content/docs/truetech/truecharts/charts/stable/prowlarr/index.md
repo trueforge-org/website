@@ -11,7 +11,7 @@ Indexer manager/proxy built on the popular arr net base stack to integrate with 
 - https://ghcr.io/onedr0p/exportarr
 - https://github.com/Prowlarr/Prowlarr
 - https://github.com/k8s-at-home/container-images
-- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/prowlarr
+- https://github.com/trueforge-org/containers/tree/main/apps/prowlarr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/prowlarr
 
 ## Available Documentation

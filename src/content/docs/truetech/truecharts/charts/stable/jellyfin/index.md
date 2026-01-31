@@ -9,7 +9,7 @@ Jellyfin is a Free Software Media System
 ## Chart Sources
 
 - https://github.com/jellyfin/jellyfin
-- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/jellyfin
+- https://github.com/trueforge-org/containers/tree/main/apps/jellyfin
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/jellyfin
 - https://hub.docker.com/r/alpine/socat
 
