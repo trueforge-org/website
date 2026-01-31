@@ -13,8 +13,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 7.15.15 • [Train: stable]
 
-- fix(charts): remove old annotations &amp; add proper category  (#44376) • [`a855dd6`](https://github.com/trueforge-org/truecharts/commit/a855dd67f77f3353f4e70fa506d3ded479abd8c8) • [@Alfred Göppel] (2026-01-31)
 - Commit daily changes • [`d2de50f`](https://github.com/trueforge-org/truecharts/commit/d2de50f17ea2800d3a87690c06fe721280ed6e30) • [@TrueCharts-Bot] (2026-01-31)
+- fix(charts): remove old annotations &amp; add proper category  (#44376) • [`a855dd6`](https://github.com/trueforge-org/truecharts/commit/a855dd67f77f3353f4e70fa506d3ded479abd8c8) • [@Alfred Göppel] (2026-01-31)
 - fix(helm-deps): update chart common 28.29.37 → 28.29.40 (#44167) • [`09e7d81`](https://github.com/trueforge-org/truecharts/commit/09e7d81949c4fcf2049ea2213a6e8acbc115c618) • [@TrueCharts Bot] (2026-01-27)
 
 ## 7.15.14 • [Train: stable]
@@ -167,8 +167,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 7.4.0 • [Train: stable]
 
-- chore(helm): update image registry.k8s.io/external-dns/external-dns v0.18.0 → v0.19.0 (#39056) • [`d01db8f`](https://github.com/trueforge-org/truecharts/commit/d01db8f26a740b9808f3f283828cb3ea80a8318d) • [@TrueCharts Bot] (2025-09-07)
 - chore: fix links • [`1c28a12`](https://github.com/trueforge-org/truecharts/commit/1c28a127898e7db3a350e07a42810acd8eaa4c30) • [@Kjeld Schouten] (2025-09-07)
+- chore(helm): update image registry.k8s.io/external-dns/external-dns v0.18.0 → v0.19.0 (#39056) • [`d01db8f`](https://github.com/trueforge-org/truecharts/commit/d01db8f26a740b9808f3f283828cb3ea80a8318d) • [@TrueCharts Bot] (2025-09-07)
 
 ## 7.3.5 • [Train: stable]
 
@@ -461,8 +461,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.8.5 • [Train: stable]
 
-- chore(deps): update container image common to v20.3.7@8cf9fc9 by renovate (#20819) • [`4413ae4`](https://github.com/trueforge-org/truecharts/commit/4413ae4d1cdd32a9d5f70d57f0c01e429ee90298) • [@TrueCharts Bot] (2024-04-16)
 - Webp icons2 (#20851) • [`8b489f4`](https://github.com/trueforge-org/truecharts/commit/8b489f48bb8f4f6a01050a08ad544323375bce74) • [@Kjeld Schouten] (2024-04-16)
+- chore(deps): update container image common to v20.3.7@8cf9fc9 by renovate (#20819) • [`4413ae4`](https://github.com/trueforge-org/truecharts/commit/4413ae4d1cdd32a9d5f70d57f0c01e429ee90298) • [@TrueCharts Bot] (2024-04-16)
 
 ## 4.8.4 • [Train: stable]
 
@@ -745,14 +745,14 @@ If you need more than 2 scrolls to find your current version, please consider up
 - Commit daily changes • [`fbb0226`](https://github.com/trueforge-org/truecharts/commit/fbb022673bbeefc08112d0876393978319b52f4d) • [@TrueCharts-Bot] (2023-12-07)
 - Commit daily changes • [`394da26`](https://github.com/trueforge-org/truecharts/commit/394da26ab82f36b5b0e312037f4e8245b006fef5) • [@TrueCharts-Bot] (2023-12-06)
 - Commit daily changes • [`72316cb`](https://github.com/trueforge-org/truecharts/commit/72316cbc6557d2b59e70739b7421907813f4ec85) • [@TrueCharts-Bot] (2023-12-04)
+- chore: bump everything to ensure catalog has latest versions • [`02d153a`](https://github.com/trueforge-org/truecharts/commit/02d153a62c739dabc92491b0f64739ad8db2c94d) • [@Kjeld Schouten] (2023-12-03)
 - Commit daily changes • [`1805e0a`](https://github.com/trueforge-org/truecharts/commit/1805e0a25ab55f07e62bdd17caefe9246ef198c2) • [@TrueCharts-Bot] (2023-12-03)
 - Commit daily changes • [`c5c271c`](https://github.com/trueforge-org/truecharts/commit/c5c271cb7efffb1c7200f9e6818a445658fa3890) • [@TrueCharts-Bot] (2023-12-03)
-- chore: bump everything to ensure catalog has latest versions • [`02d153a`](https://github.com/trueforge-org/truecharts/commit/02d153a62c739dabc92491b0f64739ad8db2c94d) • [@Kjeld Schouten] (2023-12-03)
 
 ## 1.0.6 • [Train: stable]
 
-- Commit daily changes • [`8f14f12`](https://github.com/trueforge-org/truecharts/commit/8f14f125ffe7ae4dd658577b3863dddd2a367c4b) • [@TrueCharts-Bot] (2023-12-03)
 - Commit daily changes • [`a39b2b8`](https://github.com/trueforge-org/truecharts/commit/a39b2b8d1969c1135816d0dce4bf233918fb3010) • [@TrueCharts-Bot] (2023-12-03)
+- Commit daily changes • [`8f14f12`](https://github.com/trueforge-org/truecharts/commit/8f14f125ffe7ae4dd658577b3863dddd2a367c4b) • [@TrueCharts-Bot] (2023-12-03)
 - Commit daily changes • [`4029aea`](https://github.com/trueforge-org/truecharts/commit/4029aea090973758ef3c4f7952ae41c2cf78bcb0) • [@TrueCharts-Bot] (2023-12-02)
 - Commit daily changes • [`57a03f8`](https://github.com/trueforge-org/truecharts/commit/57a03f87318553c6d549bb9ae286dcd3cb3d8d5e) • [@TrueCharts-Bot] (2023-12-02)
 - chore: update annotations • [`5e194fb`](https://github.com/trueforge-org/truecharts/commit/5e194fb0bb5e2db19f02aac9cfd3cf32f28694f2) • [@Kjeld Schouten] (2023-12-02)
