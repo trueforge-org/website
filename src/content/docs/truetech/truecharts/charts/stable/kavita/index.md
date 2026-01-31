@@ -8,6 +8,7 @@ Kavita is a rocket fueled self-hosted digital library which supports a vast arra
 
 ## Chart Sources
 
+- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/kavita
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/kavita
 - https://www.kavitareader.com
 

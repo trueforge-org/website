@@ -9,6 +9,7 @@ Custom themes for your favorite apps!
 ## Chart Sources
 
 - https://github.com/gilbn/theme.park
+- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/theme-park
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/theme-park
 
 ## Available Documentation

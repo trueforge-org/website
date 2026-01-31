@@ -9,6 +9,7 @@ Store securely encrypted backups on cloud storage services!
 ## Chart Sources
 
 - https://github.com/duplicati/duplicati
+- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/duplicati
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/duplicati
 
 ## Available Documentation

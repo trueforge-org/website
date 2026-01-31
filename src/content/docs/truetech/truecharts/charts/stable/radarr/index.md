@@ -10,6 +10,7 @@ A fork of Sonarr to work with movies à la Couchpotato
 
 - https://ghcr.io/onedr0p/exportarr
 - https://github.com/Radarr/Radarr
+- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/radarr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/radarr
 
 ## Available Documentation

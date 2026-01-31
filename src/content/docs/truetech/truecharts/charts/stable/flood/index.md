@@ -9,6 +9,7 @@ Flood is a monitoring service for various torrent clients
 ## Chart Sources
 
 - https://github.com/jesec/flood
+- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/flood
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/flood
 
 ## Available Documentation

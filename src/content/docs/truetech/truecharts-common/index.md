@@ -599,12 +599,15 @@ Function library for TrueCharts
 - https://ghcr.io/tensorchord/cloudnative-pgvecto.rs
 - https://ghcr.io/tensorchord/cloudnative-vectorchord
 - https://ghcr.io/traefik/whoami
-- https://github.com/truecharts/containers/tree/master/apps/alpine
-- https://github.com/truecharts/containers/tree/master/apps/gluetun
-- https://github.com/truecharts/containers/tree/master/apps/netshoot
-- https://github.com/truecharts/containers/tree/master/apps/openvpn-client
-- https://github.com/truecharts/containers/tree/master/apps/tailscale
-- https://github.com/truecharts/containers/tree/master/apps/wireguard
+- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/code-server
+- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/go-yq
+- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/kubectl
+- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/mariadb-client
+- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/mongosh
+- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/postgresql-client
+- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/scratch
+- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/ubuntu
+- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/valkey-tools
 - https://github.com/trueforge-org/truecharts/tree/master/charts/library/common
 - https://hub.docker.com/_/
 

@@ -9,6 +9,7 @@ The default Kubernetes Dashboard
 ## Chart Sources
 
 - https://github.com/kubernetes-dashboard/kubernetes-dashboard
+- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/kube-sa-proxy
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/kubernetes-dashboard
 - https://github.com/trueforge/truecharts/tree/master/charts/stable/kubernetes-dashboard
 - https://hub.docker.com/r/kubernetesui/dashboard-api

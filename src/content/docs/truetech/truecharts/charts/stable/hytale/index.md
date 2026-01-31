@@ -8,7 +8,7 @@ Automate Cloudflare DNS records for those with a dynamic IP.
 
 ## Chart Sources
 
-- https://github.com/trueforge-org/containerforge
+- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/hytale
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/hytale
 - https://hytale.com
 

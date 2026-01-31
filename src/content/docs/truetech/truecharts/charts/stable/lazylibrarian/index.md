@@ -8,6 +8,7 @@ Get all your books, like series with Sonarr...
 
 ## Chart Sources
 
+- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/lazylibrarian
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/lazylibrarian
 - https://gitlab.com/LazyLibrarian/LazyLibrarian.git
 - https://lazylibrarian.gitlab.io

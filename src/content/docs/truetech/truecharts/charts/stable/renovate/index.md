@@ -8,6 +8,7 @@ renovate self-hosted
 
 ## Chart Sources
 
+- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/renovate
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/renovate
 
 ## Available Documentation

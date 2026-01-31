@@ -10,6 +10,10 @@ A private cloud server that puts the control and security of your own data back 
 
 - https://github.com/nextcloud/docker
 - https://github.com/nextcloud/helm
+- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/nextcloud-fpm
+- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/nextcloud-imaginary
+- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/nextcloud-notify-push
+- https://github.com/trueforge-org/containers/tree/main/apps/oci.trueforge.org/containerforge/nginx
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/nextcloud
 - https://github.com/trueforge/truecharts/tree/master/charts/stable/nextcloud
 - https://hub.docker.com/r/clamav/clamav
