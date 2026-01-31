@@ -14,6 +14,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 1.1.1 • [Train: stable]
 
 - chore(dispatcharr): update image alpine digest to 2510918 (#44358) • [`53112a7`](https://github.com/trueforge-org/truecharts/commit/53112a7ff04950fe106ec43b7c68a06404832835) • [@TrueCharts Bot] (2026-01-31)
+- fix(charts): remove old annotations &amp; add proper category  (#44376) • [`a855dd6`](https://github.com/trueforge-org/truecharts/commit/a855dd67f77f3353f4e70fa506d3ded479abd8c8) • [@Alfred Göppel] (2026-01-31)
 
 ## 1.1.0 • [Train: stable]
 

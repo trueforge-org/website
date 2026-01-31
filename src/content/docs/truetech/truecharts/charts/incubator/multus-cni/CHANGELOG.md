@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.2.0 • [Train: incubator]
 
+- fix(charts): remove old annotations &amp; add proper category  (#44376) • [`a855dd6`](https://github.com/trueforge-org/truecharts/commit/a855dd67f77f3353f4e70fa506d3ded479abd8c8) • [@Alfred Göppel] (2026-01-31)
 - feat(multus-cni): update image ghcr.io/siderolabs/cni v1.11.0 → v1.12.0 (#44336) • [`e888769`](https://github.com/trueforge-org/truecharts/commit/e88876994e98a72e6b1a10f1c7aae6479fa78198) • [@TrueCharts Bot] (2026-01-31)
 
 ## 0.1.1 • [Train: incubator]

@@ -14,6 +14,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 2.14.16 • [Train: stable]
 
 - Commit daily changes • [`d2de50f`](https://github.com/trueforge-org/truecharts/commit/d2de50f17ea2800d3a87690c06fe721280ed6e30) • [@TrueCharts-Bot] (2026-01-31)
+- fix(charts): remove old annotations &amp; add proper category  (#44376) • [`a855dd6`](https://github.com/trueforge-org/truecharts/commit/a855dd67f77f3353f4e70fa506d3ded479abd8c8) • [@Alfred Göppel] (2026-01-31)
 - fix(profilarr): update image docker.io/santiagosayshey/profilarr v1.1.3 → v1.1.4 (#44302) • [`184c205`](https://github.com/trueforge-org/truecharts/commit/184c205e8b97bac939a9c76f9deb9052681efe55) • [@TrueCharts Bot] (2026-01-29)
 
 ## 2.14.15 • [Train: stable]
