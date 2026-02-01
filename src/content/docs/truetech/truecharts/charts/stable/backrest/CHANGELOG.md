@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.9 • [Train: stable]
 
+- Commit daily changes • [`bf152c8`](https://github.com/trueforge-org/truecharts/commit/bf152c8e746c6568782467d57483768b4b89a6c4) • [@TrueCharts-Bot] (2026-02-01)
 - Commit daily changes • [`5aef95e`](https://github.com/trueforge-org/truecharts/commit/5aef95e6ad29dfcd85b5ecbaf25bc7fb6c8873cb) • [@TrueCharts-Bot] (2026-01-31)
 - fix(all-charts): Fix chart.yaml &amp; add missing icons (#44393) • [`a802ce6`](https://github.com/trueforge-org/truecharts/commit/a802ce64e922757d94500d369fd1de25ffd69e5e) • [@Alfred Göppel] (2026-01-31)
 - fix(charts): remove old annotations &amp; add proper category  (#44376) • [`a855dd6`](https://github.com/trueforge-org/truecharts/commit/a855dd67f77f3353f4e70fa506d3ded479abd8c8) • [@Alfred Göppel] (2026-01-31)
@@ -67,6 +68,6 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.1.1 • [Train: incubator]
 
-- Commit daily changes • [`92d3516`](https://github.com/trueforge-org/truecharts/commit/92d35160776d91274e51c447d43f17c8cb5caad7) • [@TrueCharts-Bot] (2026-01-03)
 - chore(backrest): pin image docker.io/garethgeorge/backrest digest to 1308397 (#43329) • [`68fd8a6`](https://github.com/trueforge-org/truecharts/commit/68fd8a6db1e5ff620a7b340e39f1c251a1eef950) • [@TrueCharts Bot] (2026-01-03)
+- Commit daily changes • [`92d3516`](https://github.com/trueforge-org/truecharts/commit/92d35160776d91274e51c447d43f17c8cb5caad7) • [@TrueCharts-Bot] (2026-01-03)
 - feat(backrest): add initial chart files and configuration (#43328) • [`8f3ab64`](https://github.com/trueforge-org/truecharts/commit/8f3ab648f9f9b0dc6a3d7e1f8ed3378ffc6991f6) • [@jogotcha] (2026-01-02)
