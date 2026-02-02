@@ -2,7 +2,7 @@
 title: traggo
 ---
 
-![Version: 9.14.11](https://img.shields.io/badge/Version-9.14.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.8.2](https://img.shields.io/badge/AppVersion-0.8.2-informational?style=flat-square)
+![Version: 9.14.12](https://img.shields.io/badge/Version-9.14.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.8.2](https://img.shields.io/badge/AppVersion-0.8.2-informational?style=flat-square)
 
 Traggo is a tag-based time tracking tool. In Traggo there are no tasks, only tagged time spans.
 

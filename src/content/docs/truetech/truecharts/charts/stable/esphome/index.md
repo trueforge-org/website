@@ -2,7 +2,7 @@
 title: esphome
 ---
 
-![Version: 24.0.6](https://img.shields.io/badge/Version-24.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2026.1.3](https://img.shields.io/badge/AppVersion-2026.1.3-informational?style=flat-square)
+![Version: 24.0.7](https://img.shields.io/badge/Version-24.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2026.1.3](https://img.shields.io/badge/AppVersion-2026.1.3-informational?style=flat-square)
 
 ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 

@@ -2,7 +2,7 @@
 title: intel-gpu-plugin
 ---
 
-![Version: 1.14.16](https://img.shields.io/badge/Version-1.14.16-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.34.1](https://img.shields.io/badge/AppVersion-0.34.1-informational?style=flat-square)
+![Version: 1.14.17](https://img.shields.io/badge/Version-1.14.17-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.34.1](https://img.shields.io/badge/AppVersion-0.34.1-informational?style=flat-square)
 
 The Intel GPU plugin facilitates offloading the processing of computation intensive workloads to GPU hardware.
 

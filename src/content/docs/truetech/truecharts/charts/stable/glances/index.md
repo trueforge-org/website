@@ -2,7 +2,7 @@
 title: glances
 ---
 
-![Version: 2.13.15](https://img.shields.io/badge/Version-2.13.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.3.0.8](https://img.shields.io/badge/AppVersion-4.3.0.8-informational?style=flat-square)
+![Version: 2.13.16](https://img.shields.io/badge/Version-2.13.16-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.3.0.8](https://img.shields.io/badge/AppVersion-4.3.0.8-informational?style=flat-square)
 
 Glances is a monitoring software
 

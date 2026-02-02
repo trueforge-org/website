@@ -2,7 +2,7 @@
 title: valheim
 ---
 
-![Version: 13.13.15](https://img.shields.io/badge/Version-13.13.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 13.13.16](https://img.shields.io/badge/Version-13.13.16-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Valheim dedicated gameserver with automatic update and world backup support
 
