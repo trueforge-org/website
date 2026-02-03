@@ -19,11 +19,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 7.16.15 • [Train: stable]
 
 - Commit daily changes • [`bf152c8`](https://github.com/trueforge-org/truecharts/commit/bf152c8e746c6568782467d57483768b4b89a6c4) • [@TrueCharts-Bot] (2026-02-01)
+- fix(all-charts): Fix chart.yaml &amp; add missing icons (#44393) • [`a802ce6`](https://github.com/trueforge-org/truecharts/commit/a802ce64e922757d94500d369fd1de25ffd69e5e) • [@Alfred Göppel] (2026-01-31)
+- fix(charts): remove old annotations &amp; add proper category  (#44376) • [`a855dd6`](https://github.com/trueforge-org/truecharts/commit/a855dd67f77f3353f4e70fa506d3ded479abd8c8) • [@Alfred Göppel] (2026-01-31)
 - Commit daily changes • [`d2de50f`](https://github.com/trueforge-org/truecharts/commit/d2de50f17ea2800d3a87690c06fe721280ed6e30) • [@TrueCharts-Bot] (2026-01-31)
 - Commit daily changes • [`f8c1ee7`](https://github.com/trueforge-org/truecharts/commit/f8c1ee7bdf3fbb09f34358af18d4cd2a3fb5acd3) • [@TrueCharts-Bot] (2026-01-31)
 - Commit daily changes • [`5aef95e`](https://github.com/trueforge-org/truecharts/commit/5aef95e6ad29dfcd85b5ecbaf25bc7fb6c8873cb) • [@TrueCharts-Bot] (2026-01-31)
-- fix(all-charts): Fix chart.yaml &amp; add missing icons (#44393) • [`a802ce6`](https://github.com/trueforge-org/truecharts/commit/a802ce64e922757d94500d369fd1de25ffd69e5e) • [@Alfred Göppel] (2026-01-31)
-- fix(charts): remove old annotations &amp; add proper category  (#44376) • [`a855dd6`](https://github.com/trueforge-org/truecharts/commit/a855dd67f77f3353f4e70fa506d3ded479abd8c8) • [@Alfred Göppel] (2026-01-31)
 - fix(helm-deps): update chart common 28.29.37 → 28.29.40 (#44167) • [`09e7d81`](https://github.com/trueforge-org/truecharts/commit/09e7d81949c4fcf2049ea2213a6e8acbc115c618) • [@TrueCharts Bot] (2026-01-27)
 
 ## 7.16.14 • [Train: stable]
@@ -137,8 +137,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 7.9.1 • [Train: stable]
 
-- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 - Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
+- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 
 ## 7.9.0 • [Train: stable]
 
@@ -167,8 +167,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 7.6.5 • [Train: stable]
 
-- chore: fix links • [`1c28a12`](https://github.com/trueforge-org/truecharts/commit/1c28a127898e7db3a350e07a42810acd8eaa4c30) • [@Kjeld Schouten] (2025-09-07)
 - chore(helm): update chart common 28.16.5 → 28.16.6 (#39145) • [`827fa3c`](https://github.com/trueforge-org/truecharts/commit/827fa3cc55b82b3d292228d8b331331b863ffb3b) • [@TrueCharts Bot] (2025-09-07)
+- chore: fix links • [`1c28a12`](https://github.com/trueforge-org/truecharts/commit/1c28a127898e7db3a350e07a42810acd8eaa4c30) • [@Kjeld Schouten] (2025-09-07)
 
 ## 7.6.4 • [Train: stable]
 
@@ -448,8 +448,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.9.1 • [Train: stable]
 
-- chore(deps): update container image koush/scrypted to v0.112.0-jammy-full@9b5df9b by renovate (#23846) • [`4c4e775`](https://github.com/trueforge-org/truecharts/commit/4c4e7756f1801da1337bb4069fadef49c41d9c95) • [@TrueCharts Bot] (2024-06-27)
 - chore(deps): update container image koush/scrypted to v0.112.0-jammy-lite@21bc7a7 by renovate (#23847) • [`37de815`](https://github.com/trueforge-org/truecharts/commit/37de81582141531fa7b1fdf08c714a9caaa6ad1d) • [@TrueCharts Bot] (2024-06-27)
+- chore(deps): update container image koush/scrypted to v0.112.0-jammy-full@9b5df9b by renovate (#23846) • [`4c4e775`](https://github.com/trueforge-org/truecharts/commit/4c4e7756f1801da1337bb4069fadef49c41d9c95) • [@TrueCharts Bot] (2024-06-27)
 
 ## 6.9.0 • [Train: stable]
 
@@ -510,8 +510,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.0.6 • [Train: stable]
 
-- Commit daily changes • [`e50357a`](https://github.com/trueforge-org/truecharts/commit/e50357a154422a397a11141869f0973293102e49) • [@TrueCharts-Bot] (2024-05-26)
 - Commit daily changes • [`529340b`](https://github.com/trueforge-org/truecharts/commit/529340b7575e8cd6d00d2499271dc62e58a8d18d) • [@TrueCharts-Bot] (2024-05-26)
+- Commit daily changes • [`e50357a`](https://github.com/trueforge-org/truecharts/commit/e50357a154422a397a11141869f0973293102e49) • [@TrueCharts-Bot] (2024-05-26)
 - chore(deps): update container image common to v23.0.8@9e7419b by renovate (#22277) • [`bbcc969`](https://github.com/trueforge-org/truecharts/commit/bbcc969f0ed40e5d7256d4f107db88a4c3ce5ab3) • [@TrueCharts Bot] (2024-05-20)
 
 ## 5.0.5 • [Train: stable]
@@ -584,8 +584,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.9.5 • [Train: stable]
 
-- Webp icons2 (#20851) • [`8b489f4`](https://github.com/trueforge-org/truecharts/commit/8b489f48bb8f4f6a01050a08ad544323375bce74) • [@Kjeld Schouten] (2024-04-16)
 - chore(deps): update container image common to v20.3.7@8cf9fc9 by renovate (#20819) • [`4413ae4`](https://github.com/trueforge-org/truecharts/commit/4413ae4d1cdd32a9d5f70d57f0c01e429ee90298) • [@TrueCharts Bot] (2024-04-16)
+- Webp icons2 (#20851) • [`8b489f4`](https://github.com/trueforge-org/truecharts/commit/8b489f48bb8f4f6a01050a08ad544323375bce74) • [@Kjeld Schouten] (2024-04-16)
 
 ## 4.9.4 • [Train: stable]
 
@@ -769,8 +769,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.1.3 • [Train: stable]
 
-- chore(questions): remove non-existent template refs (#16738) • [`1e0dbf1`](https://github.com/trueforge-org/truecharts/commit/1e0dbf15e95afae40c7b3a47b2d38e0562323270) • [@Stavros Kois] (2024-01-01)
 - chore(deps): update container image common to v17.2.19@4ebb688 by renovate (#16733) • [`026bebd`](https://github.com/trueforge-org/truecharts/commit/026bebde2d90a467a43b46a6b889eca2cb01cf3f) • [@TrueCharts Bot] (2024-01-01)
+- chore(questions): remove non-existent template refs (#16738) • [`1e0dbf1`](https://github.com/trueforge-org/truecharts/commit/1e0dbf15e95afae40c7b3a47b2d38e0562323270) • [@Stavros Kois] (2024-01-01)
 
 ## 3.1.2 • [Train: stable]
 
@@ -782,8 +782,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.1.0 • [Train: stable]
 
-- chore: move everything to consume OCI-hosted common-chart dependency • [`0eae972`](https://github.com/trueforge-org/truecharts/commit/0eae972794d2fe164dc298993e899508639d2f2b) • [@Kjeld Schouten] (2024-01-01)
 - Commit daily changes • [`92663fd`](https://github.com/trueforge-org/truecharts/commit/92663fd20508f148c3750c79de3f37f44530a18a) • [@TrueCharts-Bot] (2024-01-01)
+- chore: move everything to consume OCI-hosted common-chart dependency • [`0eae972`](https://github.com/trueforge-org/truecharts/commit/0eae972794d2fe164dc298993e899508639d2f2b) • [@Kjeld Schouten] (2024-01-01)
 - chore(docs): lints some docs, uses front-matter instead of # h1, and fix list items in changelog (#16589) • [`12b5c56`](https://github.com/trueforge-org/truecharts/commit/12b5c56b241e801486c6cedab0b783949449048e) • [@Stavros Kois] (2023-12-31)
 - chore(docs): standardize ./img references (#16704) • [`6986224`](https://github.com/trueforge-org/truecharts/commit/698622495ce0dccf9f0dbbb324d5df196d3eba3c) • [@Stavros Kois] (2023-12-31)
 - chore(deps): update helm general minor by renovate (#16579) • [`9eddcd9`](https://github.com/trueforge-org/truecharts/commit/9eddcd99d3acbcf55a2f3e67b046a8f288d56a59) • [@TrueCharts Bot] (2023-12-30)
@@ -866,8 +866,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - Commit daily changes • [`c5cffa0`](https://github.com/trueforge-org/truecharts/commit/c5cffa07e47441dfd9cc532bbcaac13f315c538c) • [@TrueCharts-Bot] (2023-12-19)
 - Commit daily changes • [`edf40f5`](https://github.com/trueforge-org/truecharts/commit/edf40f5b8435d67eaa1b01fdd41ee1d654994a33) • [@TrueCharts-Bot] (2023-12-18)
-- chore(deps): update container image koush/scrypted to 18-jammy-full-v0.68.0@c95bd5a (#16180) • [`75e5976`](https://github.com/trueforge-org/truecharts/commit/75e59763d24d6038ceb7e0564fd9b8314c39b23c) • [@TrueCharts Bot] (2023-12-17)
 - chore(deps): update container image koush/scrypted to 18-jammy-lite-v0.68.0@adaed0c (#16181) • [`c613463`](https://github.com/trueforge-org/truecharts/commit/c613463367557bc70c319feb1a86ada1cd85c034) • [@TrueCharts Bot] (2023-12-17)
+- chore(deps): update container image koush/scrypted to 18-jammy-full-v0.68.0@c95bd5a (#16180) • [`75e5976`](https://github.com/trueforge-org/truecharts/commit/75e59763d24d6038ceb7e0564fd9b8314c39b23c) • [@TrueCharts Bot] (2023-12-17)
 
 ## 1.4.0 • [Train: stable]
 
@@ -884,8 +884,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.8 • [Train: stable]
 
-- Commit daily changes • [`1805e0a`](https://github.com/trueforge-org/truecharts/commit/1805e0a25ab55f07e62bdd17caefe9246ef198c2) • [@TrueCharts-Bot] (2023-12-03)
 - chore: bump everything to ensure catalog has latest versions • [`02d153a`](https://github.com/trueforge-org/truecharts/commit/02d153a62c739dabc92491b0f64739ad8db2c94d) • [@Kjeld Schouten] (2023-12-03)
+- Commit daily changes • [`1805e0a`](https://github.com/trueforge-org/truecharts/commit/1805e0a25ab55f07e62bdd17caefe9246ef198c2) • [@TrueCharts-Bot] (2023-12-03)
 
 ## 1.0.7 • [Train: incubator]
 
@@ -933,11 +933,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 - Update some links in the docs (#9839) • [`ae24d09`](https://github.com/trueforge-org/truecharts/commit/ae24d09406e8b6157c6553863e01db0f034f0e05) • [@nautilus7] (2023-06-23)
 - feat: hide advanced ingress options behind checbox (#9203) • [`de12a7e`](https://github.com/trueforge-org/truecharts/commit/de12a7e49a8e934cf5f9b53e11ac4e44bed1fcfc) • [@Kjeld Schouten] (2023-05-28)
 - fix: fix mistakes on questions.yaml • [`8cb036a`](https://github.com/trueforge-org/truecharts/commit/8cb036ac171e8787140d492d724f5a55e8321073) • [@Kjeld Schouten-Lebbing] (2023-05-22)
-- update security context questions • [`893b55d`](https://github.com/trueforge-org/truecharts/commit/893b55dc56a6a658d921b59ec48696c23cb21926) • [@Kjeld Schouten-Lebbing] (2023-03-01)
 - adapt workload and container questions for all apps • [`3c47107`](https://github.com/trueforge-org/truecharts/commit/3c471071cc485e386195989e12a1c45af51d67ac) • [@Kjeld Schouten-Lebbing] (2023-03-01)
-- Merge branch &#39;truecharts:master&#39; into pgadmin • [`6003576`](https://github.com/trueforge-org/truecharts/commit/6003576bab2ce66730613e674dd6d6f76fe4ad0e) • [@StevenMcElligott] (2023-02-26)
+- update security context questions • [`893b55d`](https://github.com/trueforge-org/truecharts/commit/893b55dc56a6a658d921b59ec48696c23cb21926) • [@Kjeld Schouten-Lebbing] (2023-03-01)
 - Merge pull request #7568 from truecharts/renovate/patch-scrypted • [`f78389a`](https://github.com/trueforge-org/truecharts/commit/f78389ad0f75bd21bb241c5c4169fdac851bf967) • [@TrueCharts Bot] (2023-02-26)
 - Commit bumped Chart Version • [`3d3568e`](https://github.com/trueforge-org/truecharts/commit/3d3568ece835a86f80e567092bc4395d89736fc1) • [@TrueCharts-Bot] (2023-02-26)
+- Merge branch &#39;truecharts:master&#39; into pgadmin • [`6003576`](https://github.com/trueforge-org/truecharts/commit/6003576bab2ce66730613e674dd6d6f76fe4ad0e) • [@StevenMcElligott] (2023-02-26)
 
 ## 0.0.5 • [Train: incubator]
 
@@ -954,8 +954,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 0.0.3 • [Train: incubator]
 
 - chore(deps): update scrypted to v0.6.22 • [`643c18d`](https://github.com/trueforge-org/truecharts/commit/643c18dc041a72b48762d0798cd6bbc35b8e5713) • [@TrueCharts-Admin] (2023-02-25)
-- Merge pull request #7548 from truecharts/renovate/patch-scrypted • [`628a3c3`](https://github.com/trueforge-org/truecharts/commit/628a3c3554103c1db8dd111022e95f7febf84c7a) • [@TrueCharts Bot] (2023-02-24)
 - Commit bumped Chart Version • [`ed517cf`](https://github.com/trueforge-org/truecharts/commit/ed517cf56074536ee8ab112ffde96018d0e3a1e3) • [@TrueCharts-Bot] (2023-02-24)
+- Merge pull request #7548 from truecharts/renovate/patch-scrypted • [`628a3c3`](https://github.com/trueforge-org/truecharts/commit/628a3c3554103c1db8dd111022e95f7febf84c7a) • [@TrueCharts Bot] (2023-02-24)
 
 ## 0.0.2 • [Train: incubator]
 
@@ -969,9 +969,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.1 • [Train: incubator]
 
-- chore(deps): update container image tccr.io/truecharts/scrypted-thin to v0.6.19 • [`21e8e33`](https://github.com/trueforge-org/truecharts/commit/21e8e338782a28b2126b995deea3b295e36416df) • [@TrueCharts-Admin] (2023-02-21)
 - chore(deps): update container image tccr.io/truecharts/scrypted-lite to v0.6.19 • [`5e24cd3`](https://github.com/trueforge-org/truecharts/commit/5e24cd3e4cbad97dc0b65f4e800fb828ced1e14a) • [@TrueCharts-Admin] (2023-02-21)
 - chore(deps): update container image tccr.io/truecharts/scrypted-full to v0.6.19 • [`1d068e1`](https://github.com/trueforge-org/truecharts/commit/1d068e1ef7cd425336beb920744406a345e0d61b) • [@TrueCharts-Admin] (2023-02-21)
+- chore(deps): update container image tccr.io/truecharts/scrypted-thin to v0.6.19 • [`21e8e33`](https://github.com/trueforge-org/truecharts/commit/21e8e338782a28b2126b995deea3b295e36416df) • [@TrueCharts-Admin] (2023-02-21)
 - Commit daily changes • [`a0f9327`](https://github.com/trueforge-org/truecharts/commit/a0f9327c249822bbe252a32985d9ee8bec902b35) • [@TrueCharts-Bot] (2023-02-19)
 - add variables to values • [`3bf0a41`](https://github.com/trueforge-org/truecharts/commit/3bf0a417c7c17a4824f4c35e47715cb575819cfe) • [@xstar97] (2023-02-17)
 - update to 0.6.16 • [`c2eaad9`](https://github.com/trueforge-org/truecharts/commit/c2eaad9dcb0e7203c908f891f0f3e10637b33942) • [@xstar97] (2023-02-17)

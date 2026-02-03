@@ -134,9 +134,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 16.29.0 • [Train: stable]
 
+- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
 - more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
-- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 
 ## 16.28.0 • [Train: stable]
 
@@ -162,8 +162,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 16.22.1 • [Train: stable]
 
-- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 - Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
+- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 
 ## 16.22.0 • [Train: stable]
 
@@ -427,8 +427,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 11.13.6 • [Train: stable]
 
-- chore(deps): update container image docker.io/localai/localai to v2.20.1-ffmpeg-core@c494964 by renovate (#26722) • [`c820ae0`](https://github.com/trueforge-org/truecharts/commit/c820ae0fbe466ebea22460048ee44e68f6057884) • [@TrueCharts Bot] (2024-09-21)
 - chore(deps): update container image docker.io/localai/localai to v2.20.1@db0c58b by renovate (#26723) • [`b5060ae`](https://github.com/trueforge-org/truecharts/commit/b5060ae1d428b0597650ed0e7ed6d8abc891994b) • [@TrueCharts Bot] (2024-09-21)
+- chore(deps): update container image docker.io/localai/localai to v2.20.1-ffmpeg-core@c494964 by renovate (#26722) • [`c820ae0`](https://github.com/trueforge-org/truecharts/commit/c820ae0fbe466ebea22460048ee44e68f6057884) • [@TrueCharts Bot] (2024-09-21)
 
 ## 11.13.5 • [Train: stable]
 
@@ -533,8 +533,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 11.0.2 • [Train: stable]
 
-- chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/trueforge-org/truecharts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
 - chore(deps): update container image common to v24.0.6@5cd15b8 by renovate (#23138) • [`b79d3fc`](https://github.com/trueforge-org/truecharts/commit/b79d3fce6d6f5a2533b217f2e9edb9e6e611d9e0) • [@TrueCharts Bot] (2024-06-15)
+- chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/trueforge-org/truecharts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
 
 ## 11.0.1 • [Train: stable]
 
@@ -590,8 +590,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 10.6.0 • [Train: stable]
 
-- Commit daily changes • [`460ce98`](https://github.com/trueforge-org/truecharts/commit/460ce98e609cda3c2b24a7f670cd204abb4a2123) • [@TrueCharts-Bot] (2024-05-06)
 - chore(docs): exclude changelog from pagefind (#21693) • [`f91c384`](https://github.com/trueforge-org/truecharts/commit/f91c384060835b0cff91205b8ee00de36b10d689) • [@Stavros Kois] (2024-05-06)
+- Commit daily changes • [`460ce98`](https://github.com/trueforge-org/truecharts/commit/460ce98e609cda3c2b24a7f670cd204abb4a2123) • [@TrueCharts-Bot] (2024-05-06)
 - chore(deps): update container image docker.io/localai/localai to v2.14.0 by renovate (#21605) • [`1ca374c`](https://github.com/trueforge-org/truecharts/commit/1ca374c25a8c981484027d9406bec5e03d4592e7) • [@TrueCharts Bot] (2024-05-05)
 
 ## 10.0.5 • [Train: stable]
@@ -873,8 +873,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 8.32.0 • [Train: stable]
 
-- Commit daily changes • [`294fe34`](https://github.com/trueforge-org/truecharts/commit/294fe34b4648403217b29c57ff7c9b9ff0b4f653) • [@TrueCharts-Bot] (2024-02-13)
 - Merge branch &#39;master&#39; of github.com:truecharts/charts • [`74dcc8c`](https://github.com/trueforge-org/truecharts/commit/74dcc8cfc99a39f74e7976566f414e744f345596) • [@Kjeld Schouten] (2024-02-13)
+- Commit daily changes • [`294fe34`](https://github.com/trueforge-org/truecharts/commit/294fe34b4648403217b29c57ff7c9b9ff0b4f653) • [@TrueCharts-Bot] (2024-02-13)
 - chore(deps): update container image docker.io/localai/localai to v2.8.0 by renovate (#18178) • [`dc4be5f`](https://github.com/trueforge-org/truecharts/commit/dc4be5f6ceff3c18438c41273992dc31fd1ec144) • [@TrueCharts Bot] (2024-02-12)
 
 ## 8.26.2 • [Train: stable]
@@ -1108,9 +1108,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 0.0.21 • [Train: stable]
 
 - Commit daily changes • [`72316cb`](https://github.com/trueforge-org/truecharts/commit/72316cbc6557d2b59e70739b7421907813f4ec85) • [@TrueCharts-Bot] (2023-12-04)
-- Commit daily changes • [`c5c271c`](https://github.com/trueforge-org/truecharts/commit/c5c271cb7efffb1c7200f9e6818a445658fa3890) • [@TrueCharts-Bot] (2023-12-03)
 - chore: bump everything to ensure catalog has latest versions • [`02d153a`](https://github.com/trueforge-org/truecharts/commit/02d153a62c739dabc92491b0f64739ad8db2c94d) • [@Kjeld Schouten] (2023-12-03)
 - Commit daily changes • [`1805e0a`](https://github.com/trueforge-org/truecharts/commit/1805e0a25ab55f07e62bdd17caefe9246ef198c2) • [@TrueCharts-Bot] (2023-12-03)
+- Commit daily changes • [`c5c271c`](https://github.com/trueforge-org/truecharts/commit/c5c271cb7efffb1c7200f9e6818a445658fa3890) • [@TrueCharts-Bot] (2023-12-03)
 
 ## 0.0.20 • [Train: stable]
 
@@ -1160,8 +1160,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.10 • [Train: stable]
 
-- chore(deps): update container image tccr.io/truecharts/local-ai to v1.40.0 (#14149) • [`aa56be6`](https://github.com/trueforge-org/truecharts/commit/aa56be6e80e86bbe784003c304744de4b5a3ecb5) • [@TrueCharts Bot] (2023-10-31)
 - chore(deps): update container image tccr.io/truecharts/local-ai-ffmpeg to v1.40.0 (#14150) • [`6f93d99`](https://github.com/trueforge-org/truecharts/commit/6f93d99a64866aada3882815dab0b8ca400c744d) • [@TrueCharts Bot] (2023-10-31)
+- chore(deps): update container image tccr.io/truecharts/local-ai to v1.40.0 (#14149) • [`aa56be6`](https://github.com/trueforge-org/truecharts/commit/aa56be6e80e86bbe784003c304744de4b5a3ecb5) • [@TrueCharts Bot] (2023-10-31)
 
 ## 0.0.9 • [Train: stable]
 
@@ -1183,8 +1183,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.5 • [Train: stable]
 
-- chore(deps): update container image tccr.io/truecharts/local-ai-cublas-cuda12 to v1.30.0 (#13025) • [`4b0ca60`](https://github.com/trueforge-org/truecharts/commit/4b0ca605dd4948207e9f64fefee4e3beee587433) • [@TrueCharts Bot] (2023-09-28)
 - chore(deps): update container image tccr.io/truecharts/local-ai-cublas-cuda11-ffmpeg to v1.30.0 (#13024) • [`920bff1`](https://github.com/trueforge-org/truecharts/commit/920bff166bb9a9352c0a5f49c28d8646cc5485ac) • [@TrueCharts Bot] (2023-09-28)
+- chore(deps): update container image tccr.io/truecharts/local-ai-cublas-cuda12 to v1.30.0 (#13025) • [`4b0ca60`](https://github.com/trueforge-org/truecharts/commit/4b0ca605dd4948207e9f64fefee4e3beee587433) • [@TrueCharts Bot] (2023-09-28)
 
 ## 0.0.4 • [Train: stable]
 
