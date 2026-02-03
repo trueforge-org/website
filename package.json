@@ -37,6 +37,6 @@
     "starlight-links-validator": "0.19.2",
     "tailwindcss": "4.1.18",
     "typescript": "5.9.3",
-    "wrangler": "4.61.1"
+    "wrangler": "4.62.0"
   }
 }
