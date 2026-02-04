@@ -21,11 +21,11 @@ Batch size: 12 L to secondary, 20+ L in primary.
 - Honey: 6 x 450 g (approx. 2.7 kg)
 - Zymex Intense (Cellulase): 10 g
 - Zymex (hemi-Cellulase): 10 g
-- Fermaid-O: 20 g (or 40 g of fresh boiled bakers yeast)
-- Black tea: 500 mL
+- yeast nutrient: 25 g
+- Strong Black tea: 500 mL
 - Potassium Carbonate: 1/2 tsp
 - Bentonite: 20 g (soaked)
-- Erythriol: 150 g
+- Erythriol: 120 g
 - Zymex Aroma (B-glucoacidase): 1 g
 - Dried Malolactic bacteria: 1 tsp (starter prep described below)
 - Dried Kveik yeast: 1 tsp packet (starter prep described below)
@@ -38,9 +38,11 @@ Batch size: 12 L to secondary, 20+ L in primary.
 
 ## Step 1 (24 hours after Stage 0 if used): Maceration / Enzyme stage
 
-1. If you used Stage 0, proceed 24 hours after Campden addition; otherwise combine fruit with water or use pressed juice (see Ingredients for amounts).
+_If you used Stage 0, proceed 24 hours after Campden addition_
+
+1. Combine fruit with water or use pressed juice (see Ingredients for amounts).
 2. Add Zymex Intense (Cellulase) and Zymex (hemi-Cellulase); mix well and let macerate.
-3. Add Fermaid-O and black tea (see Ingredients for amounts and recommended split additions).
+3. Add yeast nutrient, potassium carbonate and strong black tea (see Ingredients for amounts and recommended split additions).
 4. Prepare malolactic starter: hydrate dried malolactic bacteria in a small amount of warm apple juice plus water and acclimate per supplier instructions.
 5. Let maceration run ~24 hours before proceeding to primary fermentation.
 
@@ -48,9 +50,7 @@ Batch size: 12 L to secondary, 20+ L in primary.
 
 1. Prepare kveik starter: rehydrate dried kveik yeast in warm apple juice plus water and allow to build for recommended time (see Ingredients for packet size).
 2. Pitch kveik starter into the must.
-3. Add potassium carbonate and Fermaid-O as needed for nutrient balance (see Ingredients for amounts).
-4. Pitch the dried malolactic bacteria starter when appropriate for your strain and environmental conditions.
-5. Ferment per yeast recommendations; monitor gravity and temperature.
+3. Pitch the dried malolactic bacteria starter when appropriate for your strain and environmental conditions.
 
 ## Step 3 (after ~2 weeks): Thrub stage
 
