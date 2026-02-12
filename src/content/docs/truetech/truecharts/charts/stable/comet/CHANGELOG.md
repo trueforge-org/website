@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 4.11.32 • [Train: stable]
+
+- chore(comet): update image ghcr.io/g0ldyy/comet digest to 204596c (#44798) • [`2c6d11b`](https://github.com/trueforge-org/truecharts/commit/2c6d11beb3479eebde46b525d4837eca6548b2b1) • [@TrueCharts Bot] (2026-02-12)
+
 ## 4.11.31 • [Train: stable]
 
 - chore(comet): update image ghcr.io/g0ldyy/comet digest to 35e71d9 (#44674) • [`530b3b8`](https://github.com/trueforge-org/truecharts/commit/530b3b86e46b642cb6a5a601550058dcaef0c0bc) • [@TrueCharts Bot] (2026-02-08)
