@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.0.10 • [Train: stable]
+
+- chore(hytale): update image oci.trueforge.org/containerforge/hytale digest to 8a0e9e5 (#44830) • [`3372934`](https://github.com/trueforge-org/truecharts/commit/337293430cba70cb7aecb8b7f9a366b618e2ba25) • [@TrueCharts Bot] (2026-02-13)
+
 ## 1.0.9 • [Train: stable]
 
 - fix(hytale): correct description (#44503) • [`58d9308`](https://github.com/trueforge-org/truecharts/commit/58d930867094ddd141dc9883cba434f61d0ef05b) • [@Boemeltrein] (2026-02-03)
@@ -23,12 +27,12 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 1.0.7 • [Train: stable]
 
 - Commit daily changes • [`bf152c8`](https://github.com/trueforge-org/truecharts/commit/bf152c8e746c6568782467d57483768b4b89a6c4) • [@TrueCharts-Bot] (2026-02-01)
-- fix(charts): remove old annotations &amp; add proper category  (#44376) • [`a855dd6`](https://github.com/trueforge-org/truecharts/commit/a855dd67f77f3353f4e70fa506d3ded479abd8c8) • [@Alfred Göppel] (2026-01-31)
 - Commit daily changes • [`d2de50f`](https://github.com/trueforge-org/truecharts/commit/d2de50f17ea2800d3a87690c06fe721280ed6e30) • [@TrueCharts-Bot] (2026-01-31)
 - Commit daily changes • [`f79951b`](https://github.com/trueforge-org/truecharts/commit/f79951ba8701a9d79c372be2eca1d9a482a5fe81) • [@TrueCharts-Bot] (2026-01-31)
 - Commit daily changes • [`f8c1ee7`](https://github.com/trueforge-org/truecharts/commit/f8c1ee7bdf3fbb09f34358af18d4cd2a3fb5acd3) • [@TrueCharts-Bot] (2026-01-31)
 - Commit daily changes • [`5aef95e`](https://github.com/trueforge-org/truecharts/commit/5aef95e6ad29dfcd85b5ecbaf25bc7fb6c8873cb) • [@TrueCharts-Bot] (2026-01-31)
 - fix(all-charts): Fix chart.yaml &amp; add missing icons (#44393) • [`a802ce6`](https://github.com/trueforge-org/truecharts/commit/a802ce64e922757d94500d369fd1de25ffd69e5e) • [@Alfred Göppel] (2026-01-31)
+- fix(charts): remove old annotations &amp; add proper category  (#44376) • [`a855dd6`](https://github.com/trueforge-org/truecharts/commit/a855dd67f77f3353f4e70fa506d3ded479abd8c8) • [@Alfred Göppel] (2026-01-31)
 - chore(hytale): update image oci.trueforge.org/containerforge/hytale digest to 59132d3 (#44235) • [`548d01e`](https://github.com/trueforge-org/truecharts/commit/548d01e535637000bdba0b05ea5073a9c1a31874) • [@TrueCharts Bot] (2026-01-28)
 
 ## 1.0.6 • [Train: stable]
