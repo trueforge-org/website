@@ -2,7 +2,7 @@
 title: multus-cni
 ---
 
-![Version: 0.3.0](https://img.shields.io/badge/Version-0.3.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.2.3](https://img.shields.io/badge/AppVersion-4.2.3-informational?style=flat-square)
+![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.2.3](https://img.shields.io/badge/AppVersion-4.2.3-informational?style=flat-square)
 
 A CNI meta-plugin for multi-homed pods in Kubernetes
 
@@ -11,7 +11,7 @@ A CNI meta-plugin for multi-homed pods in Kubernetes
 - https://ghcr.io/k8snetworkplumbingwg/multus-cni
 - https://ghcr.io/siderolabs/cni
 - https://github.com/k8snetworkplumbingwg/multus-cni
-- https://github.com/trueforge-org/truecharts/tree/master/charts/incubator/multus-cni
+- https://github.com/trueforge-org/truecharts/tree/master/charts/stable/multus-cni
 - https://hub.docker.com/r/alpine/crane
 
 ## Available Documentation
@@ -26,7 +26,7 @@ A CNI meta-plugin for multi-homed pods in Kubernetes
 
 ### General Info
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/incubator/multus-cni)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://trueforge.org/truecharts/charts/stable/multus-cni)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/trueforge-org/truecharts/issues/new/choose)**
 
@@ -44,12 +44,12 @@ For more information on how to install TrueCharts Helm charts, checkout the [ins
 
 All our charts have dedicated documentation pages.
 The documentation for this chart can be found here:
-https://trueforge.org/truecharts/incubator/multus-cni
+https://trueforge.org/truecharts/stable/multus-cni
 
 ### Configuration Options
 
 To view the chart specific options, please view Values.yaml included in the chart.
-The most recent version of which, is available here: https://github.com/trueforge-org/truecharts/blob/master/charts/incubator/multus-cni/values.yaml
+The most recent version of which, is available here: https://github.com/trueforge-org/truecharts/blob/master/charts/stable/multus-cni/values.yaml
 
 All our Charts use a shared "common" library chart that contains most of the templating and options.
 For the complete overview of all available options, please checkout the documentation for them on the [common docs on our website](https://trueforge.org/truecharts-common/)
