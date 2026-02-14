@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.10 • [Train: stable]
 
+- port yaml-language-server logic from common2026 • [`d05c0a6`](https://github.com/trueforge-org/truecharts/commit/d05c0a6e7120043adc3fb9a6e0731f5a5e8f5b8b) • [@Kjeld Schouten] (2026-02-14)
 - chore(hytale): update image oci.trueforge.org/containerforge/hytale digest to 8a0e9e5 (#44830) • [`3372934`](https://github.com/trueforge-org/truecharts/commit/337293430cba70cb7aecb8b7f9a366b618e2ba25) • [@TrueCharts Bot] (2026-02-13)
 
 ## 1.0.9 • [Train: stable]

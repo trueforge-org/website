@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.1.12 • [Train: stable]
 
+- port yaml-language-server logic from common2026 • [`d05c0a6`](https://github.com/trueforge-org/truecharts/commit/d05c0a6e7120043adc3fb9a6e0731f5a5e8f5b8b) • [@Kjeld Schouten] (2026-02-14)
 - fix(gatus): update image ghcr.io/home-operations/gatus-sidecar 0.0.12 → 0.0.13 (#44748) • [`c5aaf7f`](https://github.com/trueforge-org/truecharts/commit/c5aaf7ff029b03b666bad69056e7c2b738e50674) • [@TrueCharts Bot] (2026-02-11)
 
 ## 3.1.11 • [Train: stable]
@@ -206,8 +207,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.11.2 • [Train: stable]
 
-- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 - chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
+- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 
 ## 2.11.1 • [Train: stable]
 

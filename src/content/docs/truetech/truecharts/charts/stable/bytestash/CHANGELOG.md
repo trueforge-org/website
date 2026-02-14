@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.13.17 • [Train: stable]
 
+- port yaml-language-server logic from common2026 • [`d05c0a6`](https://github.com/trueforge-org/truecharts/commit/d05c0a6e7120043adc3fb9a6e0731f5a5e8f5b8b) • [@Kjeld Schouten] (2026-02-14)
 - Commit daily changes • [`21c41fa`](https://github.com/trueforge-org/truecharts/commit/21c41fa63ee258f17571b236d18f1731403d29a8) • [@TrueCharts-Bot] (2026-02-04)
 - fix(bytestash): update image ghcr.io/jordan-dalby/bytestash 1.5.10 → 1.5.11 (#44512) • [`7e3f06e`](https://github.com/trueforge-org/truecharts/commit/7e3f06e98e3cc4faaa70a0487d30dbed8ae90557) • [@TrueCharts Bot] (2026-02-03)
 

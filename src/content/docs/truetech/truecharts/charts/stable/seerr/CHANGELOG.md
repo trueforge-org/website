@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 13.13.20 • [Train: stable]
 
+- port yaml-language-server logic from common2026 • [`d05c0a6`](https://github.com/trueforge-org/truecharts/commit/d05c0a6e7120043adc3fb9a6e0731f5a5e8f5b8b) • [@Kjeld Schouten] (2026-02-14)
 - chore(seerr): update image oci.trueforge.org/containerforge/seerr digest to eb182bc (#44876) • [`fddbe18`](https://github.com/trueforge-org/truecharts/commit/fddbe185a525763efe6e0586cea125450999bbcd) • [@TrueCharts Bot] (2026-02-13)
 
 ## 13.13.19 • [Train: stable]
@@ -66,8 +67,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 13.13.9 • [Train: stable]
 
-- fix(helm-deps): update chart common 28.29.20 → 28.29.23 (#43775) • [`e2e09b4`](https://github.com/trueforge-org/truecharts/commit/e2e09b4f87e7da8ee34a9fa0acef066bc7e3f199) • [@TrueCharts Bot] (2026-01-19)
 - chore(seerr): update image oci.trueforge.org/containerforge/seerr digest to 9e0d621 (#43799) • [`635a2f2`](https://github.com/trueforge-org/truecharts/commit/635a2f2bd16f2da661413337499558bd896c47d2) • [@TrueCharts Bot] (2026-01-19)
+- fix(helm-deps): update chart common 28.29.20 → 28.29.23 (#43775) • [`e2e09b4`](https://github.com/trueforge-org/truecharts/commit/e2e09b4f87e7da8ee34a9fa0acef066bc7e3f199) • [@TrueCharts Bot] (2026-01-19)
 
 ## 13.13.8 • [Train: stable]
 
@@ -105,9 +106,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 13.13.0 • [Train: stable]
 
+- chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
 - chore(helm): pin dependencies (#42168) • [`52ef92f`](https://github.com/trueforge-org/truecharts/commit/52ef92f785480a7e270d96fce950eea5609a990c) • [@TrueCharts Bot] (2025-11-27)
 - fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
-- chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
 
 ## 13.12.0 • [Train: stable]
 

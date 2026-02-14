@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.13.28 • [Train: stable]
 
+- port yaml-language-server logic from common2026 • [`d05c0a6`](https://github.com/trueforge-org/truecharts/commit/d05c0a6e7120043adc3fb9a6e0731f5a5e8f5b8b) • [@Kjeld Schouten] (2026-02-14)
 - chore(orcaslicer): update image ghcr.io/linuxserver/orcaslicer digest to bc04256 (#44800) • [`bf474b3`](https://github.com/trueforge-org/truecharts/commit/bf474b39a654d85d470be0f91904f97090896684) • [@TrueCharts Bot] (2026-02-12)
 
 ## 2.13.27 • [Train: stable]
