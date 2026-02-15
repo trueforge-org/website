@@ -15,6 +15,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - feat: Add incubator `valkey` chart scaffolded from stable `redis` (#44984) • [`b21ce0e`](https://github.com/trueforge-org/truecharts/commit/b21ce0e1f5056e51481b8627d3813eec0b1bb9d2) • [@Copilot] (2026-02-15)
 
+## 0.0.2 • [Train: incubator]
+
+- Bump version from 0.0.1 to 0.0.2 • [`96b77fa`](https://github.com/trueforge-org/truecharts/commit/96b77fa49ea4353bb67175707c3151d75e1e5d0e) • [@Kjeld Schouten] (2026-02-15)
+
 ## 0.0.1 • [Train: incubator]
 
 - Update image tag to &#39;latest&#39; in values.yaml • [`12c20a3`](https://github.com/trueforge-org/truecharts/commit/12c20a348b29275c03b1ce8d6e12a940f85a61a7) • [@Kjeld Schouten] (2026-02-15)
