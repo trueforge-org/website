@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.0.31 • [Train: stable]
+
+- test: bump valkey-using charts for testing (#45020) • [`393302b`](https://github.com/trueforge-org/truecharts/commit/393302b9df301c5c74c52691e5ae43dcfff458cb) • [@Kjeld Schouten] (2026-02-15)
+
 ## 1.0.30 • [Train: stable]
 
 - chore: update valkey dependency to 0.0.3 • [`920276e`](https://github.com/trueforge-org/truecharts/commit/920276e1ed6a81545c27025131fa5566df68bf33) • [@Kjeld Schouten] (2026-02-15)
