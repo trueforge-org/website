@@ -15,6 +15,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - feat: Add incubator `valkey` chart scaffolded from stable `redis` (#44984) • [`b21ce0e`](https://github.com/trueforge-org/truecharts/commit/b21ce0e1f5056e51481b8627d3813eec0b1bb9d2) • [@Copilot] (2026-02-15)
 
+## 0.0.5 • [Train: incubator]
+
+- change env-vars to VALKEY instead of REDIS • [`27bc86c`](https://github.com/trueforge-org/truecharts/commit/27bc86c52719c7f4d6bd51c95b2f0a80b171e8c2) • [@Kjeld Schouten] (2026-02-15)
+
 ## 0.0.4 • [Train: incubator]
 
 - Make Valkey password behavior Redis-compatible for dependency use (#45019) • [`4df114e`](https://github.com/trueforge-org/truecharts/commit/4df114e4984a3694510981545d5d8ec59896a740) • [@Copilot] (2026-02-15)
