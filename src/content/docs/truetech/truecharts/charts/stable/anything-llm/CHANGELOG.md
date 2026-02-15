@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 4.14.0 • [Train: stable]
+
+- feat(helm-deps): update chart common 28.29.59 → 28.30.0 (#45031) • [`5074128`](https://github.com/trueforge-org/truecharts/commit/507412860ef64f27582521b63d654c605a912c52) • [@TrueCharts Bot] (2026-02-15)
+
 ## 4.13.42 • [Train: stable]
 
 - fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
@@ -1239,8 +1243,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 1.5.33 • [Train: stable]
 
 - Commit daily changes • [`4cfcfb0`](https://github.com/trueforge-org/truecharts/commit/4cfcfb0324596df0870511c656314b8af9e3f7ee) • [@TrueCharts-Bot] (2024-04-28)
-- Merge branch &#39;master&#39; of github.com:truecharts/charts • [`4093da1`](https://github.com/trueforge-org/truecharts/commit/4093da14198218d1cc87512febb19aae2d1e9e5c) • [@Kjeld Schouten] (2024-04-27)
 - chore(deps): update container image ghcr.io/mintplex-labs/anything-llm to latest@4fa4ad8 by renovate (#21402) • [`a035c4a`](https://github.com/trueforge-org/truecharts/commit/a035c4a4157e140b52d708d28820693cc72a0829) • [@TrueCharts Bot] (2024-04-27)
+- Merge branch &#39;master&#39; of github.com:truecharts/charts • [`4093da1`](https://github.com/trueforge-org/truecharts/commit/4093da14198218d1cc87512febb19aae2d1e9e5c) • [@Kjeld Schouten] (2024-04-27)
 
 ## 1.5.32 • [Train: stable]
 
