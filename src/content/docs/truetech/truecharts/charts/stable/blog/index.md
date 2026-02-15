@@ -2,7 +2,7 @@
 title: blog
 ---
 
-![Version: 14.13.16](https://img.shields.io/badge/Version-14.13.16-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 14.13.17](https://img.shields.io/badge/Version-14.13.17-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Lightweight self-hosted facebook-styled PHP blog.
 

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.4.1 • [Train: stable]
+
+- fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
+
 ## 2.4.0 • [Train: stable]
 
 - feat(agregarr): update image ghcr.io/agregarr/agregarr v2.3.0 → v2.4.0 (#44973) • [`cbe43b0`](https://github.com/trueforge-org/truecharts/commit/cbe43b0f634cb18c8a7c22f7f146f49e30aa26fe) • [@TrueCharts Bot] (2026-02-15)
@@ -70,8 +74,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.2.1 • [Train: stable]
 
-- fix(agregarr): update image ghcr.io/agregarr/agregarr v2.2.0 → v2.2.1 (#43629) • [`9a03b28`](https://github.com/trueforge-org/truecharts/commit/9a03b286dddeca478a53a7d1b683415a5922da9f) • [@TrueCharts Bot] (2026-01-15)
 - fix(helm-deps): update chart common 28.29.17 → 28.29.18 (#43630) • [`e34cb1b`](https://github.com/trueforge-org/truecharts/commit/e34cb1b6971df52ea12410d994ed34976b7fdc08) • [@TrueCharts Bot] (2026-01-15)
+- fix(agregarr): update image ghcr.io/agregarr/agregarr v2.2.0 → v2.2.1 (#43629) • [`9a03b28`](https://github.com/trueforge-org/truecharts/commit/9a03b286dddeca478a53a7d1b683415a5922da9f) • [@TrueCharts Bot] (2026-01-15)
 
 ## 2.2.0 • [Train: stable]
 
@@ -173,8 +177,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.3.1 • [Train: stable]
 
-- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 - chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
+- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 
 ## 1.3.0 • [Train: stable]
 
