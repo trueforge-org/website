@@ -2,7 +2,7 @@
 title: wizarr
 ---
 
-![Version: 11.18.0](https://img.shields.io/badge/Version-11.18.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2025.12.0](https://img.shields.io/badge/AppVersion-2025.12.0-informational?style=flat-square)
+![Version: 11.18.1](https://img.shields.io/badge/Version-11.18.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2025.12.0](https://img.shields.io/badge/AppVersion-2025.12.0-informational?style=flat-square)
 
 A automatic user invitation system for Plex.
 
