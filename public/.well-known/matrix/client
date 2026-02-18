@@ -6,7 +6,7 @@
     "base_url": "https://vector.im"
   },
     "org.matrix.msc2965.authentication": {
-        "issuer": "https://account.trueforge.org/application/o/matrix/.well-known/openid-configuration",
+        "issuer": "https://account.trueforge.org/application/o/matrix",
         "account": "https://mas.trueforge.org/account"
     }
 }
