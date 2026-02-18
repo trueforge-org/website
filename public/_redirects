@@ -48,4 +48,4 @@
 
 /charts/* /truecharts/charts
 
-.well-known/openid-configuration/* https://account.trueforge.org/.well-known/openid-configuration 302
+.well-known/openid-configuration https://account.trueforge.org/.well-known/openid-configuration 302
