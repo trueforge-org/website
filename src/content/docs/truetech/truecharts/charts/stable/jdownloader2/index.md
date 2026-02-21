@@ -2,7 +2,7 @@
 title: jdownloader2
 ---
 
-![Version: 21.1.1](https://img.shields.io/badge/Version-21.1.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 26.01.1](https://img.shields.io/badge/AppVersion-26.01.1-informational?style=flat-square)
+![Version: 21.2.0](https://img.shields.io/badge/Version-21.2.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 26.02.2](https://img.shields.io/badge/AppVersion-26.02.2-informational?style=flat-square)
 
 JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
 
