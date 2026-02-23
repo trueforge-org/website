@@ -15,6 +15,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - chore: Add a bunch of direct-from-upstream system charts for clustertool-use (#23768) • [`e1bc567`](https://github.com/trueforge-org/truecharts/commit/e1bc5676c686f29322d66bd7e71f4c41c411ecf5) • [@Kjeld Schouten] (2024-06-25)
 
+## 2.15.0 • [Train: stable]
+
+- feat(helm-deps): update chart common 28.30.2 → 28.31.19 (#45418) • [`7171114`](https://github.com/trueforge-org/truecharts/commit/71711148d4ee73bdfa5c0de911dbdb12b026e351) • [@TrueCharts Bot] (2026-02-23)
+
 ## 2.14.1 • [Train: stable]
 
 - fix(helm-deps): update chart common 28.30.0 → 28.30.2 (#45040) • [`02dac97`](https://github.com/trueforge-org/truecharts/commit/02dac97d455c4ad8a549b8c9e93d92821f058747) • [@TrueCharts Bot] (2026-02-16)
@@ -150,8 +154,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 2.8.0 • [Train: system]
 
 - some readme fixes • [`65bdc5b`](https://github.com/trueforge-org/truecharts/commit/65bdc5bee8da831093597a659d090b06f50a9f7f) • [@Kjeld Schouten] (2025-10-12)
-- cut down on trains and copy to truecharts instead of charts • [`30fbfba`](https://github.com/trueforge-org/truecharts/commit/30fbfba1cbc1fdaa2d3da98698548c759815b54a) • [@Kjeld Schouten] (2025-10-10)
 - more tc to tf • [`70f87d4`](https://github.com/trueforge-org/truecharts/commit/70f87d44a930f912f6ba4eead6cdda9ca993572f) • [@Kjeld Schouten] (2025-10-10)
+- cut down on trains and copy to truecharts instead of charts • [`30fbfba`](https://github.com/trueforge-org/truecharts/commit/30fbfba1cbc1fdaa2d3da98698548c759815b54a) • [@Kjeld Schouten] (2025-10-10)
 - Commit daily changes • [`0c5d251`](https://github.com/trueforge-org/truecharts/commit/0c5d251be3ae436508bf66ff83e3d0a2b556df6a) • [@TrueCharts-Bot] (2025-10-07)
 - chore(helm): update chart common 28.21.1 → 28.22.0 (#40430) • [`04b47b8`](https://github.com/trueforge-org/truecharts/commit/04b47b8a4ff4dd72e51e572e26c68e41ce15222e) • [@TrueCharts Bot] (2025-10-06)
 
@@ -348,8 +352,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 - chore(deps): update ignored by renovate (patch) (#24139) • [`51504b7`](https://github.com/trueforge-org/truecharts/commit/51504b7b0045e75470a34b20fdfe9004bbf3c081) • [@TrueCharts Bot] (2024-07-24)
 - Commit daily changes • [`9c6cf1b`](https://github.com/trueforge-org/truecharts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)
 - chore(deps): update ignored by renovate (patch) (#22861) • [`72bf48a`](https://github.com/trueforge-org/truecharts/commit/72bf48a36f965f8362759779ce902b723fa450d1) • [@TrueCharts Bot] (2024-06-28)
-- chore(kubelet-csr-approver): Write own code for CSR approver (#23799) • [`f9a6f2a`](https://github.com/trueforge-org/truecharts/commit/f9a6f2af60bbc8e87847d6ea779f865de45395af) • [@MaverickD650] (2024-06-26)
 - Commit daily changes • [`139c93d`](https://github.com/trueforge-org/truecharts/commit/139c93ddea0f96bca5e2ef73b1a729151877b491) • [@TrueCharts-Bot] (2024-06-26)
+- chore(kubelet-csr-approver): Write own code for CSR approver (#23799) • [`f9a6f2a`](https://github.com/trueforge-org/truecharts/commit/f9a6f2af60bbc8e87847d6ea779f865de45395af) • [@MaverickD650] (2024-06-26)
 
 ## 0.0.1 • [Train: system]
 
