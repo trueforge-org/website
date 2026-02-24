@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.16.1 • [Train: stable]
+
+- fix(helm-deps): update chart common 28.32.2 → 28.32.5 (#45514) • [`772ec1b`](https://github.com/trueforge-org/truecharts/commit/772ec1b1b4c77761674586d56cb4615b653c9699) • [@TrueCharts Bot] (2026-02-24)
+
 ## 5.16.0 • [Train: stable]
 
 - feat(helm-deps): update chart common 28.31.19 → 28.32.2 (#45462) • [`d828cf1`](https://github.com/trueforge-org/truecharts/commit/d828cf193b7d5b95f7360388d2cf16376da3a949) • [@TrueCharts Bot] (2026-02-24)
@@ -540,6 +544,6 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 0.7.2 • [Train: incubator]
 
 - Commit daily changes • [`a0aa313`](https://github.com/trueforge-org/truecharts/commit/a0aa3134245af8f9d7a7cee7e2775819746bae62) • [@TrueCharts-Bot] (2024-02-23)
-- Commit daily changes • [`8965459`](https://github.com/trueforge-org/truecharts/commit/896545910673d88c5a093e2b46b46198fe496d6c) • [@TrueCharts-Bot] (2024-02-22)
 - fix(archivebox): Remove unused `postgres` section from `questions.yaml`, add docs (#18488) • [`d6ed8c7`](https://github.com/trueforge-org/truecharts/commit/d6ed8c78d22b99cac1028460e76fb13545492477) • [@Nick Sweeting] (2024-02-22)
+- Commit daily changes • [`8965459`](https://github.com/trueforge-org/truecharts/commit/896545910673d88c5a093e2b46b46198fe496d6c) • [@TrueCharts-Bot] (2024-02-22)
 - add(archivebox): Add new ArchiveBox chart  (#18258) • [`943073e`](https://github.com/trueforge-org/truecharts/commit/943073e4baa08add114233f23d9af84bd00e2048) • [@Nick Sweeting] (2024-02-21)

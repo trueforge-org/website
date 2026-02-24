@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 6.22.1 • [Train: stable]
+
+- fix(helm-deps): update chart common 28.32.2 → 28.32.5 (#45514) • [`772ec1b`](https://github.com/trueforge-org/truecharts/commit/772ec1b1b4c77761674586d56cb4615b653c9699) • [@TrueCharts Bot] (2026-02-24)
+
 ## 6.22.0 • [Train: stable]
 
 - feat(helm-deps): update chart common 28.31.19 → 28.32.2 (#45462) • [`d828cf1`](https://github.com/trueforge-org/truecharts/commit/d828cf193b7d5b95f7360388d2cf16376da3a949) • [@TrueCharts Bot] (2026-02-24)
@@ -422,8 +426,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.0.0 • [Train: stable]
 
-- feat(atuin): migrate atuin to stable (#21459) • [`2b90fee`](https://github.com/trueforge-org/truecharts/commit/2b90feea493db36ada849a55326e3b48943c0aa6) • [@Brendan] (2024-05-05)
 - Commit daily changes • [`7c14a14`](https://github.com/trueforge-org/truecharts/commit/7c14a140bf31434604ff24044519b2d613a56a02) • [@TrueCharts-Bot] (2024-05-05)
+- feat(atuin): migrate atuin to stable (#21459) • [`2b90fee`](https://github.com/trueforge-org/truecharts/commit/2b90feea493db36ada849a55326e3b48943c0aa6) • [@Brendan] (2024-05-05)
 
 ## 3.0.4 • [Train: incubator]
 
