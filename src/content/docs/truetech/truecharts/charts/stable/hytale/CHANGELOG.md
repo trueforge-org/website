@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.3.2 • [Train: stable]
+
+- chore(hytale): update image oci.trueforge.org/containerforge/hytale digest to 5a21e6f (#45524) • [`b1ea1fa`](https://github.com/trueforge-org/truecharts/commit/b1ea1fad611913f81f281eb310f1d509c49dfa3d) • [@TrueCharts Bot] (2026-02-25)
+
 ## 1.3.1 • [Train: stable]
 
 - fix(helm-deps): update chart common 28.32.2 → 28.32.5 (#45514) • [`772ec1b`](https://github.com/trueforge-org/truecharts/commit/772ec1b1b4c77761674586d56cb4615b653c9699) • [@TrueCharts Bot] (2026-02-24)
