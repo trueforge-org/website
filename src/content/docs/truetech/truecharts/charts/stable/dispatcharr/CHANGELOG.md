@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.6.1 • [Train: stable]
+
+- fix(dispatcharr): update image docker.io/dispatcharr/dispatcharr 0.20.0 → 0.20.1 (#45599) • [`b5bbdbc`](https://github.com/trueforge-org/truecharts/commit/b5bbdbc7bfa8cca35b13ac99484156d2818da95f) • [@TrueCharts Bot] (2026-02-27)
+
 ## 1.6.0 • [Train: stable]
 
 - feat(dispatcharr): update image docker.io/dispatcharr/dispatcharr 0.19.0 → 0.20.0 (#45593) • [`ac53c94`](https://github.com/trueforge-org/truecharts/commit/ac53c949e5abb3eba0e0506e053a5ad203d37ef6) • [@TrueCharts Bot] (2026-02-26)
@@ -53,11 +57,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 1.1.1 • [Train: stable]
 
 - Commit daily changes • [`bf152c8`](https://github.com/trueforge-org/truecharts/commit/bf152c8e746c6568782467d57483768b4b89a6c4) • [@TrueCharts-Bot] (2026-02-01)
+- chore(dispatcharr): update image alpine digest to 2510918 (#44358) • [`53112a7`](https://github.com/trueforge-org/truecharts/commit/53112a7ff04950fe106ec43b7c68a06404832835) • [@TrueCharts Bot] (2026-01-31)
 - Commit daily changes • [`5aef95e`](https://github.com/trueforge-org/truecharts/commit/5aef95e6ad29dfcd85b5ecbaf25bc7fb6c8873cb) • [@TrueCharts-Bot] (2026-01-31)
 - fix(all-charts): Fix chart.yaml &amp; add missing icons (#44393) • [`a802ce6`](https://github.com/trueforge-org/truecharts/commit/a802ce64e922757d94500d369fd1de25ffd69e5e) • [@Alfred Göppel] (2026-01-31)
 - fix(charts): remove old annotations &amp; add proper category  (#44376) • [`a855dd6`](https://github.com/trueforge-org/truecharts/commit/a855dd67f77f3353f4e70fa506d3ded479abd8c8) • [@Alfred Göppel] (2026-01-31)
 - Commit daily changes • [`f8c1ee7`](https://github.com/trueforge-org/truecharts/commit/f8c1ee7bdf3fbb09f34358af18d4cd2a3fb5acd3) • [@TrueCharts-Bot] (2026-01-31)
-- chore(dispatcharr): update image alpine digest to 2510918 (#44358) • [`53112a7`](https://github.com/trueforge-org/truecharts/commit/53112a7ff04950fe106ec43b7c68a06404832835) • [@TrueCharts Bot] (2026-01-31)
 
 ## 1.1.0 • [Train: stable]
 
@@ -168,9 +172,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.5.0 • [Train: incubator]
 
-- chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
 - chore(helm): pin dependencies (#42168) • [`52ef92f`](https://github.com/trueforge-org/truecharts/commit/52ef92f785480a7e270d96fce950eea5609a990c) • [@TrueCharts Bot] (2025-11-27)
 - fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
+- chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
 
 ## 0.4.0 • [Train: incubator]
 
