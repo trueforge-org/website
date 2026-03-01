@@ -2,7 +2,7 @@
 title: maintainerr
 ---
 
-![Version: 5.25.0](https://img.shields.io/badge/Version-5.25.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.27.0](https://img.shields.io/badge/AppVersion-2.27.0-informational?style=flat-square)
+![Version: 6.0.0](https://img.shields.io/badge/Version-6.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.0.1](https://img.shields.io/badge/AppVersion-3.0.1-informational?style=flat-square)
 
 Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem.
 
