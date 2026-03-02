@@ -13,8 +13,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.0.0 • [Train: stable]
 
-- BREAKING CHANGE(maintainerr): Update image docker.io/jorenn92/maintainerr 2.27.0 → 3.0.1 (#45683) • [`95906b9`](https://github.com/trueforge-org/truecharts/commit/95906b9869ebaacd9b96b1bf9c6f8d1a942f4ed8) • [@TrueCharts Bot] (2026-03-01)
 - feat(helm-deps): update chart common 28.32.5 → 28.33.0 (#45682) • [`c685ddd`](https://github.com/trueforge-org/truecharts/commit/c685ddd8cff3bac0e8a2cbfd471dc3f7ed8d69d8) • [@TrueCharts Bot] (2026-03-01)
+- BREAKING CHANGE(maintainerr): Update image docker.io/jorenn92/maintainerr 2.27.0 → 3.0.1 (#45683) • [`95906b9`](https://github.com/trueforge-org/truecharts/commit/95906b9869ebaacd9b96b1bf9c6f8d1a942f4ed8) • [@TrueCharts Bot] (2026-03-01)
 
 ## 5.25.0 • [Train: stable]
 
@@ -42,8 +42,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.21.13 • [Train: stable]
 
-- Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
 - fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
+- Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
 
 ## 5.21.12 • [Train: stable]
 
@@ -713,8 +713,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.1 • [Train: stable]
 
-- Commit daily changes • [`294fe34`](https://github.com/trueforge-org/truecharts/commit/294fe34b4648403217b29c57ff7c9b9ff0b4f653) • [@TrueCharts-Bot] (2024-02-13)
 - Merge branch &#39;master&#39; of github.com:truecharts/charts • [`74dcc8c`](https://github.com/trueforge-org/truecharts/commit/74dcc8cfc99a39f74e7976566f414e744f345596) • [@Kjeld Schouten] (2024-02-13)
+- Commit daily changes • [`294fe34`](https://github.com/trueforge-org/truecharts/commit/294fe34b4648403217b29c57ff7c9b9ff0b4f653) • [@TrueCharts-Bot] (2024-02-13)
 - chore(deps): update container image jorenn92/maintainerr to v2.0.2@4e0f519 by renovate (#18140) • [`0fd10c5`](https://github.com/trueforge-org/truecharts/commit/0fd10c5131147c03b4eff48fb62d916db0b396d5) • [@TrueCharts Bot] (2024-02-12)
 
 ## 1.0.0 • [Train: stable]
