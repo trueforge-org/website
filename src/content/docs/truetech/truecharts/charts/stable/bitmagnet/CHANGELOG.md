@@ -37,8 +37,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.13.17 • [Train: stable]
 
-- Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
 - fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
+- Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
 
 ## 4.13.16 • [Train: stable]
 
@@ -625,8 +625,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.0 • [Train: incubator]
 
-- chore(bitmagnet): move to stable • [`2d2d889`](https://github.com/trueforge-org/truecharts/commit/2d2d8894a512cc2cdd56f52de4294a00ad588456) • [@Kjeld Schouten] (2024-02-24)
 - chore: BREAKING CHANGE remove SCALE-GPU GUI support in favor of custom-GPU GUI • [`e2ec0b0`](https://github.com/trueforge-org/truecharts/commit/e2ec0b02c6202c43cc19f4c4ad047025985ebb51) • [@Kjeld Schouten] (2024-02-24)
+- chore(bitmagnet): move to stable • [`2d2d889`](https://github.com/trueforge-org/truecharts/commit/2d2d8894a512cc2cdd56f52de4294a00ad588456) • [@Kjeld Schouten] (2024-02-24)
 
 ## 0.0.1 • [Train: incubator]
 
