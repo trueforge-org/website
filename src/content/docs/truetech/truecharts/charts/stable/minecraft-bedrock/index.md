@@ -2,7 +2,7 @@
 title: minecraft-bedrock
 ---
 
-![Version: 13.4.0](https://img.shields.io/badge/Version-13.4.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2026.3.0](https://img.shields.io/badge/AppVersion-2026.3.0-informational?style=flat-square)
+![Version: 13.3.0](https://img.shields.io/badge/Version-13.3.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2026.2.2](https://img.shields.io/badge/AppVersion-2026.2.2-informational?style=flat-square)
 
 Minecraft Bedrock Dedicated Server
 
