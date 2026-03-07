@@ -2,7 +2,7 @@
 title: mealie
 ---
 
-![Version: 26.27.0](https://img.shields.io/badge/Version-26.27.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.11.0](https://img.shields.io/badge/AppVersion-3.11.0-informational?style=flat-square)
+![Version: 26.28.0](https://img.shields.io/badge/Version-26.28.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.12.0](https://img.shields.io/badge/AppVersion-3.12.0-informational?style=flat-square)
 
 Mealie is a self hosted recipe manager and meal planner with a RestAPI backend
 
