@@ -2,7 +2,7 @@
 title: docuseal
 ---
 
-![Version: 5.20.1](https://img.shields.io/badge/Version-5.20.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.3.6](https://img.shields.io/badge/AppVersion-2.3.6-informational?style=flat-square)
+![Version: 5.20.2](https://img.shields.io/badge/Version-5.20.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.3.7](https://img.shields.io/badge/AppVersion-2.3.7-informational?style=flat-square)
 
 Open source DocuSign alternative. Create, fill, and sign digital documents.
 
