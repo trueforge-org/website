@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.21.0 • [Train: stable]
+
+- feat(signal-cli-rest-api): update image docker.io/bbernhard/signal-cli-rest-api 0.97 → 0.98 (#45937) • [`3efc704`](https://github.com/trueforge-org/truecharts/commit/3efc7044c615fb201fecbe8c51b1c23417c7ec7a) • [@TrueCharts Bot] (2026-03-11)
+
 ## 1.20.0 • [Train: stable]
 
 - Commit daily changes • [`35a0665`](https://github.com/trueforge-org/truecharts/commit/35a06650d9c1994a41deca85df1f5cbfe20f9025) • [@TrueCharts-Bot] (2026-03-06)
@@ -38,8 +42,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.16.2 • [Train: stable]
 
-- fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
 - Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
+- fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
 
 ## 1.16.1 • [Train: stable]
 
