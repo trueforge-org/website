@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.5.2 • [Train: stable]
+
+- fix(helm-deps): update chart common 28.33.0 → 28.33.3 (#45974) • [`7727607`](https://github.com/trueforge-org/truecharts/commit/77276072da04092d5ba9072ff6456dffdb9d680a) • [@TrueCharts Bot] (2026-03-12)
+
 ## 1.5.1 • [Train: stable]
 
 - fix(kromgo): update image ghcr.io/kashalls/kromgo v0.8.0 → v0.8.2 (#45879) • [`60bbc96`](https://github.com/trueforge-org/truecharts/commit/60bbc962beded7c9f9314c5707d95af8cd2bfe0b) • [@TrueCharts Bot] (2026-03-08)
@@ -100,8 +104,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.3 • [Train: stable]
 
-- fix(kromgo): update image ghcr.io/kashalls/kromgo v0.7.4 → v0.7.5 (#43632) • [`c99cf8f`](https://github.com/trueforge-org/truecharts/commit/c99cf8f3fdd7d1cc60b58612cfcd61db2ec2f56a) • [@TrueCharts Bot] (2026-01-15)
 - fix(helm-deps): update chart common 28.29.17 → 28.29.18 (#43630) • [`e34cb1b`](https://github.com/trueforge-org/truecharts/commit/e34cb1b6971df52ea12410d994ed34976b7fdc08) • [@TrueCharts Bot] (2026-01-15)
+- fix(kromgo): update image ghcr.io/kashalls/kromgo v0.7.4 → v0.7.5 (#43632) • [`c99cf8f`](https://github.com/trueforge-org/truecharts/commit/c99cf8f3fdd7d1cc60b58612cfcd61db2ec2f56a) • [@TrueCharts Bot] (2026-01-15)
 
 ## 1.0.2 • [Train: stable]
 

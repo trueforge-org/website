@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.21.1 • [Train: stable]
+
+- fix(helm-deps): update chart common 28.33.0 → 28.33.3 (#45974) • [`7727607`](https://github.com/trueforge-org/truecharts/commit/77276072da04092d5ba9072ff6456dffdb9d680a) • [@TrueCharts Bot] (2026-03-12)
+
 ## 1.21.0 • [Train: stable]
 
 - feat(signal-cli-rest-api): update image docker.io/bbernhard/signal-cli-rest-api 0.97 → 0.98 (#45937) • [`3efc704`](https://github.com/trueforge-org/truecharts/commit/3efc7044c615fb201fecbe8c51b1c23417c7ec7a) • [@TrueCharts Bot] (2026-03-11)

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.23.1 • [Train: stable]
+
+- fix(helm-deps): update chart common 28.33.0 → 28.33.3 (#45974) • [`7727607`](https://github.com/trueforge-org/truecharts/commit/77276072da04092d5ba9072ff6456dffdb9d680a) • [@TrueCharts Bot] (2026-03-12)
+
 ## 1.23.0 • [Train: stable]
 
 - feat(openobserve): update image public.ecr.aws/zinclabs/openobserve v0.60.4 → v0.70.0 (#45955) • [`c7c6253`](https://github.com/trueforge-org/truecharts/commit/c7c6253fa55624d626f638a5a0510e90d2b5e896) • [@TrueCharts Bot] (2026-03-11)
@@ -34,8 +38,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.21.1 • [Train: stable]
 
-- fix(openobserve): update image public.ecr.aws/zinclabs/openobserve v0.60.0 → v0.60.1 (#45515) • [`3c9b8c9`](https://github.com/trueforge-org/truecharts/commit/3c9b8c9944f9322af37c88cd5d2b4959c3649dbc) • [@TrueCharts Bot] (2026-02-24)
 - fix(helm-deps): update chart common 28.32.2 → 28.32.5 (#45514) • [`772ec1b`](https://github.com/trueforge-org/truecharts/commit/772ec1b1b4c77761674586d56cb4615b653c9699) • [@TrueCharts Bot] (2026-02-24)
+- fix(openobserve): update image public.ecr.aws/zinclabs/openobserve v0.60.0 → v0.60.1 (#45515) • [`3c9b8c9`](https://github.com/trueforge-org/truecharts/commit/3c9b8c9944f9322af37c88cd5d2b4959c3649dbc) • [@TrueCharts Bot] (2026-02-24)
 
 ## 1.21.0 • [Train: stable]
 
@@ -55,8 +59,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.18.1 • [Train: stable]
 
-- Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
 - fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
+- Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
 
 ## 1.18.0 • [Train: stable]
 
