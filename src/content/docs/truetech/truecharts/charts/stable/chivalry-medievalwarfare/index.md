@@ -2,7 +2,7 @@
 title: chivalry-medievalwarfare
 ---
 
-![Version: 8.17.1](https://img.shields.io/badge/Version-8.17.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: chialrymw](https://img.shields.io/badge/AppVersion-chialrymw-informational?style=flat-square)
+![Version: 8.17.2](https://img.shields.io/badge/Version-8.17.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: chialrymw](https://img.shields.io/badge/AppVersion-chialrymw-informational?style=flat-square)
 
 This Chart will download and install SteamCMD. It will also install Chivalry: Medieval Warfare and run it.
 
