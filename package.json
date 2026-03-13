@@ -21,7 +21,7 @@
     "@astrojs/sitemap": "3.7.1",
     "@astrojs/starlight": "0.37.7",
     "@astrojs/starlight-tailwind": "4.0.2",
-    "@playform/compress": "0.2.1",
+    "@playform/compress": "0.2.2",
     "@tailwindcss/postcss": "4.2.1",
     "astro": "5.18.1",
     "astro-better-image-service": "2.1.10",
