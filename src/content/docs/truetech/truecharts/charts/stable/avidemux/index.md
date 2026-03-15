@@ -2,7 +2,7 @@
 title: avidemux
 ---
 
-![Version: 14.5.2](https://img.shields.io/badge/Version-14.5.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 26.02.3](https://img.shields.io/badge/AppVersion-26.02.3-informational?style=flat-square)
+![Version: 14.6.0](https://img.shields.io/badge/Version-14.6.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 26.03.1](https://img.shields.io/badge/AppVersion-26.03.1-informational?style=flat-square)
 
 Avidemux is a free video editor designed for simple cutting, filtering and encoding tasks.
 
