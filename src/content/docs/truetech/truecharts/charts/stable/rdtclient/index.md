@@ -2,7 +2,7 @@
 title: rdtclient
 ---
 
-![Version: 7.17.4](https://img.shields.io/badge/Version-7.17.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.0.126](https://img.shields.io/badge/AppVersion-2.0.126-informational?style=flat-square)
+![Version: 7.17.5](https://img.shields.io/badge/Version-7.17.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.0.127](https://img.shields.io/badge/AppVersion-2.0.127-informational?style=flat-square)
 
 This is a web interface to manage your torrents on Real-Debrid, AllDebrid or Premiumize.
 
