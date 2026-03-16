@@ -17,7 +17,7 @@
     "astro-windows": "set NODE_OPTIONS=--max-old-space-size=12000 && astro"
   },
   "dependencies": {
-    "@astrojs/check": "0.9.7",
+    "@astrojs/check": "0.9.8",
     "@astrojs/sitemap": "3.7.1",
     "@astrojs/starlight": "0.37.7",
     "@astrojs/starlight-tailwind": "4.0.2",
