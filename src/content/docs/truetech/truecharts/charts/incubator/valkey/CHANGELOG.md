@@ -17,6 +17,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.4.3 • [Train: incubator]
 
+- fix(charts): fix chart.yaml annotations for all charts (#46134) • [`ec19970`](https://github.com/trueforge-org/truecharts/commit/ec199707c168c3a76dc75df987ef09f6f4b53a88) • [@Alfred Göppel] (2026-03-17)
 - chore(valkey): update image docker.io/bitnamisecure/valkey digest to b1e0c19 (#46069) • [`8db812a`](https://github.com/trueforge-org/truecharts/commit/8db812ad931469482d39c3138d8d507ec3bd138e) • [@TrueCharts Bot] (2026-03-15)
 
 ## 0.4.2 • [Train: incubator]

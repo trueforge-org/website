@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.5.3 • [Train: stable]
 
+- fix(charts): fix chart.yaml annotations for all charts (#46134) • [`ec19970`](https://github.com/trueforge-org/truecharts/commit/ec199707c168c3a76dc75df987ef09f6f4b53a88) • [@Alfred Göppel] (2026-03-17)
 - fix(helm-deps): update chart common 28.33.3 → 28.33.4 (#45987) • [`465db91`](https://github.com/trueforge-org/truecharts/commit/465db91ac6853d102ac8bb2ffd731d1b01168a02) • [@TrueCharts Bot] (2026-03-12)
 
 ## 1.5.2 • [Train: stable]
@@ -83,12 +84,12 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.2.0 • [Train: incubator]
 
+- feat(multus-cni): update image ghcr.io/siderolabs/cni v1.11.0 → v1.12.0 (#44336) • [`e888769`](https://github.com/trueforge-org/truecharts/commit/e88876994e98a72e6b1a10f1c7aae6479fa78198) • [@TrueCharts Bot] (2026-01-31)
+- Commit daily changes • [`f8c1ee7`](https://github.com/trueforge-org/truecharts/commit/f8c1ee7bdf3fbb09f34358af18d4cd2a3fb5acd3) • [@TrueCharts-Bot] (2026-01-31)
 - Commit daily changes • [`5aef95e`](https://github.com/trueforge-org/truecharts/commit/5aef95e6ad29dfcd85b5ecbaf25bc7fb6c8873cb) • [@TrueCharts-Bot] (2026-01-31)
 - fix(all-charts): Fix chart.yaml &amp; add missing icons (#44393) • [`a802ce6`](https://github.com/trueforge-org/truecharts/commit/a802ce64e922757d94500d369fd1de25ffd69e5e) • [@Alfred Göppel] (2026-01-31)
 - fix(charts): remove old annotations &amp; add proper category  (#44376) • [`a855dd6`](https://github.com/trueforge-org/truecharts/commit/a855dd67f77f3353f4e70fa506d3ded479abd8c8) • [@Alfred Göppel] (2026-01-31)
 - Commit daily changes • [`ddba628`](https://github.com/trueforge-org/truecharts/commit/ddba6288bf69736c6c18f4a7dfd3636e54db2614) • [@TrueCharts-Bot] (2026-01-31)
-- feat(multus-cni): update image ghcr.io/siderolabs/cni v1.11.0 → v1.12.0 (#44336) • [`e888769`](https://github.com/trueforge-org/truecharts/commit/e88876994e98a72e6b1a10f1c7aae6479fa78198) • [@TrueCharts Bot] (2026-01-31)
-- Commit daily changes • [`f8c1ee7`](https://github.com/trueforge-org/truecharts/commit/f8c1ee7bdf3fbb09f34358af18d4cd2a3fb5acd3) • [@TrueCharts-Bot] (2026-01-31)
 
 ## 0.1.1 • [Train: incubator]
 
