@@ -203,8 +203,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.0.0 • [Train: stable]
 
-- BREAKING CHANGE(renovate): Update image oci.trueforge.org/containerforge/renovate 42.95.1 → 43.0.7 (#44420) • [`0994bb1`](https://github.com/trueforge-org/truecharts/commit/0994bb1e20d3f84d49bd08cb4338ac0ce8695cb8) • [@TrueCharts Bot] (2026-02-01)
 - Commit daily changes • [`bf152c8`](https://github.com/trueforge-org/truecharts/commit/bf152c8e746c6568782467d57483768b4b89a6c4) • [@TrueCharts-Bot] (2026-02-01)
+- BREAKING CHANGE(renovate): Update image oci.trueforge.org/containerforge/renovate 42.95.1 → 43.0.7 (#44420) • [`0994bb1`](https://github.com/trueforge-org/truecharts/commit/0994bb1e20d3f84d49bd08cb4338ac0ce8695cb8) • [@TrueCharts Bot] (2026-02-01)
 
 ## 4.37.0 • [Train: stable]
 
@@ -280,8 +280,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.32.1 • [Train: stable]
 
-- fix(renovate): update image oci.trueforge.org/containerforge/renovate 42.90.0 → 42.90.2 (#44023) • [`ac03cec`](https://github.com/trueforge-org/truecharts/commit/ac03cec997bf1dc4c11665290bccdff1ab28acf5) • [@TrueCharts Bot] (2026-01-23)
 - fix(helm-deps): update chart common 28.29.30 → 28.29.35 (#43970) • [`b2f0b22`](https://github.com/trueforge-org/truecharts/commit/b2f0b229730d91f0c30c6f11ad626485a1627220) • [@TrueCharts Bot] (2026-01-23)
+- fix(renovate): update image oci.trueforge.org/containerforge/renovate 42.90.0 → 42.90.2 (#44023) • [`ac03cec`](https://github.com/trueforge-org/truecharts/commit/ac03cec997bf1dc4c11665290bccdff1ab28acf5) • [@TrueCharts Bot] (2026-01-23)
 
 ## 4.32.0 • [Train: stable]
 
@@ -637,8 +637,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.6.1 • [Train: stable]
 
-- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 - Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
+- chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
 
 ## 2.6.0 • [Train: stable]
 
@@ -752,9 +752,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.26.2 • [Train: stable]
 
+- hmm • [`2ec6932`](https://github.com/trueforge-org/truecharts/commit/2ec6932556467294b337207fc3a5ea5993806f19) • [@Kjeld Schouten] (2025-04-09)
 - fix(renovate): use our container BETA • [`afd99cc`](https://github.com/trueforge-org/truecharts/commit/afd99cc2921c7e748207a8a718713c6bc851103c) • [@Kjeld Schouten] (2025-04-09)
 - chore: update clustertool version everywhere • [`bb99174`](https://github.com/trueforge-org/truecharts/commit/bb991743f2c9d580bc4097334aebe393333dc6d7) • [@Kjeld Schouten] (2025-04-09)
-- hmm • [`2ec6932`](https://github.com/trueforge-org/truecharts/commit/2ec6932556467294b337207fc3a5ea5993806f19) • [@Kjeld Schouten] (2025-04-09)
 
 ## 1.26.1 • [Train: stable]
 
@@ -857,8 +857,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.11.5 • [Train: incubator]
 
-- bump • [`2bac9fe`](https://github.com/trueforge-org/truecharts/commit/2bac9fe04fa3536845e4e5cd7db2b6eb6190934c) • [@Kjeld Schouten] (2025-02-08)
 - move renovate cache mountpoint • [`1b178e6`](https://github.com/trueforge-org/truecharts/commit/1b178e670e704acdd2649a55b12b41bb0dd8bf9b) • [@Kjeld Schouten] (2025-02-08)
+- bump • [`2bac9fe`](https://github.com/trueforge-org/truecharts/commit/2bac9fe04fa3536845e4e5cd7db2b6eb6190934c) • [@Kjeld Schouten] (2025-02-08)
 
 ## 1.11.4 • [Train: incubator]
 
@@ -870,8 +870,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.11.2 • [Train: incubator]
 
-- Update values.yaml • [`0a26285`](https://github.com/trueforge-org/truecharts/commit/0a262859c5c45a3171ffc57c86a53c8dfa8eaaeb) • [@Kjeld Schouten] (2025-02-07)
 - Update Chart.yaml • [`88d7cab`](https://github.com/trueforge-org/truecharts/commit/88d7cabda1ef993b9113b5cf0363dd9b6791aa6c) • [@Kjeld Schouten] (2025-02-07)
+- Update values.yaml • [`0a26285`](https://github.com/trueforge-org/truecharts/commit/0a262859c5c45a3171ffc57c86a53c8dfa8eaaeb) • [@Kjeld Schouten] (2025-02-07)
 
 ## 1.11.1 • [Train: incubator]
 
