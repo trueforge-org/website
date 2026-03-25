@@ -2,7 +2,7 @@
 title: rdesktop
 ---
 
-![Version: 12.0.1](https://img.shields.io/badge/Version-12.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: ubuntu-kde](https://img.shields.io/badge/AppVersion-ubuntu-kde-informational?style=flat-square)
+![Version: 12.0.7](https://img.shields.io/badge/Version-12.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: ubuntu-kde](https://img.shields.io/badge/AppVersion-ubuntu-kde-informational?style=flat-square)
 
 Full desktop environments in many popular flavors for Alpine, Ubuntu, Arch, and Fedora accessible via RDP.
 
