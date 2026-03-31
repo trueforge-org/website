@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.1.0 • [Train: stable]
+
+- feat(reaparr): update image docker.io/reaparr/reaparr 0.36.0 → 0.37.0 (#46614) • [`323ac01`](https://github.com/trueforge-org/truecharts/commit/323ac016476ee764f2e731032971629f822309df) • [@TrueCharts Bot] (2026-03-31)
+
 ## 2.0.0 • [Train: stable]
 
 - BREAKING CHANGE(helm-deps): Update chart common 28.33.4 → 29.0.0 (#46224) • [`d2925c9`](https://github.com/trueforge-org/truecharts/commit/d2925c98deb636c78860ba2277898f97e7c8a8b9) • [@TrueCharts Bot] (2026-03-19)
@@ -144,8 +148,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.6.0 • [Train: incubator]
 
-- chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
 - fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
+- chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
 
 ## 0.5.0 • [Train: incubator]
 
@@ -178,9 +182,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.1.0 • [Train: incubator]
 
-- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
 - more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
+- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 
 ## 0.0.1 • [Train: incubator]
 
