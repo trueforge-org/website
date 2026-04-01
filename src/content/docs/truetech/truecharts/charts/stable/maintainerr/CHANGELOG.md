@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.2.1 • [Train: stable]
+
+- chore(maintainerr): update image docker.io/jorenn92/maintainerr digest to 918e375 (#46656) • [`d716528`](https://github.com/trueforge-org/truecharts/commit/d7165280cd3b8d7bae8f2e351fe768d536aa0fa7) • [@TrueCharts Bot] (2026-04-01)
+
 ## 7.2.0 • [Train: stable]
 
 - feat(maintainerr): update image docker.io/jorenn92/maintainerr 3.2.0 → 3.3.0 (#46514) • [`ef58bb1`](https://github.com/trueforge-org/truecharts/commit/ef58bb114a7602a18012daa5d281f71ba8c60ca0) • [@TrueCharts Bot] (2026-03-29)
@@ -600,9 +604,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.8.6 • [Train: stable]
 
-- Commit daily changes • [`26af685`](https://github.com/trueforge-org/truecharts/commit/26af68565949440123d8ba215a7e8544ec455067) • [@TrueCharts-Bot] (2024-04-17)
 - Revert &#34;Commit daily changes&#34; • [`328900e`](https://github.com/trueforge-org/truecharts/commit/328900e43814c8ec97a259f5124b503dcad3dd34) • [@Kjeld Schouten] (2024-04-17)
 - Commit daily changes • [`3bbe620`](https://github.com/trueforge-org/truecharts/commit/3bbe62084f52c024e50a48f42438dd8a595bda0e) • [@TrueCharts-Bot] (2024-04-17)
+- Commit daily changes • [`26af685`](https://github.com/trueforge-org/truecharts/commit/26af68565949440123d8ba215a7e8544ec455067) • [@TrueCharts-Bot] (2024-04-17)
 - chore: bump charts to ensure new icons are released • [`9828a1e`](https://github.com/trueforge-org/truecharts/commit/9828a1ef02a808a8855e6e17cf4b601a21a315f5) • [@Kjeld Schouten] (2024-04-16)
 
 ## 2.8.5 • [Train: stable]
