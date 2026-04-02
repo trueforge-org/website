@@ -2,7 +2,7 @@
 title: seafile
 ---
 
-![Version: 14.0.5](https://img.shields.io/badge/Version-14.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 13.0.20](https://img.shields.io/badge/AppVersion-13.0.20-informational?style=flat-square)
+![Version: 14.0.6](https://img.shields.io/badge/Version-14.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 13.0.20](https://img.shields.io/badge/AppVersion-13.0.20-informational?style=flat-square)
 
 Reliable and Performant File Sync and Share Solution
 
