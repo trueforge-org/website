@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.1.1 • [Train: stable]
+
+- fix(helm-deps): update chart common 29.0.0 → 29.0.10 (#46661) • [`d53ffca`](https://github.com/trueforge-org/truecharts/commit/d53ffcaf79711ece17a0372c3f36361efef510ae) • [@TrueCharts Bot] (2026-04-02)
+
 ## 2.1.0 • [Train: stable]
 
 - feat(reaparr): update image docker.io/reaparr/reaparr 0.36.0 → 0.37.0 (#46614) • [`323ac01`](https://github.com/trueforge-org/truecharts/commit/323ac016476ee764f2e731032971629f822309df) • [@TrueCharts Bot] (2026-03-31)
