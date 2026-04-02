@@ -24,7 +24,7 @@
     "@playform/compress": "0.2.2",
     "@tailwindcss/postcss": "4.2.2",
     "astro": "5.18.1",
-    "astro-better-image-service": "2.1.10",
+    "astro-better-image-service": "2.2.0",
     "astro-integration-lottie": "0.3.2",
     "astro-robots-txt": "1.0.0",
     "autoprefixer": "10.4.27",
