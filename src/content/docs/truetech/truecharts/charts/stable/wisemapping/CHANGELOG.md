@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.0.3 • [Train: stable]
+
+- chore(wisemapping): update image docker.io/wisemapping/wisemapping digest to a0b4999 (#46830) • [`e6b52ae`](https://github.com/trueforge-org/truecharts/commit/e6b52aebdd77b6a7eb389609760a9448a39f4a50) • [@TrueCharts Bot] (2026-04-13)
+
 ## 5.0.2 • [Train: stable]
 
 - fix(helm-deps): update chart common 29.0.0 → 29.0.10 (#46661) • [`d53ffca`](https://github.com/trueforge-org/truecharts/commit/d53ffcaf79711ece17a0372c3f36361efef510ae) • [@TrueCharts Bot] (2026-04-02)
@@ -163,8 +167,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.11.5 • [Train: stable]
 
-- Commit daily changes • [`0d9a801`](https://github.com/trueforge-org/truecharts/commit/0d9a8012163003f1c431e02a221c9033465f05e4) • [@TrueCharts-Bot] (2025-11-09)
 - chore(helm): update image docker.io/wisemapping/wisemapping digest to ae8a963 (#41556) • [`fb5b761`](https://github.com/trueforge-org/truecharts/commit/fb5b76140451932df8a3ab70fbfebfe7239a5f27) • [@TrueCharts Bot] (2025-11-09)
+- Commit daily changes • [`0d9a801`](https://github.com/trueforge-org/truecharts/commit/0d9a8012163003f1c431e02a221c9033465f05e4) • [@TrueCharts-Bot] (2025-11-09)
 
 ## 4.11.4 • [Train: stable]
 
@@ -198,9 +202,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.9.0 • [Train: stable]
 
-- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
 - more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
+- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 
 ## 4.8.0 • [Train: stable]
 
