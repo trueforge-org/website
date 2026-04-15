@@ -29,7 +29,7 @@
     "astro-robots-txt": "1.0.0",
     "autoprefixer": "10.5.0",
     "lottie-web": "5.13.0",
-    "postcss": "8.5.9",
+    "postcss": "8.5.10",
     "prettier": "3.8.3",
     "sharp": "0.34.5",
     "starlight-blog": "0.25.3",
