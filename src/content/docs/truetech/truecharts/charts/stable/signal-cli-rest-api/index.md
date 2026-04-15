@@ -2,7 +2,7 @@
 title: signal-cli-rest-api
 ---
 
-![Version: 2.0.1](https://img.shields.io/badge/Version-2.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.98.0](https://img.shields.io/badge/AppVersion-0.98.0-informational?style=flat-square)
+![Version: 2.0.2](https://img.shields.io/badge/Version-2.0.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.98.0](https://img.shields.io/badge/AppVersion-0.98.0-informational?style=flat-square)
 
 Dockerized Signal Messenger REST API.
 

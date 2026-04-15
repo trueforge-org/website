@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 15.0.3 • [Train: stable]
+
+- fix(helm-deps): update chart common 29.0.10 → 29.0.15 (#47022) • [`509cd59`](https://github.com/trueforge-org/truecharts/commit/509cd59e0a295ff1da8221fe7749adf27d36ecf3) • [@TrueCharts Bot] (2026-04-15)
+
 ## 15.0.2 • [Train: stable]
 
 - fix(seerr): update image oci.trueforge.org/containerforge/seerr 3.1.0 → 3.1.1 (#46922) • [`9c14656`](https://github.com/trueforge-org/truecharts/commit/9c1465638f0f4cd15b479d8694159d3ca1fc8ff1) • [@TrueCharts Bot] (2026-04-14)
