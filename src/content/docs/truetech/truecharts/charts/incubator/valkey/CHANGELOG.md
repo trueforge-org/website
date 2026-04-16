@@ -15,6 +15,18 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - feat: Add incubator `valkey` chart scaffolded from stable `redis` (#44984) • [`b21ce0e`](https://github.com/trueforge-org/truecharts/commit/b21ce0e1f5056e51481b8627d3813eec0b1bb9d2) • [@Copilot] (2026-02-15)
 
+## 1.0.6 • [Train: incubator]
+
+- fix(helm-deps): update chart common 29.0.10 → 29.0.15 (#47022) • [`509cd59`](https://github.com/trueforge-org/truecharts/commit/509cd59e0a295ff1da8221fe7749adf27d36ecf3) • [@TrueCharts Bot] (2026-04-15)
+
+## 1.0.5 • [Train: incubator]
+
+- chore(valkey): update image docker.io/bitnamisecure/valkey digest to 2e22c3c (#46891) • [`134226b`](https://github.com/trueforge-org/truecharts/commit/134226b6a8dd92e88b007f9114a6e4f7f8b44cd3) • [@TrueCharts Bot] (2026-04-14)
+
+## 1.0.4 • [Train: incubator]
+
+- chore(valkey): update image docker.io/bitnamisecure/valkey digest to c64a71d (#46827) • [`8b74c19`](https://github.com/trueforge-org/truecharts/commit/8b74c197228818280194b31639b3f3dfaa2e8d6e) • [@TrueCharts Bot] (2026-04-13)
+
 ## 1.0.3 • [Train: incubator]
 
 - fix(helm-deps): update chart common 29.0.0 → 29.0.10 (#46661) • [`d53ffca`](https://github.com/trueforge-org/truecharts/commit/d53ffcaf79711ece17a0372c3f36361efef510ae) • [@TrueCharts Bot] (2026-04-02)
@@ -98,6 +110,6 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.1 • [Train: incubator]
 
+- Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
 - Update image tag to &#39;latest&#39; in values.yaml • [`12c20a3`](https://github.com/trueforge-org/truecharts/commit/12c20a348b29275c03b1ce8d6e12a940f85a61a7) • [@Kjeld Schouten] (2026-02-15)
 - Update Chart version from 17.15.22 to 0.0.1 • [`dcdaa22`](https://github.com/trueforge-org/truecharts/commit/dcdaa22408d1065135ccc635396f6308b99f02b7) • [@Kjeld Schouten] (2026-02-15)
-- Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)

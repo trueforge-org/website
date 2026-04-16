@@ -11,6 +11,14 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.2.1 • [Train: stable]
+
+- fix(helm-deps): update chart common 29.0.10 → 29.0.15 (#47022) • [`509cd59`](https://github.com/trueforge-org/truecharts/commit/509cd59e0a295ff1da8221fe7749adf27d36ecf3) • [@TrueCharts Bot] (2026-04-15)
+
+## 8.2.0 • [Train: stable]
+
+- feat(mend-renovate): update image ghcr.io/mend/renovate-ce 14.2.0 → 14.3.0 (#46955) • [`95f4750`](https://github.com/trueforge-org/truecharts/commit/95f47507bb39a1b07e48d0d7837eafec307f529d) • [@TrueCharts Bot] (2026-04-14)
+
 ## 8.1.1 • [Train: stable]
 
 - fix(helm-deps): update chart common 29.0.0 → 29.0.10 (#46661) • [`d53ffca`](https://github.com/trueforge-org/truecharts/commit/d53ffcaf79711ece17a0372c3f36361efef510ae) • [@TrueCharts Bot] (2026-04-02)

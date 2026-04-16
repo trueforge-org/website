@@ -36,7 +36,7 @@ jobs:
       - name: Comment deploy start
         if: github.event_name != 'push'
         continue-on-error: true
-        uses: mshick/add-pr-comment@b8f338c590a895d50bcbfa6c5859251edc8952fc # v2
+        uses: mshick/add-pr-comment@64b8e914979889d746c99dea15a76e77ef64580a # v3
         with:
           message-id: cloudflare-deploy
           message: |
@@ -57,7 +57,7 @@ jobs:
         run: npm i --package-lock-only
 
       - name: Setup astro Cache
-        uses: actions/cache@668228422ae6a00e4ad889ee87cd7109ec5666a7 # v5
+        uses: actions/cache@27d5ce7f107fe9357f9df03efb73ab90386fccae # v5
         with:
           # Cache for build and optimized images.
           key: astro-${{ hashFiles('package-lock.json') }}
@@ -65,7 +65,7 @@ jobs:
           restore-keys: astro-
 
       - name: Setup npm Cache
-        uses: actions/cache@668228422ae6a00e4ad889ee87cd7109ec5666a7 # v5
+        uses: actions/cache@27d5ce7f107fe9357f9df03efb73ab90386fccae # v5
         with:
           # Cache for npm
           path: ~/.npm
@@ -74,7 +74,7 @@ jobs:
 
       - name: Setup node_modules Cache
         id: modulescache
-        uses: actions/cache@668228422ae6a00e4ad889ee87cd7109ec5666a7 # v5
+        uses: actions/cache@27d5ce7f107fe9357f9df03efb73ab90386fccae # v5
         with:
           # Cache for npm and optimized images.
           path: ./node_modules
@@ -95,7 +95,7 @@ jobs:
       - name: Comment deploy start
         if: github.event_name != 'push'
         continue-on-error: true
-        uses: mshick/add-pr-comment@b8f338c590a895d50bcbfa6c5859251edc8952fc # v2
+        uses: mshick/add-pr-comment@64b8e914979889d746c99dea15a76e77ef64580a # v3
         with:
           message-id: cloudflare-deploy
           message: |
@@ -138,7 +138,7 @@ jobs:
       - name: Comment deploy url
         if: github.event_name != 'push'
         continue-on-error: true
-        uses: mshick/add-pr-comment@b8f338c590a895d50bcbfa6c5859251edc8952fc # v2
+        uses: mshick/add-pr-comment@64b8e914979889d746c99dea15a76e77ef64580a # v3
         with:
           message-id: cloudflare-deploy
           message: |
