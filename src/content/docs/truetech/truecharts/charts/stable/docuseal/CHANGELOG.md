@@ -11,6 +11,22 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 6.0.5 • [Train: stable]
+
+- fix(helm-deps): update chart common 29.0.10 → 29.0.15 (#47022) • [`509cd59`](https://github.com/trueforge-org/truecharts/commit/509cd59e0a295ff1da8221fe7749adf27d36ecf3) • [@TrueCharts Bot] (2026-04-15)
+
+## 6.0.4 • [Train: stable]
+
+- fix(docuseal): update image docker.io/docuseal/docuseal 2.4.2 → 2.4.4 (#46846) • [`e81541b`](https://github.com/trueforge-org/truecharts/commit/e81541b7f97b9890840af4d8f72cc933b05673b5) • [@TrueCharts Bot] (2026-04-13)
+
+## 6.0.3 • [Train: stable]
+
+- fix(helm-deps): update chart common 29.0.0 → 29.0.10 (#46661) • [`d53ffca`](https://github.com/trueforge-org/truecharts/commit/d53ffcaf79711ece17a0372c3f36361efef510ae) • [@TrueCharts Bot] (2026-04-02)
+
+## 6.0.2 • [Train: stable]
+
+- fix(docuseal): update image docker.io/docuseal/docuseal 2.4.1 → 2.4.2 (#46557) • [`76a3b05`](https://github.com/trueforge-org/truecharts/commit/76a3b054484fcd9c5f294783485c0440d78d5c4c) • [@TrueCharts Bot] (2026-03-30)
+
 ## 6.0.1 • [Train: stable]
 
 - fix(docuseal): update image docker.io/docuseal/docuseal 2.4.0 → 2.4.1 (#46332) • [`00253ac`](https://github.com/trueforge-org/truecharts/commit/00253ac93477eb405a15e875060184aaf1bad935) • [@TrueCharts Bot] (2026-03-23)
@@ -97,11 +113,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 5.16.7 • [Train: stable]
 
 - Commit daily changes • [`bf152c8`](https://github.com/trueforge-org/truecharts/commit/bf152c8e746c6568782467d57483768b4b89a6c4) • [@TrueCharts-Bot] (2026-02-01)
-- fix(charts): remove old annotations &amp; add proper category  (#44376) • [`a855dd6`](https://github.com/trueforge-org/truecharts/commit/a855dd67f77f3353f4e70fa506d3ded479abd8c8) • [@Alfred Göppel] (2026-01-31)
 - Commit daily changes • [`d2de50f`](https://github.com/trueforge-org/truecharts/commit/d2de50f17ea2800d3a87690c06fe721280ed6e30) • [@TrueCharts-Bot] (2026-01-31)
 - Commit daily changes • [`f8c1ee7`](https://github.com/trueforge-org/truecharts/commit/f8c1ee7bdf3fbb09f34358af18d4cd2a3fb5acd3) • [@TrueCharts-Bot] (2026-01-31)
 - Commit daily changes • [`5aef95e`](https://github.com/trueforge-org/truecharts/commit/5aef95e6ad29dfcd85b5ecbaf25bc7fb6c8873cb) • [@TrueCharts-Bot] (2026-01-31)
 - fix(all-charts): Fix chart.yaml &amp; add missing icons (#44393) • [`a802ce6`](https://github.com/trueforge-org/truecharts/commit/a802ce64e922757d94500d369fd1de25ffd69e5e) • [@Alfred Göppel] (2026-01-31)
+- fix(charts): remove old annotations &amp; add proper category  (#44376) • [`a855dd6`](https://github.com/trueforge-org/truecharts/commit/a855dd67f77f3353f4e70fa506d3ded479abd8c8) • [@Alfred Göppel] (2026-01-31)
 - fix(docuseal): update image docker.io/docuseal/docuseal 2.3.0 → 2.3.1 (#44210) • [`dc37b3d`](https://github.com/trueforge-org/truecharts/commit/dc37b3d8de2e3e151386b5c67a0e030caa4eeee6) • [@TrueCharts Bot] (2026-01-27)
 
 ## 5.16.6 • [Train: stable]
@@ -713,8 +729,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.8 • [Train: incubator]
 
-- trigger • [`c21ba75`](https://github.com/trueforge-org/truecharts/commit/c21ba75ec7e323913b24c9b8d7484b31a4dae498) • [@Stavros kois] (2024-06-01)
 - Commit daily changes • [`ca008eb`](https://github.com/trueforge-org/truecharts/commit/ca008eb2afe01c75e63679218a2f8514f756d67e) • [@TrueCharts-Bot] (2024-06-01)
+- trigger • [`c21ba75`](https://github.com/trueforge-org/truecharts/commit/c21ba75ec7e323913b24c9b8d7484b31a4dae498) • [@Stavros kois] (2024-06-01)
 
 ## 1.0.7 • [Train: incubator]
 

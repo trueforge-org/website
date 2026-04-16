@@ -11,6 +11,30 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.0.8 • [Train: stable]
+
+- fix(helm-deps): update chart common 29.0.10 → 29.0.15 (#47022) • [`509cd59`](https://github.com/trueforge-org/truecharts/commit/509cd59e0a295ff1da8221fe7749adf27d36ecf3) • [@TrueCharts Bot] (2026-04-15)
+
+## 3.0.7 • [Train: stable]
+
+- chore(generic-device-plugin): update image ghcr.io/squat/generic-device-plugin digest to d9e098e (#47004) • [`2760bc1`](https://github.com/trueforge-org/truecharts/commit/2760bc1d3624d0e3d3df1a74d0241132be918a41) • [@TrueCharts Bot] (2026-04-14)
+
+## 3.0.6 • [Train: stable]
+
+- chore(generic-device-plugin): update image ghcr.io/squat/generic-device-plugin digest to e11621c (#46996) • [`41d7585`](https://github.com/trueforge-org/truecharts/commit/41d75857ff58517f2be6b03e904d7f539fb284db) • [@TrueCharts Bot] (2026-04-14)
+
+## 3.0.5 • [Train: stable]
+
+- chore(generic-device-plugin): update image ghcr.io/squat/generic-device-plugin digest to c4e3a24 (#46754) • [`e41d731`](https://github.com/trueforge-org/truecharts/commit/e41d7316ec4ff1cb3b004f293b74ef903cb5d95a) • [@TrueCharts Bot] (2026-04-14)
+
+## 3.0.4 • [Train: stable]
+
+- fix(helm-deps): update chart common 29.0.0 → 29.0.10 (#46661) • [`d53ffca`](https://github.com/trueforge-org/truecharts/commit/d53ffcaf79711ece17a0372c3f36361efef510ae) • [@TrueCharts Bot] (2026-04-02)
+
+## 3.0.3 • [Train: stable]
+
+- chore(generic-device-plugin): update image ghcr.io/squat/generic-device-plugin digest to e85f963 (#46562) • [`32eb5c1`](https://github.com/trueforge-org/truecharts/commit/32eb5c184a40589bd22be591eb4e05065eebf747) • [@TrueCharts Bot] (2026-03-31)
+
 ## 3.0.2 • [Train: stable]
 
 - chore(generic-device-plugin): update image ghcr.io/squat/generic-device-plugin digest to 5098c60 (#46373) • [`df17d5e`](https://github.com/trueforge-org/truecharts/commit/df17d5e068dea949e39e77599bc8d25855b6ee8c) • [@TrueCharts Bot] (2026-03-24)
@@ -186,8 +210,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.13.0 • [Train: stable]
 
-- fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
 - chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
+- fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
 
 ## 2.12.1 • [Train: stable]
 
@@ -241,9 +265,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.9.0 • [Train: stable]
 
+- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
 - more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
-- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 
 ## 2.8.0 • [Train: stable]
 
@@ -273,8 +297,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.6.2 • [Train: stable]
 
-- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 - chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
+- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 
 ## 2.6.1 • [Train: stable]
 

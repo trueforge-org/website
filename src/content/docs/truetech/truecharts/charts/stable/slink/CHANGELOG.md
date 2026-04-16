@@ -11,6 +11,26 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 6.1.5 • [Train: stable]
+
+- fix(helm-deps): update chart common 29.0.10 → 29.0.15 (#47022) • [`509cd59`](https://github.com/trueforge-org/truecharts/commit/509cd59e0a295ff1da8221fe7749adf27d36ecf3) • [@TrueCharts Bot] (2026-04-15)
+
+## 6.1.4 • [Train: stable]
+
+- fix(slink): update image docker.io/anirdev/slink v1.10.3 → v1.10.5 (#46924) • [`206cdcf`](https://github.com/trueforge-org/truecharts/commit/206cdcff037df855764ebfdf50e204b40fcd32dd) • [@TrueCharts Bot] (2026-04-14)
+
+## 6.1.3 • [Train: stable]
+
+- fix(helm-deps): update chart common 29.0.0 → 29.0.10 (#46661) • [`d53ffca`](https://github.com/trueforge-org/truecharts/commit/d53ffcaf79711ece17a0372c3f36361efef510ae) • [@TrueCharts Bot] (2026-04-02)
+
+## 6.1.2 • [Train: stable]
+
+- fix(slink): update image docker.io/anirdev/slink v1.10.2 → v1.10.3 (#46577) • [`a808bbe`](https://github.com/trueforge-org/truecharts/commit/a808bbe30911790876e509a133394f407c30feff) • [@TrueCharts Bot] (2026-03-31)
+
+## 6.1.1 • [Train: stable]
+
+- fix(slink): update image docker.io/anirdev/slink v1.10.1 → v1.10.2 (#46499) • [`626b63c`](https://github.com/trueforge-org/truecharts/commit/626b63c637c5a73066686a94fdd8ef6df3f82ae0) • [@TrueCharts Bot] (2026-03-28)
+
 ## 6.1.0 • [Train: stable]
 
 - feat(slink): update image docker.io/anirdev/slink v1.9.6 → v1.10.1 (#46339) • [`7939c3b`](https://github.com/trueforge-org/truecharts/commit/7939c3b0e0c2cb35f25dd7b3b8dcab25d943f258) • [@TrueCharts Bot] (2026-03-23)
@@ -65,8 +85,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.17.8 • [Train: stable]
 
-- port yaml-language-server logic from common2026 • [`d05c0a6`](https://github.com/trueforge-org/truecharts/commit/d05c0a6e7120043adc3fb9a6e0731f5a5e8f5b8b) • [@Kjeld Schouten] (2026-02-14)
 - fix(slink): update image docker.io/anirdev/slink v1.9.4 → v1.9.5 (#44901) • [`00ef95f`](https://github.com/trueforge-org/truecharts/commit/00ef95f544c12e9bfef1d598c39babe24aca1dfe) • [@TrueCharts Bot] (2026-02-14)
+- port yaml-language-server logic from common2026 • [`d05c0a6`](https://github.com/trueforge-org/truecharts/commit/d05c0a6e7120043adc3fb9a6e0731f5a5e8f5b8b) • [@Kjeld Schouten] (2026-02-14)
 
 ## 5.17.7 • [Train: stable]
 
@@ -90,11 +110,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 5.17.3 • [Train: stable]
 
 - Commit daily changes • [`bf152c8`](https://github.com/trueforge-org/truecharts/commit/bf152c8e746c6568782467d57483768b4b89a6c4) • [@TrueCharts-Bot] (2026-02-01)
-- Commit daily changes • [`5aef95e`](https://github.com/trueforge-org/truecharts/commit/5aef95e6ad29dfcd85b5ecbaf25bc7fb6c8873cb) • [@TrueCharts-Bot] (2026-01-31)
 - fix(all-charts): Fix chart.yaml &amp; add missing icons (#44393) • [`a802ce6`](https://github.com/trueforge-org/truecharts/commit/a802ce64e922757d94500d369fd1de25ffd69e5e) • [@Alfred Göppel] (2026-01-31)
 - fix(charts): remove old annotations &amp; add proper category  (#44376) • [`a855dd6`](https://github.com/trueforge-org/truecharts/commit/a855dd67f77f3353f4e70fa506d3ded479abd8c8) • [@Alfred Göppel] (2026-01-31)
 - Commit daily changes • [`d2de50f`](https://github.com/trueforge-org/truecharts/commit/d2de50f17ea2800d3a87690c06fe721280ed6e30) • [@TrueCharts-Bot] (2026-01-31)
 - Commit daily changes • [`f8c1ee7`](https://github.com/trueforge-org/truecharts/commit/f8c1ee7bdf3fbb09f34358af18d4cd2a3fb5acd3) • [@TrueCharts-Bot] (2026-01-31)
+- Commit daily changes • [`5aef95e`](https://github.com/trueforge-org/truecharts/commit/5aef95e6ad29dfcd85b5ecbaf25bc7fb6c8873cb) • [@TrueCharts-Bot] (2026-01-31)
 - fix(helm-deps): update chart common 28.29.37 → 28.29.40 (#44167) • [`09e7d81`](https://github.com/trueforge-org/truecharts/commit/09e7d81949c4fcf2049ea2213a6e8acbc115c618) • [@TrueCharts Bot] (2026-01-27)
 
 ## 5.17.2 • [Train: stable]
@@ -248,8 +268,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.10.2 • [Train: stable]
 
-- chore(helm): update image docker.io/anirdev/slink v1.7.1 → v1.7.2 (#40645) • [`d6b2496`](https://github.com/trueforge-org/truecharts/commit/d6b249602921747ca7b8de5a6e5e006240db3e6d) • [@TrueCharts Bot] (2025-10-12)
 - some readme fixes • [`65bdc5b`](https://github.com/trueforge-org/truecharts/commit/65bdc5bee8da831093597a659d090b06f50a9f7f) • [@Kjeld Schouten] (2025-10-12)
+- chore(helm): update image docker.io/anirdev/slink v1.7.1 → v1.7.2 (#40645) • [`d6b2496`](https://github.com/trueforge-org/truecharts/commit/d6b249602921747ca7b8de5a6e5e006240db3e6d) • [@TrueCharts Bot] (2025-10-12)
 
 ## 5.10.1 • [Train: stable]
 
@@ -277,8 +297,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.7.1 • [Train: stable]
 
-- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 - chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
+- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 
 ## 5.7.0 • [Train: stable]
 

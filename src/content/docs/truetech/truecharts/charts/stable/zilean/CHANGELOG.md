@@ -11,6 +11,14 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.0.2 • [Train: stable]
+
+- fix(helm-deps): update chart common 29.0.10 → 29.0.15 (#47022) • [`509cd59`](https://github.com/trueforge-org/truecharts/commit/509cd59e0a295ff1da8221fe7749adf27d36ecf3) • [@TrueCharts Bot] (2026-04-15)
+
+## 5.0.1 • [Train: stable]
+
+- fix(helm-deps): update chart common 29.0.0 → 29.0.10 (#46661) • [`d53ffca`](https://github.com/trueforge-org/truecharts/commit/d53ffcaf79711ece17a0372c3f36361efef510ae) • [@TrueCharts Bot] (2026-04-02)
+
 ## 5.0.0 • [Train: stable]
 
 - BREAKING CHANGE(helm-deps): Update chart common 28.33.4 → 29.0.0 (#46224) • [`d2925c9`](https://github.com/trueforge-org/truecharts/commit/d2925c98deb636c78860ba2277898f97e7c8a8b9) • [@TrueCharts Bot] (2026-03-19)
@@ -213,8 +221,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.1.5 • [Train: stable]
 
-- chore(helm): update chart common 28.16.5 → 28.16.6 (#39145) • [`827fa3c`](https://github.com/trueforge-org/truecharts/commit/827fa3cc55b82b3d292228d8b331331b863ffb3b) • [@TrueCharts Bot] (2025-09-07)
 - chore: fix links • [`1c28a12`](https://github.com/trueforge-org/truecharts/commit/1c28a127898e7db3a350e07a42810acd8eaa4c30) • [@Kjeld Schouten] (2025-09-07)
+- chore(helm): update chart common 28.16.5 → 28.16.6 (#39145) • [`827fa3c`](https://github.com/trueforge-org/truecharts/commit/827fa3cc55b82b3d292228d8b331331b863ffb3b) • [@TrueCharts Bot] (2025-09-07)
 
 ## 4.1.4 • [Train: stable]
 

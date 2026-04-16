@@ -11,6 +11,14 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 4.0.2 • [Train: stable]
+
+- fix(helm-deps): update chart common 29.0.10 → 29.0.15 (#47022) • [`509cd59`](https://github.com/trueforge-org/truecharts/commit/509cd59e0a295ff1da8221fe7749adf27d36ecf3) • [@TrueCharts Bot] (2026-04-15)
+
+## 4.0.1 • [Train: stable]
+
+- fix(helm-deps): update chart common 29.0.0 → 29.0.10 (#46661) • [`d53ffca`](https://github.com/trueforge-org/truecharts/commit/d53ffcaf79711ece17a0372c3f36361efef510ae) • [@TrueCharts Bot] (2026-04-02)
+
 ## 4.0.0 • [Train: stable]
 
 - BREAKING CHANGE(helm-deps): Update chart common 28.33.4 → 29.0.0 (#46224) • [`d2925c9`](https://github.com/trueforge-org/truecharts/commit/d2925c98deb636c78860ba2277898f97e7c8a8b9) • [@TrueCharts Bot] (2026-03-19)
@@ -412,8 +420,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 1.0.8 • [Train: system]
 
 - Commit daily changes • [`f522aad`](https://github.com/trueforge-org/truecharts/commit/f522aadebb53e1ca8416df2aa992281858533d9d) • [@TrueCharts-Bot] (2024-06-02)
-- chore(deps): update ignored updates to v23.0.11@11fa61c by renovate (#22750) • [`529f653`](https://github.com/trueforge-org/truecharts/commit/529f65306b5e36c3b022317ea00d8e52815d9400) • [@TrueCharts Bot] (2024-06-01)
 - Commit daily changes • [`ca008eb`](https://github.com/trueforge-org/truecharts/commit/ca008eb2afe01c75e63679218a2f8514f756d67e) • [@TrueCharts-Bot] (2024-06-01)
+- chore(deps): update ignored updates to v23.0.11@11fa61c by renovate (#22750) • [`529f653`](https://github.com/trueforge-org/truecharts/commit/529f65306b5e36c3b022317ea00d8e52815d9400) • [@TrueCharts Bot] (2024-06-01)
 - Commit daily changes • [`4357b53`](https://github.com/trueforge-org/truecharts/commit/4357b533a97aa77ffa16998ce8b568336e3892a9) • [@TrueCharts-Bot] (2024-05-31)
 - chore(deps): update ignored by renovate (patch) (#21659) • [`3a07b9f`](https://github.com/trueforge-org/truecharts/commit/3a07b9f9794a4debbd6ede53e3e0095060c8c9a2) • [@TrueCharts Bot] (2024-05-31)
 - Commit daily changes • [`529340b`](https://github.com/trueforge-org/truecharts/commit/529340b7575e8cd6d00d2499271dc62e58a8d18d) • [@TrueCharts-Bot] (2024-05-26)
@@ -428,8 +436,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.6 • [Train: incubator]
 
-- Update common.yaml • [`ed24534`](https://github.com/trueforge-org/truecharts/commit/ed245346e458de6307e2df5b5f964172ea33830e) • [@Kjeld Schouten] (2024-05-19)
 - Update Chart.yaml • [`cd22d77`](https://github.com/trueforge-org/truecharts/commit/cd22d7797f9481eb35738a333dbfdeaabe57bea4) • [@Kjeld Schouten] (2024-05-19)
+- Update common.yaml • [`ed24534`](https://github.com/trueforge-org/truecharts/commit/ed245346e458de6307e2df5b5f964172ea33830e) • [@Kjeld Schouten] (2024-05-19)
 
 ## 1.0.5 • [Train: incubator]
 
