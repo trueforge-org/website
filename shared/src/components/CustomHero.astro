@@ -1,12 +1,19 @@
 ---
 import { Image } from "astro:assets";
-import { PAGE_TITLE_ID } from "../../node_modules/@astrojs/starlight/constants";
 import type { Props } from "@astrojs/starlight/props";
 import { LinkButton } from "@astrojs/starlight/components";
 import LottieAnimation from "astro-integration-lottie/Lottie.astro";
+
+// Matches @astrojs/starlight/constants PAGE_TITLE_ID
+const PAGE_TITLE_ID = '_top';
+
 const { entry } = Astro.locals.starlightRoute;
 const { data } = entry;
-const { title = data.title, tagline, image, actions = [] } = data.hero || {};
+const hero = data.hero;
+const title = hero?.title ?? data.title;
+const tagline = hero?.tagline;
+const image = hero?.image;
+const actions = hero?.actions ?? [];
 
 // Magic Value to render animation
 // Set this value to `hero.image.html` in any frontmatter
@@ -70,9 +77,9 @@ if (image) {
     {
       actions.length > 0 && (
         <div class="sl-flex actions">
-          {actions.map(({ text, link, icon, variant }) => (
-            <LinkButton href={link} variant={variant} icon={icon?.name}>
-              {text}
+          {actions.map((action: any) => (
+            <LinkButton href={action.link} variant={action.variant} icon={action.icon?.name}>
+              {action.text}
             </LinkButton>
           ))}
         </div>

@@ -1,0 +1,76 @@
+import { defineConfig } from "astro/config";
+import starlight from "@astrojs/starlight";
+import starlightImageZoom from "starlight-image-zoom";
+import starlightBlog from "starlight-blog";
+// Shared config from multi-site setup
+import {
+  sharedConfig,
+  sharedIntegrations,
+  sharedTableOfContents,
+  sharedSocial,
+  sharedComponents,
+  sharedHead,
+} from "../shared/config/astro.mjs";
+// TrueForge-specific authors
+import { authors } from "./src/content/docs/news/authors";
+
+const site = "https://trueforge.org";
+
+// https://astro.build/config
+export default defineConfig({
+  ...sharedConfig(import.meta.url),
+  site: site,
+  integrations: [
+    starlight({
+      title: "TrueForge",
+      customCss: ["../shared/src/styles/tailwind.css"],
+      tagline: "Awesome Projects Community",
+      pagefind: true,
+      logo: {
+        src: "./src/assets/with-text.svg",
+        replacesTitle: true,
+      },
+      head: sharedHead(),
+      tableOfContents: sharedTableOfContents,
+      social: sharedSocial,
+      editLink: {
+        baseUrl: "https://github.com/trueforge-org/website/tree/main/trueforge",
+      },
+      components: sharedComponents,
+      plugins: [
+        starlightBlog({
+          prefix: "news",
+          title: "TrueCharts News",
+          postCount: 5,
+          recentPostCount: 10,
+          authors: authors,
+        }),
+        starlightImageZoom(),
+      ],
+      sidebar: [
+        {
+          label: "truetech",
+          collapsed: true,
+          autogenerate: {
+            directory: "truetech",
+          },
+        },
+        {
+          label: "gamingforge",
+          collapsed: true,
+          autogenerate: {
+            directory: "gamingforge",
+          },
+        },
+        {
+          label: "lifeforge",
+          collapsed: true,
+          autogenerate: {
+            directory: "lifeforge",
+          },
+        },
+      ],
+    }),
+    ...sharedIntegrations(),
+  ],
+});

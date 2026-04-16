@@ -20,7 +20,8 @@ const gray = {
 
 const config: Config = {
   content: [
-    "./src/**/*.{astro,html,js,ts,jsx,tsx,md,mdx}",
+    "./trueforge/src/**/*.{astro,html,js,ts,jsx,tsx,md,mdx}",
+    "./shared/src/**/*.{astro,html,js,ts,jsx,tsx,md,mdx}",
     "./node_modules/@astrojs/starlight/components/**/*.{astro,ts,tsx}",
   ],
   theme: {
