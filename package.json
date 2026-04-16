@@ -36,7 +36,7 @@
     "starlight-blog": "0.26.1",
     "starlight-image-zoom": "0.14.1",
     "tailwindcss": "4.2.2",
-    "typescript": "5.9.3",
+    "typescript": "6.0.2",
     "wrangler": "4.83.0"
   }
 }
