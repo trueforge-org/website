@@ -20,7 +20,7 @@
     "@astrojs/check": "0.9.8",
     "@astrojs/sitemap": "3.7.2",
     "@astrojs/starlight": "0.38.3",
-    "@astrojs/starlight-tailwind": "4.0.2",
+    "@astrojs/starlight-tailwind": "5.0.0",
     "@playform/compress": "0.2.3",
     "@tailwindcss/postcss": "4.2.2",
     "astro": "6.1.7",
@@ -36,7 +36,7 @@
     "starlight-blog": "0.26.1",
     "starlight-image-zoom": "0.14.1",
     "tailwindcss": "4.2.2",
-    "typescript": "6.0.2",
+    "typescript": "5.9.3",
     "wrangler": "4.83.0"
   }
 }
