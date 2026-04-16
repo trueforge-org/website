@@ -1,0 +1,37 @@
+{
+  "name": "manicmeads-website",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "export NODE_OPTIONS=--max-old-space-size=12000 && astro dev --host",
+    "start": "export NODE_OPTIONS=--max-old-space-size=12000 && astro dev",
+    "check": "export NODE_OPTIONS=--max-old-space-size=12000 && astro check",
+    "build": "export NODE_OPTIONS=--max-old-space-size=12000 && astro build",
+    "preview": "export NODE_OPTIONS=--max-old-space-size=12000 && astro preview",
+    "astro": "export NODE_OPTIONS=--max-old-space-size=12000 && astro",
+    "dev-windows": "set NODE_OPTIONS=--max-old-space-size=12000 && astro dev",
+    "start-windows": "set NODE_OPTIONS=--max-old-space-size=12000 && astro dev",
+    "check-windows": "set NODE_OPTIONS=--max-old-space-size=12000 && astro check",
+    "build-windows": "set NODE_OPTIONS=--max-old-space-size=12000 && astro build",
+    "preview-windows": "set NODE_OPTIONS=--max-old-space-size=12000 && astro preview",
+    "astro-windows": "set NODE_OPTIONS=--max-old-space-size=12000 && astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "0.9.6",
+    "@astrojs/sitemap": "3.7.0",
+    "@astrojs/starlight": "0.37.6",
+    "@astrojs/starlight-tailwind": "4.0.2",
+    "@playform/compress": "0.2.1",
+    "@tailwindcss/postcss": "4.2.0",
+    "astro": "5.17.3",
+    "astro-better-image-service": "2.1.10",
+    "astro-robots-txt": "1.0.0",
+    "autoprefixer": "10.4.24",
+    "postcss": "8.5.6",
+    "prettier": "3.8.1",
+    "sharp": "0.34.5",
+    "starlight-image-zoom": "0.13.2",
+    "tailwindcss": "4.2.0",
+    "typescript": "5.9.3"
+  }
+}
