@@ -1,0 +1,94 @@
+---
+import StarlightPage from "@astrojs/starlight/components/StarlightPage.astro";
+import { Card } from "@astrojs/starlight/components";
+import CardGrid from "../../../shared/src/components/CardGrid.astro";
+---
+
+<StarlightPage
+  frontmatter={{
+    title: "Manic Meads",
+    description: "Small batch mead making — farmhouse style, cost-effective, and full of flavour.",
+    template: "splash",
+    banner: {
+      content:
+        '<a class="no-underline font-bold hover:underline" target="_blank" href="https://opencollective.com/manicmeads">Support Manic Meads on Open Collective</a>',
+    },
+    hero: {
+      tagline: "Small batch mead making — farmhouse style, cost-effective, and full of flavour.",
+      actions: [
+        {
+          text: "Browse Recipes",
+          link: "/meads/",
+          variant: "primary",
+          icon: "right-arrow",
+        },
+        {
+          text: "Read Articles",
+          link: "/articles/",
+          variant: "secondary",
+          icon: "open-book",
+        },
+        {
+          text: "Support Us",
+          link: "https://opencollective.com/manicmeads",
+          variant: "minimal",
+          icon: "external",
+        },
+      ],
+    },
+  }}
+>
+  <div class="text-center">
+    <div
+      class="text-4xl max-md:text-2xl max-sm:text-xl font-extrabold border-b-4 border-tc-primary inline-block mb-10"
+    >
+      What is Manic Meads?
+    </div>
+  </div>
+
+  <p class="text-center text-lg max-w-2xl mx-auto mb-12">
+    Manic Meads is a project dedicated to documenting small batch mead making,
+    specialising in farmhouse-style meads. We focus on cost-effectiveness and
+    adding taste without significant expense.
+  </p>
+
+  <CardGrid>
+    <Card title="Recipes" icon="document">
+      Step-by-step mead recipes from simple cysers to experimental melomels.
+      Each recipe builds on our base mead workflow with clearly documented deviations.
+    </Card>
+    <Card title="Articles" icon="open-book">
+      Deep dives into yeast science, nutrient management, malolactic fermentation,
+      and the experiments behind our recipes.
+    </Card>
+    <Card title="Farmhouse Style" icon="star">
+      Accessible mead making using off-the-shelf ingredients and simple equipment.
+      No fancy gear required.
+    </Card>
+    <Card title="Open Source" icon="github">
+      All recipes and research are freely available. Contributions and
+      improvements are welcome via GitHub.
+    </Card>
+  </CardGrid>
+
+  <br />
+
+  <div class="text-center">
+    <div
+      class="text-4xl max-md:text-2xl max-sm:text-xl font-extrabold border-b-4 border-tc-primary inline-block mb-10"
+    >
+      Get Started
+    </div>
+  </div>
+
+  <CardGrid>
+    <Card title="Base Mead Recipe" icon="list-format">
+      Start with our <a href="/meads/">Base Mead</a> workflow — the foundation
+      that all other recipes build upon.
+    </Card>
+    <Card title="Join the Community" icon="discord">
+      Chat with fellow mead makers on our
+      <a href="https://discord.gg/tVsPTHWTtr">Discord server</a>.
+    </Card>
+  </CardGrid>
+</StarlightPage>
