@@ -1,0 +1,26 @@
+---
+import { getContributors, getCharts } from "./utils";
+
+import Icons from "./Icons.astro";
+import Title from "./Title.astro";
+
+const people = getContributors();
+const charts = getCharts();
+---
+
+<!-- Charts -->
+<div class="text-center">
+  <Title>
+    <a
+      href="/truecharts/charts/description-list"
+      class="!text-[var(--sl-color-text-primary)] link-no-deco"
+    >
+      Over <span class="text-tc-primary">{charts.length}</span> amazing
+      <span class="text-tc-primary">Helm-Charts</span>
+    </a>
+  </Title>
+  <!-- Pass 0 for all icons -->
+  <Icons icons={charts} maxIcons={250} />
+</div>
+
+<br />

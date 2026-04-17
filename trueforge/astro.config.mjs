@@ -11,8 +11,8 @@ import {
   sharedComponents,
   sharedHead,
 } from "../shared/config/astro.mjs";
-// TrueForge-specific authors
-import { authors } from "./src/content/docs/news/authors";
+// Shared authors used across all sites with blog
+import { authors } from "../shared/src/config/authors";
 
 const site = "https://trueforge.org";
 
@@ -43,7 +43,7 @@ export default defineConfig({
       plugins: [
         starlightBlog({
           prefix: "news",
-          title: "TrueCharts News",
+          title: "TrueForge News",
           postCount: 5,
           recentPostCount: 10,
           authors: authors,

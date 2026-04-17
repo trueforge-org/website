@@ -1,0 +1,9 @@
+{
+  "$schema": "../node_modules/wrangler/config-schema.json",
+  "compatibility_date": "2025-11-11",
+  "name": "truecharts",
+  "assets": {
+    "directory": "../build/truecharts",
+    "not_found_handling": "404-page"
+  }
+}

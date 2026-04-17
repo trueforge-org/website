@@ -1,0 +1,14 @@
+/* Blue accent theme for TrueCharts — matches logo #316ce6 */
+:root {
+  --sl-color-accent-low: #1a2d5a;
+  --sl-color-accent: #316ce6;
+  --sl-color-accent-high: #a3c0ff;
+  --sl-color-text-accent: #c8dbff;
+}
+
+:root[data-theme="light"] {
+  --sl-color-accent-low: #d1e0fa;
+  --sl-color-accent: #2b5bbf;
+  --sl-color-accent-high: #1a3570;
+  --sl-color-text-accent: #0e1f42;
+}

@@ -23,6 +23,7 @@ const config: Config = {
     "./trueforge/src/**/*.{astro,html,js,ts,jsx,tsx,md,mdx}",
     "./manicmeads/src/**/*.{astro,html,js,ts,jsx,tsx,md,mdx}",
     "./gamingforge/src/**/*.{astro,html,js,ts,jsx,tsx,md,mdx}",
+    "./truecharts/src/**/*.{astro,html,js,ts,jsx,tsx,md,mdx}",
     "./shared/src/**/*.{astro,html,js,ts,jsx,tsx,md,mdx}",
     "./node_modules/@astrojs/starlight/components/**/*.{astro,ts,tsx}",
   ],

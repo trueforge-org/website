@@ -1,0 +1,106 @@
+---
+import StarlightPage from "@astrojs/starlight/components/StarlightPage.astro";
+import { Card } from "@astrojs/starlight/components";
+import CardGrid from "../../../shared/src/components/CardGrid.astro";
+import ChartIcons from "../../../shared/src/components/multi-icons/ChartIcons.astro";
+---
+
+<StarlightPage
+  frontmatter={{
+    title: "TrueCharts",
+    description: "Community Helm Charts for Kubernetes — easy to deploy, stable, and multi-platform.",
+    template: "splash",
+    banner: {
+      content:
+        '<a class="no-underline font-bold hover:underline" target="_blank" href="https://opencollective.com/trueforge">Support TrueCharts on Open Collective</a>',
+    },
+    hero: {
+      tagline: "Community Helm Charts for Kubernetes — easy to deploy, stable, and multi-platform.",
+      actions: [
+        {
+          text: "Browse Charts",
+          link: "/charts/",
+          variant: "primary",
+          icon: "right-arrow",
+        },
+        {
+          text: "Get Started",
+          link: "/guides/",
+          variant: "secondary",
+          icon: "open-book",
+        },
+        {
+          text: "Read the News",
+          link: "/news/",
+          variant: "minimal",
+          icon: "rss",
+        },
+      ],
+    },
+  }}
+>
+  <div class="text-center">
+    <div class="text-4xl max-md:text-2xl max-sm:text-xl font-extrabold border-b-4 border-tc-primary inline-block mb-10">
+      What is TrueCharts?
+    </div>
+  </div>
+
+  <p class="text-center text-lg max-w-2xl mx-auto mb-12">
+    TrueCharts is a community-driven project dedicated to maintaining Helm charts
+    for Kubernetes, built on a shared, reusable common-lib foundation. Deploy
+    applications quickly, reliably, and consistently across Helm, FluxCD, and ClusterTool.
+  </p>
+
+  <CardGrid>
+    <Card title="Easy to Deploy" icon="rocket">
+      Quickly deploy a wide range of applications on your Kubernetes cluster
+      with a neatly organised catalog, rapid deployment, and powerful
+      customisation options.
+    </Card>
+    <Card title="Consistent Ecosystem" icon="setting">
+      All charts are built on the same common-lib foundation, providing a
+      standardised deployment process, centralised management, and reliable
+      compatibility.
+    </Card>
+    <Card title="Stability First" icon="approve-check-circle">
+      Thorough testing, version control, continuous monitoring, and regular
+      security updates ensure your deployed applications stay running reliably.
+    </Card>
+    <Card title="Multi-Platform" icon="open-book">
+      Deploy charts via Helm, FluxCD, or ClusterTool — TrueCharts provides
+      a consistent experience across all supported platforms.
+    </Card>
+  </CardGrid>
+
+  <br />
+
+  <ChartIcons />
+
+  <br />
+
+  <div class="text-center">
+    <div class="text-4xl max-md:text-2xl max-sm:text-xl font-extrabold border-b-4 border-tc-primary inline-block mb-10">
+      Get Started
+    </div>
+  </div>
+
+  <CardGrid>
+    <Card title="Browse Charts" icon="list-format">
+      Explore the full <a href="/charts/">chart catalog</a> — hundreds
+      of community-maintained Helm charts ready to deploy.
+    </Card>
+    <Card title="Common Library" icon="document">
+      Learn about the <a href="/common/">common-lib</a> foundation
+      that powers every TrueCharts chart.
+    </Card>
+    <Card title="Join the Community" icon="discord">
+      Chat with fellow users and contributors on our
+      <a href="https://discord.gg/tVsPTHWTtr">Discord server</a>.
+    </Card>
+    <Card title="Contribute" icon="github">
+      TrueCharts is open source — contributions, bug reports, and documentation
+      improvements are always welcome via
+      <a href="https://github.com/truecharts">GitHub</a>.
+    </Card>
+  </CardGrid>
+</StarlightPage>

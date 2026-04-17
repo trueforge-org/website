@@ -18,6 +18,11 @@
     "check:gamingforge": "export NODE_OPTIONS=--max-old-space-size=12000 && astro check --root gamingforge",
     "build:gamingforge": "export NODE_OPTIONS=--max-old-space-size=12000 && astro build --root gamingforge",
     "preview:gamingforge": "export NODE_OPTIONS=--max-old-space-size=12000 && astro preview --root gamingforge",
+    "dev:truecharts": "export NODE_OPTIONS=--max-old-space-size=12000 && astro dev --host --root truecharts",
+    "start:truecharts": "export NODE_OPTIONS=--max-old-space-size=12000 && astro dev --root truecharts",
+    "check:truecharts": "export NODE_OPTIONS=--max-old-space-size=12000 && astro check --root truecharts",
+    "build:truecharts": "export NODE_OPTIONS=--max-old-space-size=12000 && astro build --root truecharts",
+    "preview:truecharts": "export NODE_OPTIONS=--max-old-space-size=12000 && astro preview --root truecharts",
     "astro": "export NODE_OPTIONS=--max-old-space-size=12000 && astro",
     "dev-windows": "set NODE_OPTIONS=--max-old-space-size=12000 && astro dev --root trueforge",
     "start-windows": "set NODE_OPTIONS=--max-old-space-size=12000 && astro dev --root trueforge",
@@ -34,6 +39,11 @@
     "check-windows:gamingforge": "set NODE_OPTIONS=--max-old-space-size=12000 && astro check --root gamingforge",
     "build-windows:gamingforge": "set NODE_OPTIONS=--max-old-space-size=12000 && astro build --root gamingforge",
     "preview-windows:gamingforge": "set NODE_OPTIONS=--max-old-space-size=12000 && astro preview --root gamingforge",
+    "dev-windows:truecharts": "set NODE_OPTIONS=--max-old-space-size=12000 && astro dev --root truecharts",
+    "start-windows:truecharts": "set NODE_OPTIONS=--max-old-space-size=12000 && astro dev --root truecharts",
+    "check-windows:truecharts": "set NODE_OPTIONS=--max-old-space-size=12000 && astro check --root truecharts",
+    "build-windows:truecharts": "set NODE_OPTIONS=--max-old-space-size=12000 && astro build --root truecharts",
+    "preview-windows:truecharts": "set NODE_OPTIONS=--max-old-space-size=12000 && astro preview --root truecharts",
     "astro-windows": "set NODE_OPTIONS=--max-old-space-size=12000 && astro"
   },
   "dependencies": {

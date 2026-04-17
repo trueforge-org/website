@@ -17,11 +17,13 @@
 
 # truecharts
 /s /general/sponsor/ 308
+
+# old blog path
 /blog/* /news/:splat 308
 
-# big chart-changes
-/charts/operators/* /charts/system/:splat 308
-/charts/enterprise/* /charts/premium/:splat 308
+# big chart-changes (now redirect to truecharts.org)
+/charts/operators/* https://truecharts.org/charts/system/:splat 308
+/charts/enterprise/* https://truecharts.org/charts/premium/:splat 308
 
 # Cover for .md linknames
 /*.md /:splat 301
@@ -32,7 +34,7 @@
 # old->new website
 /manual/* /general/:splat 301
 /platforms/* /:splat 301
-/general/truecharts-common/* /truecharts-common/:splat 301
+/general/truecharts-common/* https://truecharts.org/common/:splat 301
 /sponsor /general/sponsor/
 
 # SCALE guides and deprecation redirects
@@ -46,6 +48,80 @@
 # Clustertool will be forgetool in the future
 /clustertool/* /forgetool
 
-/charts/* /truecharts/charts
-
 .well-known/openid-configuration https://account.trueforge.org/.well-known/openid-configuration 302
+
+# --- TrueCharts site migration ---
+# Content moved to https://truecharts.org (flat URL structure)
+/truetech/truecharts/charts/* https://truecharts.org/charts/:splat 301
+/truetech/truecharts/guides/* https://truecharts.org/guides/:splat 301
+/truetech/truecharts/development/* https://truecharts.org/development/:splat 301
+/truetech/truecharts/* https://truecharts.org/:splat 301
+/truetech/truecharts-common/* https://truecharts.org/common/:splat 301
+/truecharts/charts/* https://truecharts.org/charts/:splat 301
+/truecharts/guides/* https://truecharts.org/guides/:splat 301
+/truecharts/development/* https://truecharts.org/development/:splat 301
+/truecharts/* https://truecharts.org/:splat 301
+/truecharts-common/* https://truecharts.org/common/:splat 301
+/charts/* https://truecharts.org/charts/:splat 301
+
+# Moved news/blog posts (pre-June 2025 → truecharts.org)
+/news/meet-truecharts https://truecharts.org/news/meet-truecharts 301
+/news/introducing-tccr https://truecharts.org/news/introducing-tccr 301
+/news/docker-compose https://truecharts.org/news/docker-compose 301
+/news/faster-ci https://truecharts.org/news/faster-ci 301
+/news/hostpath-validation https://truecharts.org/news/hostpath-validation 301
+/news/website-changes https://truecharts.org/news/website-changes 301
+/news/truetool-updated https://truecharts.org/news/truetool-updated 301
+/news/Happy-2023 https://truecharts.org/news/Happy-2023 301
+/news/traefik-prometheus-moved https://truecharts.org/news/traefik-prometheus-moved 301
+/news/meet-jellyfin https://truecharts.org/news/meet-jellyfin 301
+/news/staff-changes-feb-2023 https://truecharts.org/news/staff-changes-feb-2023 301
+/news/nfs-docs https://truecharts.org/news/nfs-docs 301
+/news/helm-repo-back https://truecharts.org/news/helm-repo-back 301
+/news/ix-christmas https://truecharts.org/news/ix-christmas 301
+/news/scale-221201 https://truecharts.org/news/scale-221201 301
+/news/truecharts/common-release-schedule https://truecharts.org/news/truecharts/common-release-schedule 301
+/news/breaking-enterprise-changes https://truecharts.org/news/breaking-enterprise-changes 301
+/news/the-future https://truecharts.org/news/the-future 301
+/news/new-look https://truecharts.org/news/new-look 301
+/news/new-chartslist https://truecharts.org/news/new-chartslist 301
+/news/post-easter-stable-update https://truecharts.org/news/post-easter-stable-update 301
+/news/truecharts/common-porting-progress https://truecharts.org/news/truecharts/common-porting-progress 301
+/news/arr-revert https://truecharts.org/news/arr-revert 301
+/news/updates-recontinued https://truecharts.org/news/updates-recontinued 301
+/news/stop-all https://truecharts.org/news/stop-all 301
+/news/traefik-changes https://truecharts.org/news/traefik-changes 301
+/news/metallb-changes https://truecharts.org/news/metallb-changes 301
+/news/cnpg-changes https://truecharts.org/news/cnpg-changes 301
+/news/operator-changes https://truecharts.org/news/operator-changes 301
+/news/cert-manager-operator https://truecharts.org/news/cert-manager-operator 301
+/news/cluster-wide-certificates https://truecharts.org/news/cluster-wide-certificates 301
+/news/stability-tiers-and-helm https://truecharts.org/news/stability-tiers-and-helm 301
+/news/the-end-of-container-mirroring https://truecharts.org/news/the-end-of-container-mirroring 301
+/news/january-2024-changes-preview https://truecharts.org/news/january-2024-changes-preview 301
+/news/2023-holiday-wishes-and-updates https://truecharts.org/news/2023-holiday-wishes-and-updates 301
+/news/persistence-changes https://truecharts.org/news/persistence-changes 301
+/news/homepage-integration https://truecharts.org/news/homepage-integration 301
+/news/AI-Support https://truecharts.org/news/AI-Support 301
+/news/future-of-apps https://truecharts.org/news/future-of-apps 301
+/news/2024-licensing-changes https://truecharts.org/news/2024-licensing-changes 301
+/news/small-scale-changes https://truecharts.org/news/small-scale-changes 301
+/news/embrace-kubeapps https://truecharts.org/news/embrace-kubeapps 301
+/news/bounties https://truecharts.org/news/bounties 301
+/news/train-renames https://truecharts.org/news/train-renames 301
+/news/New-Website https://truecharts.org/news/New-Website 301
+/news/chart-backups-and-restores https://truecharts.org/news/chart-backups-and-restores 301
+/news/scale-deprecation https://truecharts.org/news/scale-deprecation 301
+/news/clustertool-update https://truecharts.org/news/clustertool-update 301
+/news/clustertool-public-alpha-release https://truecharts.org/news/clustertool-public-alpha-release 301
+/news/clustertool-public-beta-release https://truecharts.org/news/clustertool-public-beta-release 301
+/news/scale-faq https://truecharts.org/news/scale-faq 301
+/news/clustertool-rc https://truecharts.org/news/clustertool-rc 301
+/news/leaving-scale https://truecharts.org/news/leaving-scale 301
+/news/new-support-policy https://truecharts.org/news/new-support-policy 301
+/news/clustertool-release https://truecharts.org/news/clustertool-release 301
+/news/2025-start https://truecharts.org/news/2025-start 301
+/news/recent-changes https://truecharts.org/news/recent-changes 301
+/news/clustertool-v2 https://truecharts.org/news/clustertool-v2 301
+/news/puffin-post https://truecharts.org/news/puffin-post 301
+/news/docker-compose-talos https://truecharts.org/news/docker-compose-talos 301
