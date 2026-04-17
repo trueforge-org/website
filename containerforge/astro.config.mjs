@@ -6,6 +6,7 @@ import {
   sharedConfig,
   sharedIntegrations,
   sharedTableOfContents,
+  sharedSocial,
   sharedComponents,
   sharedHead,
   sharedLogo,
@@ -26,11 +27,7 @@ export default defineConfig({
       logo: sharedLogo,
       head: sharedHead(),
       tableOfContents: sharedTableOfContents,
-      social: [
-        { icon: "github", label: "GitHub", href: "https://github.com/trueforge-org/containers" },
-        { icon: "discord", label: "Discord", href: "https://discord.gg/tVsPTHWTtr" },
-        { icon: "openCollective", label: "Open Collective", href: "https://opencollective.com/trueforge" },
-      ],
+      social: sharedSocial("containerforge"),
       editLink: {
         baseUrl: "https://github.com/trueforge-org/website/tree/main/containerforge",
       },

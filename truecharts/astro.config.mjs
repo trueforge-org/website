@@ -6,6 +6,7 @@ import {
   sharedConfig,
   sharedIntegrations,
   sharedTableOfContents,
+  sharedSocial,
   sharedComponents,
   sharedHead,
   sharedLogo,
@@ -27,12 +28,10 @@ export default defineConfig({
       head: sharedHead(),
       tableOfContents: sharedTableOfContents,
       social: [
-        { icon: "github", label: "GitHub", href: "https://github.com/truecharts" },
+        ...sharedSocial("truecharts"),
         { icon: "facebook", label: "Facebook", href: "https://www.facebook.com/truecharts" },
         { icon: "x.com", label: "X", href: "https://twitter.com/useTrueCharts" },
-        { icon: "discord", label: "Discord", href: "https://discord.gg/tVsPTHWTtr" },
         { icon: "telegram", label: "Telegram", href: "https://t.me/s/truecharts" },
-        { icon: "openCollective", label: "Open Collective", href: "https://opencollective.com/trueforge" },
         { icon: "patreon", label: "Patreon", href: "https://patreon.com/truecharts" },
       ],
       editLink: {

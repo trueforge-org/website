@@ -30,7 +30,7 @@ export default defineConfig({
       logo: sharedLogo,
       head: sharedHead(),
       tableOfContents: sharedTableOfContents,
-      social: sharedSocial,
+      social: sharedSocial(),
       editLink: {
         baseUrl: "https://github.com/trueforge-org/website/tree/main/trueforge",
       },

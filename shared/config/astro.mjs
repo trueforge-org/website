@@ -81,16 +81,15 @@ export const sharedLogo = {
 
 /**
  * Shared social links used across all sites.
+ * @param {string} siteName - Name used in the OpenCollective URL (defaults to "trueforge")
  */
-export const sharedSocial = [
-  { icon: "github", label: "GitHub", href: "https://github.com/trueforge-org" },
-  { icon: "facebook", label: "Facebook", href: "https://www.facebook.com/truecharts" },
-  { icon: "x.com", label: "X", href: "https://twitter.com/useTrueCharts" },
-  { icon: "discord", label: "Discord", href: "https://discord.gg/tVsPTHWTtr" },
-  { icon: "telegram", label: "Telegram", href: "https://t.me/s/truecharts" },
-  { icon: "openCollective", label: "Open Collective", href: "https://opencollective.com/trueforge" },
-  { icon: "patreon", label: "Patreon", href: "https://patreon.com/truecharts" },
-];
+export function sharedSocial(siteName = "trueforge") {
+  return [
+    { icon: "github", label: "GitHub", href: "https://github.com/trueforge-org" },
+    { icon: "discord", label: "Discord", href: "https://discord.gg/tVsPTHWTtr" },
+    { icon: "openCollective", label: "Open Collective", href: `https://opencollective.com/${siteName}` },
+  ];
+}
 
 /**
  * Shared Starlight component overrides pointing to shared components.
