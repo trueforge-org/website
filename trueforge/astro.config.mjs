@@ -58,13 +58,7 @@ export default defineConfig({
             directory: "truetech",
           },
         },
-        {
-          label: "gamingforge",
-          collapsed: true,
-          autogenerate: {
-            directory: "gamingforge",
-          },
-        },
+
         {
           label: "lifeforge",
           collapsed: true,

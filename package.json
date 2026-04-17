@@ -13,6 +13,11 @@
     "check:manicmeads": "export NODE_OPTIONS=--max-old-space-size=12000 && astro check --root manicmeads",
     "build:manicmeads": "export NODE_OPTIONS=--max-old-space-size=12000 && astro build --root manicmeads",
     "preview:manicmeads": "export NODE_OPTIONS=--max-old-space-size=12000 && astro preview --root manicmeads",
+    "dev:gamingforge": "export NODE_OPTIONS=--max-old-space-size=12000 && astro dev --host --root gamingforge",
+    "start:gamingforge": "export NODE_OPTIONS=--max-old-space-size=12000 && astro dev --root gamingforge",
+    "check:gamingforge": "export NODE_OPTIONS=--max-old-space-size=12000 && astro check --root gamingforge",
+    "build:gamingforge": "export NODE_OPTIONS=--max-old-space-size=12000 && astro build --root gamingforge",
+    "preview:gamingforge": "export NODE_OPTIONS=--max-old-space-size=12000 && astro preview --root gamingforge",
     "astro": "export NODE_OPTIONS=--max-old-space-size=12000 && astro",
     "dev-windows": "set NODE_OPTIONS=--max-old-space-size=12000 && astro dev --root trueforge",
     "start-windows": "set NODE_OPTIONS=--max-old-space-size=12000 && astro dev --root trueforge",
@@ -24,6 +29,11 @@
     "check-windows:manicmeads": "set NODE_OPTIONS=--max-old-space-size=12000 && astro check --root manicmeads",
     "build-windows:manicmeads": "set NODE_OPTIONS=--max-old-space-size=12000 && astro build --root manicmeads",
     "preview-windows:manicmeads": "set NODE_OPTIONS=--max-old-space-size=12000 && astro preview --root manicmeads",
+    "dev-windows:gamingforge": "set NODE_OPTIONS=--max-old-space-size=12000 && astro dev --root gamingforge",
+    "start-windows:gamingforge": "set NODE_OPTIONS=--max-old-space-size=12000 && astro dev --root gamingforge",
+    "check-windows:gamingforge": "set NODE_OPTIONS=--max-old-space-size=12000 && astro check --root gamingforge",
+    "build-windows:gamingforge": "set NODE_OPTIONS=--max-old-space-size=12000 && astro build --root gamingforge",
+    "preview-windows:gamingforge": "set NODE_OPTIONS=--max-old-space-size=12000 && astro preview --root gamingforge",
     "astro-windows": "set NODE_OPTIONS=--max-old-space-size=12000 && astro"
   },
   "dependencies": {

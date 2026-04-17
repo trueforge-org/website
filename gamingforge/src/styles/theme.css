@@ -1,0 +1,18 @@
+/* Red accent theme for GamingForge */
+:root {
+  --sl-color-accent-low: #4d1919;
+  --sl-color-accent: #d42a2a;
+  --sl-color-accent-high: #e6a3a3;
+  --sl-color-text-accent: #f5c8c8;
+  --sl-hue-accent: 0;
+  --sl-color-banner-text: #fff;
+  --sl-color-bg-badge: #d42a2a;
+}
+
+:root[data-theme="light"] {
+  --sl-color-accent-low: #fad1d1;
+  --sl-color-accent: #b91c1c;
+  --sl-color-accent-high: #531414;
+  --sl-color-text-accent: #300a0a;
+  --sl-color-bg-badge: #b91c1c;
+}

@@ -1,0 +1,67 @@
+---
+import StarlightPage from "@astrojs/starlight/components/StarlightPage.astro";
+import { Card } from "@astrojs/starlight/components";
+import CardGrid from "../../../shared/src/components/CardGrid.astro";
+---
+
+<StarlightPage
+  frontmatter={{
+    title: "GamingForge",
+    description: "Gaming community by TrueForge — PVE game servers and a friendly community.",
+    template: "splash",
+    banner: {
+      content:
+        '<a class="no-underline font-bold hover:underline" target="_blank" href="https://opencollective.com/trueforge">Support GamingForge on Open Collective</a>',
+    },
+    hero: {
+      tagline: "Gaming community by TrueForge — PVE game servers and a friendly community.",
+      actions: [
+        {
+          text: "Browse Servers",
+          link: "/servers/",
+          variant: "primary",
+          icon: "right-arrow",
+        },
+        {
+          text: "Join Discord",
+          link: "https://discord.gg/tVsPTHWTtr",
+          variant: "secondary",
+          icon: "discord",
+        },
+      ],
+    },
+  }}
+>
+  <div class="text-center">
+    <div
+      class="text-4xl max-md:text-2xl max-sm:text-xl font-extrabold border-b-4 border-tc-primary inline-block mb-10"
+    >
+      What is GamingForge?
+    </div>
+  </div>
+
+  <p class="text-center text-lg max-w-2xl mx-auto mb-12">
+    GamingForge is the gaming subcommunity of TrueForge, hosting a number of
+    collaborative PVE game servers and a friendly Discord server to have fun
+    together.
+  </p>
+
+  <CardGrid>
+    <Card title="Game Servers" icon="rocket">
+      We host friendly collaborative PVE servers for games like ARK, Minecraft,
+      and more. All servers are whitelisted to keep griefers out.
+    </Card>
+    <Card title="Community" icon="discord">
+      Join our <a href="https://discord.gg/tVsPTHWTtr">Discord server</a> to
+      chat with fellow gamers, find teammates, and stay up to date.
+    </Card>
+    <Card title="PVE Focused" icon="star">
+      Our servers are built around collaborative play. Work together, build
+      together, and explore together.
+    </Card>
+    <Card title="Open Community" icon="github">
+      Part of the TrueForge open-source community. Server documentation and
+      guides are freely available.
+    </Card>
+  </CardGrid>
+</StarlightPage>

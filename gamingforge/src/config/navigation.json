@@ -1,0 +1,5 @@
+{
+  "links": [
+    { "name": "Servers", "href": "/servers/", "icon": "rocket" }
+  ]
+}

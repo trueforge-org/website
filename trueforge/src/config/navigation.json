@@ -2,7 +2,7 @@
   "links": [
     { "name": "News", "href": "/news/", "icon": "rss" },
     { "name": "TrueTech", "href": "/truetech/", "icon": "open-book" },
-    { "name": "GamingForge", "href": "/gamingforge", "icon": "rocket" },
+    { "name": "GamingForge", "href": "https://gamingforge.org", "icon": "rocket" },
     { "name": "LifeForge", "href": "/lifeforge", "icon": "star" }
   ]
 }
