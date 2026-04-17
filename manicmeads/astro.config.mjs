@@ -19,7 +19,7 @@ export default defineConfig({
   integrations: [
     starlight({
       title: "Manic Meads",
-      customCss: ["../shared/src/styles/tailwind.css"],
+      customCss: ["../shared/src/styles/tailwind.css", "./src/styles/theme.css"],
       tagline: "Small Batch Mead Making",
       pagefind: true,
       head: sharedHead(),

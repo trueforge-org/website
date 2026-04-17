@@ -1,0 +1,14 @@
+/* Green accent theme for Manic Meads */
+:root {
+  --sl-color-accent-low: #194d29;
+  --sl-color-accent: #2da44e;
+  --sl-color-accent-high: #a3e6b4;
+  --sl-color-text-accent: #c8f5d4;
+}
+
+:root[data-theme="light"] {
+  --sl-color-accent-low: #d1fae0;
+  --sl-color-accent: #1a8f3e;
+  --sl-color-accent-high: #14532d;
+  --sl-color-text-accent: #0a3018;
+}
