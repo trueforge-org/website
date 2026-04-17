@@ -1,0 +1,11 @@
+/* TrueForge — darker purple accent */
+:root {
+  --sl-color-accent-low: #1a1033;
+  --sl-color-accent: #7c3aed;
+  --sl-color-accent-high: #c4b5fd;
+}
+:root[data-theme="light"] {
+  --sl-color-accent-low: #ede9fe;
+  --sl-color-accent: #6d28d9;
+  --sl-color-accent-high: #3b0764;
+}

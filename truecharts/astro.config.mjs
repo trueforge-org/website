@@ -62,7 +62,7 @@ export default defineConfig({
           autogenerate: { directory: "guides" },
         },
         {
-          label: "Common Chart",
+          label: "Common",
           collapsed: false,
           autogenerate: { directory: "common" },
         },

@@ -23,7 +23,7 @@ export default defineConfig({
   integrations: [
     starlight({
       title: "TrueForge",
-      customCss: ["../shared/src/styles/tailwind.css"],
+      customCss: ["../shared/src/styles/tailwind.css", "./src/styles/theme.css"],
       tagline: "Awesome Projects Community",
       pagefind: true,
       logo: {
