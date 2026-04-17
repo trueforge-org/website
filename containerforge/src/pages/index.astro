@@ -1,0 +1,102 @@
+---
+import StarlightPage from "@astrojs/starlight/components/StarlightPage.astro";
+import { Card } from "@astrojs/starlight/components";
+import CardGrid from "../../../shared/src/components/CardGrid.astro";
+---
+
+<StarlightPage
+  frontmatter={{
+    title: "ContainerForge",
+    description: "Opinionated, rootless, multi-architecture container images by TrueForge.",
+    template: "splash",
+    banner: {
+      content:
+        '<a class="no-underline font-bold hover:underline" target="_blank" href="https://github.com/orgs/trueforge-org/packages?repo_name=containers">Browse all container images on GitHub Packages</a>',
+    },
+    hero: {
+      tagline: "Opinionated, rootless, multi-architecture container images by TrueForge.",
+      actions: [
+        {
+          text: "Get Started",
+          link: "/getting-started/",
+          variant: "primary",
+          icon: "right-arrow",
+        },
+        {
+          text: "Base Images",
+          link: "/base-images/",
+          variant: "secondary",
+          icon: "setting",
+        },
+        {
+          text: "GitHub",
+          link: "https://github.com/trueforge-org/containers",
+          variant: "minimal",
+          icon: "external",
+        },
+      ],
+    },
+  }}
+>
+  <div class="text-center">
+    <div
+      class="text-4xl max-md:text-2xl max-sm:text-xl font-extrabold border-b-4 border-tc-primary inline-block mb-10"
+    >
+      What is ContainerForge?
+    </div>
+  </div>
+
+  <p class="text-center text-lg max-w-2xl mx-auto mb-12">
+    ContainerForge is an opinionated collection of container images built on
+    Ubuntu, following semantic versioning, rootless-by-default principles, and
+    multi-architecture support.
+  </p>
+
+  <CardGrid>
+    <Card title="Rootless by Default" icon="approve-check">
+      All containers run as a non-root user (568:568) out of the box for
+      improved security. No extra configuration needed.
+    </Card>
+    <Card title="Multi-Architecture" icon="setting">
+      Images are built for multiple architectures so they work on amd64, arm64,
+      and more — right out of the box.
+    </Card>
+    <Card title="Semantically Versioned" icon="list-format">
+      Pin to a major, minor, or patch tag — or lock to a sha256 digest for full
+      immutability. Renovate-friendly.
+    </Card>
+    <Card title="Open Source" icon="github">
+      All images and build pipelines are open source, built with GitHub Actions,
+      and published via GitHub Packages.
+    </Card>
+  </CardGrid>
+
+  <br />
+
+  <div class="text-center">
+    <div
+      class="text-4xl max-md:text-2xl max-sm:text-xl font-extrabold border-b-4 border-tc-primary inline-block mb-10"
+    >
+      Why ContainerForge?
+    </div>
+  </div>
+
+  <CardGrid>
+    <Card title="KISS Principle" icon="star">
+      One process per container, logs to stdout, no s6-overlay — containers
+      stay simple, debuggable, and composable.
+    </Card>
+    <Card title="TrueNAS Compatible" icon="approve-check">
+      Built-in support for TrueNAS Apps user, automatic digest updates, and
+      configurable update policies per tag level.
+    </Card>
+    <Card title="Verified Builds" icon="approve-check">
+      Every image is signed with GitHub attestation so you can verify provenance
+      before deploying.
+    </Card>
+    <Card title="Community Driven" icon="discord">
+      Join our <a href="https://discord.gg/tVsPTHWTtr">Discord</a> to request
+      images, report issues, or contribute.
+    </Card>
+  </CardGrid>
+</StarlightPage>

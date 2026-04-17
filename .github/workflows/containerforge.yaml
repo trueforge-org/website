@@ -1,0 +1,151 @@
+name: "ContainerForge: Build-and-Release"
+
+concurrency:
+  group: ${{ github.head_ref || github.ref }}-containerforge-release
+
+on:
+  workflow_call:
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - "containerforge/**"
+      - "shared/**"
+      - "package.json"
+      - "package-lock.json"
+      - "tsconfig.json"
+      - "containerforge/wrangler.jsonc"
+      - ".github/workflows/containerforge.yaml"
+  push:
+    branches:
+      - main
+    paths:
+      - "containerforge/**"
+      - "shared/**"
+      - "package.json"
+      - "package-lock.json"
+      - "tsconfig.json"
+      - "containerforge/wrangler.jsonc"
+      - ".github/workflows/containerforge.yaml"
+
+# Use `bash --noprofile --norc -exo pipefail` by default for all `run` steps in this workflow:
+# https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions#defaultsrun
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  release-containerforge:
+    permissions:
+      pull-requests: write
+    name: "${{ github.ref == 'refs/heads/main' && '(Production)' || '(Preview)' }}"
+    runs-on:
+      group: default
+    steps:
+      - name: Checkout
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6
+        with:
+          fetch-depth: 1
+
+      - name: Comment deploy start
+        if: github.event_name != 'push'
+        continue-on-error: true
+        uses: mshick/add-pr-comment@64b8e914979889d746c99dea15a76e77ef64580a # v3
+        with:
+          message-id: containerforge-deploy
+          message: |
+            ### 🚧 ContainerForge Deploy Preview building...
+
+            |  Name               | Link                                                                          |
+            |---------------------|-------------------------------------------------------------------------------|
+            |🔨 Latest commit     | ${{ github.sha }}                                                             |
+            |🔍 Latest deploy log | https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }} |
+            ---
+
+      - name: Setup Node
+        uses: actions/setup-node@53b83947a5a98c8d113130e565377fae1a50d02f # v6
+        with:
+          node-version-file: ./.nvmrc
+
+      - name: Fix Package-Lock
+        run: npm i --package-lock-only
+
+      - name: Setup astro Cache
+        uses: actions/cache@27d5ce7f107fe9357f9df03efb73ab90386fccae # v5
+        with:
+          key: astro-containerforge-${{ hashFiles('package-lock.json') }}
+          path: ./.astro
+          restore-keys: astro-containerforge-
+
+      - name: Setup npm Cache
+        uses: actions/cache@27d5ce7f107fe9357f9df03efb73ab90386fccae # v5
+        with:
+          path: ~/.npm
+          key: npm-${{ hashFiles('package-lock.json') }}
+          restore-keys: npm-
+
+      - name: Setup node_modules Cache
+        id: modulescache
+        uses: actions/cache@27d5ce7f107fe9357f9df03efb73ab90386fccae # v5
+        with:
+          path: ./node_modules
+          key: modules-${{ hashFiles('package-lock.json') }}
+
+      - name: Install Packages
+        if: steps.modulescache.outputs.cache-hit != 'true'
+        run: npm ci
+
+      - name: Check
+        run: npm run check:containerforge
+
+      - name: Build
+        env:
+          NODE_OPTIONS: "--max-old-space-size=4096"
+        run: npm run build:containerforge
+
+      - name: Publish to Cloudflare Workers
+        id: cloudflare
+        continue-on-error: true
+        env:
+          CLOUDFLARE_ACCOUNT_ID: "${{ secrets.CLOUDFLARE_ACCOUNT_ID }}"
+          CLOUDFLARE_API_TOKEN: "${{ secrets.CF_API_TOKEN }}"
+        shell: bash
+        run: |
+          environment=""
+          url=""
+          echo "Git Ref: ${{ github.ref }}"
+          if [ '${{ github.ref }}' == 'refs/heads/main' ]; then
+            echo "Publishing ContainerForge to PRODUCTION environment"
+            node_modules/wrangler/bin/wrangler.js deploy --config containerforge/wrangler.jsonc
+
+            environment="production"
+            url="https://containerforge.org"
+          else
+            echo "Publishing ContainerForge to PREVIEW environment"
+            node_modules/wrangler/bin/wrangler.js versions upload --config containerforge/wrangler.jsonc | tee upload-output.txt
+
+            environment="preview"
+            url=$(grep 'Version Preview URL: ' upload-output.txt | awk '{print $NF}')
+          fi
+
+          echo "environment=$environment" >> $GITHUB_OUTPUT
+          echo "url=$url" >> $GITHUB_OUTPUT
+
+      - name: Comment deploy url
+        if: github.event_name != 'push'
+        continue-on-error: true
+        uses: mshick/add-pr-comment@64b8e914979889d746c99dea15a76e77ef64580a # v3
+        with:
+          message-id: containerforge-deploy
+          message: |
+            ### ✅ ContainerForge Deploy Preview ready!
+
+            |  Name                | Link                                                                          |
+            |----------------------|-------------------------------------------------------------------------------|
+            |🔨 Latest commit      | ${{ github.sha }}                                                             |
+            |🔍 Latest deploy log  | https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }} |
+            |😎 Deploy Preview Url | [${{ steps.cloudflare.outputs.url }}](${{ steps.cloudflare.outputs.url }})    |
+            |🌳 Environment        | ${{ steps.cloudflare.outputs.environment }}                                   |
+            ---
+
+      - name: ContainerForge Deploy Completed
+        run: echo "DONE"
