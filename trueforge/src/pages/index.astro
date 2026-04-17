@@ -19,19 +19,25 @@ const iconClass = "mr-2 group-hover:animate-ping";
 <StarlightPage
   frontmatter={{
     title: "TrueForge",
-    description: "Your Source for Awesome Projects!",
+    description: "Hosting and supporting awesome open-source projects — together.",
     template: "splash",
     banner: {
       content:
         '<a class="no-underline font-bold hover:underline" target="_blank" href="https://opencollective.com/TrueForge">TrueForge and OpenSource can only exist with your continued support</a>',
     },
     hero: {
-      tagline: "Your Source for Awesome Projects!",
+      tagline: "Hosting and supporting awesome open-source projects — together.",
       image: {
         html: AnimatedHeroValue,
       },
       actions: [
        {
+          text: "About TrueForge",
+          link: "/about/",
+          variant: "primary",
+          icon: "right-arrow",
+        },
+        {
           text: "Sponsor TrueForge",
           link: "https://opencollective.com/trueforge",
           variant: "minimal",
@@ -47,6 +53,61 @@ const iconClass = "mr-2 group-hover:animate-ping";
     },
   }}
 >
+  <div class="text-center">
+    <div
+      class="text-4xl max-md:text-2xl max-sm:text-xl font-extrabold border-b-4 border-tc-primary inline-block mb-10"
+    >
+      What We Do
+    </div>
+  </div>
+
+  <CardGrid>
+    <Card title="Shared Infrastructure" icon="laptop">
+      We provide hosting, CI/CD pipelines and container registries so projects can focus on what they do best.
+    </Card>
+    <Card title="Technical Know-how" icon="setting">
+      Pooled expertise in containerisation, Kubernetes, Helm and web development — available to every sub-project.
+    </Card>
+    <Card title="Community" icon="discord">
+      One shared Discord server, common support workflows and a welcoming atmosphere for newcomers and veterans alike.
+    </Card>
+    <Card title="Governance" icon="document">
+      A unified code of conduct, licensing framework and sponsorship infrastructure for all projects under the TrueForge umbrella.
+    </Card>
+  </CardGrid>
+
+<br />
+
+  <div class="text-center">
+    <div
+      class="text-4xl max-md:text-2xl max-sm:text-xl font-extrabold border-b-4 border-tc-primary inline-block mb-10"
+    >
+      Our Projects
+    </div>
+  </div>
+
+  <CardGrid>
+    <Card title="TrueCharts" icon="rocket">
+      Helm charts for Kubernetes and TrueNAS.<br/>
+      <a href="https://truecharts.org">truecharts.org</a>
+    </Card>
+    <Card title="ContainerForge" icon="rocket">
+      Pre-built container images.<br/>
+      <a href="https://containerforge.org">containerforge.org</a>
+    </Card>
+    <Card title="GamingForge" icon="rocket">
+      Game-server containers and guides.<br/>
+      <a href="https://gamingforge.org">gamingforge.org</a>
+    </Card>
+    <Card title="ManicMeads" icon="rocket">
+      Mead-making knowledge base.<br/>
+      <a href="https://manicmeads.com">manicmeads.com</a>
+    </Card>
+  </CardGrid>
+
+<br />
+<br />
+
   <div class="text-center">
     <div
       class="text-4xl max-md:text-2xl max-sm:text-xl font-extrabold border-b-4 border-tc-primary inline-block mb-10"
@@ -368,7 +429,7 @@ const iconClass = "mr-2 group-hover:animate-ping";
     <div
       class="text-4xl max-md:text-2xl max-sm:text-xl font-extrabold border-b-4 border-tc-primary inline-block mb-10"
     >
-      Highlights
+      Powered By
     </div>
   </div>
 

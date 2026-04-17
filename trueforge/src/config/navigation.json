@@ -1,9 +1,18 @@
 {
   "links": [
     { "name": "News", "href": "/news/", "icon": "rss" },
-    { "name": "TrueTech", "href": "/truetech/", "icon": "open-book" },
-    { "name": "TrueCharts", "href": "https://truecharts.org", "icon": "setting" },
-    { "name": "GamingForge", "href": "https://gamingforge.org", "icon": "rocket" },
-    { "name": "LifeForge", "href": "/lifeforge", "icon": "star" }
+    { "name": "About", "href": "/about/", "icon": "information" },
+    {
+      "name": "Projects",
+      "icon": "rocket",
+      "children": [
+        { "name": "TrueTech", "href": "/truetech/" },
+        { "name": "LifeForge", "href": "/lifeforge/" },
+        { "name": "TrueCharts", "href": "https://truecharts.org" },
+        { "name": "ContainerForge", "href": "https://containerforge.org" },
+        { "name": "GamingForge", "href": "https://gamingforge.org" },
+        { "name": "ManicMeads", "href": "https://manicmeads.com" }
+      ]
+    }
   ]
 }

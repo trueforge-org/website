@@ -52,13 +52,19 @@ export default defineConfig({
       ],
       sidebar: [
         {
+          label: "about",
+          collapsed: true,
+          autogenerate: {
+            directory: "about",
+          },
+        },
+        {
           label: "truetech",
           collapsed: true,
           autogenerate: {
             directory: "truetech",
           },
         },
-
         {
           label: "lifeforge",
           collapsed: true,
