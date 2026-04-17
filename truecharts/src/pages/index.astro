@@ -3,6 +3,7 @@ import StarlightPage from "@astrojs/starlight/components/StarlightPage.astro";
 import { Card } from "@astrojs/starlight/components";
 import CardGrid from "../../../shared/src/components/CardGrid.astro";
 import ChartIcons from "../../../shared/src/components/multi-icons/ChartIcons.astro";
+import { AnimatedHeroValue } from "../../../shared/src/components/CustomHero.astro";
 ---
 
 <StarlightPage
@@ -16,6 +17,9 @@ import ChartIcons from "../../../shared/src/components/multi-icons/ChartIcons.as
     },
     hero: {
       tagline: "Community Helm Charts for Kubernetes — easy to deploy, stable, and multi-platform.",
+      image: {
+        html: AnimatedHeroValue,
+      },
       actions: [
         {
           text: "Browse Charts",

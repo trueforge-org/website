@@ -19,6 +19,9 @@ const actions = hero?.actions ?? [];
 // Set this value to `hero.image.html` in any frontmatter
 export const AnimatedHeroValue = "tc-animated";
 
+// Magic Value to render the site logo SVG large in the hero
+export const LogoHeroValue = "tc-logo";
+
 const imageAttrs = {
   loading: "eager" as const,
   decoding: "async" as const,
@@ -65,7 +68,14 @@ if (image) {
     )
   }
   {
-    rawHtml && rawHtml !== AnimatedHeroValue && (
+    rawHtml && rawHtml === LogoHeroValue && (
+      <div class="hero-html !w-52 !h-52 md:!w-72 md:!h-72 lg:!w-96 lg:!h-96 flex items-center justify-center">
+        <img src="/logo.svg" alt="Logo" class="w-full h-full" />
+      </div>
+    )
+  }
+  {
+    rawHtml && rawHtml !== AnimatedHeroValue && rawHtml !== LogoHeroValue && (
       <div class="hero-html sl-flex" set:html={rawHtml} />
     )
   }

@@ -2,6 +2,7 @@
 import StarlightPage from "@astrojs/starlight/components/StarlightPage.astro";
 import { Card } from "@astrojs/starlight/components";
 import CardGrid from "../../../shared/src/components/CardGrid.astro";
+import { LogoHeroValue } from "../../../shared/src/components/CustomHero.astro";
 ---
 
 <StarlightPage
@@ -15,6 +16,9 @@ import CardGrid from "../../../shared/src/components/CardGrid.astro";
     },
     hero: {
       tagline: "Small batch mead making — farmhouse style, cost-effective, and full of flavour.",
+      image: {
+        html: LogoHeroValue,
+      },
       actions: [
         {
           text: "Browse Recipes",

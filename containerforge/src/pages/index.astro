@@ -3,6 +3,7 @@ import StarlightPage from "@astrojs/starlight/components/StarlightPage.astro";
 import { Card } from "@astrojs/starlight/components";
 import CardGrid from "../../../shared/src/components/CardGrid.astro";
 import ContainerIcons from "../../../shared/src/components/multi-icons/ContainerIcons.astro";
+import { LogoHeroValue } from "../../../shared/src/components/CustomHero.astro";
 ---
 
 <StarlightPage
@@ -16,6 +17,9 @@ import ContainerIcons from "../../../shared/src/components/multi-icons/Container
     },
     hero: {
       tagline: "Opinionated, rootless, multi-architecture container images by TrueForge.",
+      image: {
+        html: LogoHeroValue,
+      },
       actions: [
         {
           text: "Get Started",
