@@ -26,11 +26,9 @@ const { pathname } = Astro.url;
     links.map((link) => {
       if (link.children) {
         return (
-          <div class="dropdown-wrapper relative flex items-center">
-            <button
-              class="link-no-deco flex flex-row items-center gap-1 border-tc-primary transition-all hover:scale-110 hover:border-b-4 bg-transparent border-0 cursor-pointer p-0"
-              type="button"
-              aria-haspopup="true"
+          <details class="nav-dropdown relative flex items-center">
+            <summary
+              class="link-no-deco flex flex-row items-center gap-1 border-tc-primary transition-all hover:scale-110 hover:border-b-4 cursor-pointer p-0 list-none"
             >
               <p class="font-bold text-lg max-lg:text-xs max-md:text-xs">
                 {link.name}
@@ -42,11 +40,11 @@ const { pathname } = Astro.url;
                 />
               )}
               <Icon
-                class="w-4 h-4 text-[var(--sl-color-gray-2)] dropdown-chevron"
+                class="w-4 h-4 text-[var(--sl-color-gray-2)] nav-dropdown-chevron"
                 name="down-caret"
               />
-            </button>
-            <div class="dropdown-menu absolute top-full left-0 mt-1 min-w-[10rem] rounded-lg border border-[var(--sl-color-gray-5)] bg-[var(--sl-color-bg-nav)] shadow-lg z-50 py-1 hidden">
+            </summary>
+            <div class="absolute top-full left-0 mt-1 min-w-[10rem] rounded-lg border border-[var(--sl-color-gray-5)] bg-[var(--sl-color-bg-nav)] shadow-lg z-50 py-1 flex flex-col">
               {link.children.map((child) => (
                 <a
                   class="link-no-deco flex items-center gap-2 px-4 py-2 text-sm font-medium hover:bg-[var(--sl-color-gray-6)] transition-colors whitespace-nowrap"
@@ -62,7 +60,7 @@ const { pathname } = Astro.url;
                 </a>
               ))}
             </div>
-          </div>
+          </details>
         );
       }
 
@@ -96,18 +94,16 @@ const { pathname } = Astro.url;
 </div>
 
 <style is:global>
-  .dropdown-wrapper:hover .dropdown-menu,
-  .dropdown-wrapper:focus-within .dropdown-menu {
-    display: flex !important;
-    flex-direction: column;
+  .nav-dropdown summary::-webkit-details-marker,
+  .nav-dropdown summary::marker {
+    display: none;
   }
 
-  .dropdown-wrapper:hover .dropdown-chevron,
-  .dropdown-wrapper:focus-within .dropdown-chevron {
-    transform: rotate(180deg);
-  }
-
-  .dropdown-chevron {
+  .nav-dropdown .nav-dropdown-chevron {
     transition: transform 0.2s ease;
+  }
+
+  .nav-dropdown[open] .nav-dropdown-chevron {
+    transform: rotate(180deg);
   }
 </style>
