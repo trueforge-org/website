@@ -1,7 +1,7 @@
 ---
 title: TrueNAS Compatibility
 sidebar:
-  order: 4
+  order: 3
 ---
 
 We have ensured that, by default, all our containers use the TrueNAS Apps user when run — even when this is not specifically set.

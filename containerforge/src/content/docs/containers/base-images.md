@@ -1,7 +1,7 @@
 ---
 title: Available Base Images
 sidebar:
-  order: 1
+  order: 2
 ---
 
 We aim to base all our containers on top of our standardised Ubuntu base image. The following base images are available:

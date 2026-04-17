@@ -1,7 +1,7 @@
 ---
 title: Rootless Containers
 sidebar:
-  order: 3
+  order: 1
 ---
 
 By default the majority of our containers run as a non-root user (`568:568`). You are able to change the user/group by updating your configuration files.

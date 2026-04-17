@@ -1,9 +1,7 @@
 {
   "links": [
     { "name": "News", "href": "/news/", "icon": "rss" },
-    { "name": "Getting Started", "href": "/getting-started/", "icon": "rocket" },
-    { "name": "Containers", "href": "/containers/", "icon": "list-format" },
-    { "name": "Base Images", "href": "/base-images/", "icon": "setting" },
-    { "name": "Guides", "href": "/guides/", "icon": "open-book" }
+    { "name": "Guides", "href": "/guides/", "icon": "open-book" },
+    { "name": "Containers", "href": "/containers/", "icon": "list-format" }
   ]
 }

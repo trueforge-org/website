@@ -1,7 +1,7 @@
 ---
 title: Mission & Overview
 sidebar:
-  order: 1
+  order: 0
 ---
 
 ContainerForge provides [semantically versioned](https://semver.org/), [rootless](https://rootlesscontaine.rs/), and [multi-architecture](https://www.docker.com/blog/multi-arch-build-and-images-the-simple-way/) containers for various applications.

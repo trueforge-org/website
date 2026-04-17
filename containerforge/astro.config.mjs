@@ -48,17 +48,10 @@ export default defineConfig({
       ],
       sidebar: [
         {
-          label: "Getting Started",
+          label: "Guides",
           collapsed: false,
           autogenerate: {
-            directory: "getting-started",
-          },
-        },
-        {
-          label: "Base Images",
-          collapsed: false,
-          autogenerate: {
-            directory: "base-images",
+            directory: "guides",
           },
         },
         {
@@ -66,13 +59,6 @@ export default defineConfig({
           collapsed: false,
           autogenerate: {
             directory: "containers",
-          },
-        },
-        {
-          label: "Guides",
-          collapsed: false,
-          autogenerate: {
-            directory: "guides",
           },
         },
       ],
