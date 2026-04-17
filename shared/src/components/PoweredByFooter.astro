@@ -8,6 +8,11 @@ import Footer from "@astrojs/starlight/components/Footer.astro";
   <a href="https://trueforge.org" rel="noopener" class="powered-by-link">
     Powered by TrueForge
   </a>
+  <div class="copyright-notice">
+    <a href="https://trueforge.org/general/legal/copyright/" rel="noopener" class="copyright-link">
+      &copy; All rights reserved, The TrueForge Project
+    </a>
+  </div>
 </div>
 
 <style>
@@ -26,6 +31,21 @@ import Footer from "@astrojs/starlight/components/Footer.astro";
   }
 
   .powered-by-link:hover {
+    text-decoration: underline;
+  }
+
+  .copyright-notice {
+    margin-top: 0.4rem;
+    font-size: var(--sl-text-xs);
+  }
+
+  .copyright-link {
+    color: var(--sl-color-gray-3);
+    text-decoration: none;
+    font-style: italic;
+  }
+
+  .copyright-link:hover {
     text-decoration: underline;
   }
 </style>
