@@ -1,5 +1,8 @@
 # Old chart list URL
 /charts/description-list /charts/ 301
 
+# Development merged into guides
+/development/* /guides/development/:splat 301
+
 # Cover for .md linknames
 /*.md /:splat 301

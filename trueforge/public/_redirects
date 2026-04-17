@@ -54,7 +54,7 @@
 # Content moved to https://truecharts.org (flat URL structure)
 /truetech/truecharts/charts/* https://truecharts.org/charts/:splat 301
 /truetech/truecharts/guides/* https://truecharts.org/guides/:splat 301
-/truetech/truecharts/development/* https://truecharts.org/development/:splat 301
+/truetech/truecharts/development/* https://truecharts.org/guides/development/:splat 301
 /truetech/truecharts/* https://truecharts.org/:splat 301
 /truetech/truecharts-common/* https://truecharts.org/common/:splat 301
 /truecharts/charts/* https://truecharts.org/charts/:splat 301

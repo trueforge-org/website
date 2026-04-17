@@ -64,12 +64,7 @@ export default defineConfig({
         {
           label: "Common Chart",
           collapsed: false,
-          autogenerate: { directory: "common", collapsed: true },
-        },
-        {
-          label: "Development",
-          collapsed: true,
-          autogenerate: { directory: "development" },
+          autogenerate: { directory: "common" },
         },
       ],
     }),
