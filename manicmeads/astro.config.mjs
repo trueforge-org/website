@@ -32,10 +32,7 @@ export default defineConfig({
       editLink: {
         baseUrl: "https://github.com/trueforge-org/website/tree/main/manicmeads",
       },
-      components: {
-        ...sharedComponents,
-        MarkdownContent: "./src/components/CustomMarkdownContent.astro",
-      },
+      components: sharedComponents,
       plugins: [
         starlightImageZoom(),
       ],

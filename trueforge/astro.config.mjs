@@ -36,7 +36,10 @@ export default defineConfig({
       editLink: {
         baseUrl: "https://github.com/trueforge-org/website/tree/main/trueforge",
       },
-      components: sharedComponents,
+      components: {
+        ...sharedComponents,
+        MarkdownContent: "../shared/src/components/CustomMarkdownBlogContent.astro",
+      },
       plugins: [
         starlightBlog({
           prefix: "news",
