@@ -1,5 +1,5 @@
 // Shared Astro configuration utilities for multi-site setup
-import { basename, dirname } from "node:path";
+import { basename, dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import sitemap from "@astrojs/sitemap";
 import robotsTxt from "astro-robots-txt";
@@ -25,6 +25,14 @@ export function sharedConfig(callerUrl) {
     cacheDir: `../.astro/${siteName}/cache`,
     vite: {
       cacheDir: `../.vite/${siteName}`,
+      resolve: {
+        alias: {
+          "~navigation": resolve(
+            dirname(fileURLToPath(callerUrl)),
+            "src/config/navigation.json",
+          ),
+        },
+      },
     },
     prefetch: {
       prefetchAll: true,

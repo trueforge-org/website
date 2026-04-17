@@ -1,21 +1,15 @@
 ---
 import { Icon } from "@astrojs/starlight/components";
 import "../styles/tailwind.css";
-
-type IconName = "rss" | "star" | "open-book" | "rocket";
+import navigationConfig from "~navigation";
 
 type Link = {
   name: string;
-  href: `/${string}` | `https://${string}`;
-  icon?: IconName;
+  href: string;
+  icon?: string;
 };
 
-const links: Array<Link> = [
-  { name: "News", href: "/news/", icon: "rss" },
-  { name: "TrueTech", href: "/truetech/", icon: "open-book" },
-  { name: "GamingForge", href: "/gamingforge", icon: "rocket" },
-  { name: "LifeForge", href: "/lifeforge", icon: "star" },
-];
+const links: Array<Link> = navigationConfig.links ?? [];
 
 const { pathname } = Astro.url;
 ---
@@ -43,7 +37,7 @@ const { pathname } = Astro.url;
           {link.icon && (
             <Icon
               class="w-5 h-5 max-md:hidden max-lg:hidden text-[var(--sl-color-gray-2)]"
-              name={link.icon}
+              name={link.icon as any}
             />
           )}
         </a>

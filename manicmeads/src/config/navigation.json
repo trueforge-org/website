@@ -1,0 +1,6 @@
+{
+  "links": [
+    { "name": "Meads", "href": "/meads/", "icon": "star" },
+    { "name": "Articles", "href": "/articles/", "icon": "open-book" }
+  ]
+}
