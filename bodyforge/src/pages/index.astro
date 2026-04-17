@@ -1,0 +1,76 @@
+---
+import StarlightPage from "@astrojs/starlight/components/StarlightPage.astro";
+import { Card } from "@astrojs/starlight/components";
+import CardGrid from "../../../shared/src/components/CardGrid.astro";
+import { LogoHeroValue } from "../../../shared/src/components/CustomHero.astro";
+---
+
+<StarlightPage
+  frontmatter={{
+    title: "BodyForge",
+    description: "Bodyhacking resources — nutrition, supplements, and treatments by TrueForge.",
+    template: "splash",
+    banner: {
+      content:
+        '🚧 <span class="font-bold">Work in Progress</span> — BodyForge is under active development.',
+    },
+    hero: {
+      tagline: "Bodyhacking resources — nutrition, supplements, and treatments.",
+      image: {
+        html: LogoHeroValue,
+      },
+      actions: [
+        {
+          text: "Nutrition",
+          link: "/nutrition/",
+          variant: "primary",
+          icon: "right-arrow",
+        },
+        {
+          text: "Supplements",
+          link: "/supplements/",
+          variant: "secondary",
+          icon: "right-arrow",
+        },
+        {
+          text: "Treatments",
+          link: "/treatments/",
+          variant: "minimal",
+          icon: "right-arrow",
+        },
+      ],
+    },
+  }}
+>
+  <div class="text-center">
+    <div
+      class="text-4xl max-md:text-2xl max-sm:text-xl font-extrabold border-b-4 border-tc-primary inline-block mb-10"
+    >
+      What is BodyForge?
+    </div>
+  </div>
+
+  <p class="text-center text-lg max-w-2xl mx-auto mb-12">
+    BodyForge is a bodyhacking knowledge base covering nutrition, supplements,
+    and treatments — built on research and real-world experience.
+  </p>
+
+  <CardGrid>
+    <Card title="Nutrition" icon="heart">
+      Evidence-based articles on diet, macros, micronutrients, and eating
+      strategies for optimal performance and health.
+    </Card>
+    <Card title="Supplements" icon="puzzle">
+      Deep dives into supplements — what works, what doesn't, dosing protocols,
+      and stacking strategies.
+    </Card>
+    <Card title="Treatments" icon="setting">
+      Exploration of treatments, therapies, and biohacking techniques for
+      recovery, longevity, and well-being.
+    </Card>
+    <Card title="Open Source" icon="github">
+      All content is open source and community-driven. Contributions and
+      corrections are always welcome.
+    </Card>
+  </CardGrid>
+</StarlightPage>

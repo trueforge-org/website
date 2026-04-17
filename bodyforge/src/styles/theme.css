@@ -1,0 +1,18 @@
+/* Amber / orange accent theme for BodyForge */
+:root {
+  --sl-color-accent-low: #4d2e06;
+  --sl-color-accent: #d97706;
+  --sl-color-accent-high: #fbbf24;
+  --sl-color-text-accent: #fde68a;
+  --sl-hue-accent: 38;
+  --sl-color-banner-text: #fff;
+  --sl-color-bg-badge: #d97706;
+}
+
+:root[data-theme="light"] {
+  --sl-color-accent-low: #fef3c7;
+  --sl-color-accent: #b45309;
+  --sl-color-accent-high: #78350f;
+  --sl-color-text-accent: #451a03;
+  --sl-color-bg-badge: #b45309;
+}
