@@ -75,6 +75,14 @@ import ImageZoom from "starlight-image-zoom/components/ImageZoom.astro";
     align-items: center;
   }
 
+  .social-icons :global(a) {
+    color: var(--sl-color-accent);
+  }
+
+  .social-icons :global(a:hover) {
+    color: var(--sl-color-accent-high);
+  }
+
   .social-icons::after {
     content: "";
     height: 2rem;

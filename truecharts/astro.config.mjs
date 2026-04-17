@@ -8,6 +8,7 @@ import {
   sharedTableOfContents,
   sharedComponents,
   sharedHead,
+  sharedLogo,
 } from "../shared/config/astro.mjs";
 import { authors } from "../shared/src/config/authors";
 
@@ -22,6 +23,7 @@ export default defineConfig({
       customCss: ["../shared/src/styles/tailwind.css", "./src/styles/theme.css"],
       tagline: "Community Helm Charts",
       pagefind: true,
+      logo: sharedLogo,
       head: sharedHead(),
       tableOfContents: sharedTableOfContents,
       social: [

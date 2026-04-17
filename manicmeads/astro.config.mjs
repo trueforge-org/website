@@ -8,6 +8,7 @@ import {
   sharedTableOfContents,
   sharedComponents,
   sharedHead,
+  sharedLogo,
 } from "../shared/config/astro.mjs";
 
 const site = "https://manicmeads.com";
@@ -22,6 +23,7 @@ export default defineConfig({
       customCss: ["../shared/src/styles/tailwind.css", "./src/styles/theme.css"],
       tagline: "Small Batch Mead Making",
       pagefind: true,
+      logo: sharedLogo,
       head: sharedHead(),
       tableOfContents: sharedTableOfContents,
       social: [

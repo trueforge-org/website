@@ -10,6 +10,7 @@ import {
   sharedSocial,
   sharedComponents,
   sharedHead,
+  sharedLogo,
 } from "../shared/config/astro.mjs";
 // Shared authors used across all sites with blog
 import { authors } from "../shared/src/config/authors";
@@ -26,10 +27,7 @@ export default defineConfig({
       customCss: ["../shared/src/styles/tailwind.css", "./src/styles/theme.css"],
       tagline: "Awesome Projects Community",
       pagefind: true,
-      logo: {
-        src: "./src/assets/with-text.svg",
-        replacesTitle: true,
-      },
+      logo: sharedLogo,
       head: sharedHead(),
       tableOfContents: sharedTableOfContents,
       social: sharedSocial,

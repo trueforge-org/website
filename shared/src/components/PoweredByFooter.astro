@@ -1,0 +1,31 @@
+---
+import type { Props } from "@astrojs/starlight/props";
+import Footer from "@astrojs/starlight/components/Footer.astro";
+---
+
+<Footer {...Astro.props}><slot /></Footer>
+<div class="powered-by-footer">
+  <a href="https://trueforge.org" rel="noopener" class="powered-by-link">
+    Powered by TrueForge
+  </a>
+</div>
+
+<style>
+  .powered-by-footer {
+    text-align: center;
+    padding: 1rem 0;
+    border-top: 1px solid var(--sl-color-gray-5);
+    margin-top: 1rem;
+    font-size: var(--sl-text-sm);
+  }
+
+  .powered-by-link {
+    color: var(--sl-color-accent);
+    text-decoration: none;
+    font-weight: 600;
+  }
+
+  .powered-by-link:hover {
+    text-decoration: underline;
+  }
+</style>

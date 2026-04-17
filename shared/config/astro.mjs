@@ -73,6 +73,13 @@ export const sharedTableOfContents = {
 };
 
 /**
+ * Shared logo configuration. Each site should have a logo.svg in public/.
+ */
+export const sharedLogo = {
+  src: "./public/logo.svg",
+};
+
+/**
  * Shared social links used across all sites.
  */
 export const sharedSocial = [
@@ -93,6 +100,7 @@ export const sharedComponents = {
   Sidebar: "../shared/src/components/CustomSidebar.astro",
   Hero: "../shared/src/components/CustomHero.astro",
   MarkdownContent: "../shared/src/components/CustomMarkdownContent.astro",
+  Footer: "../shared/src/components/PoweredByFooter.astro",
 };
 
 /**
