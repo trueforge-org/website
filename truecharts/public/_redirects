@@ -1,0 +1,5 @@
+# Old chart list URL
+/charts/description-list /charts/ 301
+
+# Cover for .md linknames
+/*.md /:splat 301

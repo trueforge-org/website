@@ -62,9 +62,9 @@ export default defineConfig({
           autogenerate: { directory: "guides" },
         },
         {
-          label: "Common Library",
-          collapsed: true,
-          autogenerate: { directory: "common" },
+          label: "Common Chart",
+          collapsed: false,
+          autogenerate: { directory: "common", collapsed: true },
         },
         {
           label: "Development",
