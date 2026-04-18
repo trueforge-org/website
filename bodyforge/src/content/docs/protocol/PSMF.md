@@ -74,7 +74,7 @@ Muscle protein synthesis is **saturable** — once stimulated, additional protei
 | BMI | Protein strategy |
 |---|---|
 | < 25 | ~1.0 g/kg body weight |
-| > 25 | Gradual increase per BMI unit |
+| > 25 | Decrease by 0.03 g/kg body weight per BMI point above 25 |
 
 This reflects differences in lean mass proportion[^jager2017][^witard2019].
 
@@ -233,15 +233,22 @@ Clinical risk is significant and dose-dependent[^basaria2010-abuse].
 ## Implementation Summary
 
 **Phase 1: Setup**
-- Calculate protein target
-- Prepare lean protein sources
-- Establish electrolyte intake
-**Phase 2: Execution** 
-- Maintain protein intake
-- Strict electrolyte adherence
-- Low systemic stress activity only
+- Calculate [protein target](#practical-protein-scaling)
+- Prepare [lean protein sources](#food-selection)
+- Establish [electrolyte intake](#recommended-daily-intake)
+- Review [contraindications](#contraindications)
+
+**Phase 2: Execution**
+- Maintain [protein intake](#protein-intake)
+- Strict [electrolyte adherence](#electrolytes-and-hydration)
+- [Resistance training](#exercise-during-psmf) 2–3×/week, maintenance only
+- Low-intensity cardio only — no high-intensity work
+- Apply [pharmacology](#stimulants-and-pharmacology) if appropriate (caffeine, anabolics, retatrutide)
+
 **Phase 3: Monitoring**
+- Follow [monitoring protocol](#monitoring-protocol) (daily weight, weekly BP/electrolytes)
 - Track symptoms + weight trends
+- Watch for [hormonal adaptation](#hormonal-and-metabolic-adaptation) signs
 - Adjust based on tolerance
 
 ## Key Takeaways
