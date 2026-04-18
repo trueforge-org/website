@@ -169,18 +169,38 @@ Rapid fat loss increases gallstone risk through increased cholesterol saturation
 
 ## Stimulants and Pharmacology
 
+:::caution[Optional — Only When No Contraindications Are Present]
+The following agents may be used alongside PSMF under appropriate supervision.
+:::
+
 **Caffeine** increases thermogenesis[^dulloo1989] and improves alertness and adherence[^astrup1990][^grgic2019], but carries risks of sleep disruption and cardiovascular stimulation[^heckman2010].
 
-**Anabolic steroids** (e.g., oxandrolone) can reduce lean mass loss[^hartgens2004][^bhasin1996], but carry significant risks:
+- 1–3× daily, 50–100 mg per dose
+- All doses between wake-up and 15:00 — no caffeine past 15:00
 
-:::danger[Risks]
-- Hepatotoxicity
+**Anabolic steroids** — use **one** of the following (not both) to reduce lean mass loss[^hartgens2004][^bhasin1996]:
+
+- **Oxandrolone (Anavar):**
+  - Men: 20 mg/day, split into two doses
+  - Women: 2.5–5 mg/day, split into two doses when reasonably possible
+- **Methandrostenolone (Dianabol):**
+  - 5 mg/day (single dose)
+
+:::danger[Anabolic Steroid Risks]
+- Hepatotoxicity (especially 17α-alkylated compounds like dianabol)
 - Dyslipidemia
 - Endocrine suppression
 - Cardiovascular remodeling risk[^basaria2010]
+- **Women:** monitor for virilization
 
 Clinical risk is significant and dose-dependent[^basaria2010-abuse].
 :::
+
+**Retatrutide** (GLP-1/GIP/glucagon triple agonist) may support appetite suppression and metabolic signaling during PSMF.
+
+- Start at 1 mg for the first 5 weeks
+- Increase by 1 mg every 5 weeks as needed
+- Do not increase when side effects are significant
 
 ## Contraindications
 
