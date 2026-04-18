@@ -239,6 +239,10 @@ The following agents may be used alongside PSMF under appropriate supervision.
 - 1–3× daily, 50–100 mg per dose
 - All doses between wake-up and 15:00 — no caffeine past 15:00
 
+:::caution[Caffeine and Cortisol]
+Caffeine stimulates the HPA axis and elevates cortisol[^lovallo2005][^beaudoin2019]. During PSMF, cortisol is already elevated from caloric restriction[^tomiyama2010]. Excessive caffeine compounds this effect, increasing muscle protein breakdown risk and worsening sleep quality. Keep doses moderate and avoid stacking with other stimulants.
+:::
+
 **Anabolic steroids** — use **one** of the following (not both) to reduce lean mass loss[^hartgens2004][^bhasin1996]:
 
 - **Oxandrolone (Anavar):**
@@ -266,6 +270,28 @@ Clinical risk is significant and dose-dependent[^basaria2010-abuse].
 - Start at 1 mg for the first 5 weeks
 - Increase by 1 mg every 5 weeks as needed
 - Do not increase when side effects are significant
+
+**Creatine monohydrate** supports training performance and lean mass retention during energy restriction[^rawson2018][^branch2003].
+
+- 3–5 g/day, no loading phase required
+- Maintains intramuscular phosphocreatine stores despite reduced caloric intake[^kreider2017]
+- May attenuate strength loss during PSMF by preserving high-intensity work capacity[^rawson2018]
+- Causes ~1–2 kg water retention in muscle (not fat) — do not misinterpret scale weight[^kreider2017]
+
+:::note[Creatine and Scale Weight]
+Creatine draws water into muscle cells. This is intracellular water, not edema or fat. Expect a small scale increase when starting creatine during PSMF — this is a positive signal of muscle hydration, not fat gain.
+:::
+
+:::danger[Do Not Use DNP]
+2,4-Dinitrophenol (DNP) is a mitochondrial uncoupler that increases thermogenesis by dissipating the proton gradient as heat[^grundlingh2011]. While it accelerates fat loss, it has an **extremely narrow therapeutic index** — the difference between an effective dose and a lethal dose is small and unpredictable[^mcfee2004].
+
+- No antidote exists for overdose
+- Hyperthermia can be fatal and is dose-dependent
+- Cumulative toxicity increases with duration of use
+- Combined with PSMF (already metabolically stressed state), risk of adverse events is amplified
+
+DNP is not safely usable for the duration required by a PSMF cycle[^grundlingh2011][^mcfee2004].
+:::
 
 ## Contraindications
 
@@ -438,3 +464,10 @@ If further fat loss is needed, repeat: **4–8 weeks PSMF → 4 weeks recovery �
 [^chaston2007]: Chaston TB & Dixon JB (2008). *Factors associated with percent change in visceral versus subcutaneous abdominal fat during weight loss*. International Journal of Obesity. <https://doi.org/10.1038/sj.ijo.0803661>
 [^dulloo2012]: Dulloo AG et al. (2012). *How dieting makes the lean fatter: from a perspective of body composition autoregulation through adipostats and proteinstats*. Obesity Reviews. <https://doi.org/10.1111/j.1467-789X.2011.00941.x>
 [^trexler2014]: Trexler ET et al. (2014). *Metabolic adaptation to weight loss: implications for the athlete*. Journal of the International Society of Sports Nutrition. <https://doi.org/10.1186/1550-2783-11-7>
+[^lovallo2005]: Lovallo WR et al. (2005). *Cortisol responses to mental stress, exercise, and meals following caffeine intake in men and women*. Pharmacology Biochemistry and Behavior. <https://doi.org/10.1016/j.pbb.2005.08.008>
+[^beaudoin2019]: Beaudoin MS & Graham TE (2011). *Methylxanthines and human health: epidemiological and experimental evidence*. Handbook of Experimental Pharmacology. <https://doi.org/10.1007/978-3-642-13443-2_19>
+[^rawson2018]: Rawson ES & Volek JS (2003). *Effects of creatine supplementation and resistance training on muscle strength and weightlifting performance*. Journal of Strength and Conditioning Research. <https://doi.org/10.1519/1533-4287(2003)017%3C0822:EOCSAR%3E2.0.CO;2>
+[^branch2003]: Branch JD (2003). *Effect of creatine supplementation on body composition and performance: a meta-analysis*. International Journal of Sport Nutrition and Exercise Metabolism. <https://doi.org/10.1123/ijsnem.13.2.198>
+[^kreider2017]: Kreider RB et al. (2017). *International Society of Sports Nutrition position stand: safety and efficacy of creatine supplementation*. JISSN. <https://doi.org/10.1186/s12970-017-0173-z>
+[^grundlingh2011]: Grundlingh J et al. (2011). *2,4-Dinitrophenol (DNP): a weight loss agent with significant acute toxicity and risk of death*. Journal of Medical Toxicology. <https://doi.org/10.1007/s13181-011-0162-6>
+[^mcfee2004]: McFee RB et al. (2004). *Dying to be thin: a dinitrophenol related fatality*. Veterinary and Human Toxicology. <https://pubmed.ncbi.nlm.nih.gov/15303393/>
