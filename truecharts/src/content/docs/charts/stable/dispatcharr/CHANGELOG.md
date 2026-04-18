@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.2.0 • [Train: stable]
+
+- feat(dispatcharr): update image docker.io/dispatcharr/dispatcharr 0.22.1 → 0.23.0 (#47157) • [`4b163d1`](https://github.com/trueforge-org/truecharts/commit/4b163d1dc907512b24f02ff3aeedddbf6e36bc82) • [@TrueCharts Bot] (2026-04-18)
+
 ## 2.1.4 • [Train: stable]
 
 - chore(dispatcharr): update image alpine digest to 5b10f43 (#47051) • [`9f06caf`](https://github.com/trueforge-org/truecharts/commit/9f06caf48c91a4a3eff2911c6f54dc75f6ba5550) • [@TrueCharts Bot] (2026-04-18)
