@@ -219,6 +219,10 @@ The following agents may be used alongside PSMF under appropriate supervision.
 - **Methandrostenolone (Dianabol):**
   - 5 mg/day (single dose)
 
+:::note[Testosterone Suppression in Context]
+At the low doses listed above, endogenous testosterone suppression from oxandrolone or methandrostenolone is **minimal**[^berger1996][^orr2004]. Severe caloric restriction itself already significantly suppresses testosterone via the HPG axis[^cangemi2010][^rosenbaum2008] — the additional suppression from low-dose anabolics is small relative to the deficit-induced suppression already present during PSMF.
+:::
+
 :::danger[Anabolic Steroid Risks]
 - Hepatotoxicity (especially 17α-alkylated compounds like dianabol)
 - Dyslipidemia
@@ -353,3 +357,6 @@ Clinical risk is significant and dose-dependent[^basaria2010-abuse].
 [^afaghi2007]: Afaghi A et al. (2007). *High-glycemic-index carbohydrate meals shorten sleep onset*. American Journal of Clinical Nutrition. <https://doi.org/10.1093/ajcn/85.2.426>
 [^wurtman2003]: Wurtman RJ & Wurtman JJ (2003). *Carbohydrates and serotonin synthesis*. In: Fernstrom JD, ed. Nutritional Neuroscience. <https://doi.org/10.1016/S0899-9007(03)00056-9>
 [^held2002]: Held K et al. (2002). *Oral magnesium supplementation reverses age-related neuroendocrine and sleep EEG changes*. Pharmacopsychiatry. <https://doi.org/10.1055/s-2002-33195>
+[^berger1996]: Berger JR et al. (1996). *Oxandrolone in AIDS-wasting myopathy*. AIDS. <https://doi.org/10.1097/00002030-199612000-00005>
+[^orr2004]: Orr R & Fiatarone Singh M (2004). *The anabolic androgenic steroid oxandrolone in the treatment of wasting and catabolic disorders*. Drugs. <https://doi.org/10.2165/00003495-200464070-00004>
+[^cangemi2010]: Cangemi R et al. (2010). *Long-term effects of calorie restriction on serum sex-hormone concentrations in men*. Aging Cell. <https://doi.org/10.1111/j.1474-9726.2010.00553.x>
