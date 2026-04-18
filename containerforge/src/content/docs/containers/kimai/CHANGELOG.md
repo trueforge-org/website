@@ -17,8 +17,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.54.0 • [Train: ]
 
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to b91efc2 (#1786) • [`a199fd0`](https://github.com/trueforge-org/truecharts/commit/a199fd0d56a7d1e90dec4d0f324dc58c94922c4e) • [@TrueCharts Bot] (2026-04-16)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to c5a3b56 (#1796) • [`e262b17`](https://github.com/trueforge-org/truecharts/commit/e262b170c46f318a17077a5cc2f6288fba0cb4e4) • [@TrueCharts Bot] (2026-04-16)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to b91efc2 (#1786) • [`a199fd0`](https://github.com/trueforge-org/truecharts/commit/a199fd0d56a7d1e90dec4d0f324dc58c94922c4e) • [@TrueCharts Bot] (2026-04-16)
 - feat(deps): update kimai/kimai 2.53.0 → 2.54.0 (#1771) • [`0bd933c`](https://github.com/trueforge-org/truecharts/commit/0bd933cca9083812f6140ecadab84442c34b5860) • [@TrueCharts Bot] (2026-04-13)
 
 ## 2.53.0 • [Train: ]

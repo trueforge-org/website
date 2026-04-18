@@ -26,8 +26,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.0.14 • [Train: ]
 
-- fix(deps): update syncthing/syncthing v2.0.11 → v2.0.14 (#1567) • [`8f50e09`](https://github.com/trueforge-org/truecharts/commit/8f50e09580e3f056d6c8e63337b3f18e574952de) • [@TrueCharts Bot] (2026-02-24)
 - chore(ubuntu-dep): pin ghcr.io/trueforge-org/ubuntu docker tag digest to 1c87476 (#1533) • [`fa9215c`](https://github.com/trueforge-org/truecharts/commit/fa9215ca9fa8fc6f7118ab176ac04c2dd9f4d0a2) • [@TrueCharts Bot] (2026-02-24)
+- fix(deps): update syncthing/syncthing v2.0.11 → v2.0.14 (#1567) • [`8f50e09`](https://github.com/trueforge-org/truecharts/commit/8f50e09580e3f056d6c8e63337b3f18e574952de) • [@TrueCharts Bot] (2026-02-24)
 
 ## 2.0.11 • [Train: ]
 
