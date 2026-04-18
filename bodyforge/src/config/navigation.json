@@ -1,7 +1,5 @@
 {
   "links": [
-    { "name": "Nutrition", "href": "/nutrition/", "icon": "heart" },
-    { "name": "Supplements", "href": "/supplements/", "icon": "puzzle" },
-    { "name": "Treatments", "href": "/treatments/", "icon": "setting" }
+    { "name": "Protocol", "href": "/protocol/", "icon": "heart" }
   ]
 }

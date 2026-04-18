@@ -37,24 +37,10 @@ export default defineConfig({
       ],
       sidebar: [
         {
-          label: "Nutrition",
+          label: "Protocol",
           collapsed: false,
           autogenerate: {
-            directory: "nutrition",
-          },
-        },
-        {
-          label: "Supplements",
-          collapsed: false,
-          autogenerate: {
-            directory: "supplements",
-          },
-        },
-        {
-          label: "Treatments",
-          collapsed: false,
-          autogenerate: {
-            directory: "treatments",
+            directory: "protocol",
           },
         },
       ],
