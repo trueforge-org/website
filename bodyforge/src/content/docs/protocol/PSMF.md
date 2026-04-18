@@ -1,5 +1,5 @@
 ---
-title: Supplements
+title: Protein-Sparing Modified Fast
 sidebar:
   order: 1
 ---

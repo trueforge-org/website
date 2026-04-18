@@ -1,10 +1,10 @@
 ---
-title: Supplements
+title: Protocol
 sidebar:
   order: 0
 ---
 
-Deep dives into supplements — what works, dosing protocols, and stacking strategies.
+Our full body hacking protocol
 
 :::caution[Work in Progress]
 Content is being added regularly. Check back soon.
