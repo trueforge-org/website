@@ -47,7 +47,23 @@ Scale weight ≠ fat loss.
 
 ## Protein Intake
 
-Protein is the **primary lean mass protection mechanism** in PSMF[^phillips2011]. Most individuals under deficit need **1.2–1.6 g/kg body weight**[^morton2018][^phillips2014][^jager2017], while lean resistance-trained individuals may need up to **~2.2 g/kg lean body mass**[^helms2014][^witard2019].
+Protein is the **primary lean mass protection mechanism** in PSMF[^phillips2011].
+
+Under normal caloric deficit conditions, research supports **1.2–1.6 g/kg body weight** for most individuals[^morton2018][^phillips2014][^jager2017], rising to **~2.2 g/kg lean body mass** for lean resistance-trained athletes[^helms2014][^witard2019]. However, these figures come from moderate deficit studies — not the severe restriction seen in PSMF.
+
+### Nitrogen balance during PSMF
+
+Nitrogen balance research specific to PSMF and fasting protocols paints a different picture. During severe energy restriction, the body's protein requirements for maintaining nitrogen equilibrium are lower than general athletic recommendations suggest:
+
+- Hoffer et al. demonstrated that nitrogen equilibrium during VLCD could be achieved at approximately **1.0 g/kg body weight**, with higher intakes providing no further nitrogen-sparing benefit[^hoffer1984].
+- Bistrian's original PSMF protocol targeted **~1.5 g/kg ideal body weight**, based on nitrogen balance data showing this was sufficient to minimize lean mass loss[^bistrian1976].
+- Vazquez & Adibi found that ketogenic VLCDs achieved better nitrogen balance than isocaloric non-ketogenic diets at the same protein intake, suggesting that the ketosis induced by PSMF itself has a protein-sparing effect[^vazquez1992].
+- Fisler et al. confirmed nitrogen economy improves during sustained VLCD, with the body adapting to conserve nitrogen over time[^fisler1982].
+- Winterer et al. used isotope-labeled nitrogen tracers to show that whole-body protein turnover decreases during protein-supplemented fasting, reducing the actual protein requirement[^winterer1980].
+
+:::note[Key Takeaway]
+Nitrogen balance research suggests **~1.0 g/kg body weight** is sufficient during PSMF for most individuals. Higher intakes do not meaningfully improve nitrogen retention during severe energy restriction. The ketogenic state itself provides additional protein-sparing effects[^vazquez1992][^hoffer1984].
+:::
 
 :::note[Key Constraint]
 Muscle protein synthesis is **saturable** — once stimulated, additional protein provides diminishing returns[^moore2019]. In PSMF, protein prevents loss (anti-catabolic role) but does NOT significantly increase muscle gain[^moore2019][^mettler2010].
@@ -222,6 +238,10 @@ Clinical risk is significant and dose-dependent[^basaria2010-abuse].
 [^morton2018]: Morton RW et al. (2018). *A systematic review, meta-analysis and meta-regression of protein supplementation and resistance training*. British Journal of Sports Medicine. <https://bjsm.bmj.com/content/52/6/376>
 [^helms2014]: Helms ER et al. (2014). *Evidence-based recommendations for natural bodybuilding contest preparation*. Journal of the International Society of Sports Nutrition. <https://jissn.biomedcentral.com/articles/10.1186/1550-2783-11-20>
 [^hall2011]: Hall KD (2011). *Predicting metabolic adaptation, body weight change, and energy intake in humans*. The Lancet. <https://doi.org/10.1016/S0140-6736(11)60849-2>
+[^hoffer1984]: Hoffer LJ et al. (1984). *Metabolic effects of very low calorie weight reduction diets*. Journal of Clinical Investigation. <https://doi.org/10.1172/JCI111516>
+[^vazquez1992]: Vazquez JA & Adibi SA (1992). *Protein sparing during treatment of obesity: ketogenic versus nonketogenic very low calorie diet*. Metabolism. <https://doi.org/10.1016/0026-0495(92)90023-4>
+[^fisler1982]: Fisler JS et al. (1982). *Nitrogen economy during very low calorie diets: quality and quantity of dietary protein*. American Journal of Clinical Nutrition. <https://doi.org/10.1093/ajcn/35.3.471>
+[^winterer1980]: Winterer JC et al. (1980). *Whole body protein turnover, studied with 15N-glycine, and muscle protein breakdown in mildly obese subjects during a protein-sparing diet and a brief total fast*. Metabolism. <https://doi.org/10.1016/0026-0495(80)90100-6>
 [^gibson2015]: Gibson AA et al. (2015). *Very low energy diets and metabolic effects*. Nutrients. <https://pmc.ncbi.nlm.nih.gov/articles/PMC4784653>
 [^astrup1990]: Astrup A et al. (1990). *Caffeine increases energy expenditure*. American Journal of Clinical Nutrition. <https://doi.org/10.1093/ajcn/51.4.759>
 [^basaria2010-abuse]: Basaria S (2010). *Androgen abuse in athletes and consequences*. Journal of Clinical Endocrinology & Metabolism. <https://doi.org/10.1210/jc.2009-2508>
