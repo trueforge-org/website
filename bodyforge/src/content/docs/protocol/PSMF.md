@@ -15,28 +15,30 @@ A Protein-Sparing Modified Fast (PSMF) is a **very-low-calorie, high-protein die
 
 Despite its efficacy, PSMF induces significant **metabolic, endocrine, and cardiovascular adaptation**, including adaptive thermogenesis, electrolyte shifts, and hormonal suppression[^8][^22][^28][^32]. These effects require structured implementation, particularly around protein intake, electrolytes, and monitoring.
 
-## 1. Physiological Basis of PSMF
+## Physiological Basis
 
 PSMF operates through three core mechanisms:
 
-### 1. Severe energy deficit
+### Severe energy deficit
 Forces reliance on stored fat for energy[^19][^20][^21]
 
-### 2. Protein preservation signal
+### Protein preservation signal
 Adequate dietary protein reduces muscle protein breakdown[^1][^13]
 
-### 3. Controlled ketosis
+### Controlled ketosis
 Low carbohydrate availability induces nutritional ketosis as an alternative fuel system[^27]
 
-However, the body responds with **adaptive counter-regulation**, including:
+:::caution[Adaptive Counter-Regulation]
+The body responds with predictable counter-adaptations:
 
 - Reduced resting metabolic rate (adaptive thermogenesis)[^8][^41]
 - Hormonal suppression (leptin, T3, testosterone)[^28][^40]
 - Increased hunger signaling[^18]
 
 These adaptations progressively reduce fat loss efficiency over time[^17].
+:::
 
-## 2. Fat Loss Dynamics: What Actually Happens
+## Fat Loss Dynamics
 
 Weight loss in PSMF occurs in two distinct phases:
 
@@ -57,7 +59,7 @@ Weight loss in PSMF occurs in two distinct phases:
 Scale weight ≠ fat loss.
 :::
 
-## 3. Protein Intake: Evidence-Based Targeting
+## Protein Intake
 
 Protein is the **primary lean mass protection mechanism** in PSMF[^9].
 
@@ -66,16 +68,9 @@ Protein is the **primary lean mass protection mechanism** in PSMF[^9].
 - Most individuals under deficit: **1.2–1.6 g/kg body weight**[^1][^10][^11]
 - Lean resistance-trained individuals: up to **~2.2 g/kg lean body mass**[^2][^12]
 
-### Key physiological constraint
-
-Muscle protein synthesis is **saturable**:
-- Once stimulated, additional protein provides diminishing returns[^13]
-
-### Functional interpretation
-
-In PSMF:
-- Protein prevents loss (anti-catabolic role)
-- It does NOT significantly increase muscle gain[^13][^44]
+:::note[Key Constraint]
+Muscle protein synthesis is **saturable** — once stimulated, additional protein provides diminishing returns[^13]. In PSMF, protein prevents loss (anti-catabolic role) but does NOT significantly increase muscle gain[^13][^44].
+:::
 
 ### Practical protein scaling
 
@@ -86,7 +81,7 @@ In PSMF:
 
 This reflects differences in lean mass proportion[^11][^12].
 
-## 4. Food Selection Strategy
+## Food Selection
 
 Diet composition is designed for:
 
@@ -104,7 +99,7 @@ Typical foods:
 
 This aligns with clinical VLCD formulations used in obesity treatment[^14][^15][^16].
 
-## 5. Electrolytes and Hydration (Critical Safety Domain)
+## Electrolytes and Hydration
 
 Electrolyte disruption is one of the most important risks in PSMF.
 
@@ -114,22 +109,24 @@ Electrolyte disruption is one of the most important risks in PSMF.
 - Reduced insulin → sodium excretion
 - Ketosis → natriuresis and fluid shifts[^26][^27]
 
-### Key risks
+:::danger[Key Risks]
+- **Hypokalemia** → arrhythmia risk[^23]
+- **Hyponatremia** → neurological symptoms[^22]
+- **Hypomagnesemia** → neuromuscular dysfunction
+:::
 
-- Hypokalemia → arrhythmia risk[^23]
-- Hyponatremia → neurological symptoms[^22]
-- Hypomagnesemia → neuromuscular dysfunction
+### Recommended daily intake
 
-### Recommended intake
-
-- Sodium: 1.5–2 g/day
-- Potassium: 700–900 mg/day
-- Magnesium: 400–500 mg/day
-- Calcium: 1–1.2 g/day[^25]
+| Electrolyte | Amount |
+|---|---|
+| Sodium | 1.5–2 g |
+| Potassium | 700–900 mg |
+| Magnesium | 400–500 mg |
+| Calcium | 1–1.2 g[^25] |
 
 Electrolyte management is a **core safety requirement in VLCD protocols**[^4][^24].
 
-## 6. Exercise During PSMF
+## Exercise During PSMF
 
 ### Resistance training
 
@@ -155,40 +152,37 @@ Recommended:
 
 High-intensity training increases recovery burden and is generally discouraged in deep deficit states[^32].
 
-## 7. Hormonal and Metabolic Adaptation
+## Hormonal and Metabolic Adaptation
 
-PSMF triggers predictable endocrine adaptations:
+PSMF triggers predictable endocrine adaptations as part of **adaptive thermogenesis**, a conserved survival mechanism[^8][^41].
 
-- ↓ Leptin → reduced energy signaling[^28]
-- ↓ T3 thyroid hormone → lower metabolic rate[^40]
-- ↓ Testosterone (men) → reduced anabolic signaling[^37][^38][^39]
-- ↑ Cortisol → stress response
+:::caution[Endocrine Shifts]
+- ↓ **Leptin** → reduced energy signaling[^28]
+- ↓ **T3 thyroid hormone** → lower metabolic rate[^40]
+- ↓ **Testosterone** (men) → reduced anabolic signaling[^37][^38][^39]
+- ↑ **Cortisol** → stress response
+:::
 
-This is part of **adaptive thermogenesis**, a conserved survival mechanism[^8][^41].
+## Cardiovascular and Clinical Risks
 
-## 8. Cardiovascular and Clinical Risks
+:::danger[Clinical Risks]
+- **Arrhythmias** from potassium imbalance[^22][^23]
+- **Hypotension** from reduced blood volume, orthostatic dizziness
+- **Hypoglycemia** risk in medicated individuals[^24]
+:::
 
-### Electrolyte-driven risks
-- Arrhythmias (potassium imbalance)[^22][^23]
-
-### Hemodynamic changes
-- Reduced blood volume → hypotension
-- Orthostatic dizziness
-
-### Glucose regulation
-- Increased hypoglycemia risk in medicated individuals[^24]
-
-## 9. Ketosis vs Ketoacidosis
+## Ketosis vs Ketoacidosis
 
 PSMF induces **nutritional ketosis**, a regulated metabolic state[^27][^42][^43].
 
-Key distinction:
-- Ketosis = adaptive, insulin-present
-- Ketoacidosis = pathological, insulin-deficient
+:::note[Key Distinction]
+- **Ketosis** = adaptive, insulin-present
+- **Ketoacidosis** = pathological, insulin-deficient
 
 PSMF is safe in healthy individuals but requires caution in metabolic disease.
+:::
 
-## 10. Gallstones and Rapid Weight Loss
+## Gallstones and Rapid Weight Loss
 
 Rapid fat loss increases gallstone risk via:
 
@@ -197,7 +191,7 @@ Rapid fat loss increases gallstone risk via:
 
 This is a well-established VLCD complication[^7].
 
-## 11. Stimulants and Pharmacology
+## Stimulants and Pharmacology
 
 ### Caffeine
 
@@ -214,25 +208,26 @@ Risks:
 Benefits:
 - Reduced lean mass loss[^37][^38]
 
-Risks:
+:::danger[Risks]
 - Hepatotoxicity
 - Dyslipidemia
 - Endocrine suppression
 - Cardiovascular remodeling risk[^39]
 
 Clinical risk is significant and dose-dependent[^6].
+:::
 
-## 12. Contraindications
+## Contraindications
 
-PSMF is not appropriate for:
-
+:::danger[Do Not Use PSMF If]
 - Pregnancy or lactation
 - Kidney, liver, or cardiovascular disease
 - Eating disorder history
 - Unmonitored metabolic medication use
 - Inability to track hydration/electrolytes[^24][^32][^33]
+:::
 
-## 13. Monitoring Protocol
+## Monitoring Protocol
 
 ### Daily
 - Fasted body weight
@@ -243,13 +238,14 @@ PSMF is not appropriate for:
 - Blood pressure
 - Electrolyte status (if available)
 
-### Stop or reassess if:
+:::danger[Stop or Reassess If]
 - Palpitations
 - Severe dizziness
 - Cognitive impairment
 - Persistent fatigue
+:::
 
-## 14. Implementation Summary
+## Implementation Summary
 
 ### Phase 1: Setup
 - Calculate protein target
@@ -265,16 +261,15 @@ PSMF is not appropriate for:
 - Track symptoms + weight trends
 - Adjust based on tolerance
 
-## 15. Key Takeaways
+## Key Takeaways
 
+:::tip[Summary]
 - PSMF is highly effective but physiologically demanding
 - Early weight loss is largely water and glycogen[^3][^20]
 - Protein requirements are moderate, not extreme[^1][^10][^13]
 - Electrolytes are a safety-critical component[^22][^23]
 - Hormonal adaptation limits sustained fat loss speed[^8][^28]
-
-:::tip
-PSMF is best understood as a **short-term clinical intervention, not a lifestyle diet**.
+- PSMF is best understood as a **short-term clinical intervention, not a lifestyle diet**
 :::
 
 [^1]: Morton RW et al. (2018). *A systematic review, meta-analysis and meta-regression of protein supplementation and resistance training*. British Journal of Sports Medicine. <https://bjsm.bmj.com/content/52/6/376>
