@@ -1,5 +1,6 @@
 ---
 title: Protein-Sparing Modified Fast
+description: Evidence-Based Clinical + Practical Guide
 sidebar:
   order: 1
 ---
@@ -7,12 +8,6 @@ sidebar:
 :::caution[Work in Progress]
 This is not fully done, please check later
 :::
-
-
-# Protein-Sparing Modified Fast (PSMF)
-## Evidence-Based Clinical + Practical Guide
-
-
 
 ## Abstract
 
@@ -22,7 +17,7 @@ Despite its efficacy, PSMF induces significant **metabolic, endocrine, and cardi
 
 
 
-# 1. Physiological Basis of PSMF
+## 1. Physiological Basis of PSMF
 
 PSMF operates through three core mechanisms:
 
@@ -45,42 +40,44 @@ These adaptations progressively reduce fat loss efficiency over time.
 
 
 
-# 2. Fat Loss Dynamics: What Actually Happens
+## 2. Fat Loss Dynamics: What Actually Happens
 
 Weight loss in PSMF occurs in two distinct phases:
 
-## Phase 1 (0–7 days)
+### Phase 1 (0–7 days)
 - Glycogen depletion  
 - Large water loss  
 - Rapid scale drop (mostly non-fat mass)
 
-## Phase 2 (steady state)
+### Phase 2 (steady state)
 - Actual fat oxidation dominates  
 
-## Realistic fat loss rates
+### Realistic fat loss rates
 
 - Obese individuals: ~0.2–0.4 kg fat/day [3,21]  
 - Lean individuals: lower due to metabolic adaptation [8,29]
 
-> Important: scale weight ≠ fat loss
+:::note[Important]
+Scale weight ≠ fat loss.
+:::
 
 
 
-# 3. Protein Intake: Evidence-Based Targeting
+## 3. Protein Intake: Evidence-Based Targeting
 
 Protein is the **primary lean mass protection mechanism** in PSMF.
 
-## Evidence synthesis
+### Evidence synthesis
 
 - Most individuals under deficit: **1.2–1.6 g/kg body weight** [1,10,11]  
 - Lean resistance-trained individuals: up to **~2.2 g/kg lean body mass** [2,12]
 
-## Key physiological constraint
+### Key physiological constraint
 
 Muscle protein synthesis is **saturable**:
 - Once stimulated, additional protein provides diminishing returns [13]
 
-## Functional interpretation
+### Functional interpretation
 
 In PSMF:
 - Protein prevents loss (anti-catabolic role)
@@ -88,10 +85,10 @@ In PSMF:
 
 
 
-## Practical protein scaling
+### Practical protein scaling
 
 | BMI | Protein strategy |
-|--||
+|---|---|
 | < 25 | ~1.0 g/kg body weight |
 | > 25 | Gradual increase per BMI unit |
 
@@ -99,7 +96,7 @@ This reflects differences in lean mass proportion [11,12].
 
 
 
-# 4. Food Selection Strategy
+## 4. Food Selection Strategy
 
 Diet composition is designed for:
 
@@ -119,23 +116,23 @@ This aligns with clinical VLCD formulations used in obesity treatment [14–16].
 
 
 
-# 5. Electrolytes and Hydration (Critical Safety Domain)
+## 5. Electrolytes and Hydration (Critical Safety Domain)
 
 Electrolyte disruption is one of the most important risks in PSMF.
 
-## Mechanisms
+### Mechanisms
 
 - Glycogen depletion → water loss  
 - Reduced insulin → sodium excretion  
 - Ketosis → natriuresis and fluid shifts [26,27]
 
-## Key risks
+### Key risks
 
 - Hypokalemia → arrhythmia risk [23]  
 - Hyponatremia → neurological symptoms [22]  
 - Hypomagnesemia → neuromuscular dysfunction  
 
-## Recommended intake
+### Recommended intake
 
 - Sodium: 1.5–2 g/day  
 - Potassium: 700–900 mg/day  
@@ -146,9 +143,9 @@ Electrolyte management is a **core safety requirement in VLCD protocols** [4,24]
 
 
 
-# 6. Exercise During PSMF
+## 6. Exercise During PSMF
 
-## Resistance training
+### Resistance training
 
 Purpose: **muscle preservation, not progression**
 
@@ -166,7 +163,7 @@ Recommended:
 
 
 
-## Cardio
+### Cardio
 
 - Low-intensity steady state preferred  
 - Supports fat oxidation  
@@ -176,7 +173,7 @@ High-intensity training increases recovery burden and is generally discouraged i
 
 
 
-# 7. Hormonal and Metabolic Adaptation
+## 7. Hormonal and Metabolic Adaptation
 
 PSMF triggers predictable endocrine adaptations:
 
@@ -189,21 +186,21 @@ This is part of **adaptive thermogenesis**, a conserved survival mechanism [8,41
 
 
 
-# 8. Cardiovascular and Clinical Risks
+## 8. Cardiovascular and Clinical Risks
 
-## Electrolyte-driven risks
+### Electrolyte-driven risks
 - Arrhythmias (potassium imbalance) [22,23]  
 
-## Hemodynamic changes
+### Hemodynamic changes
 - Reduced blood volume → hypotension  
 - Orthostatic dizziness  
 
-## Glucose regulation
+### Glucose regulation
 - Increased hypoglycemia risk in medicated individuals [24]
 
 
 
-# 9. Ketosis vs Ketoacidosis
+## 9. Ketosis vs Ketoacidosis
 
 PSMF induces **nutritional ketosis**, a regulated metabolic state [27].
 
@@ -215,7 +212,7 @@ PSMF is safe in healthy individuals but requires caution in metabolic disease.
 
 
 
-# 10. Gallstones and Rapid Weight Loss
+## 10. Gallstones and Rapid Weight Loss
 
 Rapid fat loss increases gallstone risk via:
 
@@ -226,9 +223,9 @@ This is a well-established VLCD complication [7].
 
 
 
-# 11. Stimulants and Pharmacology
+## 11. Stimulants and Pharmacology
 
-## Caffeine
+### Caffeine
 
 Effects:
 - Increased thermogenesis [36]  
@@ -240,7 +237,7 @@ Risks:
 
 
 
-## Anabolic steroids (e.g., oxandrolone)
+### Anabolic steroids (e.g., oxandrolone)
 
 Benefits:
 - Reduced lean mass loss [37,38]
@@ -255,7 +252,7 @@ Clinical risk is significant and dose-dependent [6].
 
 
 
-# 12. Contraindications
+## 12. Contraindications
 
 PSMF is not appropriate for:
 
@@ -267,18 +264,18 @@ PSMF is not appropriate for:
 
 
 
-# 13. Monitoring Protocol
+## 13. Monitoring Protocol
 
-## Daily
+### Daily
 - Fasted body weight  
 - Hydration status  
 - Subjective symptoms  
 
-## Weekly
+### Weekly
 - Blood pressure  
 - Electrolyte status (if available)  
 
-## Stop or reassess if:
+### Stop or reassess if:
 - Palpitations  
 - Severe dizziness  
 - Cognitive impairment  
@@ -286,25 +283,25 @@ PSMF is not appropriate for:
 
 
 
-# 14. Implementation Summary
+## 14. Implementation Summary
 
-## Phase 1: Setup
+### Phase 1: Setup
 - Calculate protein target  
 - Prepare lean protein sources  
 - Establish electrolyte intake  
 
-## Phase 2: Execution
+### Phase 2: Execution
 - Maintain protein intake  
 - Strict electrolyte adherence  
 - Low systemic stress activity only  
 
-## Phase 3: Monitoring
+### Phase 3: Monitoring
 - Track symptoms + weight trends  
 - Adjust based on tolerance  
 
 
 
-# 15. Key Takeaways
+## 15. Key Takeaways
 
 - PSMF is highly effective but physiologically demanding  
 - Early weight loss is largely water and glycogen [3,20]  
@@ -312,7 +309,9 @@ PSMF is not appropriate for:
 - Electrolytes are a safety-critical component [22,23]  
 - Hormonal adaptation limits sustained fat loss speed [8,28]  
 
-> PSMF is best understood as a **short-term clinical intervention, not a lifestyle diet**.
+:::tip
+PSMF is best understood as a **short-term clinical intervention, not a lifestyle diet**.
+:::
 
 
 ## References
