@@ -15,6 +15,16 @@ A Protein-Sparing Modified Fast (PSMF) is a **very-low-calorie, high-protein die
 
 Despite its efficacy, PSMF induces significant **metabolic, endocrine, and cardiovascular adaptation**, including adaptive thermogenesis, electrolyte shifts, and hormonal suppression[^muller2015][^sterns2015][^rosenbaum2008][^faria2012]. These effects require structured implementation, particularly around protein intake, electrolytes, and monitoring.
 
+## Contraindications
+
+:::danger[Do Not Use PSMF If]
+- Pregnancy or lactation
+- Kidney, liver, or cardiovascular disease
+- Eating disorder history
+- Unmonitored metabolic medication use
+- Inability to track hydration/electrolytes[^nice2014][^faria2012][^anderson1992]
+:::
+
 ## Physiological Basis
 
 PSMF operates through three core mechanisms:
@@ -228,10 +238,10 @@ PSMF is safe in healthy individuals but requires caution in metabolic disease.
 
 Rapid fat loss increases gallstone risk through increased cholesterol saturation in bile and reduced gallbladder motility[^shiffman1991][^festi2009]. This is a well-established VLCD complication[^everhart1993].
 
-## Stimulants and Pharmacology
+## Stimulants
 
 :::caution[Optional — Only When No Contraindications Are Present]
-The following agents may be used alongside PSMF under appropriate supervision.
+The following stimulants may be used alongside PSMF under appropriate supervision.
 :::
 
 **Caffeine** increases thermogenesis[^dulloo1989] and improves alertness and adherence[^astrup1990][^grgic2019], but carries risks of sleep disruption and cardiovascular stimulation[^heckman2010].
@@ -241,6 +251,23 @@ The following agents may be used alongside PSMF under appropriate supervision.
 
 :::caution[Caffeine and Cortisol]
 Caffeine stimulates the HPA axis and elevates cortisol[^lovallo2005][^beaudoin2019]. During PSMF, cortisol is already elevated from caloric restriction[^tomiyama2010]. Excessive caffeine compounds this effect, increasing muscle protein breakdown risk and worsening sleep quality. Keep doses moderate and avoid stacking with other stimulants.
+:::
+
+:::danger[Do Not Use DNP]
+2,4-Dinitrophenol (DNP) is a mitochondrial uncoupler that increases thermogenesis by dissipating the proton gradient as heat[^grundlingh2011]. While it accelerates fat loss, it has an **extremely narrow therapeutic index** — the difference between an effective dose and a lethal dose is small and unpredictable[^mcfee2004].
+
+- No antidote exists for overdose
+- Hyperthermia can be fatal and is dose-dependent
+- Cumulative toxicity increases with duration of use
+- Combined with PSMF (already metabolically stressed state), risk of adverse events is amplified
+
+DNP is not safely usable for the duration required by a PSMF cycle[^grundlingh2011][^mcfee2004].
+:::
+
+## Pharmacology
+
+:::caution[Optional — Only When No Contraindications Are Present]
+The following agents may be used alongside PSMF under appropriate supervision.
 :::
 
 **Anabolic steroids** — use **one** of the following (not both) to reduce lean mass loss[^hartgens2004][^bhasin1996]:
@@ -271,6 +298,17 @@ Clinical risk is significant and dose-dependent[^basaria2010-abuse].
 - Increase by 1 mg every 5 weeks as needed
 - Do not increase when side effects are significant
 
+:::caution[Retatrutide Risks]
+- Nausea, vomiting, and diarrhea (common, dose-dependent)
+- Pancreatitis risk (rare but serious)
+- Gallbladder events — compounded by the already elevated gallstone risk from rapid fat loss[^shiffman1991]
+- Long-term safety data is limited — retatrutide remains investigational
+:::
+
+:::note[Is Retatrutide Necessary?]
+PSMF itself naturally improves hunger signaling over time. After the initial 3–5 days, ketosis suppresses appetite via elevated ketone bodies and reduced ghrelin[^sumithran2013][^cahill2006]. Many individuals find hunger manageable without pharmacological intervention once ketosis is established. Retatrutide adds cost, side effects, and complexity — consider whether the appetite benefit justifies these trade-offs for your situation.
+:::
+
 **Creatine monohydrate** supports training performance and lean mass retention during energy restriction[^rawson2018][^branch2003].
 
 - 3–5 g/day, no loading phase required
@@ -280,27 +318,6 @@ Clinical risk is significant and dose-dependent[^basaria2010-abuse].
 
 :::note[Creatine and Scale Weight]
 Creatine draws water into muscle cells. This is intracellular water, not edema or fat. Expect a small scale increase when starting creatine during PSMF — this is a positive signal of muscle hydration, not fat gain.
-:::
-
-:::danger[Do Not Use DNP]
-2,4-Dinitrophenol (DNP) is a mitochondrial uncoupler that increases thermogenesis by dissipating the proton gradient as heat[^grundlingh2011]. While it accelerates fat loss, it has an **extremely narrow therapeutic index** — the difference between an effective dose and a lethal dose is small and unpredictable[^mcfee2004].
-
-- No antidote exists for overdose
-- Hyperthermia can be fatal and is dose-dependent
-- Cumulative toxicity increases with duration of use
-- Combined with PSMF (already metabolically stressed state), risk of adverse events is amplified
-
-DNP is not safely usable for the duration required by a PSMF cycle[^grundlingh2011][^mcfee2004].
-:::
-
-## Contraindications
-
-:::danger[Do Not Use PSMF If]
-- Pregnancy or lactation
-- Kidney, liver, or cardiovascular disease
-- Eating disorder history
-- Unmonitored metabolic medication use
-- Inability to track hydration/electrolytes[^nice2014][^faria2012][^anderson1992]
 :::
 
 ## Duration and Recovery
@@ -369,7 +386,7 @@ If further fat loss is needed, repeat: **4–8 weeks PSMF → 4 weeks recovery �
 - Strict [electrolyte adherence](#electrolytes-and-hydration)
 - [Resistance training](#exercise-during-psmf) 2–3×/week, maintenance only
 - Low-intensity cardio only — no high-intensity work
-- Apply [pharmacology](#stimulants-and-pharmacology) if appropriate (caffeine, anabolics, retatrutide)
+- Apply [stimulants](#stimulants) and [pharmacology](#pharmacology) if appropriate
 
 **Phase 3: Monitoring**
 - Follow [monitoring protocol](#monitoring-protocol) (daily weight, weekly BP/electrolytes)
