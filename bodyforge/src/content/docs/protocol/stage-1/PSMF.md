@@ -35,14 +35,42 @@ These adaptations progressively reduce fat loss efficiency over time[^tsai2006].
 
 ## Fat Loss Dynamics
 
-Weight loss in PSMF occurs in two distinct phases:
+Weight loss in PSMF occurs in three distinct phases:
 
-**Phase 1 (0–7 days):** glycogen depletion, large water loss, and rapid scale drop (mostly non-fat mass).
+**Phase 1 — Water and glycogen (days 0–7):**
+- Glycogen stores are depleted (~400–500 g), releasing ~1.5–2 kg of bound water[^hall2011]
+- Ketosis onset triggers natriuresis (sodium and water excretion)[^cahill2006][^verbalis2010]
+- Scale weight drops rapidly — mostly non-fat mass
+- **Visceral fat** mobilization begins preferentially due to its higher lipolytic sensitivity[^ross2000][^despres2006]
 
-**Phase 2 (steady state):** actual fat oxidation dominates. Obese individuals can expect ~0.2–0.4 kg fat/day[^hall2011][^hall2012], while lean individuals lose less due to metabolic adaptation[^muller2015][^leibel1995].
+**Phase 2 — Accelerated fat loss (weeks 1–4):**
+- Fat oxidation dominates energy supply
+- Obese individuals can expect ~0.2–0.4 kg fat/day[^hall2011][^hall2012]
+- Visceral fat continues to be lost disproportionately — individuals with central obesity see the largest waist circumference reductions in this phase[^chaston2007][^ross2000]
+- Subcutaneous fat mobilization begins but is slower, especially in lower-body depots[^karpe2011][^ibrahim2010]
+- Adaptive thermogenesis begins to reduce metabolic rate[^muller2015]
+
+**Phase 3 — Diminishing returns (weeks 4+):**
+- Fat loss rate slows as hormonal adaptation (leptin, T3, testosterone) accumulates[^muller2015][^leibel1995][^rosenbaum2008]
+- Remaining fat loss shifts increasingly toward **subcutaneous depots** as visceral stores are reduced[^chaston2007]
+- Lean individuals lose progressively less due to stronger counter-regulation
+- This phase defines the practical duration limit of PSMF
 
 :::note[Important]
-Scale weight ≠ fat loss.
+Scale weight ≠ fat loss. Phase 1 weight loss is predominantly water. Waist circumference is a more reliable early indicator of actual fat loss than scale weight[^ross2000].
+:::
+
+### Visceral vs subcutaneous fat
+
+Not all body fat responds equally to caloric restriction. The two primary fat depots differ in metabolic activity, health impact, and mobilization rate:
+
+- **Visceral fat** (surrounding internal organs) is more metabolically active, more insulin-sensitive, and more lipolytically responsive to catecholamines[^wajchenberg2000][^ibrahim2010]. It is preferentially mobilized during early weight loss and severe energy restriction[^despres2006][^ross2000].
+- **Subcutaneous fat** (under the skin) is less metabolically active and more resistant to mobilization, particularly in the lower body (gluteofemoral region)[^karpe2011][^ibrahim2010].
+
+PSMF, as a severe energy deficit protocol, preferentially targets **visceral fat** in the early phases[^ross2000][^chaston2007]. This is clinically significant because visceral fat is the primary driver of metabolic syndrome, insulin resistance, and cardiovascular risk[^despres2006][^wajchenberg2000].
+
+:::note[Practical Implication]
+Individuals with high visceral fat (central/abdominal obesity) will see the greatest metabolic health improvements from PSMF, even before significant subcutaneous fat loss is visible. Waist circumference is a better early progress indicator than overall body fat percentage[^ross2000][^despres2006].
 :::
 
 ## Protein Intake
@@ -249,6 +277,41 @@ Clinical risk is significant and dose-dependent[^basaria2010-abuse].
 - Inability to track hydration/electrolytes[^nice2014][^faria2012][^anderson1992]
 :::
 
+## Duration and Recovery
+
+### Maximum duration
+
+PSMF should be run for **4–8 weeks maximum** per cycle[^tsai2006][^anderson1992]. Beyond this window:
+
+- Adaptive thermogenesis significantly reduces fat loss efficiency[^muller2015][^leibel1995]
+- Hormonal suppression (leptin, T3, testosterone) becomes progressively harder to tolerate[^rosenbaum2008][^tappy2004]
+- Lean mass loss risk increases despite adequate protein[^mettler2010]
+- Psychological fatigue and adherence failure rise sharply[^sumithran2013]
+
+:::danger[Do Not Extend Beyond 8 Weeks]
+Clinical VLCD protocols consistently limit continuous use to this range. Longer durations increase risk without proportional benefit[^tsai2006][^anderson1992].
+:::
+
+### Recovery phase
+
+After each PSMF cycle, take a **minimum 4-week recovery period** at your **new maintenance calories** (not pre-diet maintenance).
+
+The recovery phase serves to:
+
+- Allow hormonal axes (leptin, thyroid, HPG) to partially normalize[^rosenbaum2008][^dulloo2012]
+- Reverse some adaptive thermogenesis by restoring energy availability[^muller2015][^trexler2014]
+- Stabilize new body weight set point before further intervention
+- Restore glycogen, hydration, and electrolyte balance
+- Recover training capacity and sleep quality
+
+:::caution[New Maintenance, Not Old Maintenance]
+Your maintenance calories are **lower** after fat loss due to reduced body mass and metabolic adaptation. Calculate new maintenance based on current weight and activity, not pre-PSMF values. Eating at old maintenance will cause rapid fat regain[^hall2016][^dulloo2012].
+:::
+
+### Cycling
+
+If further fat loss is needed, repeat: **4–8 weeks PSMF → 4 weeks recovery → reassess**. Each subsequent cycle will typically produce less fat loss than the previous one[^trexler2014].
+
 ## Monitoring Protocol
 
 ### Daily
@@ -287,6 +350,13 @@ Clinical risk is significant and dose-dependent[^basaria2010-abuse].
 - Track symptoms + weight trends
 - Watch for [hormonal adaptation](#hormonal-and-metabolic-adaptation) signs
 - Adjust based on tolerance
+- **Stop after 4–8 weeks** — do not extend beyond this window
+
+**Phase 4: Recovery**
+- Transition to [new maintenance calories](#recovery-phase) for minimum 4 weeks
+- Recalculate maintenance based on current weight
+- Restore normal training volume gradually
+- Reassess body composition before considering another cycle
 
 ## Key Takeaways
 
@@ -360,3 +430,11 @@ Clinical risk is significant and dose-dependent[^basaria2010-abuse].
 [^berger1996]: Berger JR et al. (1996). *Oxandrolone in AIDS-wasting myopathy*. AIDS. <https://doi.org/10.1097/00002030-199612000-00005>
 [^orr2004]: Orr R & Fiatarone Singh M (2004). *The anabolic androgenic steroid oxandrolone in the treatment of wasting and catabolic disorders*. Drugs. <https://doi.org/10.2165/00003495-200464070-00004>
 [^cangemi2010]: Cangemi R et al. (2010). *Long-term effects of calorie restriction on serum sex-hormone concentrations in men*. Aging Cell. <https://doi.org/10.1111/j.1474-9726.2010.00553.x>
+[^wajchenberg2000]: Wajchenberg BL (2000). *Subcutaneous and visceral adipose tissue: their relation to the metabolic syndrome*. Endocrine Reviews. <https://doi.org/10.1210/edrv.21.6.0415>
+[^ibrahim2010]: Ibrahim MM (2010). *Subcutaneous and visceral adipose tissue: structural and functional differences*. Obesity Reviews. <https://doi.org/10.1111/j.1467-789X.2009.00623.x>
+[^despres2006]: Després JP & Lemieux I (2006). *Abdominal obesity and metabolic syndrome*. Nature. <https://doi.org/10.1038/nature05488>
+[^ross2000]: Ross R et al. (2000). *Reduction in obesity and related comorbid conditions after diet-induced weight loss or exercise-induced weight loss in men*. Annals of Internal Medicine. <https://doi.org/10.7326/0003-4819-133-2-200007180-00008>
+[^karpe2011]: Karpe F & Pinnick KE (2015). *Biology of upper-body and lower-body adipose tissue*. Diabetes. <https://doi.org/10.2337/db14-1624>
+[^chaston2007]: Chaston TB & Dixon JB (2008). *Factors associated with percent change in visceral versus subcutaneous abdominal fat during weight loss*. International Journal of Obesity. <https://doi.org/10.1038/sj.ijo.0803661>
+[^dulloo2012]: Dulloo AG et al. (2012). *How dieting makes the lean fatter: from a perspective of body composition autoregulation through adipostats and proteinstats*. Obesity Reviews. <https://doi.org/10.1111/j.1467-789X.2011.00941.x>
+[^trexler2014]: Trexler ET et al. (2014). *Metabolic adaptation to weight loss: implications for the athlete*. Journal of the International Society of Sports Nutrition. <https://doi.org/10.1186/1550-2783-11-7>
