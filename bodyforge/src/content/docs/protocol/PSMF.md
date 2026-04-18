@@ -19,14 +19,9 @@ Despite its efficacy, PSMF induces significant **metabolic, endocrine, and cardi
 
 PSMF operates through three core mechanisms:
 
-### Severe energy deficit
-Forces reliance on stored fat for energy[^19][^20][^21]
-
-### Protein preservation signal
-Adequate dietary protein reduces muscle protein breakdown[^1][^13]
-
-### Controlled ketosis
-Low carbohydrate availability induces nutritional ketosis as an alternative fuel system[^27]
+- **Severe energy deficit** — forces reliance on stored fat for energy[^19][^20][^21]
+- **Protein preservation signal** — adequate dietary protein reduces muscle protein breakdown[^1][^13]
+- **Controlled ketosis** — low carbohydrate availability induces nutritional ketosis as an alternative fuel system[^27]
 
 :::caution[Adaptive Counter-Regulation]
 The body responds with predictable counter-adaptations:
@@ -42,18 +37,9 @@ These adaptations progressively reduce fat loss efficiency over time[^17].
 
 Weight loss in PSMF occurs in two distinct phases:
 
-### Phase 1 (0–7 days)
-- Glycogen depletion
-- Large water loss
-- Rapid scale drop (mostly non-fat mass)
+**Phase 1 (0–7 days):** glycogen depletion, large water loss, and rapid scale drop (mostly non-fat mass).
 
-### Phase 2 (steady state)
-- Actual fat oxidation dominates
-
-### Realistic fat loss rates
-
-- Obese individuals: ~0.2–0.4 kg fat/day[^3][^21]
-- Lean individuals: lower due to metabolic adaptation[^8][^29]
+**Phase 2 (steady state):** actual fat oxidation dominates. Obese individuals can expect ~0.2–0.4 kg fat/day[^3][^21], while lean individuals lose less due to metabolic adaptation[^8][^29].
 
 :::note[Important]
 Scale weight ≠ fat loss.
@@ -61,12 +47,7 @@ Scale weight ≠ fat loss.
 
 ## Protein Intake
 
-Protein is the **primary lean mass protection mechanism** in PSMF[^9].
-
-### Evidence synthesis
-
-- Most individuals under deficit: **1.2–1.6 g/kg body weight**[^1][^10][^11]
-- Lean resistance-trained individuals: up to **~2.2 g/kg lean body mass**[^2][^12]
+Protein is the **primary lean mass protection mechanism** in PSMF[^9]. Most individuals under deficit need **1.2–1.6 g/kg body weight**[^1][^10][^11], while lean resistance-trained individuals may need up to **~2.2 g/kg lean body mass**[^2][^12].
 
 :::note[Key Constraint]
 Muscle protein synthesis is **saturable** — once stimulated, additional protein provides diminishing returns[^13]. In PSMF, protein prevents loss (anti-catabolic role) but does NOT significantly increase muscle gain[^13][^44].
@@ -101,13 +82,7 @@ This aligns with clinical VLCD formulations used in obesity treatment[^14][^15][
 
 ## Electrolytes and Hydration
 
-Electrolyte disruption is one of the most important risks in PSMF.
-
-### Mechanisms
-
-- Glycogen depletion → water loss
-- Reduced insulin → sodium excretion
-- Ketosis → natriuresis and fluid shifts[^26][^27]
+Electrolyte disruption is one of the most important risks in PSMF. Glycogen depletion causes water loss, reduced insulin drives sodium excretion, and ketosis triggers natriuresis and fluid shifts[^26][^27].
 
 :::danger[Key Risks]
 - **Hypokalemia** → arrhythmia risk[^23]
@@ -128,11 +103,7 @@ Electrolyte management is a **core safety requirement in VLCD protocols**[^4][^2
 
 ## Exercise During PSMF
 
-### Resistance training
-
-Purpose: **muscle preservation, not progression**
-
-Evidence shows resistance training reduces lean mass loss during energy restriction[^44][^45].
+**Resistance training** serves muscle preservation, not progression[^44][^45].
 
 Constraints:
 - Reduced glycogen availability
@@ -144,13 +115,7 @@ Recommended:
 - Moderate intensity
 - Maintenance focus only
 
-### Cardio
-
-- Low-intensity steady state preferred
-- Supports fat oxidation
-- Minimizes systemic stress
-
-High-intensity training increases recovery burden and is generally discouraged in deep deficit states[^32].
+**Cardio** should be low-intensity steady state to support fat oxidation while minimizing systemic stress. High-intensity training increases recovery burden and is generally discouraged in deep deficit states[^32].
 
 ## Hormonal and Metabolic Adaptation
 
@@ -184,29 +149,13 @@ PSMF is safe in healthy individuals but requires caution in metabolic disease.
 
 ## Gallstones and Rapid Weight Loss
 
-Rapid fat loss increases gallstone risk via:
-
-- Increased cholesterol saturation in bile
-- Reduced gallbladder motility[^30][^31]
-
-This is a well-established VLCD complication[^7].
+Rapid fat loss increases gallstone risk through increased cholesterol saturation in bile and reduced gallbladder motility[^30][^31]. This is a well-established VLCD complication[^7].
 
 ## Stimulants and Pharmacology
 
-### Caffeine
+**Caffeine** increases thermogenesis[^36] and improves alertness and adherence[^5][^35], but carries risks of sleep disruption and cardiovascular stimulation[^34].
 
-Effects:
-- Increased thermogenesis[^36]
-- Improved alertness and adherence[^5][^35]
-
-Risks:
-- Sleep disruption
-- Cardiovascular stimulation[^34]
-
-### Anabolic steroids (e.g., oxandrolone)
-
-Benefits:
-- Reduced lean mass loss[^37][^38]
+**Anabolic steroids** (e.g., oxandrolone) can reduce lean mass loss[^37][^38], but carry significant risks:
 
 :::danger[Risks]
 - Hepatotoxicity
@@ -247,17 +196,15 @@ Clinical risk is significant and dose-dependent[^6].
 
 ## Implementation Summary
 
-### Phase 1: Setup
+**Phase 1: Setup**
 - Calculate protein target
 - Prepare lean protein sources
 - Establish electrolyte intake
-
-### Phase 2: Execution
+**Phase 2: Execution** 
 - Maintain protein intake
 - Strict electrolyte adherence
 - Low systemic stress activity only
-
-### Phase 3: Monitoring
+**Phase 3: Monitoring**
 - Track symptoms + weight trends
 - Adjust based on tolerance
 
