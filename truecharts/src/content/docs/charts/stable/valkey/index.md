@@ -2,14 +2,14 @@
 title: valkey
 ---
 
-![Version: 1.0.6](https://img.shields.io/badge/Version-1.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 2.0.0](https://img.shields.io/badge/Version-2.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Open source, advanced key-value store.
 
 ## Chart Sources
 
 - https://github.com/bitnami/containers/tree/main/bitnami/valkey
-- https://github.com/trueforge-org/truecharts/tree/master/charts/incubator/valkey
+- https://github.com/trueforge-org/truecharts/tree/master/charts/stable/valkey
 - https://hub.docker.com/r/bitnamisecure/valkey
 
 ## Available Documentation

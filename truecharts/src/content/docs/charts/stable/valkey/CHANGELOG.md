@@ -3,7 +3,7 @@ title: Changelog
 pagefind: false
 ---
 
-All history information can be found at [Github History](https://github.com/trueforge-org/truecharts/commits/master/charts/incubator/valkey)
+All history information can be found at [Github History](https://github.com/trueforge-org/truecharts/commits/master/charts/stable/valkey)
 
 :::tip
 
@@ -14,6 +14,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 17.15.22 • [Train: incubator]
 
 - feat: Add incubator `valkey` chart scaffolded from stable `redis` (#44984) • [`b21ce0e`](https://github.com/trueforge-org/truecharts/commit/b21ce0e1f5056e51481b8627d3813eec0b1bb9d2) • [@Copilot] (2026-02-15)
+
+## 2.0.0 • [Train: stable]
+
+- fix(valkey): move valkey to stable (#47025) • [`9f85a85`](https://github.com/trueforge-org/truecharts/commit/9f85a85f305261a87b063e504dbbf3c891dcded2) • [@Alfred Göppel] (2026-04-18)
 
 ## 1.0.6 • [Train: incubator]
 
@@ -71,8 +75,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.3.1 • [Train: incubator]
 
-- fix(helm-deps): update chart common 28.32.2 → 28.32.5 (#45514) • [`772ec1b`](https://github.com/trueforge-org/truecharts/commit/772ec1b1b4c77761674586d56cb4615b653c9699) • [@TrueCharts Bot] (2026-02-24)
 - chore(valkey): update image docker.io/bitnamisecure/valkey digest to 97260e0 (#45507) • [`7b65016`](https://github.com/trueforge-org/truecharts/commit/7b65016090b7437cf3632b70c2719fc1e60dfeb0) • [@TrueCharts Bot] (2026-02-24)
+- fix(helm-deps): update chart common 28.32.2 → 28.32.5 (#45514) • [`772ec1b`](https://github.com/trueforge-org/truecharts/commit/772ec1b1b4c77761674586d56cb4615b653c9699) • [@TrueCharts Bot] (2026-02-24)
 
 ## 0.3.0 • [Train: incubator]
 
@@ -108,8 +112,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.2 • [Train: incubator]
 
-- chore(valkey): pin image docker.io/bitnamisecure/valkey digest to 14dc12c (#44989) • [`f74af0f`](https://github.com/trueforge-org/truecharts/commit/f74af0f85c4bceaf11b7df0078ad12e15c6b3f4a) • [@TrueCharts Bot] (2026-02-15)
 - Bump version from 0.0.1 to 0.0.2 • [`96b77fa`](https://github.com/trueforge-org/truecharts/commit/96b77fa49ea4353bb67175707c3151d75e1e5d0e) • [@Kjeld Schouten] (2026-02-15)
+- chore(valkey): pin image docker.io/bitnamisecure/valkey digest to 14dc12c (#44989) • [`f74af0f`](https://github.com/trueforge-org/truecharts/commit/f74af0f85c4bceaf11b7df0078ad12e15c6b3f4a) • [@TrueCharts Bot] (2026-02-15)
 
 ## 0.0.1 • [Train: incubator]
 
