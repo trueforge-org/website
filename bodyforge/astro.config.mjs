@@ -39,9 +39,26 @@ export default defineConfig({
         {
           label: "Protocol",
           collapsed: false,
-          autogenerate: {
-            directory: "protocol",
-          },
+          items: [
+            {
+              label: "Overview",
+              slug: "protocol",
+            },
+            {
+              label: "Stage 0: Safety",
+              collapsed: true,
+              autogenerate: {
+                directory: "protocol/stage-0",
+              },
+            },
+            {
+              label: "Stage 1: Bodyweight",
+              collapsed: true,
+              autogenerate: {
+                directory: "protocol/stage-1",
+              },
+            },
+          ],
         },
       ],
     }),
