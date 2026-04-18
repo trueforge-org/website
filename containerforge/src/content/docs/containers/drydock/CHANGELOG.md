@@ -1,0 +1,96 @@
+---
+title: Changelog
+pagefind: false
+---
+
+All history information can be found at [Github History](https://github.com/trueforge-org/truecharts/commits/master/charts//drydock)
+
+:::tip
+
+If you need more than 2 scrolls to find your current version, please consider updating the chart as soon as possible.
+
+:::
+
+## 0.0.17 • [Train: ]
+
+- chore(node-dep): update node.js digest to 57a4a36 (#1478) • [`f83a675`](https://github.com/trueforge-org/truecharts/commit/f83a675f3fe4d70c33afe0fe62211e8a4c66c28d) • [@TrueCharts Bot] (2026-02-24)
+- chore: test tests (#1467) • [`6d9a63e`](https://github.com/trueforge-org/truecharts/commit/6d9a63e332da940dc8d94fb29cbd1118840cf077) • [@Kjeld Schouten] (2026-02-21)
+- feat: move to new trueforge backed container tests (#1466) • [`540a92f`](https://github.com/trueforge-org/truecharts/commit/540a92f30e737b59381922e88d19ceec21e98408) • [@Kjeld Schouten] (2026-02-20)
+- fix: replace `rolling` base image tags with pinned version tags (#1459) • [`038dbfa`](https://github.com/trueforge-org/truecharts/commit/038dbfa4d4a1ccc186506a05129f40c07cd084c3) • [@Copilot] (2026-02-20)
+- ensure healthchecks are specified on the yaml • [`20ee5dc`](https://github.com/trueforge-org/truecharts/commit/20ee5dc4fcfab07cc7e60c15160b56f914a7c88e) • [@Kjeld Schouten] (2026-02-20)
+- chore(node-dep): update node.js digest to e03554f (#1410) • [`40ff974`](https://github.com/trueforge-org/truecharts/commit/40ff9742a9f3597317f2497bd1c50b43aee32584) • [@TrueCharts Bot] (2026-02-19)
+- Ensure all app images include `container-test.yaml` at `/container-test.yaml` (#1409) • [`b73ea3e`](https://github.com/trueforge-org/truecharts/commit/b73ea3e55512041b09597b4ab20afc48e0e39945) • [@Copilot] (2026-02-19)
+- chore(node-dep): update node.js digest to 299642a (#1427) • [`58bb36a`](https://github.com/trueforge-org/truecharts/commit/58bb36a23d65e65d0cf3912dad41b1660cb23f45) • [@TrueCharts Bot] (2026-02-19)
+- chore(node-dep): update node.js digest to d02dc64 (#1439) • [`d80e16a`](https://github.com/trueforge-org/truecharts/commit/d80e16a87c187d7a4992f69b8f84569702bed1a2) • [@TrueCharts Bot] (2026-02-19)
+- and bump drydock again • [`7981839`](https://github.com/trueforge-org/truecharts/commit/7981839c2d989a01bc3e97ac43da824951a31542) • [@Kjeld Schouten] (2026-02-18)
+
+## 0.0.16 • [Train: ]
+
+- again • [`c562c68`](https://github.com/trueforge-org/truecharts/commit/c562c6899acfd389021f75add31c86ca02d97b63) • [@Kjeld Schouten] (2026-02-18)
+
+## 0.0.15 • [Train: ]
+
+- more fixes • [`02a3fb2`](https://github.com/trueforge-org/truecharts/commit/02a3fb2a7a285e4695a780e08929f56931371307) • [@Kjeld Schouten] (2026-02-18)
+
+## 0.0.14 • [Train: ]
+
+- bump again • [`87f96bb`](https://github.com/trueforge-org/truecharts/commit/87f96bb6bf0ebcc721e902103ad4b82f783ef033) • [@Kjeld Schouten] (2026-02-18)
+
+## 0.0.13 • [Train: ]
+
+- bump druydock again • [`df369dd`](https://github.com/trueforge-org/truecharts/commit/df369dda66e0d54a1d0fc44b865d0b41d677fe31) • [@Kjeld Schouten] (2026-02-18)
+
+## 0.0.12 • [Train: ]
+
+- bump drydock, again • [`2f51a6b`](https://github.com/trueforge-org/truecharts/commit/2f51a6b3d02b5c8aaa4c2f8071b16df1429599ee) • [@Kjeld Schouten] (2026-02-18)
+
+## 0.0.11 • [Train: ]
+
+- bump drydock • [`b28a37e`](https://github.com/trueforge-org/truecharts/commit/b28a37e3135c86483bd34bc6e8bf26fbec293d0d) • [@Kjeld Schouten] (2026-02-18)
+
+## 0.0.10 • [Train: ]
+
+- chore(node-dep): update node.js digest to 332d827 (#1374) • [`5abf5ee`](https://github.com/trueforge-org/truecharts/commit/5abf5ee0d71aab4ee8163395d912b32eb26f184b) • [@TrueCharts Bot] (2026-02-18)
+- chore(node-dep): update node.js digest to 4683c47 (#1388) • [`ce9c8f8`](https://github.com/trueforge-org/truecharts/commit/ce9c8f821264fe7c735118a7e13fce3d78be1c6f) • [@TrueCharts Bot] (2026-02-18)
+- chore(node-dep): update node.js digest to ec62902 (#1360) • [`f5787c1`](https://github.com/trueforge-org/truecharts/commit/f5787c1ebfc3036cdd729746a60d4a7847fc3f5e) • [@TrueCharts Bot] (2026-02-18)
+- bump drydock • [`e401075`](https://github.com/trueforge-org/truecharts/commit/e40107517fe1df1b22103800e9101b01c6e24ff5) • [@Kjeld Schouten] (2026-02-17)
+
+## 0.0.9 • [Train: ]
+
+- new drydock container • [`bffdcf3`](https://github.com/trueforge-org/truecharts/commit/bffdcf3411890d3f562fdb7974c4bd2b6e671796) • [@Kjeld Schouten] (2026-02-17)
+
+## 0.0.8 • [Train: ]
+
+- chore(node-dep): update node.js digest to c33b4f5 (#1342) • [`12148c1`](https://github.com/trueforge-org/truecharts/commit/12148c1f5339066d98af1d1d0d958b28a4c26e5e) • [@TrueCharts Bot] (2026-02-17)
+- Move back to watch by default • [`3de9aed`](https://github.com/trueforge-org/truecharts/commit/3de9aedf581e54d41329112e61916ce701987ba3) • [@Kjeld Schouten] (2026-02-17)
+- build new drydock container • [`b841688`](https://github.com/trueforge-org/truecharts/commit/b841688c420c4c0658d874de8d8b7bcf3720ebb5) • [@Kjeld Schouten] (2026-02-17)
+
+## 0.0.7 • [Train: ]
+
+- more drydock updates • [`26f7acc`](https://github.com/trueforge-org/truecharts/commit/26f7acc5f17fe6406766e95b02054e561602a1ea) • [@Kjeld Schouten] (2026-02-17)
+
+## 0.0.6 • [Train: ]
+
+- update drydock again • [`d6a693e`](https://github.com/trueforge-org/truecharts/commit/d6a693ebf9e113d55b824851bfa9556359a58a5a) • [@Kjeld Schouten] (2026-02-17)
+
+## 0.0.5 • [Train: ]
+
+- update drydock • [`979efe9`](https://github.com/trueforge-org/truecharts/commit/979efe9beb3677329f8c4facce4ee141966a4bdf) • [@Kjeld Schouten] (2026-02-17)
+
+## 0.0.4 • [Train: ]
+
+- Update docker-bake.hcl • [`72045cf`](https://github.com/trueforge-org/truecharts/commit/72045cf3e8c3f5866f6b168bc915c00ddef737e8) • [@Kjeld Schouten] (2026-02-17)
+
+## 0.0.3 • [Train: ]
+
+- chore(node-dep): update node.js digest to b003160 (#1324) • [`5862590`](https://github.com/trueforge-org/truecharts/commit/58625906762c7d05c5b928eac0c8117db489e5af) • [@TrueCharts Bot] (2026-02-17)
+- bump drydock • [`d2e91e3`](https://github.com/trueforge-org/truecharts/commit/d2e91e351f83727f8896b0a89b06d9c5fc7d819f) • [@Kjeld Schouten] (2026-02-17)
+
+## 0.0.2 • [Train: ]
+
+- bump drydock version • [`0b16ea7`](https://github.com/trueforge-org/truecharts/commit/0b16ea78b2c8d8b6aa46e54d2cbefd291956ab11) • [@Kjeld Schouten] (2026-02-17)
+- dont add custom trueforge registry to drydock • [`fc93805`](https://github.com/trueforge-org/truecharts/commit/fc93805009d36a15f20e35482f6e19f244614dff) • [@Kjeld Schouten] (2026-02-17)
+
+## 0.0.1 • [Train: ]
+
+- feat: add drydock and drydock support (#1321) • [`5da888e`](https://github.com/trueforge-org/truecharts/commit/5da888e81250e27fee04adb40cf2942995970a44) • [@Kjeld Schouten] (2026-02-17)

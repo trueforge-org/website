@@ -1,0 +1,21 @@
+---
+title: Changelog
+pagefind: false
+---
+
+All history information can be found at [Github History](https://github.com/trueforge-org/truecharts/commits/master/charts//habridge)
+
+:::tip
+
+If you need more than 2 scrolls to find your current version, please consider updating the chart as soon as possible.
+
+:::
+
+## 5.4.1 • [Train: ]
+
+- chore(java8-dep): update ghcr.io/trueforge-org/java8:8 docker digest digest to c667eac (#1798) • [`77a6149`](https://github.com/trueforge-org/truecharts/commit/77a6149bc043a748efe15530761729fa08fc5829) • [@TrueCharts Bot] (2026-04-16)
+- chore(java8-dep): update ghcr.io/trueforge-org/java8:8 docker digest digest to e2d8c38 (#1789) • [`202a787`](https://github.com/trueforge-org/truecharts/commit/202a787d6bf9b734319df6284942066cb159d05c) • [@TrueCharts Bot] (2026-04-16)
+- chore(java8-dep): update ghcr.io/trueforge-org/java8:8 docker digest digest to f5c0e9f (#1733) • [`85457da`](https://github.com/trueforge-org/truecharts/commit/85457da108a655d53dc230fcc2c388dea0db0d4d) • [@TrueCharts Bot] (2026-04-07)
+- chore(java8-dep): update ghcr.io/trueforge-org/java8:8 docker digest digest to 2912a20 (#1699) • [`4d82242`](https://github.com/trueforge-org/truecharts/commit/4d82242b7113e4a9bb16b09e134010b5152cdd02) • [@TrueCharts Bot] (2026-03-30)
+- chore(java8-dep): update ghcr.io/trueforge-org/java8:8 docker digest digest to 9365e4b (#1689) • [`b8be20b`](https://github.com/trueforge-org/truecharts/commit/b8be20b5cfd04b94c402a76036f8992cfd4a49e9) • [@TrueCharts Bot] (2026-03-29)
+- chore(java8-dep): pin ghcr.io/trueforge-org/java8 docker tag digest to 4b6fb85 (#1531) • [`900eaee`](https://github.com/trueforge-org/truecharts/commit/900eaee8c595e8b0a803f19678fef8ac8b22dbab) • [@TrueCharts Bot] (2026-02-24)

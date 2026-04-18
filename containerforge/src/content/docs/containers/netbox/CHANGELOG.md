@@ -1,0 +1,45 @@
+---
+title: Changelog
+pagefind: false
+---
+
+All history information can be found at [Github History](https://github.com/trueforge-org/truecharts/commits/master/charts//netbox)
+
+:::tip
+
+If you need more than 2 scrolls to find your current version, please consider updating the chart as soon as possible.
+
+:::
+
+## 4.5.8 • [Train: ]
+
+- chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to 43a10c5 (#1792) • [`9b745b7`](https://github.com/trueforge-org/truecharts/commit/9b745b75ce5d46ee9c44aa9c261f5884a3b0147b) • [@TrueCharts Bot] (2026-04-16)
+- fix(deps): update netbox-community/netbox v4.5.7 → v4.5.8 (#1774) • [`0566cbd`](https://github.com/trueforge-org/truecharts/commit/0566cbd85c94887881550590f7075d2129a8538a) • [@TrueCharts Bot] (2026-04-14)
+
+## 4.5.7 • [Train: ]
+
+- chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to 00bb627 (#1736) • [`c4cc46b`](https://github.com/trueforge-org/truecharts/commit/c4cc46b36ec9442cf0d62de4ea808a7764818fc9) • [@TrueCharts Bot] (2026-04-07)
+- fix(deps): update netbox-community/netbox v4.5.6 → v4.5.7 (#1722) • [`67fceaa`](https://github.com/trueforge-org/truecharts/commit/67fceaad6a9ee653efc6c5c58099f13b370bc1ad) • [@TrueCharts Bot] (2026-04-03)
+
+## 4.5.6 • [Train: ]
+
+- fix(deps): update netbox-community/netbox v4.5.5 → v4.5.6 (#1709) • [`15d2cce`](https://github.com/trueforge-org/truecharts/commit/15d2ccea8afcac1c1f59d98901115c2f11ee03be) • [@TrueCharts Bot] (2026-03-31)
+
+## 4.5.5 • [Train: ]
+
+- chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to cc5a5a3 (#1702) • [`4b64d16`](https://github.com/trueforge-org/truecharts/commit/4b64d16e8887aeb1cea5bbeda5ae75085c6c3ed3) • [@TrueCharts Bot] (2026-03-30)
+- chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to b2e5413 (#1692) • [`340e7db`](https://github.com/trueforge-org/truecharts/commit/340e7db7596f53f135db6f0555f92016958f989a) • [@TrueCharts Bot] (2026-03-29)
+- fix(deps): update netbox-community/netbox v4.5.4 → v4.5.5 (#1635) • [`09d6388`](https://github.com/trueforge-org/truecharts/commit/09d6388824eb3482fb92f559eee8951e175d2284) • [@TrueCharts Bot] (2026-03-17)
+
+## 4.5.4 • [Train: ]
+
+- fix(deps): update netbox-community/netbox v4.5.3 → v4.5.4 (#1598) • [`c4c5454`](https://github.com/trueforge-org/truecharts/commit/c4c54548c0b1c35413a460b65ca54ee87a54678d) • [@TrueCharts Bot] (2026-03-03)
+
+## 4.5.3 • [Train: ]
+
+- feat(deps): update netbox-community/netbox v4.4.10 → v4.5.3 (#1560) • [`013835f`](https://github.com/trueforge-org/truecharts/commit/013835fb1f65e5d38007df5d1c0d6b97a07b37bc) • [@TrueCharts Bot] (2026-02-24)
+- chore(python-dep): pin ghcr.io/trueforge-org/python docker tag digest to ec0d5db (#1532) • [`77a7822`](https://github.com/trueforge-org/truecharts/commit/77a78223e507d59c47a0d941f76739926629ed05) • [@TrueCharts Bot] (2026-02-24)
+
+## 4.4.10 • [Train: ]
+
+- fix(deps): update netbox-community/netbox v4.4.6 → v4.4.10 (#1546) • [`1d6c749`](https://github.com/trueforge-org/truecharts/commit/1d6c749b1c15daa3635043848b1790df7a19c966) • [@TrueCharts Bot] (2026-02-24)
