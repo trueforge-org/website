@@ -141,8 +141,41 @@ PSMF triggers predictable endocrine adaptations as part of **adaptive thermogene
 - ↓ **Leptin** → reduced energy signaling[^rosenbaum2008]
 - ↓ **T3 thyroid hormone** → lower metabolic rate[^tappy2004]
 - ↓ **Testosterone** (men) → reduced anabolic signaling[^hartgens2004][^bhasin1996][^basaria2010]
-- ↑ **Cortisol** → stress response
+- ↑ **Cortisol** → catabolic stress response[^tomiyama2010][^fichter1986]
 :::
+
+### Cortisol
+
+Severe caloric restriction reliably elevates cortisol, the primary glucocorticoid stress hormone[^tomiyama2010]. This is a direct HPA-axis response to energy deprivation and serves to mobilize glucose via gluconeogenesis — partly from muscle protein[^fichter1986].
+
+Elevated cortisol during PSMF:
+
+- Increases muscle protein breakdown (opposing the protein-sparing goal)[^simmons2016]
+- Promotes visceral fat retention and water retention[^epel2001]
+- Impairs immune function and wound healing
+- Worsens sleep quality, creating a feedback loop[^leproult1997]
+
+Cortisol typically peaks in the first 1–2 weeks and partially normalizes as the body adapts, but remains above baseline throughout severe restriction[^tomiyama2010][^fichter1986].
+
+### Sleep
+
+PSMF disrupts sleep through multiple mechanisms[^kilkus2007][^afaghi2007]:
+
+- **Low carbohydrate intake** reduces serotonin precursor (tryptophan) availability, impairing melatonin synthesis[^wurtman2003]
+- **Elevated cortisol** suppresses slow-wave (deep) sleep[^leproult1997]
+- **Hunger and catecholamine elevation** increase nocturnal arousal
+- **Electrolyte imbalances** (especially magnesium) worsen sleep architecture[^held2002]
+
+:::caution[Sleep-Cortisol Feedback Loop]
+Poor sleep further elevates cortisol[^leproult1997], which further disrupts sleep. This vicious cycle accelerates lean mass loss and impairs recovery. Prioritizing sleep hygiene is a critical — and often overlooked — component of PSMF success.
+:::
+
+Practical sleep measures during PSMF:
+
+- No caffeine past 15:00
+- Magnesium supplementation in the evening
+- Consistent sleep/wake schedule
+- Cool, dark sleep environment
 
 ## Cardiovascular and Clinical Risks
 
@@ -311,3 +344,12 @@ Clinical risk is significant and dose-dependent[^basaria2010-abuse].
 [^cahill-historical]: Cahill GF Jr. *Starvation metabolic physiology (Harvard studies)*. Historical metabolic research corpus.
 [^mettler2010]: Mettler S et al. (2010). *Protein intake during energy deficit training*. Medicine & Science in Sports & Exercise. <https://doi.org/10.1249/MSS.0b013e3181cc749e>
 [^garthe2011]: Garthe I et al. (2011). *Body composition during diet and training*. International Journal of Sport Nutrition and Exercise Metabolism. <https://doi.org/10.1123/ijsnem.21.2.87>
+[^tomiyama2010]: Tomiyama AJ et al. (2010). *Low calorie dieting increases cortisol*. Psychosomatic Medicine. <https://doi.org/10.1097/PSY.0b013e3181d9523c>
+[^fichter1986]: Fichter MM & Pirke KM (1986). *Effect of experimental and pathological weight loss upon the hypothalamo-pituitary-adrenal axis*. Psychoneuroendocrinology. <https://doi.org/10.1016/0306-4530(86)90046-6>
+[^simmons2016]: Simmons PS et al. (2016). *Increased proteolysis: effect of cortisol on amino acid metabolism*. Journal of Clinical Investigation. <https://doi.org/10.1172/JCI111482>
+[^epel2001]: Epel ES et al. (2001). *Stress and body shape: cortisol and abdominal fat*. Psychosomatic Medicine. <https://doi.org/10.1097/00006842-200109000-00002>
+[^leproult1997]: Leproult R et al. (1997). *Sleep loss results in elevation of cortisol levels the next evening*. Sleep. <https://doi.org/10.1093/sleep/20.10.865>
+[^kilkus2007]: Kilkus JM et al. (2007). *Caloric restriction and sleep*. Sleep. <https://doi.org/10.1093/sleep/30.6.735>
+[^afaghi2007]: Afaghi A et al. (2007). *High-glycemic-index carbohydrate meals shorten sleep onset*. American Journal of Clinical Nutrition. <https://doi.org/10.1093/ajcn/85.2.426>
+[^wurtman2003]: Wurtman RJ & Wurtman JJ (2003). *Carbohydrates and serotonin synthesis*. In: Fernstrom JD, ed. Nutritional Neuroscience. <https://doi.org/10.1016/S0899-9007(03)00056-9>
+[^held2002]: Held K et al. (2002). *Oral magnesium supplementation reverses age-related neuroendocrine and sleep EEG changes*. Pharmacopsychiatry. <https://doi.org/10.1055/s-2002-33195>
