@@ -11,9 +11,9 @@ This is not fully done, please check later
 
 ## Abstract
 
-A Protein-Sparing Modified Fast (PSMF) is a **very-low-calorie, high-protein dietary intervention** derived from clinical obesity treatment protocols[^blackburn1973][^bistrian1976][^drenick1969]. It produces rapid fat loss while preserving lean mass by maintaining amino acid availability during severe energy restriction.
+A Protein-Sparing Modified Fast (PSMF) is a **very-low-calorie, high-protein dietary intervention** derived from clinical obesity treatment protocols[^blackburn1973], [^bistrian1976], [^drenick1969]. It produces rapid fat loss while preserving lean mass by maintaining amino acid availability during severe energy restriction.
 
-Despite its efficacy, PSMF induces significant **metabolic, endocrine, and cardiovascular adaptation**, including adaptive thermogenesis, electrolyte shifts, and hormonal suppression[^muller2015][^sterns2015][^rosenbaum2008][^faria2012]. These effects require structured implementation, particularly around protein intake, electrolytes, and monitoring.
+Despite its efficacy, PSMF induces significant **metabolic, endocrine, and cardiovascular adaptation**, including adaptive thermogenesis, electrolyte shifts, and hormonal suppression[^muller2015], [^sterns2015], [^rosenbaum2008], [^faria2012]. These effects require structured implementation, particularly around protein intake, electrolytes, and monitoring.
 
 ## Contraindications
 
@@ -22,22 +22,22 @@ Despite its efficacy, PSMF induces significant **metabolic, endocrine, and cardi
 - Kidney, liver, or cardiovascular disease
 - Eating disorder history
 - Unmonitored metabolic medication use
-- Inability to track hydration/electrolytes[^nice2014][^faria2012][^anderson1992]
+- Inability to track hydration/electrolytes[^nice2014], [^faria2012], [^anderson1992]
 :::
 
 ## Physiological Basis
 
 PSMF operates through three core mechanisms:
 
-- **Severe energy deficit** — forces reliance on stored fat for energy[^hall2016][^thomas2013][^hall2012]
-- **Protein preservation signal** — adequate dietary protein reduces muscle protein breakdown[^morton2018][^moore2019]
+- **Severe energy deficit** — forces reliance on stored fat for energy[^hall2016], [^thomas2013], [^hall2012]
+- **Protein preservation signal** — adequate dietary protein reduces muscle protein breakdown[^morton2018], [^moore2019]
 - **Controlled ketosis** — low carbohydrate availability induces nutritional ketosis as an alternative fuel system[^cahill2006]
 
 :::caution[Adaptive Counter-Regulation]
 The body responds with predictable counter-adaptations:
 
-- Reduced resting metabolic rate (adaptive thermogenesis)[^muller2015][^muller2013]
-- Hormonal suppression (leptin, T3, testosterone)[^rosenbaum2008][^tappy2004]
+- Reduced resting metabolic rate (adaptive thermogenesis)[^muller2015], [^muller2013]
+- Hormonal suppression (leptin, T3, testosterone)[^rosenbaum2008], [^tappy2004]
 - Increased hunger signaling[^sumithran2013]
 
 These adaptations progressively reduce fat loss efficiency over time[^tsai2006].
@@ -49,19 +49,19 @@ Weight loss in PSMF occurs in three distinct phases:
 
 **Phase 1 — Water and glycogen (days 0–7):**
 - Glycogen stores are depleted (~400–500 g), releasing ~1.5–2 kg of bound water[^hall2011]
-- Ketosis onset triggers natriuresis (sodium and water excretion)[^cahill2006][^verbalis2010]
+- Ketosis onset triggers natriuresis (sodium and water excretion)[^cahill2006], [^verbalis2010]
 - Scale weight drops rapidly — mostly non-fat mass
-- **Visceral fat** mobilization begins preferentially due to its higher lipolytic sensitivity[^ross2000][^despres2006]
+- **Visceral fat** mobilization begins preferentially due to its higher lipolytic sensitivity[^ross2000], [^despres2006]
 
 **Phase 2 — Accelerated fat loss (weeks 1–4):**
 - Fat oxidation dominates energy supply
-- Obese individuals can expect ~0.2–0.4 kg fat/day[^hall2011][^hall2012]
-- Visceral fat continues to be lost disproportionately — individuals with central obesity see the largest waist circumference reductions in this phase[^chaston2007][^ross2000]
-- Subcutaneous fat mobilization begins but is slower, especially in lower-body depots[^karpe2011][^ibrahim2010]
+- Obese individuals can expect ~0.2–0.4 kg fat/day[^hall2011], [^hall2012]
+- Visceral fat continues to be lost disproportionately — individuals with central obesity see the largest waist circumference reductions in this phase[^chaston2007], [^ross2000]
+- Subcutaneous fat mobilization begins but is slower, especially in lower-body depots[^karpe2011], [^ibrahim2010]
 - Adaptive thermogenesis begins to reduce metabolic rate[^muller2015]
 
 **Phase 3 — Diminishing returns (weeks 4+):**
-- Fat loss rate slows as hormonal adaptation (leptin, T3, testosterone) accumulates[^muller2015][^leibel1995][^rosenbaum2008]
+- Fat loss rate slows as hormonal adaptation (leptin, T3, testosterone) accumulates[^muller2015], [^leibel1995], [^rosenbaum2008]
 - Remaining fat loss shifts increasingly toward **subcutaneous depots** as visceral stores are reduced[^chaston2007]
 - Lean individuals lose progressively less due to stronger counter-regulation
 - This phase defines the practical duration limit of PSMF
@@ -74,20 +74,20 @@ Scale weight ≠ fat loss. Phase 1 weight loss is predominantly water. Waist cir
 
 Not all body fat responds equally to caloric restriction. The two primary fat depots differ in metabolic activity, health impact, and mobilization rate:
 
-- **Visceral fat** (surrounding internal organs) is more metabolically active, more insulin-sensitive, and more lipolytically responsive to catecholamines[^wajchenberg2000][^ibrahim2010]. It is preferentially mobilized during early weight loss and severe energy restriction[^despres2006][^ross2000].
-- **Subcutaneous fat** (under the skin) is less metabolically active and more resistant to mobilization, particularly in the lower body (gluteofemoral region)[^karpe2011][^ibrahim2010].
+- **Visceral fat** (surrounding internal organs) is more metabolically active, more insulin-sensitive, and more lipolytically responsive to catecholamines[^wajchenberg2000], [^ibrahim2010]. It is preferentially mobilized during early weight loss and severe energy restriction[^despres2006], [^ross2000].
+- **Subcutaneous fat** (under the skin) is less metabolically active and more resistant to mobilization, particularly in the lower body (gluteofemoral region)[^karpe2011], [^ibrahim2010].
 
-PSMF, as a severe energy deficit protocol, preferentially targets **visceral fat** in the early phases[^ross2000][^chaston2007]. This is clinically significant because visceral fat is the primary driver of metabolic syndrome, insulin resistance, and cardiovascular risk[^despres2006][^wajchenberg2000].
+PSMF, as a severe energy deficit protocol, preferentially targets **visceral fat** in the early phases[^ross2000], [^chaston2007]. This is clinically significant because visceral fat is the primary driver of metabolic syndrome, insulin resistance, and cardiovascular risk[^despres2006], [^wajchenberg2000].
 
 :::note[Practical Implication]
-Individuals with high visceral fat (central/abdominal obesity) will see the greatest metabolic health improvements from PSMF, even before significant subcutaneous fat loss is visible. Waist circumference is a better early progress indicator than overall body fat percentage[^ross2000][^despres2006].
+Individuals with high visceral fat (central/abdominal obesity) will see the greatest metabolic health improvements from PSMF, even before significant subcutaneous fat loss is visible. Waist circumference is a better early progress indicator than overall body fat percentage[^ross2000], [^despres2006].
 :::
 
 ## Protein Intake
 
 Protein is the **primary lean mass protection mechanism** in PSMF[^phillips2011].
 
-Under normal caloric deficit conditions, research supports **1.2–1.6 g/kg body weight** for most individuals[^morton2018][^phillips2014][^jager2017], rising to **~2.2 g/kg lean body mass** for lean resistance-trained athletes[^helms2014][^witard2019]. However, these figures come from moderate deficit studies — not the severe restriction seen in PSMF.
+Under normal caloric deficit conditions, research supports **1.2–1.6 g/kg body weight** for most individuals[^morton2018], [^phillips2014], [^jager2017], rising to **~2.2 g/kg lean body mass** for lean resistance-trained athletes[^helms2014], [^witard2019]. However, these figures come from moderate deficit studies — not the severe restriction seen in PSMF.
 
 ### Nitrogen balance during PSMF
 
@@ -100,11 +100,11 @@ Nitrogen balance research specific to PSMF and fasting protocols paints a differ
 - Winterer et al. used isotope-labeled nitrogen tracers to show that whole-body protein turnover decreases during protein-supplemented fasting, reducing the actual protein requirement[^winterer1980].
 
 :::note[Key Takeaway]
-Nitrogen balance research suggests **~1.0 g/kg body weight** is sufficient during PSMF for most individuals. Higher intakes do not meaningfully improve nitrogen retention during severe energy restriction. The ketogenic state itself provides additional protein-sparing effects[^vazquez1992][^hoffer1984].
+Nitrogen balance research suggests **~1.0 g/kg body weight** is sufficient during PSMF for most individuals. Higher intakes do not meaningfully improve nitrogen retention during severe energy restriction. The ketogenic state itself provides additional protein-sparing effects[^vazquez1992], [^hoffer1984].
 :::
 
 :::note[Key Constraint]
-Muscle protein synthesis is **saturable** — once stimulated, additional protein provides diminishing returns[^moore2019]. In PSMF, protein prevents loss (anti-catabolic role) but does NOT significantly increase muscle gain[^moore2019][^mettler2010].
+Muscle protein synthesis is **saturable** — once stimulated, additional protein provides diminishing returns[^moore2019]. In PSMF, protein prevents loss (anti-catabolic role) but does NOT significantly increase muscle gain[^moore2019], [^mettler2010].
 :::
 
 ### Practical protein scaling
@@ -114,7 +114,7 @@ Muscle protein synthesis is **saturable** — once stimulated, additional protei
 | < 25 | ~1.0 g/kg body weight |
 | > 25 | Decrease by 0.03 g/kg body weight per BMI point above 25 |
 
-This reflects differences in lean mass proportion[^jager2017][^witard2019].
+This reflects differences in lean mass proportion[^jager2017], [^witard2019].
 
 ## Food Selection
 
@@ -132,11 +132,11 @@ Typical foods:
 - Low-fat dairy
 - Protein isolates
 
-This aligns with clinical VLCD formulations used in obesity treatment[^blackburn1973][^bistrian1976][^drenick1969].
+This aligns with clinical VLCD formulations used in obesity treatment[^blackburn1973], [^bistrian1976], [^drenick1969].
 
 ## Electrolytes and Hydration
 
-Electrolyte disruption is one of the most important risks in PSMF. Glycogen depletion causes water loss, reduced insulin drives sodium excretion, and ketosis triggers natriuresis and fluid shifts[^verbalis2010][^cahill2006].
+Electrolyte disruption is one of the most important risks in PSMF. Glycogen depletion causes water loss, reduced insulin drives sodium excretion, and ketosis triggers natriuresis and fluid shifts[^verbalis2010], [^cahill2006].
 
 :::danger[Key Risks]
 - **Hypokalemia** → arrhythmia risk[^gennari1998]
@@ -153,11 +153,11 @@ Electrolyte disruption is one of the most important risks in PSMF. Glycogen depl
 | Magnesium | 400–500 mg |
 | Calcium | 1–1.2 g[^iom2005] |
 
-Electrolyte management is a **core safety requirement in VLCD protocols**[^gibson2015][^nice2014].
+Electrolyte management is a **core safety requirement in VLCD protocols**[^gibson2015], [^nice2014].
 
 ## Exercise During PSMF
 
-**Resistance training** serves muscle preservation, not progression[^mettler2010][^garthe2011].
+**Resistance training** serves muscle preservation, not progression[^mettler2010], [^garthe2011].
 
 Constraints:
 - Reduced glycogen availability
@@ -173,13 +173,13 @@ Recommended:
 
 ## Hormonal and Metabolic Adaptation
 
-PSMF triggers predictable endocrine adaptations as part of **adaptive thermogenesis**, a conserved survival mechanism[^muller2015][^muller2013].
+PSMF triggers predictable endocrine adaptations as part of **adaptive thermogenesis**, a conserved survival mechanism[^muller2015], [^muller2013].
 
 :::caution[Endocrine Shifts]
 - ↓ **Leptin** → reduced energy signaling[^rosenbaum2008]
 - ↓ **T3 thyroid hormone** → lower metabolic rate[^tappy2004]
-- ↓ **Testosterone** (men) → reduced anabolic signaling[^hartgens2004][^bhasin1996][^basaria2010]
-- ↑ **Cortisol** → catabolic stress response[^tomiyama2010][^fichter1986]
+- ↓ **Testosterone** (men) → reduced anabolic signaling[^hartgens2004], [^bhasin1996], [^basaria2010]
+- ↑ **Cortisol** → catabolic stress response[^tomiyama2010], [^fichter1986]
 :::
 
 ### Cortisol
@@ -193,11 +193,11 @@ Elevated cortisol during PSMF:
 - Impairs immune function and wound healing
 - Worsens sleep quality, creating a feedback loop[^leproult1997]
 
-Cortisol typically peaks in the first 1–2 weeks and partially normalizes as the body adapts, but remains above baseline throughout severe restriction[^tomiyama2010][^fichter1986].
+Cortisol typically peaks in the first 1–2 weeks and partially normalizes as the body adapts, but remains above baseline throughout severe restriction[^tomiyama2010], [^fichter1986].
 
 ### Sleep
 
-PSMF disrupts sleep through multiple mechanisms[^kilkus2007][^afaghi2007]:
+PSMF disrupts sleep through multiple mechanisms[^kilkus2007], [^afaghi2007]:
 
 - **Low carbohydrate intake** reduces serotonin precursor (tryptophan) availability, impairing melatonin synthesis[^wurtman2003]
 - **Elevated cortisol** suppresses slow-wave (deep) sleep[^leproult1997]
@@ -218,14 +218,14 @@ Practical sleep measures during PSMF:
 ## Cardiovascular and Clinical Risks
 
 :::danger[Clinical Risks]
-- **Arrhythmias** from potassium imbalance[^sterns2015][^gennari1998]
+- **Arrhythmias** from potassium imbalance[^sterns2015], [^gennari1998]
 - **Hypotension** from reduced blood volume, orthostatic dizziness
 - **Hypoglycemia** risk in medicated individuals[^nice2014]
 :::
 
 ## Ketosis vs Ketoacidosis
 
-PSMF induces **nutritional ketosis**, a regulated metabolic state[^cahill2006][^jeejeebhoy2000][^cahill-historical].
+PSMF induces **nutritional ketosis**, a regulated metabolic state[^cahill2006], [^jeejeebhoy2000], [^cahill-historical].
 
 :::note[Key Distinction]
 - **Ketosis** = adaptive, insulin-present
@@ -236,7 +236,7 @@ PSMF is safe in healthy individuals but requires caution in metabolic disease.
 
 ## Gallstones and Rapid Weight Loss
 
-Rapid fat loss increases gallstone risk through increased cholesterol saturation in bile and reduced gallbladder motility[^shiffman1991][^festi2009]. This is a well-established VLCD complication[^everhart1993].
+Rapid fat loss increases gallstone risk through increased cholesterol saturation in bile and reduced gallbladder motility[^shiffman1991], [^festi2009]. This is a well-established VLCD complication[^everhart1993].
 
 ## Stimulants
 
@@ -244,13 +244,13 @@ Rapid fat loss increases gallstone risk through increased cholesterol saturation
 The following stimulants may be used alongside PSMF under appropriate supervision.
 :::
 
-**Caffeine** increases thermogenesis[^dulloo1989] and improves alertness and adherence[^astrup1990][^grgic2019], but carries risks of sleep disruption and cardiovascular stimulation[^heckman2010].
+**Caffeine** increases thermogenesis[^dulloo1989] and improves alertness and adherence[^astrup1990], [^grgic2019], but carries risks of sleep disruption and cardiovascular stimulation[^heckman2010].
 
 - 1–3× daily, 50–100 mg per dose
 - All doses between wake-up and 15:00 — no caffeine past 15:00
 
 :::caution[Caffeine and Cortisol]
-Caffeine stimulates the HPA axis and elevates cortisol[^lovallo2005][^beaudoin2019]. During PSMF, cortisol is already elevated from caloric restriction[^tomiyama2010]. Excessive caffeine compounds this effect, increasing muscle protein breakdown risk and worsening sleep quality. Keep doses moderate and avoid stacking with other stimulants.
+Caffeine stimulates the HPA axis and elevates cortisol[^lovallo2005], [^beaudoin2019]. During PSMF, cortisol is already elevated from caloric restriction[^tomiyama2010]. Excessive caffeine compounds this effect, increasing muscle protein breakdown risk and worsening sleep quality. Keep doses moderate and avoid stacking with other stimulants.
 :::
 
 :::danger[Do Not Use DNP]
@@ -261,7 +261,7 @@ Caffeine stimulates the HPA axis and elevates cortisol[^lovallo2005][^beaudoin20
 - Cumulative toxicity increases with duration of use
 - Combined with PSMF (already metabolically stressed state), risk of adverse events is amplified
 
-DNP is not safely usable for the duration required by a PSMF cycle[^grundlingh2011][^mcfee2004].
+DNP is not safely usable for the duration required by a PSMF cycle[^grundlingh2011], [^mcfee2004].
 :::
 
 ## Pharmacology
@@ -270,7 +270,7 @@ DNP is not safely usable for the duration required by a PSMF cycle[^grundlingh20
 The following agents may be used alongside PSMF under appropriate supervision.
 :::
 
-**Anabolic steroids** — use **one** of the following (not both) to reduce lean mass loss[^hartgens2004][^bhasin1996]:
+**Anabolic steroids** — use **one** of the following (not both) to reduce lean mass loss[^hartgens2004], [^bhasin1996]:
 
 - **Oxandrolone (Anavar):**
   - Men: 20 mg/day, split into two doses
@@ -279,7 +279,7 @@ The following agents may be used alongside PSMF under appropriate supervision.
   - 5 mg/day (single dose)
 
 :::note[Testosterone Suppression in Context]
-At the low doses listed above, endogenous testosterone suppression from oxandrolone or methandrostenolone is **minimal**[^berger1996][^orr2004]. Severe caloric restriction itself already significantly suppresses testosterone via the HPG axis[^cangemi2010][^rosenbaum2008] — the additional suppression from low-dose anabolics is small relative to the deficit-induced suppression already present during PSMF.
+At the low doses listed above, endogenous testosterone suppression from oxandrolone or methandrostenolone is **minimal**[^berger1996], [^orr2004]. Severe caloric restriction itself already significantly suppresses testosterone via the HPG axis[^cangemi2010], [^rosenbaum2008] — the additional suppression from low-dose anabolics is small relative to the deficit-induced suppression already present during PSMF.
 :::
 
 :::danger[Anabolic Steroid Risks]
@@ -306,10 +306,10 @@ Clinical risk is significant and dose-dependent[^basaria2010-abuse].
 :::
 
 :::note[Is Retatrutide Necessary?]
-PSMF itself naturally improves hunger signaling over time. After the initial 3–5 days, ketosis suppresses appetite via elevated ketone bodies and reduced ghrelin[^sumithran2013][^cahill2006]. Many individuals find hunger manageable without pharmacological intervention once ketosis is established. Retatrutide adds cost, side effects, and complexity — consider whether the appetite benefit justifies these trade-offs for your situation.
+PSMF itself naturally improves hunger signaling over time. After the initial 3–5 days, ketosis suppresses appetite via elevated ketone bodies and reduced ghrelin[^sumithran2013], [^cahill2006]. Many individuals find hunger manageable without pharmacological intervention once ketosis is established. Retatrutide adds cost, side effects, and complexity — consider whether the appetite benefit justifies these trade-offs for your situation.
 :::
 
-**Creatine monohydrate** supports training performance and lean mass retention during energy restriction[^rawson2018][^branch2003].
+**Creatine monohydrate** supports training performance and lean mass retention during energy restriction[^rawson2018], [^branch2003].
 
 - 3–5 g/day, no loading phase required
 - Maintains intramuscular phosphocreatine stores despite reduced caloric intake[^kreider2017]
@@ -324,15 +324,15 @@ Creatine draws water into muscle cells. This is intracellular water, not edema o
 
 ### Maximum duration
 
-PSMF should be run for **4–8 weeks maximum** per cycle[^tsai2006][^anderson1992]. Beyond this window:
+PSMF should be run for **4–8 weeks maximum** per cycle[^tsai2006], [^anderson1992]. Beyond this window:
 
-- Adaptive thermogenesis significantly reduces fat loss efficiency[^muller2015][^leibel1995]
-- Hormonal suppression (leptin, T3, testosterone) becomes progressively harder to tolerate[^rosenbaum2008][^tappy2004]
+- Adaptive thermogenesis significantly reduces fat loss efficiency[^muller2015], [^leibel1995]
+- Hormonal suppression (leptin, T3, testosterone) becomes progressively harder to tolerate[^rosenbaum2008], [^tappy2004]
 - Lean mass loss risk increases despite adequate protein[^mettler2010]
 - Psychological fatigue and adherence failure rise sharply[^sumithran2013]
 
 :::danger[Do Not Extend Beyond 8 Weeks]
-Clinical VLCD protocols consistently limit continuous use to this range. Longer durations increase risk without proportional benefit[^tsai2006][^anderson1992].
+Clinical VLCD protocols consistently limit continuous use to this range. Longer durations increase risk without proportional benefit[^tsai2006], [^anderson1992].
 :::
 
 ### Recovery phase
@@ -341,14 +341,14 @@ After each PSMF cycle, take a **minimum 4-week recovery period** at your **new m
 
 The recovery phase serves to:
 
-- Allow hormonal axes (leptin, thyroid, HPG) to partially normalize[^rosenbaum2008][^dulloo2012]
-- Reverse some adaptive thermogenesis by restoring energy availability[^muller2015][^trexler2014]
+- Allow hormonal axes (leptin, thyroid, HPG) to partially normalize[^rosenbaum2008], [^dulloo2012]
+- Reverse some adaptive thermogenesis by restoring energy availability[^muller2015], [^trexler2014]
 - Stabilize new body weight set point before further intervention
 - Restore glycogen, hydration, and electrolyte balance
 - Recover training capacity and sleep quality
 
 :::caution[New Maintenance, Not Old Maintenance]
-Your maintenance calories are **lower** after fat loss due to reduced body mass and metabolic adaptation. Calculate new maintenance based on current weight and activity, not pre-PSMF values. Eating at old maintenance will cause rapid fat regain[^hall2016][^dulloo2012].
+Your maintenance calories are **lower** after fat loss due to reduced body mass and metabolic adaptation. Calculate new maintenance based on current weight and activity, not pre-PSMF values. Eating at old maintenance will cause rapid fat regain[^hall2016], [^dulloo2012].
 :::
 
 ### Cycling
@@ -405,10 +405,10 @@ If further fat loss is needed, repeat: **4–8 weeks PSMF → 4 weeks recovery �
 
 :::tip[Summary]
 - PSMF is highly effective but physiologically demanding
-- Early weight loss is largely water and glycogen[^hall2011][^thomas2013]
-- Protein requirements are moderate, not extreme[^morton2018][^phillips2014][^moore2019]
-- Electrolytes are a safety-critical component[^sterns2015][^gennari1998]
-- Hormonal adaptation limits sustained fat loss speed[^muller2015][^rosenbaum2008]
+- Early weight loss is largely water and glycogen[^hall2011], [^thomas2013]
+- Protein requirements are moderate, not extreme[^morton2018], [^phillips2014], [^moore2019]
+- Electrolytes are a safety-critical component[^sterns2015], [^gennari1998]
+- Hormonal adaptation limits sustained fat loss speed[^muller2015], [^rosenbaum2008]
 - PSMF is best understood as a **short-term clinical intervention, not a lifestyle diet**
 :::
 
