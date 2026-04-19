@@ -15,6 +15,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - feat: Add incubator `valkey` chart scaffolded from stable `redis` (#44984) • [`b21ce0e`](https://github.com/trueforge-org/truecharts/commit/b21ce0e1f5056e51481b8627d3813eec0b1bb9d2) • [@Copilot] (2026-02-15)
 
+## 2.1.0 • [Train: stable]
+
+- feat(helm-deps): update chart common 29.0.15 → 29.1.0 (#47224) • [`ffc1341`](https://github.com/trueforge-org/truecharts/commit/ffc13416f5f8132a48149dee2ac914723c97cf1f) • [@TrueCharts Bot] (2026-04-19)
+
 ## 2.0.0 • [Train: stable]
 
 - Commit daily changes • [`371d181`](https://github.com/trueforge-org/truecharts/commit/371d1817b405cc51442b55a4b51e01e455ed9ef2) • [@TrueCharts-Bot] (2026-04-19)
