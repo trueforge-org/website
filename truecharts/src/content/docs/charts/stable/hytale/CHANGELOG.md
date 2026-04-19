@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.0.5 • [Train: stable]
 
+- Commit daily changes • [`371d181`](https://github.com/trueforge-org/truecharts/commit/371d1817b405cc51442b55a4b51e01e455ed9ef2) • [@TrueCharts-Bot] (2026-04-19)
 - chore(hytale): update image oci.trueforge.org/containerforge/hytale digest to 5053c32 (#47065) • [`a6d09d8`](https://github.com/trueforge-org/truecharts/commit/a6d09d8913c2a6a4f5d6f477a11ffbb8becf3f2e) • [@TrueCharts Bot] (2026-04-18)
 
 ## 2.0.4 • [Train: stable]
