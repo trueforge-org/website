@@ -9,8 +9,8 @@ Python script to update metadata and automatically build collections.
 ## Chart Sources
 
 - https://github.com/kometa-team/kometa
+- https://github.com/trueforge-org/containers/tree/main/apps/kometa
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/kometa
-- https://hub.docker.com/r/kometateam/kometa
 
 ## Available Documentation
 
