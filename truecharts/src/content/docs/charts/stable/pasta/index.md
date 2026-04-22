@@ -2,7 +2,7 @@
 title: pasta
 ---
 
-![Version: 13.1.0](https://img.shields.io/badge/Version-13.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.2.10](https://img.shields.io/badge/AppVersion-2.2.10-informational?style=flat-square)
+![Version: 13.1.1](https://img.shields.io/badge/Version-13.1.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.2.10](https://img.shields.io/badge/AppVersion-2.2.10-informational?style=flat-square)
 
 PASTA - Audio and Subtitle Track Changer for Plex
 
