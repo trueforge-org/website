@@ -588,7 +588,7 @@ extraTpl:
 ---
 ---
 
-![Version: 29.1.3](https://img.shields.io/badge/Version-29.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.11.0](https://img.shields.io/badge/AppVersion-1.11.0-informational?style=flat-square)
+![Version: 29.1.5](https://img.shields.io/badge/Version-29.1.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.11.0](https://img.shields.io/badge/AppVersion-1.11.0-informational?style=flat-square)
 
 Function library for TrueCharts
 
