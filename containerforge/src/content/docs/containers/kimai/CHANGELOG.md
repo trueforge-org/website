@@ -23,8 +23,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.54.0 • [Train: ]
 
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to c5a3b56 (#1796) • [`e262b17`](https://github.com/trueforge-org/truecharts/commit/e262b170c46f318a17077a5cc2f6288fba0cb4e4) • [@TrueCharts Bot] (2026-04-16)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to b91efc2 (#1786) • [`a199fd0`](https://github.com/trueforge-org/truecharts/commit/a199fd0d56a7d1e90dec4d0f324dc58c94922c4e) • [@TrueCharts Bot] (2026-04-16)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to c5a3b56 (#1796) • [`e262b17`](https://github.com/trueforge-org/truecharts/commit/e262b170c46f318a17077a5cc2f6288fba0cb4e4) • [@TrueCharts Bot] (2026-04-16)
 - feat(deps): update kimai/kimai 2.53.0 → 2.54.0 (#1771) • [`0bd933c`](https://github.com/trueforge-org/truecharts/commit/0bd933cca9083812f6140ecadab84442c34b5860) • [@TrueCharts Bot] (2026-04-13)
 
 ## 2.53.0 • [Train: ]
@@ -34,8 +34,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 2.52.0 • [Train: ]
 
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to cc82810 (#1730) • [`fba0e4c`](https://github.com/trueforge-org/truecharts/commit/fba0e4cb9838b3e432a4dc6854905fb7c09c36b0) • [@TrueCharts Bot] (2026-04-07)
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to 8f6de6a (#1685) • [`321716c`](https://github.com/trueforge-org/truecharts/commit/321716c160d4572147dcda1c8ae42f23a25ee2a5) • [@TrueCharts Bot] (2026-03-29)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to 1685c0f (#1696) • [`64d05ad`](https://github.com/trueforge-org/truecharts/commit/64d05ad1bb1da5beb109e92fc7aece41925f51ed) • [@TrueCharts Bot] (2026-03-29)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to 8f6de6a (#1685) • [`321716c`](https://github.com/trueforge-org/truecharts/commit/321716c160d4572147dcda1c8ae42f23a25ee2a5) • [@TrueCharts Bot] (2026-03-29)
 - feat(deps): update kimai/kimai 2.51.0 → 2.52.0 (#1624) • [`7cb7fc1`](https://github.com/trueforge-org/truecharts/commit/7cb7fc1dea22c9c2240292d28571ff2701fc318b) • [@TrueCharts Bot] (2026-03-17)
 
 ## 2.51.0 • [Train: ]
