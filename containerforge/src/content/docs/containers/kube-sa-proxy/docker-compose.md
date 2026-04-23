@@ -24,7 +24,8 @@ services:
     container_name: kube-sa-proxy
     restart: unless-stopped
 
-    ports: []
+    ports:
+      - "3000:3000"
 
     environment:
       PORT: "3000"

@@ -20,7 +20,7 @@ version: "3.9"
 
 services:
   renovate:
-    image: ghcr.io/trueforge-org/renovate:43.139.7
+    image: ghcr.io/trueforge-org/renovate:43.139.8
     container_name: renovate
     restart: unless-stopped
 

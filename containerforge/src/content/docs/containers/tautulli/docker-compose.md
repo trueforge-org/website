@@ -24,7 +24,8 @@ services:
     container_name: tautulli
     restart: unless-stopped
 
-    ports: []
+    ports:
+      - "8181:8181"
 
     environment:
       TAUTULLI_DOCKER: "True"

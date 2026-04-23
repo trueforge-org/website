@@ -24,7 +24,8 @@ services:
     container_name: pyload-ng
     restart: unless-stopped
 
-    ports: []
+    ports:
+      - "8000:8000"
 
     environment:
       HOME: "/config"

@@ -14,6 +14,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 0.8.3 • [Train: ]
 
 - first work on docker-compose-file generation • [`5392444`](https://github.com/trueforge-org/truecharts/commit/53924449b9d4138344b638061563b5a788f59ea1) • [@Kjeld Schouten] (2026-04-23)
+- improve settings.yaml quality • [`ba4f7a3`](https://github.com/trueforge-org/truecharts/commit/ba4f7a37bc156ef1ac9823442e179284fa5af871) • [@Kjeld Schouten] (2026-04-23)
 - fix(ubuntu): fix yaml and update ubuntu tests (#1902) • [`91b5362`](https://github.com/trueforge-org/truecharts/commit/91b5362fc0dacdd7d544f9457e5826f99a70c16f) • [@Alfred Göppel] (2026-04-19)
 - fix(containers): fix spaces to asciii -&gt; renovate errors (#1849) • [`899bc8c`](https://github.com/trueforge-org/truecharts/commit/899bc8c975e664b60ed52e85b1f84a3b07144e87) • [@Alfred Göppel] (2026-04-18)
 - fix(python-node-dep): update ghcr.io/trueforge-org/python-node docker tag 3.13.12 → 3.13.13 (#1839) • [`97e9aac`](https://github.com/trueforge-org/truecharts/commit/97e9aac448379282e64f6484827db163e9efabe3) • [@TrueCharts Bot] (2026-04-17)

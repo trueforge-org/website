@@ -24,7 +24,8 @@ services:
     container_name: nzbhydra2
     restart: unless-stopped
 
-    ports: []
+    ports:
+      - "5076:5076"
 
     environment:
       JAVA_TOOL_OPTIONS: "-Xmx256M"
