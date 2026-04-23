@@ -14,19 +14,19 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 0.0.17 • [Train: ]
 
 - improve settings.yaml quality • [`ba4f7a3`](https://github.com/trueforge-org/truecharts/commit/ba4f7a37bc156ef1ac9823442e179284fa5af871) • [@Kjeld Schouten] (2026-04-23)
-- chore(node-dep): update node.js digest to c7c4a7a (#1917) • [`9675d3a`](https://github.com/trueforge-org/truecharts/commit/9675d3ab918d736e29e80c94694f2ddd27b09470) • [@TrueCharts Bot] (2026-04-19)
 - chore(node-dep): update node.js digest to 39f32ff (#1954) • [`38a2ad8`](https://github.com/trueforge-org/truecharts/commit/38a2ad8c025074b6d12b89e9f0df9aa70de7322a) • [@TrueCharts Bot] (2026-04-19)
 - fix(ubuntu): fix yaml and update ubuntu tests (#1902) • [`91b5362`](https://github.com/trueforge-org/truecharts/commit/91b5362fc0dacdd7d544f9457e5826f99a70c16f) • [@Alfred Göppel] (2026-04-19)
+- chore(node-dep): update node.js digest to c7c4a7a (#1917) • [`9675d3a`](https://github.com/trueforge-org/truecharts/commit/9675d3ab918d736e29e80c94694f2ddd27b09470) • [@TrueCharts Bot] (2026-04-19)
 - BREAKING CHANGE(node-dep): Update Node.js 22.22.1 → 24.15.0 (#1679) • [`653f1b6`](https://github.com/trueforge-org/truecharts/commit/653f1b6a72f16b2fc7942e38b4f3ffa38b08e4aa) • [@TrueCharts Bot] (2026-04-18)
 - fix(node-dep): update node.js 22.22.0 → 22.22.1 (#1630) • [`9252537`](https://github.com/trueforge-org/truecharts/commit/9252537b16bdec72554be130c0312ab48f92ab7d) • [@TrueCharts Bot] (2026-04-18)
 - chore(node-dep): update node.js digest to 57a4a36 (#1478) • [`f83a675`](https://github.com/trueforge-org/truecharts/commit/f83a675f3fe4d70c33afe0fe62211e8a4c66c28d) • [@TrueCharts Bot] (2026-02-24)
 - chore: test tests (#1467) • [`6d9a63e`](https://github.com/trueforge-org/truecharts/commit/6d9a63e332da940dc8d94fb29cbd1118840cf077) • [@Kjeld Schouten] (2026-02-21)
+- feat: move to new trueforge backed container tests (#1466) • [`540a92f`](https://github.com/trueforge-org/truecharts/commit/540a92f30e737b59381922e88d19ceec21e98408) • [@Kjeld Schouten] (2026-02-20)
 - fix: replace `rolling` base image tags with pinned version tags (#1459) • [`038dbfa`](https://github.com/trueforge-org/truecharts/commit/038dbfa4d4a1ccc186506a05129f40c07cd084c3) • [@Copilot] (2026-02-20)
 - ensure healthchecks are specified on the yaml • [`20ee5dc`](https://github.com/trueforge-org/truecharts/commit/20ee5dc4fcfab07cc7e60c15160b56f914a7c88e) • [@Kjeld Schouten] (2026-02-20)
-- feat: move to new trueforge backed container tests (#1466) • [`540a92f`](https://github.com/trueforge-org/truecharts/commit/540a92f30e737b59381922e88d19ceec21e98408) • [@Kjeld Schouten] (2026-02-20)
-- Ensure all app images include `container-test.yaml` at `/container-test.yaml` (#1409) • [`b73ea3e`](https://github.com/trueforge-org/truecharts/commit/b73ea3e55512041b09597b4ab20afc48e0e39945) • [@Copilot] (2026-02-19)
 - chore(node-dep): update node.js digest to 299642a (#1427) • [`58bb36a`](https://github.com/trueforge-org/truecharts/commit/58bb36a23d65e65d0cf3912dad41b1660cb23f45) • [@TrueCharts Bot] (2026-02-19)
 - chore(node-dep): update node.js digest to d02dc64 (#1439) • [`d80e16a`](https://github.com/trueforge-org/truecharts/commit/d80e16a87c187d7a4992f69b8f84569702bed1a2) • [@TrueCharts Bot] (2026-02-19)
+- Ensure all app images include `container-test.yaml` at `/container-test.yaml` (#1409) • [`b73ea3e`](https://github.com/trueforge-org/truecharts/commit/b73ea3e55512041b09597b4ab20afc48e0e39945) • [@Copilot] (2026-02-19)
 - chore(node-dep): update node.js digest to e03554f (#1410) • [`40ff974`](https://github.com/trueforge-org/truecharts/commit/40ff9742a9f3597317f2497bd1c50b43aee32584) • [@TrueCharts Bot] (2026-02-19)
 - and bump drydock again • [`7981839`](https://github.com/trueforge-org/truecharts/commit/7981839c2d989a01bc3e97ac43da824951a31542) • [@Kjeld Schouten] (2026-02-18)
 
@@ -67,9 +67,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.8 • [Train: ]
 
-- chore(node-dep): update node.js digest to c33b4f5 (#1342) • [`12148c1`](https://github.com/trueforge-org/truecharts/commit/12148c1f5339066d98af1d1d0d958b28a4c26e5e) • [@TrueCharts Bot] (2026-02-17)
 - Move back to watch by default • [`3de9aed`](https://github.com/trueforge-org/truecharts/commit/3de9aedf581e54d41329112e61916ce701987ba3) • [@Kjeld Schouten] (2026-02-17)
 - build new drydock container • [`b841688`](https://github.com/trueforge-org/truecharts/commit/b841688c420c4c0658d874de8d8b7bcf3720ebb5) • [@Kjeld Schouten] (2026-02-17)
+- chore(node-dep): update node.js digest to c33b4f5 (#1342) • [`12148c1`](https://github.com/trueforge-org/truecharts/commit/12148c1f5339066d98af1d1d0d958b28a4c26e5e) • [@TrueCharts Bot] (2026-02-17)
 
 ## 0.0.7 • [Train: ]
 
@@ -89,8 +89,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.3 • [Train: ]
 
-- chore(node-dep): update node.js digest to b003160 (#1324) • [`5862590`](https://github.com/trueforge-org/truecharts/commit/58625906762c7d05c5b928eac0c8117db489e5af) • [@TrueCharts Bot] (2026-02-17)
 - bump drydock • [`d2e91e3`](https://github.com/trueforge-org/truecharts/commit/d2e91e351f83727f8896b0a89b06d9c5fc7d819f) • [@Kjeld Schouten] (2026-02-17)
+- chore(node-dep): update node.js digest to b003160 (#1324) • [`5862590`](https://github.com/trueforge-org/truecharts/commit/58625906762c7d05c5b928eac0c8117db489e5af) • [@TrueCharts Bot] (2026-02-17)
 
 ## 0.0.2 • [Train: ]
 
