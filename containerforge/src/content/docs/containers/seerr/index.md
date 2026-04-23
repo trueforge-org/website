@@ -22,7 +22,7 @@ This page contains the container reference for **seerr**, including upstream sou
 
 ## Available Documentation
 
-
+- [**Docker Compose**](./docker-compose)
 
 ---
 

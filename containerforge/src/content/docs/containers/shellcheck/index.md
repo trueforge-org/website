@@ -22,7 +22,7 @@ This page contains the container reference for **shellcheck**, including upstrea
 
 ## Available Documentation
 
-
+- [**Docker Compose**](./docker-compose)
 
 ---
 

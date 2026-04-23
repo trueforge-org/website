@@ -22,7 +22,7 @@ This page contains the container reference for **synclounge**, including upstrea
 
 ## Available Documentation
 
-
+- [**Docker Compose**](./docker-compose)
 
 ---
 

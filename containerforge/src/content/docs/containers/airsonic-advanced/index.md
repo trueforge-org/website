@@ -22,7 +22,7 @@ This page contains the container reference for **airsonic-advanced**, including 
 
 ## Available Documentation
 
-
+- [**Docker Compose**](./docker-compose)
 
 ---
 

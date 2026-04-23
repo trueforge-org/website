@@ -22,7 +22,7 @@ This page contains the container reference for **yq**, including upstream source
 
 ## Available Documentation
 
-
+- [**Docker Compose**](./docker-compose)
 
 ---
 

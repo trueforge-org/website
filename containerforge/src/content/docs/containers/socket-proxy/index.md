@@ -22,7 +22,7 @@ This page contains the container reference for **socket-proxy**, including upstr
 
 ## Available Documentation
 
-
+- [**Docker Compose**](./docker-compose)
 
 ---
 

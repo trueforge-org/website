@@ -22,7 +22,7 @@ This page contains the container reference for **syslog-ng**, including upstream
 
 ## Available Documentation
 
-
+- [**Docker Compose**](./docker-compose)
 
 ---
 

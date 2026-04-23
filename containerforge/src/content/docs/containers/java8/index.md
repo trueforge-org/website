@@ -22,7 +22,7 @@ This page contains the container reference for **java8**, including upstream sou
 
 ## Available Documentation
 
-
+- [**Docker Compose**](./docker-compose)
 
 ---
 

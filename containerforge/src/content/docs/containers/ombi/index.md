@@ -22,7 +22,7 @@ This page contains the container reference for **ombi**, including upstream sour
 
 ## Available Documentation
 
-
+- [**Docker Compose**](./docker-compose)
 
 ---
 

@@ -22,7 +22,7 @@ This page contains the container reference for **cops**, including upstream sour
 
 ## Available Documentation
 
-
+- [**Docker Compose**](./docker-compose)
 
 ---
 

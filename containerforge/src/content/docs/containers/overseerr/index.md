@@ -22,7 +22,7 @@ This page contains the container reference for **overseerr**, including upstream
 
 ## Available Documentation
 
-
+- [**Docker Compose**](./docker-compose)
 
 ---
 

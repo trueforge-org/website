@@ -22,7 +22,7 @@ This page contains the container reference for **radarr**, including upstream so
 
 ## Available Documentation
 
-
+- [**Docker Compose**](./docker-compose)
 
 ---
 

@@ -22,7 +22,7 @@ This page contains the container reference for **home-assistant**, including ups
 
 ## Available Documentation
 
-
+- [**Docker Compose**](./docker-compose)
 
 ---
 

@@ -22,7 +22,7 @@ This page contains the container reference for **adguardhome-sync**, including u
 
 ## Available Documentation
 
-
+- [**Docker Compose**](./docker-compose)
 
 ---
 

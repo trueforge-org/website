@@ -22,7 +22,7 @@ This page contains the container reference for **java11**, including upstream so
 
 ## Available Documentation
 
-
+- [**Docker Compose**](./docker-compose)
 
 ---
 

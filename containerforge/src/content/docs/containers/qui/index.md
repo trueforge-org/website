@@ -22,7 +22,7 @@ This page contains the container reference for **qui**, including upstream sourc
 
 ## Available Documentation
 
-
+- [**Docker Compose**](./docker-compose)
 
 ---
 

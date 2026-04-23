@@ -22,7 +22,7 @@ This page contains the container reference for **openvscode-server**, including 
 
 ## Available Documentation
 
-
+- [**Docker Compose**](./docker-compose)
 
 ---
 

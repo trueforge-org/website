@@ -22,7 +22,7 @@ This page contains the container reference for **sickchill**, including upstream
 
 ## Available Documentation
 
-
+- [**Docker Compose**](./docker-compose)
 
 ---
 

@@ -22,7 +22,7 @@ This page contains the container reference for **sickgear**, including upstream 
 
 ## Available Documentation
 
-
+- [**Docker Compose**](./docker-compose)
 
 ---
 

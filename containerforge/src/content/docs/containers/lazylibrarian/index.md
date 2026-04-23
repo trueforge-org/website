@@ -22,7 +22,7 @@ This page contains the container reference for **lazylibrarian**, including upst
 
 ## Available Documentation
 
-
+- [**Docker Compose**](./docker-compose)
 
 ---
 

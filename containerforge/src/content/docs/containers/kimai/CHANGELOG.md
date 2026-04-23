@@ -13,7 +13,6 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.55.0 • [Train: ]
 
-- first work on docker-compose-file generation • [`5392444`](https://github.com/trueforge-org/truecharts/commit/53924449b9d4138344b638061563b5a788f59ea1) • [@Kjeld Schouten] (2026-04-23)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to 8b0b1f0 (#1905) • [`20a527b`](https://github.com/trueforge-org/truecharts/commit/20a527bd40e7ba2654b000ee00636a54cd8e42e9) • [@TrueCharts Bot] (2026-04-19)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to bec52e9 (#1929) • [`5d334f4`](https://github.com/trueforge-org/truecharts/commit/5d334f478dcb81a0f8560e9c158c650cd1a6d8f0) • [@TrueCharts Bot] (2026-04-19)
 - fix(ubuntu): fix yaml and update ubuntu tests (#1902) • [`91b5362`](https://github.com/trueforge-org/truecharts/commit/91b5362fc0dacdd7d544f9457e5826f99a70c16f) • [@Alfred Göppel] (2026-04-19)
@@ -46,8 +45,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.49.0 • [Train: ]
 
-- feat(deps): update kimai/kimai 2.43.0 → 2.49.0 (#1570) • [`1f4744f`](https://github.com/trueforge-org/truecharts/commit/1f4744fedf5a922433f99b812837983b3cc2cad6) • [@TrueCharts Bot] (2026-02-24)
 - chore(ubuntu-dep): pin ghcr.io/trueforge-org/ubuntu docker tag digest to 1c87476 (#1533) • [`fa9215c`](https://github.com/trueforge-org/truecharts/commit/fa9215ca9fa8fc6f7118ab176ac04c2dd9f4d0a2) • [@TrueCharts Bot] (2026-02-24)
+- feat(deps): update kimai/kimai 2.43.0 → 2.49.0 (#1570) • [`1f4744f`](https://github.com/trueforge-org/truecharts/commit/1f4744fedf5a922433f99b812837983b3cc2cad6) • [@TrueCharts Bot] (2026-02-24)
 
 ## 2.43.0 • [Train: ]
 

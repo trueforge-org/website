@@ -22,7 +22,7 @@ This page contains the container reference for **nzbhydra2**, including upstream
 
 ## Available Documentation
 
-
+- [**Docker Compose**](./docker-compose)
 
 ---
 

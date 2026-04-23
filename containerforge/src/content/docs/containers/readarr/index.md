@@ -22,7 +22,7 @@ This page contains the container reference for **readarr**, including upstream s
 
 ## Available Documentation
 
-
+- [**Docker Compose**](./docker-compose)
 
 ---
 
