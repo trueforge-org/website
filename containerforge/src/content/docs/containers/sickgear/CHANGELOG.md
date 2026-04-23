@@ -11,6 +11,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2026.4.23 • [Train: ]
+
+- fix(ubuntu): fix yaml and update ubuntu tests (#1902) • [`91b5362`](https://github.com/trueforge-org/truecharts/commit/91b5362fc0dacdd7d544f9457e5826f99a70c16f) • [@Alfred Göppel] (2026-04-19)
+- fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.13.12 → 3.13.13 (#1833) • [`04634f7`](https://github.com/trueforge-org/truecharts/commit/04634f7182dd54f832c43cd9506fde5364b5ec1f) • [@TrueCharts Bot] (2026-04-18)
+
 ## 2026.4.17 • [Train: ]
 
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to 43a10c5 (#1792) • [`9b745b7`](https://github.com/trueforge-org/truecharts/commit/9b745b75ce5d46ee9c44aa9c261f5884a3b0147b) • [@TrueCharts Bot] (2026-04-16)

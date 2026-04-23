@@ -13,6 +13,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.8.0 • [Train: ]
 
+- fix(ubuntu): fix yaml and update ubuntu tests (#1902) • [`91b5362`](https://github.com/trueforge-org/truecharts/commit/91b5362fc0dacdd7d544f9457e5826f99a70c16f) • [@Alfred Göppel] (2026-04-19)
+- fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.13.12 → 3.13.13 (#1833) • [`04634f7`](https://github.com/trueforge-org/truecharts/commit/04634f7182dd54f832c43cd9506fde5364b5ec1f) • [@TrueCharts Bot] (2026-04-18)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to 43a10c5 (#1792) • [`9b745b7`](https://github.com/trueforge-org/truecharts/commit/9b745b75ce5d46ee9c44aa9c261f5884a3b0147b) • [@TrueCharts Bot] (2026-04-16)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.13.12 docker digest digest to 00bb627 (#1736) • [`c4cc46b`](https://github.com/trueforge-org/truecharts/commit/c4cc46b36ec9442cf0d62de4ea808a7764818fc9) • [@TrueCharts Bot] (2026-04-07)
 - feat(deps): update babybuddy/babybuddy v2.7.1 → v2.8.0 (#1708) • [`14733a6`](https://github.com/trueforge-org/truecharts/commit/14733a693f741ebae83ae2ddcd3de3b41d187dcd) • [@TrueCharts Bot] (2026-03-31)
