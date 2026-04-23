@@ -3,6 +3,7 @@ import StarlightPage from "@astrojs/starlight/components/StarlightPage.astro";
 import { Card } from "@astrojs/starlight/components";
 import CardGrid from "../../../shared/src/components/CardGrid.astro";
 import ChartIcons from "../../../shared/src/components/multi-icons/ChartIcons.astro";
+import chartsData from "../assets/charts.json";
 import { AnimatedHeroValue } from "../../../shared/src/components/CustomHero.astro";
 ---
 
@@ -78,7 +79,7 @@ import { AnimatedHeroValue } from "../../../shared/src/components/CustomHero.ast
 
   <br />
 
-  <ChartIcons />
+  <ChartIcons data={chartsData} />
 
   <br />
 

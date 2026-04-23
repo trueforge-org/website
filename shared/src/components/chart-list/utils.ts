@@ -1,5 +1,3 @@
-import defaultData from "../../assets/charts.json";
-
 export type ChartListChart = {
   name: string;
   description?: string;
@@ -18,8 +16,14 @@ export type ChartListData = {
   trains: ChartListTrain[];
 };
 
-const resolveData = (data?: ChartListData): ChartListData =>
-  data ?? (defaultData as unknown as ChartListData);
+const resolveData = (data?: ChartListData): ChartListData => {
+  if (!data) {
+    throw new Error(
+      "chart-list utils: a `data` prop is required (no default dataset is bundled in shared)."
+    );
+  }
+  return data;
+};
 
 export const normalizeTrainName = (train: string) => {
   return train.toLowerCase();

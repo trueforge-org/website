@@ -1,11 +1,17 @@
 ---
 import { getContributors, getCharts } from "./utils";
+import type { ChartListData } from "../chart-list/utils";
 
 import Icons from "./Icons.astro";
 import Title from "./Title.astro";
 
+interface Props {
+  data: ChartListData;
+}
+
+const { data } = Astro.props;
 const people = getContributors();
-const charts = getCharts();
+const charts = getCharts(data);
 ---
 
 <!-- Charts -->

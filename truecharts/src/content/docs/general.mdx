@@ -8,6 +8,7 @@ import CardGrid from "../../../../shared/src/components/CardGrid.astro";
 import { Card } from "@astrojs/starlight/components";
 import { Icon } from "@astrojs/starlight/components";
 import ChartIcons from "../../../../shared/src/components/multi-icons/ChartIcons.astro";
+import chartsData from "../../assets/charts.json";
 
 ## Introduction to TrueCharts
 
@@ -135,4 +136,4 @@ TrueCharts fosters a community-driven environment where contributions are encour
     </Card>
   </CardGrid>
 
-  <ChartIcons />
+  <ChartIcons data={chartsData} />

@@ -1,5 +1,6 @@
 import { contributors } from "../../assets/contributors.json";
 import { getChartsFromTrain, getTrains } from "../chart-list/utils";
+import type { ChartListData } from "../chart-list/utils";
 
 // Contributors
 const genContribImageName = (url: string) => {
@@ -37,12 +38,14 @@ export const getChartImageUrl = (name: string) => {
   return `/img/hotlink-ok/chart-icons-small/${name}.webp`;
 };
 
-export const getCharts = () => {
-  const trains = getTrains();
-  const charts = trains.map((train) => getChartsFromTrain(train)).flat();
-  return charts.map((c) => ({
-    id: c.name,
-    img: getChartImageUrl(c.name),
-    url: c.link,
-  }));
+export const getCharts = (data: ChartListData) => {
+  const trains = getTrains(data);
+  const charts = trains.map((train) => getChartsFromTrain(train, data)).flat();
+  return charts
+    .filter((c) => !!c.link)
+    .map((c) => ({
+      id: c.name,
+      img: c.icon ?? getChartImageUrl(c.name),
+      url: c.link as string,
+    }));
 };

@@ -3,6 +3,7 @@ import StarlightPage from "@astrojs/starlight/components/StarlightPage.astro";
 import { Card } from "@astrojs/starlight/components";
 import CardGrid from "../../../shared/src/components/CardGrid.astro";
 import ContainerIcons from "../../../shared/src/components/multi-icons/ContainerIcons.astro";
+import containersData from "../assets/containers";
 import { LogoHeroValue } from "../../../shared/src/components/CustomHero.astro";
 ---
 
@@ -107,5 +108,5 @@ import { LogoHeroValue } from "../../../shared/src/components/CustomHero.astro";
 
   <br />
 
-  <ContainerIcons />
+  <ContainerIcons data={containersData} />
 </StarlightPage>

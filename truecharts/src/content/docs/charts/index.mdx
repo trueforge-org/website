@@ -14,7 +14,8 @@ TrueCharts has multiple "trains", or branches of charts which you can choose to 
 import TrainList from "../../../../../shared/src/components/chart-list/TrainList.astro";
 import Filter from "../../../../../shared/src/components/chart-list/Filter.astro";
 import AllCharts from "../../../../../shared/src/components/chart-list/AllCharts.astro";
+import chartsData from "../../../assets/charts.json";
 
-<TrainList />
-<Filter />
-<AllCharts />
+<TrainList data={chartsData} />
+<Filter data={chartsData} />
+<AllCharts data={chartsData} />
