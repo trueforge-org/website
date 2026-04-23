@@ -4,6 +4,18 @@ title: mariadb
 
 ![Version: 11.4.8-r0](https://img.shields.io/badge/Version-11.4.8-r0-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
+## Overview
+
+This page contains the container reference for **mariadb**, including upstream source links, available documentation, and app-specific notes.
+
+## Metadata
+
+| Field | Value |
+| --- | --- |
+| App | mariadb |
+| Version | 11.4.8-r0 |
+| License | AGPL--3.0--or--later |
+
 ## Source
 
 - https://mariadb.org/
@@ -13,5 +25,7 @@ title: mariadb
 
 
 ---
+
+## App Notes
 
 

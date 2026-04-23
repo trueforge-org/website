@@ -4,6 +4,18 @@ title: kube-sa-proxy
 
 ![Version: v1.30.2](https://img.shields.io/badge/Version-v1.30.2-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
+## Overview
+
+This page contains the container reference for **kube-sa-proxy**, including upstream source links, available documentation, and app-specific notes.
+
+## Metadata
+
+| Field | Value |
+| --- | --- |
+| App | kube-sa-proxy |
+| Version | v1.30.2 |
+| License | AGPL--3.0--or--later |
+
 ## Source
 
 - https://github.com/Jackett/Jackett
@@ -13,6 +25,8 @@ title: kube-sa-proxy
 
 
 ---
+
+## App Notes
 
 ## Readme
 

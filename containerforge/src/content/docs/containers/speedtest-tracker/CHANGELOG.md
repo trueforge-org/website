@@ -20,8 +20,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.13.12 • [Train: ]
 
-- BREAKING CHANGE(node-dep): Update Node.js 22.22.1 → 24.15.0 (#1679) • [`653f1b6`](https://github.com/trueforge-org/truecharts/commit/653f1b6a72f16b2fc7942e38b4f3ffa38b08e4aa) • [@TrueCharts Bot] (2026-04-18)
 - fix(node-dep): update node.js 22.22.0 → 22.22.1 (#1630) • [`9252537`](https://github.com/trueforge-org/truecharts/commit/9252537b16bdec72554be130c0312ab48f92ab7d) • [@TrueCharts Bot] (2026-04-18)
+- BREAKING CHANGE(node-dep): Update Node.js 22.22.1 → 24.15.0 (#1679) • [`653f1b6`](https://github.com/trueforge-org/truecharts/commit/653f1b6a72f16b2fc7942e38b4f3ffa38b08e4aa) • [@TrueCharts Bot] (2026-04-18)
 - fix(deps): update alexjustesen/speedtest-tracker v1.13.11 → v1.13.12 (#1677) • [`a19e888`](https://github.com/trueforge-org/truecharts/commit/a19e888959f53635f5f6cca6bf1bfbfb918bcb0f) • [@TrueCharts Bot] (2026-03-27)
 
 ## 1.13.11 • [Train: ]
@@ -30,5 +30,5 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.13.10 • [Train: ]
 
-- chore(node-dep): update node.js digest to 57a4a36 (#1478) • [`f83a675`](https://github.com/trueforge-org/truecharts/commit/f83a675f3fe4d70c33afe0fe62211e8a4c66c28d) • [@TrueCharts Bot] (2026-02-24)
 - feat(deps): update alexjustesen/speedtest-tracker v1.7.4 → v1.13.10 (#1549) • [`4c9d051`](https://github.com/trueforge-org/truecharts/commit/4c9d0513dfcf2ea21a11e79644d79797eb311a74) • [@TrueCharts Bot] (2026-02-24)
+- chore(node-dep): update node.js digest to 57a4a36 (#1478) • [`f83a675`](https://github.com/trueforge-org/truecharts/commit/f83a675f3fe4d70c33afe0fe62211e8a4c66c28d) • [@TrueCharts Bot] (2026-02-24)

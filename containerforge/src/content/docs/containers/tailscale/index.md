@@ -4,6 +4,18 @@ title: tailscale
 
 ![Version: v1.96.5](https://img.shields.io/badge/Version-v1.96.5-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
+## Overview
+
+This page contains the container reference for **tailscale**, including upstream source links, available documentation, and app-specific notes.
+
+## Metadata
+
+| Field | Value |
+| --- | --- |
+| App | tailscale |
+| Version | v1.96.5 |
+| License | AGPL--3.0--or--later |
+
 ## Source
 
 - https://github.com/tailscale/tailscale
@@ -13,5 +25,7 @@ title: tailscale
 
 
 ---
+
+## App Notes
 
 

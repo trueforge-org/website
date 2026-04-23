@@ -4,6 +4,18 @@ title: speedtest-tracker
 
 ![Version: 1.14.0](https://img.shields.io/badge/Version-1.14.0-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
+## Overview
+
+This page contains the container reference for **speedtest-tracker**, including upstream source links, available documentation, and app-specific notes.
+
+## Metadata
+
+| Field | Value |
+| --- | --- |
+| App | speedtest-tracker |
+| Version | 1.14.0 |
+| License | AGPL--3.0--or--later |
+
 ## Source
 
 - https://github.com/alexjustesen/speedtest-tracker
@@ -13,5 +25,7 @@ title: speedtest-tracker
 
 
 ---
+
+## App Notes
 
 
