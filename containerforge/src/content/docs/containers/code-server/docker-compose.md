@@ -20,7 +20,7 @@ version: "3.9"
 
 services:
   code-server:
-    image: ghcr.io/trueforge-org/code-server:4.117.0
+    image: ghcr.io/trueforge-org/code-server:4.116.0
     container_name: code-server
     restart: unless-stopped
 
