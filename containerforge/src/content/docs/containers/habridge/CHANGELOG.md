@@ -14,6 +14,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 5.4.1 • [Train: ]
 
 - improve settings.yaml quality • [`ba4f7a3`](https://github.com/trueforge-org/truecharts/commit/ba4f7a37bc156ef1ac9823442e179284fa5af871) • [@Kjeld Schouten] (2026-04-23)
+- chore(java8-dep): update ghcr.io/trueforge-org/java8:8 docker digest digest to 0185c5b (#2057) • [`0fc64bb`](https://github.com/trueforge-org/truecharts/commit/0fc64bb41c6f2b12dcba41c20373a94a0562380c) • [@TrueCharts Bot] (2026-04-23)
 - first work on docker-compose-file generation • [`5392444`](https://github.com/trueforge-org/truecharts/commit/53924449b9d4138344b638061563b5a788f59ea1) • [@Kjeld Schouten] (2026-04-23)
 - chore(java8-dep): update ghcr.io/trueforge-org/java8:8 docker digest digest to faaafad (#2038) • [`318ce63`](https://github.com/trueforge-org/truecharts/commit/318ce6324c9aae72036f992bfb97efa6334b8bf2) • [@TrueCharts Bot] (2026-04-23)
 - fix(ubuntu): fix yaml and update ubuntu tests (#1902) • [`91b5362`](https://github.com/trueforge-org/truecharts/commit/91b5362fc0dacdd7d544f9457e5826f99a70c16f) • [@Alfred Göppel] (2026-04-19)
