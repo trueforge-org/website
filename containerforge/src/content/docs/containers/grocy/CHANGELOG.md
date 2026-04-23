@@ -23,5 +23,5 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - BREAKING CHANGE(node-dep): Update Node.js 22.22.1 → 24.15.0 (#1679) • [`653f1b6`](https://github.com/trueforge-org/truecharts/commit/653f1b6a72f16b2fc7942e38b4f3ffa38b08e4aa) • [@TrueCharts Bot] (2026-04-18)
 - fix(node-dep): update node.js 22.22.0 → 22.22.1 (#1630) • [`9252537`](https://github.com/trueforge-org/truecharts/commit/9252537b16bdec72554be130c0312ab48f92ab7d) • [@TrueCharts Bot] (2026-04-18)
-- feat: move lots of containers to apps/ (#1529) • [`26e6b8a`](https://github.com/trueforge-org/truecharts/commit/26e6b8a6eb26be79c9b7cd43baf01d31dde7cec5) • [@Kjeld Schouten] (2026-02-24)
 - chore(node-dep): update node.js digest to 57a4a36 (#1478) • [`f83a675`](https://github.com/trueforge-org/truecharts/commit/f83a675f3fe4d70c33afe0fe62211e8a4c66c28d) • [@TrueCharts Bot] (2026-02-24)
+- feat: move lots of containers to apps/ (#1529) • [`26e6b8a`](https://github.com/trueforge-org/truecharts/commit/26e6b8a6eb26be79c9b7cd43baf01d31dde7cec5) • [@Kjeld Schouten] (2026-02-24)
