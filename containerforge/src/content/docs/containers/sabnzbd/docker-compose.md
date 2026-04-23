@@ -24,7 +24,8 @@ services:
     container_name: sabnzbd
     restart: unless-stopped
 
-    ports: []
+    ports:
+      - "8080:8080"
 
     environment:
       SABNZBD__ADDRESS: "[::]"

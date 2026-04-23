@@ -24,7 +24,8 @@ services:
     container_name: smartctl-exporter
     restart: unless-stopped
 
-    ports: []
+    ports:
+      - "9633:9633"
 
     environment: {}
 

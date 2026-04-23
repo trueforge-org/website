@@ -24,7 +24,8 @@ services:
     container_name: theme-park
     restart: unless-stopped
 
-    ports: []
+    ports:
+      - "8080:8080"
 
     environment:
       NGINX_ENTRYPOINT_WORKER_PROCESSES_AUTOTUNE: "1"

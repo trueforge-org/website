@@ -25,7 +25,8 @@ services:
     restart: unless-stopped
 
     ports:
-      - "7576:7576"
+      - "7476:7476"
+      - "7476:7476/udp"
 
     environment:
       WEBUI_PORTS: "7476/tcp,7476/udp"

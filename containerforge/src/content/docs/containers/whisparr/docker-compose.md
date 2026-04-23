@@ -24,7 +24,8 @@ services:
     container_name: whisparr
     restart: unless-stopped
 
-    ports: []
+    ports:
+      - "6969:6969"
 
     environment:
       COMPlus_EnableDiagnostics: "0"

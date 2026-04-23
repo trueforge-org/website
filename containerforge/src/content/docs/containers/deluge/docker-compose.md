@@ -24,7 +24,8 @@ services:
     container_name: deluge
     restart: unless-stopped
 
-    ports: []
+    ports:
+      - "58846:58846"
 
     environment:
       DELUGE_BIN: "deluged"

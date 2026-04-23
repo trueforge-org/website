@@ -20,7 +20,7 @@ version: "3.9"
 
 services:
   mstream:
-    image: ghcr.io/trueforge-org/mstream:6.4.4
+    image: ghcr.io/trueforge-org/mstream:6.5.1
     container_name: mstream
     restart: unless-stopped
 

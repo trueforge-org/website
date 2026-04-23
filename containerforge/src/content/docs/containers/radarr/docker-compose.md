@@ -24,7 +24,8 @@ services:
     container_name: radarr
     restart: unless-stopped
 
-    ports: []
+    ports:
+      - "7878:7878"
 
     environment:
       DOTNET_EnableDiagnostics: "0"
