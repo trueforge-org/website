@@ -22,8 +22,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to 8b0b1f0 (#1905) • [`20a527b`](https://github.com/trueforge-org/truecharts/commit/20a527bd40e7ba2654b000ee00636a54cd8e42e9) • [@TrueCharts Bot] (2026-04-19)
 - fix(ubuntu): fix yaml and update ubuntu tests (#1902) • [`91b5362`](https://github.com/trueforge-org/truecharts/commit/91b5362fc0dacdd7d544f9457e5826f99a70c16f) • [@Alfred Göppel] (2026-04-19)
 - fix(golang-dep): update ghcr.io/trueforge-org/golang docker tag 1.26.0 → 1.26.2 (#1814) • [`fd79d35`](https://github.com/trueforge-org/truecharts/commit/fd79d355ebb772edeb0767e3f42ff0ec377be52f) • [@TrueCharts Bot] (2026-04-18)
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to b91efc2 (#1786) • [`a199fd0`](https://github.com/trueforge-org/truecharts/commit/a199fd0d56a7d1e90dec4d0f324dc58c94922c4e) • [@TrueCharts Bot] (2026-04-16)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to c5a3b56 (#1796) • [`e262b17`](https://github.com/trueforge-org/truecharts/commit/e262b170c46f318a17077a5cc2f6288fba0cb4e4) • [@TrueCharts Bot] (2026-04-16)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to b91efc2 (#1786) • [`a199fd0`](https://github.com/trueforge-org/truecharts/commit/a199fd0d56a7d1e90dec4d0f324dc58c94922c4e) • [@TrueCharts Bot] (2026-04-16)
 - fix(deps): update syncthing/syncthing v2.0.15 → v2.0.16 (#1740) • [`9c03e54`](https://github.com/trueforge-org/truecharts/commit/9c03e5436e9de156415be7a9a54800abd3b246db) • [@TrueCharts Bot] (2026-04-07)
 
 ## 2.0.15 • [Train: ]
@@ -35,8 +35,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.0.14 • [Train: ]
 
-- fix(deps): update syncthing/syncthing v2.0.11 → v2.0.14 (#1567) • [`8f50e09`](https://github.com/trueforge-org/truecharts/commit/8f50e09580e3f056d6c8e63337b3f18e574952de) • [@TrueCharts Bot] (2026-02-24)
 - chore(ubuntu-dep): pin ghcr.io/trueforge-org/ubuntu docker tag digest to 1c87476 (#1533) • [`fa9215c`](https://github.com/trueforge-org/truecharts/commit/fa9215ca9fa8fc6f7118ab176ac04c2dd9f4d0a2) • [@TrueCharts Bot] (2026-02-24)
+- fix(deps): update syncthing/syncthing v2.0.11 → v2.0.14 (#1567) • [`8f50e09`](https://github.com/trueforge-org/truecharts/commit/8f50e09580e3f056d6c8e63337b3f18e574952de) • [@TrueCharts Bot] (2026-02-24)
 
 ## 2.0.11 • [Train: ]
 
