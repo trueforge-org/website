@@ -16,7 +16,7 @@ Automated service health dashboard
 
 ## Available Documentation
 
-- [****](./gatus-sidecar example)
+- [**Gatus Sidecar and Ingress Inheritance**](./gatus-sidecar example)
 
 
 ---

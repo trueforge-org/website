@@ -15,8 +15,8 @@ High performance self-hosted photo and video backup solution.
 
 ## Available Documentation
 
+- [**Migrate DB from pgvecto.rs to VectorChord**](./migrate to vectorchord)
 - [**Install Notes**](./install_notes)
-- [****](./migrate to vectorchord)
 
 
 ---

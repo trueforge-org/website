@@ -8,6 +8,7 @@ Deploys a CSI-Addons controller implementation for Kubernetes. CSI-Addons may
 be bundled with the Kubernetes distribution, this chart is meant for cases
 where it is not.
 
+
 ## Chart Sources
 
 - https://github.com/csi-addons/kubernetes-csi-addons

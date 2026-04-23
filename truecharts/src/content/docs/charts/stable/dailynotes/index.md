@@ -6,6 +6,7 @@ title: dailynotes
 
 App for taking notes and tracking tasks on a daily basis.
 
+
 ## Chart Sources
 
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/dailynotes
