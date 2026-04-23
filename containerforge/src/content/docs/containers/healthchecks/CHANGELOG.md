@@ -32,5 +32,5 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.13.0 • [Train: ]
 
-- chore(python-dep): pin ghcr.io/trueforge-org/python docker tag digest to ec0d5db (#1532) • [`77a7822`](https://github.com/trueforge-org/truecharts/commit/77a78223e507d59c47a0d941f76739926629ed05) • [@TrueCharts Bot] (2026-02-24)
 - feat(deps): update healthchecks/healthchecks v3.11.2 → v3.13 (#1552) • [`6491c0c`](https://github.com/trueforge-org/truecharts/commit/6491c0cf99fc4efc204b7b8b7a80c53d36c92f4b) • [@TrueCharts Bot] (2026-02-24)
+- chore(python-dep): pin ghcr.io/trueforge-org/python docker tag digest to ec0d5db (#1532) • [`77a7822`](https://github.com/trueforge-org/truecharts/commit/77a78223e507d59c47a0d941f76739926629ed05) • [@TrueCharts Bot] (2026-02-24)
