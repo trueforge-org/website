@@ -24,8 +24,7 @@ services:
     container_name: prowlarr
     restart: unless-stopped
 
-    ports:
-      - "9696:9696"
+    ports: []
 
     environment:
       DOTNET_EnableDiagnostics: "0"

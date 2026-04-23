@@ -24,8 +24,7 @@ services:
     container_name: esphome
     restart: unless-stopped
 
-    ports:
-      - "6052:6052"
+    ports: []
 
     environment:
       ESPHOME_BUILD_PATH: "/cache/build"

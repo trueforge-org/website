@@ -24,8 +24,7 @@ services:
     container_name: transmission
     restart: unless-stopped
 
-    ports:
-      - "9091:9091"
+    ports: []
 
     environment:
       HOME: "/config"

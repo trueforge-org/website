@@ -24,8 +24,7 @@ services:
     container_name: webhook
     restart: unless-stopped
 
-    ports:
-      - "9000:9000"
+    ports: []
 
     environment:
       WEBHOOK__PORT: "9000"

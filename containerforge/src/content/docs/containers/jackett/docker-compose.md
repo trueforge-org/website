@@ -24,8 +24,7 @@ services:
     container_name: jackett
     restart: unless-stopped
 
-    ports:
-      - "9117:9117"
+    ports: []
 
     environment: {}
 

@@ -24,8 +24,7 @@ services:
     container_name: emby
     restart: unless-stopped
 
-    ports:
-      - "8096:8096"
+    ports: []
 
     environment:
       NVIDIA_DRIVER_CAPABILITIES: "compute,video,utility"

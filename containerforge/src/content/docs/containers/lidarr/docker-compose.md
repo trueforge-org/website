@@ -24,8 +24,7 @@ services:
     container_name: lidarr
     restart: unless-stopped
 
-    ports:
-      - "8686:8686"
+    ports: []
 
     environment:
       DOTNET_EnableDiagnostics: "0"

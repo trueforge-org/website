@@ -27,7 +27,6 @@ services:
     ports:
       - "80:80"
       - "443:443"
-      - "3000:3000"
 
     environment:
       HOME: "/app"

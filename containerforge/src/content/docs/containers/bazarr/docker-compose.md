@@ -24,8 +24,7 @@ services:
     container_name: bazarr
     restart: unless-stopped
 
-    ports:
-      - "6767:6767"
+    ports: []
 
     environment:
       BAZARR_PACKAGE_AUTHOR: "${VENDOR}"

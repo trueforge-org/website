@@ -24,8 +24,7 @@ services:
     container_name: balfolk-ics
     restart: unless-stopped
 
-    ports:
-      - "8000:8000"
+    ports: []
 
     environment: {}
 

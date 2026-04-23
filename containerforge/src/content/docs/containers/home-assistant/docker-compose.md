@@ -24,8 +24,7 @@ services:
     container_name: home-assistant
     restart: unless-stopped
 
-    ports:
-      - "8123:8123"
+    ports: []
 
     environment:
       HOME: "/config"

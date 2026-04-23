@@ -24,8 +24,7 @@ services:
     container_name: nzbget
     restart: unless-stopped
 
-    ports:
-      - "6789:6789"
+    ports: []
 
     environment:
       NZBGET__PORT: "6789"

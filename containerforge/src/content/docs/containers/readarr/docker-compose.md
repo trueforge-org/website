@@ -24,8 +24,7 @@ services:
     container_name: readarr
     restart: unless-stopped
 
-    ports:
-      - "8787:8787"
+    ports: []
 
     environment:
       COMPlus_EnableDiagnostics: "0"

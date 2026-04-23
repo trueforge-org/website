@@ -24,8 +24,7 @@ services:
     container_name: jellyseerr
     restart: unless-stopped
 
-    ports:
-      - "5055:5055"
+    ports: []
 
     environment: {}
 

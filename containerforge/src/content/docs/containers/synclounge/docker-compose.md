@@ -24,8 +24,7 @@ services:
     container_name: synclounge
     restart: unless-stopped
 
-    ports:
-      - "8088:8088"
+    ports: []
 
     environment:
       HOME: "/app"

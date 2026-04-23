@@ -24,8 +24,7 @@ services:
     container_name: drydock
     restart: unless-stopped
 
-    ports:
-      - "3000:3000"
+    ports: []
 
     environment:
       DD_LOG_FORMAT: "text"

@@ -24,8 +24,7 @@ services:
     container_name: sonarr
     restart: unless-stopped
 
-    ports:
-      - "8989:8989"
+    ports: []
 
     environment:
       DOTNET_EnableDiagnostics: "0"

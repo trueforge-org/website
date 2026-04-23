@@ -24,8 +24,7 @@ services:
     container_name: plex
     restart: unless-stopped
 
-    ports:
-      - "32400:32400"
+    ports: []
 
     environment:
       Container: "(${VENDOR})"

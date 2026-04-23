@@ -24,8 +24,7 @@ services:
     container_name: qbittorrent
     restart: unless-stopped
 
-    ports:
-      - "8080:8080"
+    ports: []
 
     environment:
       HOME: "/config"

@@ -24,8 +24,7 @@ services:
     container_name: stash
     restart: unless-stopped
 
-    ports:
-      - "9999:9999"
+    ports: []
 
     environment: {}
 
