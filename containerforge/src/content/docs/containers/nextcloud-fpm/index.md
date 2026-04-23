@@ -2,7 +2,7 @@
 title: nextcloud-fpm
 ---
 
-![Version: ](https://img.shields.io/badge/Version--informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 33.0.2-fpm](https://img.shields.io/badge/Version-33.0.2-fpm-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Source
 
@@ -83,3 +83,4 @@ Because Nextcloud is already a pain in the ass as it is.
 | `NX_FORCE_ENABLE_ALLOW_LOCAL_REMOTE_SERVERS` | Set `allow_local_remote_servers` to `true`                                              |                               |                                    `allow_local_remote_servers`                                    |              `false`               |                       `true`                        |
 
 > Visit Nextcloud official documentation for more information about each `Config key`
+

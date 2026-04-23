@@ -74,3 +74,4 @@ services:
     volumes:
       - /path/to/local/config:/config
 ```
+
