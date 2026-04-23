@@ -13,8 +13,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.11.2 • [Train: ]
 
-- chore(node-dep): update node.js digest to c418ccb (#2050) • [`6e29b0b`](https://github.com/trueforge-org/truecharts/commit/6e29b0bffd2a63401c09f7f4bf9602bbf5251237) • [@TrueCharts Bot] (2026-04-23)
 - improve settings.yaml quality • [`ba4f7a3`](https://github.com/trueforge-org/truecharts/commit/ba4f7a37bc156ef1ac9823442e179284fa5af871) • [@Kjeld Schouten] (2026-04-23)
+- chore(node-dep): update node.js digest to c418ccb (#2050) • [`6e29b0b`](https://github.com/trueforge-org/truecharts/commit/6e29b0bffd2a63401c09f7f4bf9602bbf5251237) • [@TrueCharts Bot] (2026-04-23)
 - fix(ubuntu): fix yaml and update ubuntu tests (#1902) • [`91b5362`](https://github.com/trueforge-org/truecharts/commit/91b5362fc0dacdd7d544f9457e5826f99a70c16f) • [@Alfred Göppel] (2026-04-19)
 - chore(node-dep): update node.js digest to 39f32ff (#1954) • [`38a2ad8`](https://github.com/trueforge-org/truecharts/commit/38a2ad8c025074b6d12b89e9f0df9aa70de7322a) • [@TrueCharts Bot] (2026-04-19)
 - chore(node-dep): update node.js digest to c7c4a7a (#1917) • [`9675d3a`](https://github.com/trueforge-org/truecharts/commit/9675d3ab918d736e29e80c94694f2ddd27b09470) • [@TrueCharts Bot] (2026-04-19)
@@ -24,8 +24,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 - hhm weird • [`7f384b9`](https://github.com/trueforge-org/truecharts/commit/7f384b96b37d88b66410600a0e41576402c99c60) • [@Kjeld Schouten] (2025-11-20)
 - why was pairdrop building before?! • [`7881e32`](https://github.com/trueforge-org/truecharts/commit/7881e324e607e0582cbc5bd8e71f3737ecea887e) • [@Kjeld Schouten] (2025-11-20)
 - release(pairdrop): update image ghcr.io/trueforge-org/node (70adf71 → 5623d30) (#437) • [`e7ee233`](https://github.com/trueforge-org/truecharts/commit/e7ee23370a8e0fc505c70cac72e4e996ea136e9e) • [@TrueCharts Bot] (2025-11-20)
-- v verison for pairdrop • [`2613400`](https://github.com/trueforge-org/truecharts/commit/2613400cef8448c35b003db10d6cd9a311244382) • [@Kjeld Schouten] (2025-11-20)
 - cleanup • [`3200b22`](https://github.com/trueforge-org/truecharts/commit/3200b224de75af13d7a01752ef7dab502cb4b6e7) • [@Kjeld Schouten] (2025-11-20)
+- v verison for pairdrop • [`2613400`](https://github.com/trueforge-org/truecharts/commit/2613400cef8448c35b003db10d6cd9a311244382) • [@Kjeld Schouten] (2025-11-20)
 - release(pairdrop): update image ghcr.io/trueforge-org/node (56c028d → 70adf71) (#395) • [`a08500c`](https://github.com/trueforge-org/truecharts/commit/a08500c21cf249d8cb24585fe4fb1faf3eb88f68) • [@TrueCharts Bot] (2025-11-18)
-- release: add more containers (#355) • [`b40afa5`](https://github.com/trueforge-org/truecharts/commit/b40afa560ced718e3dcc8a3ac6a40870a980c3d1) • [@Kjeld Schouten] (2025-11-17)
 - release(pairdrop): pin image ghcr.io/trueforge-org/node to 56c028d (#369) • [`5524635`](https://github.com/trueforge-org/truecharts/commit/55246351377a8e44f6295caacee073d047767733) • [@TrueCharts Bot] (2025-11-17)
+- release: add more containers (#355) • [`b40afa5`](https://github.com/trueforge-org/truecharts/commit/b40afa560ced718e3dcc8a3ac6a40870a980c3d1) • [@Kjeld Schouten] (2025-11-17)
