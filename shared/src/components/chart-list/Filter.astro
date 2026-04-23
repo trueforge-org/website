@@ -22,20 +22,18 @@ const {
 
 <script>
   // Build state from the DOM so this works for any data source.
-  const checkedBoxes = new Set();
-  const trainCharts = new Map();
+  const trainCharts = new Map<string, string[]>();
 
   document.addEventListener("DOMContentLoaded", function () {
-    document.querySelectorAll("[data-table-parent]").forEach((el) => {
+    document.querySelectorAll<HTMLElement>("[data-table-parent]").forEach((el) => {
       const train = (el.getAttribute("data-table-parent") || "").toLowerCase();
-      const charts = Array.from(el.querySelectorAll("[data-chart]")).map((r) =>
-        r.getAttribute("data-chart")
-      );
+      const charts = Array.from(el.querySelectorAll<HTMLElement>("[data-chart]"))
+        .map((r) => r.getAttribute("data-chart"))
+        .filter((chart): chart is string => Boolean(chart));
       trainCharts.set(train, charts);
-      checkedBoxes.add(train);
     });
 
-    const checkboxes = document.querySelectorAll("input[type='checkbox']");
+    const checkboxes = document.querySelectorAll<HTMLInputElement>("input[type='checkbox']");
 
     checkboxes.forEach((checkbox) => {
       checkbox.addEventListener("change", function () {
@@ -48,27 +46,21 @@ const {
 
         if (checkbox.checked) {
           targetDiv.classList.remove("hidden");
-          checkedBoxes.add(train);
         } else {
           targetDiv.classList.add("hidden");
-          checkedBoxes.delete(train);
         }
       });
     });
 
-    const tables = document.querySelectorAll("[data-table-parent]");
+    const tables = document.querySelectorAll<HTMLElement>("[data-table-parent]");
 
     function checkTables() {
       trainCharts.forEach((charts, train) => {
-        let currTable = null;
-        tables.forEach((table) => {
-          if (
+        const currTable = Array.from(tables).find(
+          (table) =>
             (table.getAttribute("data-table-parent") || "").toLowerCase() ===
             train
-          ) {
-            currTable = table;
-          }
-        });
+        );
         if (!currTable) return;
 
         if (charts.length === 0) {
@@ -79,9 +71,9 @@ const {
       });
     }
 
-    const rows = document.querySelectorAll("[data-chart]");
+    const rows = document.querySelectorAll<HTMLElement>("[data-chart]");
 
-    const search = document.getElementById("search");
+    const search = document.getElementById("search") as HTMLInputElement | null;
     if (!search) return;
 
     search.addEventListener("input", function () {
@@ -90,11 +82,13 @@ const {
       rows.forEach((row) => {
         const chartName = row.getAttribute("data-chart");
         const trainName = row.getAttribute("data-train");
-        const description = row.querySelector("[data-description]");
+        const description = row.querySelector<HTMLElement>("[data-description]");
+
+        if (!chartName || !trainName) return;
 
         if (
           regex.test(chartName.toLowerCase()) ||
-          (description && description.innerText.toLowerCase().includes(query))
+          description?.textContent?.toLowerCase().includes(query)
         ) {
           row.classList.remove("hidden");
           const trainData = trainCharts.get(trainName);

@@ -1,5 +1,5 @@
 ---
-import { getContributors, getCharts } from "./utils";
+import { getCharts } from "./utils";
 import type { ChartListData } from "../chart-list/utils";
 
 import Icons from "./Icons.astro";
@@ -10,7 +10,6 @@ interface Props {
 }
 
 const { data } = Astro.props;
-const people = getContributors();
 const charts = getCharts(data);
 ---
 

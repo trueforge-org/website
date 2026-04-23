@@ -3,8 +3,6 @@ import { basename, dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import sitemap from "@astrojs/sitemap";
 import robotsTxt from "astro-robots-txt";
-import lottie from "astro-integration-lottie";
-import betterImageService from "astro-better-image-service";
 import playformCompress from "@playform/compress";
 import sharedPublicAssets from "./shared-public-assets.mjs";
 
@@ -53,8 +51,6 @@ export function sharedIntegrations({ sharedPublicDir = "../shared/public" } = {}
     sharedPublicAssets({ sharedPublicDir }),
     sitemap(),
     robotsTxt(),
-    lottie(),
-    betterImageService(),
     playformCompress({
       HTML: false,
       CSS: true,

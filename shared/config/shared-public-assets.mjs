@@ -1,7 +1,7 @@
 // Astro integration that copies shared public assets into the site's public dir at build time
 import { cpSync, existsSync } from "node:fs";
 import { fileURLToPath } from "node:url";
-import { resolve, dirname } from "node:path";
+import { resolve } from "node:path";
 
 /**
  * @param {Object} options
