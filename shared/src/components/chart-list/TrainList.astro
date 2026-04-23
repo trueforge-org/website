@@ -1,5 +1,12 @@
 ---
 import { getTrains, normalizeTrainName, titleCase } from "./utils";
+import type { ChartListData } from "./utils";
+
+interface Props {
+  data?: ChartListData;
+}
+
+const { data } = Astro.props;
 ---
 
 <p class="text-center text-2xl font-extrabold">Trains available</p>
@@ -7,7 +14,7 @@ import { getTrains, normalizeTrainName, titleCase } from "./utils";
   class="ml-5 list-none flex flex-row flex-wrap gap-5 items-center justify-center"
 >
   {
-    getTrains().map((train) => (
+    getTrains(data).map((train) => (
       <li>
         <a href={`#${normalizeTrainName(train)}`}>{titleCase(train)}</a>
       </li>

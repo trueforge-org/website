@@ -1,9 +1,15 @@
 ---
 import { Image } from "astro:assets";
 import { getChartsFromTrain, normalizeTrainName } from "./utils";
+import type { ChartListData } from "./utils";
 import { getChartImageUrl } from "../multi-icons/utils";
 
-const { train } = Astro.props;
+interface Props {
+  train: string;
+  data?: ChartListData;
+}
+
+const { train, data } = Astro.props;
 ---
 
 <table class="mt-5 ml-5 table-fixed" data-table={train}>
@@ -24,13 +30,13 @@ const { train } = Astro.props;
   </thead>
   <tbody>
     {
-      getChartsFromTrain(train).map((c) => (
+      getChartsFromTrain(train, data).map((c) => (
         <tr data-chart={c.name} data-train={normalizeTrainName(train)}>
           <td class="text-lg max-md:text-base font-normal text-balance max-md:text-center">
             <div class="flex flex-row max-md:flex-col gap-2 items-center justify-start">
               <Image
                 class="w-5 h-5"
-                src={getChartImageUrl(c.name)}
+                src={c.icon ?? getChartImageUrl(c.name)}
                 alt={c.name}
                 width={20}
                 height={20}

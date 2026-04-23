@@ -54,7 +54,7 @@ export default defineConfig({
       sidebar: [
         {
           label: "Charts",
-          collapsed: false,
+          collapsed: true,
           autogenerate: { directory: "charts" },
         },
         {

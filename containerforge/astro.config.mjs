@@ -55,7 +55,7 @@ export default defineConfig({
         },
         {
           label: "Containers",
-          collapsed: false,
+          collapsed: true,
           autogenerate: {
             directory: "containers",
           },
