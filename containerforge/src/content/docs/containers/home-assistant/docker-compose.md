@@ -19,7 +19,7 @@ services:
     environment:
       TZ: Etc/UTC
       WHEELS_LINKS: https://wheels.home-assistant.io/musllinux/
-    image: ghcr.io/trueforge-org/home-assistant:2026.4.3
+    image: ghcr.io/trueforge-org/home-assistant:2026.4.4
     ports:
       - mode: ingress
         target: 8123
