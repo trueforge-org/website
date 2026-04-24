@@ -2,7 +2,7 @@
 title: baserow
 ---
 
-![Version: 20.2.2](https://img.shields.io/badge/Version-20.2.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.0.6](https://img.shields.io/badge/AppVersion-2.0.6-informational?style=flat-square)
+![Version: 20.2.3](https://img.shields.io/badge/Version-20.2.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.0.6](https://img.shields.io/badge/AppVersion-2.0.6-informational?style=flat-square)
 
 Baserow is an open source no-code database tool and Airtable alternative.
 
