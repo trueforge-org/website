@@ -23,7 +23,7 @@ services:
       RUNNER_TOKEN: ""
       RUNNER_WORKDIR: /tmp/runner/work
       TZ: Etc/UTC
-    image: ghcr.io/trueforge-org/actions-runner:2.333.1
+    image: ghcr.io/trueforge-org/actions-runner:2.334.0
     restart: unless-stopped
     volumes:
       - type: bind
