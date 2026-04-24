@@ -1,25 +1,25 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **mariadb**:
 
 ```yaml
-version: "3.9"
-
+name: mariadb
 services:
   mariadb:
-    image: ghcr.io/trueforge-org/mariadb:11.4.8-r0
     container_name: mariadb
-    restart: unless-stopped
-
-    ports:
-      - "3306:3306"
-
     environment:
-      DATADIR: "$MYSQL_DIR/databases"
-      MYSQL_DIR: "/config"
-
+      DATADIR: $MYSQL_DIR/databases
+      MYSQL_DIR: /config
+    image: ghcr.io/trueforge-org/mariadb:11.4.8-r0
+    ports:
+      - mode: ingress
+        target: 3306
+        published: "3306"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

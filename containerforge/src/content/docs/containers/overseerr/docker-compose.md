@@ -1,24 +1,24 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **overseerr**:
 
 ```yaml
-version: "3.9"
-
+name: overseerr
 services:
   overseerr:
-    image: ghcr.io/trueforge-org/overseerr:1.35.0
     container_name: overseerr
-    restart: unless-stopped
-
-    ports:
-      - "5055:5055"
-
     environment:
-      NODE_OPTIONS: "--max_old_space_size=2048"
-
+      NODE_OPTIONS: --max_old_space_size=2048
+    image: ghcr.io/trueforge-org/overseerr:1.35.0
+    ports:
+      - mode: ingress
+        target: 5055
+        published: "5055"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

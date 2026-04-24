@@ -1,24 +1,26 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **kimai**:
 
 ```yaml
-version: "3.9"
-
+name: kimai
 services:
   kimai:
-    image: ghcr.io/trueforge-org/kimai:2.55.0
     container_name: kimai
-    restart: unless-stopped
-
+    image: ghcr.io/trueforge-org/kimai:2.55.0
     ports:
-      - "80:80"
-      - "443:443"
-
-    environment: {}
-
+      - mode: ingress
+        target: 80
+        published: "80"
+        protocol: tcp
+      - mode: ingress
+        target: 443
+        published: "443"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

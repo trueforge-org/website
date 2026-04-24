@@ -1,23 +1,20 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **tailscale**:
 
 ```yaml
-version: "3.9"
-
+name: tailscale
 services:
   tailscale:
-    image: ghcr.io/trueforge-org/tailscale:v1.96.5
     container_name: tailscale
+    image: ghcr.io/trueforge-org/tailscale:v1.96.5
     restart: unless-stopped
-
-    ports: []
-
-    environment: {}
-
     volumes:
-      - ./config:/config
-      - ./tailscale:/var/lib/tailscale
+      - type: bind
+        source: config
+        target: /config
+      - type: bind
+        source: tailscale
+        target: /var/lib/tailscale
 ```

@@ -1,23 +1,22 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **piper**:
 
 ```yaml
-version: "3.9"
-
+name: piper
 services:
   piper:
-    image: ghcr.io/trueforge-org/piper:2.2.2
     container_name: piper
-    restart: unless-stopped
-
+    image: ghcr.io/trueforge-org/piper:2.2.2
     ports:
-      - "10200:10200"
-
-    environment: {}
-
+      - mode: ingress
+        target: 10200
+        published: "10200"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

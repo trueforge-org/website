@@ -1,20 +1,13 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **socket-proxy**:
 
 ```yaml
-version: "3.9"
-
+name: socket-proxy
 services:
   socket-proxy:
-    image: ghcr.io/trueforge-org/socket-proxy:3.2.13-r0-ls70
     container_name: socket-proxy
-    restart: unless-stopped
-
-    ports: []
-
     environment:
       ALLOW_RESTARTS: "0"
       ALLOW_START: "0"
@@ -29,7 +22,7 @@ services:
       EXEC: "0"
       IMAGES: "0"
       INFO: "0"
-      LOG_LEVEL: "info"
+      LOG_LEVEL: info
       NETWORKS: "0"
       NODES: "0"
       PING: "1"
@@ -38,13 +31,16 @@ services:
       SECRETS: "0"
       SERVICES: "0"
       SESSION: "0"
-      SOCKET_PATH: "/var/run/docker.sock"
+      SOCKET_PATH: /var/run/docker.sock
       SWARM: "0"
       SYSTEM: "0"
       TASKS: "0"
       VERSION: "1"
       VOLUMES: "0"
-
+    image: ghcr.io/trueforge-org/socket-proxy:3.2.13-r0-ls70
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

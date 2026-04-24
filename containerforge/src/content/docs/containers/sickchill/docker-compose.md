@@ -1,25 +1,25 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **sickchill**:
 
 ```yaml
-version: "3.9"
-
+name: sickchill
 services:
   sickchill:
-    image: ghcr.io/trueforge-org/sickchill:2024.3.1
     container_name: sickchill
-    restart: unless-stopped
-
-    ports:
-      - "8081:8081"
-
     environment:
-      HOME: "/config"
-      PYTHONIOENCODING: "UTF-8"
-
+      HOME: /config
+      PYTHONIOENCODING: UTF-8
+    image: ghcr.io/trueforge-org/sickchill:2024.3.1
+    ports:
+      - mode: ingress
+        target: 8081
+        published: "8081"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

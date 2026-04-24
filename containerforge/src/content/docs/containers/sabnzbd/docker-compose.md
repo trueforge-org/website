@@ -1,25 +1,25 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **sabnzbd**:
 
 ```yaml
-version: "3.9"
-
+name: sabnzbd
 services:
   sabnzbd:
-    image: ghcr.io/trueforge-org/sabnzbd:4.5.5
     container_name: sabnzbd
-    restart: unless-stopped
-
-    ports:
-      - "8080:8080"
-
     environment:
-      SABNZBD__ADDRESS: "[::]"
+      SABNZBD__ADDRESS: '[::]'
       SABNZBD__PORT: "8080"
-
+    image: ghcr.io/trueforge-org/sabnzbd:4.5.5
+    ports:
+      - mode: ingress
+        target: 8080
+        published: "8080"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

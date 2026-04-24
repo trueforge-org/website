@@ -1,24 +1,24 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **nzbget**:
 
 ```yaml
-version: "3.9"
-
+name: nzbget
 services:
   nzbget:
-    image: ghcr.io/trueforge-org/nzbget:26.1
     container_name: nzbget
-    restart: unless-stopped
-
-    ports:
-      - "6789:6789"
-
     environment:
       NZBGET__PORT: "6789"
-
+    image: ghcr.io/trueforge-org/nzbget:26.1
+    ports:
+      - mode: ingress
+        target: 6789
+        published: "6789"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

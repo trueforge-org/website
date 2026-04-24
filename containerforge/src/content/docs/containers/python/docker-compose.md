@@ -1,36 +1,32 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **python**:
 
 ```yaml
-version: "3.9"
-
+name: python
 services:
   python:
-    image: ghcr.io/trueforge-org/python:3.14.4
     container_name: python
-    restart: unless-stopped
-
-    ports: []
-
     environment:
       CRYPTOGRAPHY_DONT_BUILD_RUST: "1"
-      PATH: "/usr/local/bin:$PATH"
+      PATH: /usr/local/bin:$PATH
       PIP_BREAK_SYSTEM_PACKAGES: "1"
       PIP_DISABLE_PIP_VERSION_CHECK: "1"
       PIP_NO_CACHE_DIR: "1"
       PIP_PREFER_BINARY: "1"
-      PIP_ROOT_USER_ACTION: "ignore"
+      PIP_ROOT_USER_ACTION: ignore
       PYTHONDONTWRITEBYTECODE: "1"
       PYTHONUNBUFFERED: "1"
-      UV_EXTRA_INDEX_URL: "https://wheel-index.linuxserver.io/ubuntu/"
+      UV_EXTRA_INDEX_URL: https://wheel-index.linuxserver.io/ubuntu/
       UV_NO_CACHE: "true"
       UV_SYSTEM_PYTHON: "true"
-      VENV_FOLDER: "/app/venv"
-      https://pypi.org/simple": "UV_INDEX_STRATEGY=\"unsafe-best-match"
-
+      VENV_FOLDER: /app/venv
+      https://pypi.org/simple": UV_INDEX_STRATEGY="unsafe-best-match
+    image: ghcr.io/trueforge-org/python:3.14.4
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

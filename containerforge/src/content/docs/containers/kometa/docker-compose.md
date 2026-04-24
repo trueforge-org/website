@@ -1,25 +1,23 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **kometa**:
 
 ```yaml
-version: "3.9"
-
+name: kometa
 services:
   kometa:
-    image: ghcr.io/trueforge-org/kometa:2.3.1
     container_name: kometa
-    restart: unless-stopped
-
-    ports: []
-
     environment:
-      HOME: "/app"
-      PYTHONIOENCODING: "utf-8"
-
+      HOME: /app
+      PYTHONIOENCODING: utf-8
+    image: ghcr.io/trueforge-org/kometa:2.3.1
+    restart: unless-stopped
     volumes:
-      - ./app:/app
-      - ./config:/config
+      - type: bind
+        source: app
+        target: /app
+      - type: bind
+        source: config
+        target: /config
 ```

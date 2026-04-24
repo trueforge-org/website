@@ -1,24 +1,24 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **kube-sa-proxy**:
 
 ```yaml
-version: "3.9"
-
+name: kube-sa-proxy
 services:
   kube-sa-proxy:
-    image: ghcr.io/trueforge-org/kube-sa-proxy:v1.30.2
     container_name: kube-sa-proxy
-    restart: unless-stopped
-
-    ports:
-      - "3000:3000"
-
     environment:
       PORT: "3000"
-
+    image: ghcr.io/trueforge-org/kube-sa-proxy:v1.30.2
+    ports:
+      - mode: ingress
+        target: 3000
+        published: "3000"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

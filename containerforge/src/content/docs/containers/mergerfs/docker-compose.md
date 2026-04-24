@@ -1,22 +1,17 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **mergerfs**:
 
 ```yaml
-version: "3.9"
-
+name: mergerfs
 services:
   mergerfs:
-    image: ghcr.io/trueforge-org/mergerfs:2.41.1
     container_name: mergerfs
+    image: ghcr.io/trueforge-org/mergerfs:2.41.1
     restart: unless-stopped
-
-    ports: []
-
-    environment: {}
-
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

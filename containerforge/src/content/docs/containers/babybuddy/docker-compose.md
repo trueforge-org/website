@@ -1,24 +1,24 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **babybuddy**:
 
 ```yaml
-version: "3.9"
-
+name: babybuddy
 services:
   babybuddy:
-    image: ghcr.io/trueforge-org/babybuddy:2.8.0
     container_name: babybuddy
-    restart: unless-stopped
-
-    ports:
-      - "8000:8000"
-
     environment:
-      S6_STAGE2_HOOK: "/init-hook"
-
+      S6_STAGE2_HOOK: /init-hook
+    image: ghcr.io/trueforge-org/babybuddy:2.8.0
+    ports:
+      - mode: ingress
+        target: 8000
+        published: "8000"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

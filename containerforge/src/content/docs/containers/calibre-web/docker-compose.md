@@ -1,24 +1,24 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **calibre-web**:
 
 ```yaml
-version: "3.9"
-
+name: calibre-web
 services:
   calibre-web:
-    image: ghcr.io/trueforge-org/calibre-web:0.6.26
     container_name: calibre-web
-    restart: unless-stopped
-
-    ports:
-      - "8083:8083"
-
     environment:
-      QTWEBENGINE_CHROMIUM_FLAGS: "--no-sandbox"
-
+      QTWEBENGINE_CHROMIUM_FLAGS: --no-sandbox
+    image: ghcr.io/trueforge-org/calibre-web:0.6.26
+    ports:
+      - mode: ingress
+        target: 8083
+        published: "8083"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

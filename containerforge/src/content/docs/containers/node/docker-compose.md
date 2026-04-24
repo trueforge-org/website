@@ -1,23 +1,19 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **node**:
 
 ```yaml
-version: "3.9"
-
+name: node
 services:
   node:
-    image: ghcr.io/trueforge-org/node:24.15.0
     container_name: node
-    restart: unless-stopped
-
-    ports: []
-
     environment:
-      HOME: "/app/nodehome"
-
+      HOME: /app/nodehome
+    image: ghcr.io/trueforge-org/node:24.15.0
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

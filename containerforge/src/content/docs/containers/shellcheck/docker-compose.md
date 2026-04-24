@@ -1,22 +1,17 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **shellcheck**:
 
 ```yaml
-version: "3.9"
-
+name: shellcheck
 services:
   shellcheck:
-    image: ghcr.io/trueforge-org/shellcheck:0.11.0
     container_name: shellcheck
+    image: ghcr.io/trueforge-org/shellcheck:0.11.0
     restart: unless-stopped
-
-    ports: []
-
-    environment: {}
-
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

@@ -1,29 +1,38 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **gluetun**:
 
 ```yaml
-version: "3.9"
-
+name: gluetun
 services:
   gluetun:
-    image: ghcr.io/trueforge-org/gluetun:v3.41.1
     container_name: gluetun
-    restart: unless-stopped
-
-    ports:
-      - "8000:8000"
-      - "8388:8388"
-      - "8388:8388/udp"
-      - "8888:8888"
-
     environment:
-      VPN_INTERFACE: "tun0"
-      VPN_SERVICE_PROVIDER: "pia"
-      VPN_TYPE: "openvpn"
-
+      VPN_INTERFACE: tun0
+      VPN_SERVICE_PROVIDER: pia
+      VPN_TYPE: openvpn
+    image: ghcr.io/trueforge-org/gluetun:v3.41.1
+    ports:
+      - mode: ingress
+        target: 8000
+        published: "8000"
+        protocol: tcp
+      - mode: ingress
+        target: 8388
+        published: "8388"
+        protocol: tcp
+      - mode: ingress
+        target: 8388
+        published: "8388"
+        protocol: udp
+      - mode: ingress
+        target: 8888
+        published: "8888"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

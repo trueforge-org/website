@@ -22,7 +22,7 @@ This page contains the container reference for **balfolk-ics**, including upstre
 
 ## Available Documentation
 
-- [**Docker Compose**](./docker-compose)
+- [**Docker-Compose**](./docker-compose)
 
 ---
 

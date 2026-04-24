@@ -1,24 +1,20 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **k8s-sidecar**:
 
 ```yaml
-version: "3.9"
-
+name: k8s-sidecar
 services:
   k8s-sidecar:
-    image: ghcr.io/trueforge-org/k8s-sidecar:2.6.0
     container_name: k8s-sidecar
-    restart: unless-stopped
-
-    ports: []
-
     environment:
-      PATH: "/app/venv/bin:$PATH"
-      RELEASE_URL: "https://github.com/kiwigrid/k8s-sidecar/archive/refs/tags/${VERSION}.tar.gz"
-
+      PATH: /app/venv/bin:$PATH
+      RELEASE_URL: https://github.com/kiwigrid/k8s-sidecar/archive/refs/tags/${VERSION}.tar.gz
+    image: ghcr.io/trueforge-org/k8s-sidecar:2.6.0
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

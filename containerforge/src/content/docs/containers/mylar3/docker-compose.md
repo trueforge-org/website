@@ -1,23 +1,22 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **mylar3**:
 
 ```yaml
-version: "3.9"
-
+name: mylar3
 services:
   mylar3:
-    image: ghcr.io/trueforge-org/mylar3:0.8.3
     container_name: mylar3
-    restart: unless-stopped
-
+    image: ghcr.io/trueforge-org/mylar3:0.8.3
     ports:
-      - "8090:8090"
-
-    environment: {}
-
+      - mode: ingress
+        target: 8090
+        published: "8090"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

@@ -1,23 +1,22 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **jackett**:
 
 ```yaml
-version: "3.9"
-
+name: jackett
 services:
   jackett:
-    image: ghcr.io/trueforge-org/jackett:v0.24.1736
     container_name: jackett
-    restart: unless-stopped
-
+    image: ghcr.io/trueforge-org/jackett:v0.24.1736
     ports:
-      - "9117:9117"
-
-    environment: {}
-
+      - mode: ingress
+        target: 9117
+        published: "9117"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

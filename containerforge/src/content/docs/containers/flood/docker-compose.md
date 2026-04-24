@@ -1,24 +1,26 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **flood**:
 
 ```yaml
-version: "3.9"
-
+name: flood
 services:
   flood:
-    image: ghcr.io/trueforge-org/flood:4.13.9
     container_name: flood
-    restart: unless-stopped
-
+    image: ghcr.io/trueforge-org/flood:4.13.9
     ports:
-      - "3000:3000"
-      - "4500:4500"
-
-    environment: {}
-
+      - mode: ingress
+        target: 3000
+        published: "3000"
+        protocol: tcp
+      - mode: ingress
+        target: 4500
+        published: "4500"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

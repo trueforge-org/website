@@ -1,24 +1,24 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **znc**:
 
 ```yaml
-version: "3.9"
-
+name: znc
 services:
   znc:
-    image: ghcr.io/trueforge-org/znc:znc-1.10.1
     container_name: znc
-    restart: unless-stopped
-
-    ports:
-      - "6501:6501"
-
     environment:
-      MAKEFLAGS: "-j4"
-
+      MAKEFLAGS: -j4
+    image: ghcr.io/trueforge-org/znc:znc-1.10.1
+    ports:
+      - mode: ingress
+        target: 6501
+        published: "6501"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

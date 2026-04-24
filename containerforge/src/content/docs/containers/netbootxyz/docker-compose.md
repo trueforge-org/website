@@ -1,23 +1,22 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **netbootxyz**:
 
 ```yaml
-version: "3.9"
-
+name: netbootxyz
 services:
   netbootxyz:
-    image: ghcr.io/trueforge-org/netbootxyz:0.7.6
     container_name: netbootxyz
-    restart: unless-stopped
-
+    image: ghcr.io/trueforge-org/netbootxyz:0.7.6
     ports:
-      - "3000:3000"
-
-    environment: {}
-
+      - mode: ingress
+        target: 3000
+        published: "3000"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

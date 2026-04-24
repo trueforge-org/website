@@ -1,24 +1,26 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **caddy**:
 
 ```yaml
-version: "3.9"
-
+name: caddy
 services:
   caddy:
-    image: ghcr.io/trueforge-org/caddy:2.11.2
     container_name: caddy
-    restart: unless-stopped
-
+    image: ghcr.io/trueforge-org/caddy:2.11.2
     ports:
-      - "8080:8080"
-      - "8443:8443"
-
-    environment: {}
-
+      - mode: ingress
+        target: 8080
+        published: "8080"
+        protocol: tcp
+      - mode: ingress
+        target: 8443
+        published: "8443"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

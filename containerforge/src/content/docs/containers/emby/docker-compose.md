@@ -1,24 +1,24 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **emby**:
 
 ```yaml
-version: "3.9"
-
+name: emby
 services:
   emby:
-    image: ghcr.io/trueforge-org/emby:4.10.0.10
     container_name: emby
-    restart: unless-stopped
-
-    ports:
-      - "8096:8096"
-
     environment:
-      NVIDIA_DRIVER_CAPABILITIES: "compute,video,utility"
-
+      NVIDIA_DRIVER_CAPABILITIES: compute,video,utility
+    image: ghcr.io/trueforge-org/emby:4.10.0.10
+    ports:
+      - mode: ingress
+        target: 8096
+        published: "8096"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

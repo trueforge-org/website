@@ -1,28 +1,24 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **ubuntu**:
 
 ```yaml
-version: "3.9"
-
+name: ubuntu
 services:
   ubuntu:
-    image: ghcr.io/trueforge-org/ubuntu:24.04
     container_name: ubuntu
-    restart: unless-stopped
-
-    ports: []
-
     environment:
-      : "Enable"
-      DEBIAN_FRONTEND: "noninteractive"
-      NVIDIA_DRIVER_CAPABILITIES: "compute,video,utility"
-      detection: "of"
-      dotnet: "running"
-      in: "a"
-
+      "": Enable
+      DEBIAN_FRONTEND: noninteractive
+      NVIDIA_DRIVER_CAPABILITIES: compute,video,utility
+      detection: of
+      dotnet: running
+      in: a
+    image: ghcr.io/trueforge-org/ubuntu:24.04
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

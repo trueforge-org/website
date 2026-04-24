@@ -1,22 +1,17 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **renovate**:
 
 ```yaml
-version: "3.9"
-
+name: renovate
 services:
   renovate:
-    image: ghcr.io/trueforge-org/renovate:43.141.1
     container_name: renovate
+    image: ghcr.io/trueforge-org/renovate:43.141.1
     restart: unless-stopped
-
-    ports: []
-
-    environment: {}
-
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

@@ -1,25 +1,29 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **resilio-sync**:
 
 ```yaml
-version: "3.9"
-
+name: resilio-sync
 services:
   resilio-sync:
-    image: ghcr.io/trueforge-org/resilio-sync:3.1.2.1076
     container_name: resilio-sync
-    restart: unless-stopped
-
+    image: ghcr.io/trueforge-org/resilio-sync:3.1.2.1076
     ports:
-      - "8888:8888"
-      - "55555:55555"
-
-    environment: {}
-
+      - mode: ingress
+        target: 8888
+        published: "8888"
+        protocol: tcp
+      - mode: ingress
+        target: 55555
+        published: "55555"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
-      - ./sync:/sync
+      - type: bind
+        source: config
+        target: /config
+      - type: bind
+        source: sync
+        target: /sync
 ```

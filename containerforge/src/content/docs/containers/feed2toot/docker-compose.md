@@ -1,24 +1,20 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **feed2toot**:
 
 ```yaml
-version: "3.9"
-
+name: feed2toot
 services:
   feed2toot:
-    image: ghcr.io/trueforge-org/feed2toot:0.17
     container_name: feed2toot
-    restart: unless-stopped
-
-    ports: []
-
     environment:
-      PYTHONIOENCODING: "utf-8"
+      PYTHONIOENCODING: utf-8
       PYTHONUNBUFFERED: "1"
-
+    image: ghcr.io/trueforge-org/feed2toot:0.17
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

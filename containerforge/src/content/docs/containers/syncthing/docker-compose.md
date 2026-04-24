@@ -1,27 +1,36 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **syncthing**:
 
 ```yaml
-version: "3.9"
-
+name: syncthing
 services:
   syncthing:
-    image: ghcr.io/trueforge-org/syncthing:2.0.16
     container_name: syncthing
-    restart: unless-stopped
-
-    ports:
-      - "8384:8384"
-      - "21027:21027/udp"
-      - "22000:22000"
-      - "22000:22000/udp"
-
     environment:
-      HOME: "/config"
-
+      HOME: /config
+    image: ghcr.io/trueforge-org/syncthing:2.0.16
+    ports:
+      - mode: ingress
+        target: 8384
+        published: "8384"
+        protocol: tcp
+      - mode: ingress
+        target: 21027
+        published: "21027"
+        protocol: udp
+      - mode: ingress
+        target: 22000
+        published: "22000"
+        protocol: tcp
+      - mode: ingress
+        target: 22000
+        published: "22000"
+        protocol: udp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

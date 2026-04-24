@@ -1,23 +1,19 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **nextcloud-imaginary**:
 
 ```yaml
-version: "3.9"
-
+name: nextcloud-imaginary
 services:
   nextcloud-imaginary:
-    image: ghcr.io/trueforge-org/nextcloud-imaginary:20230401
     container_name: nextcloud-imaginary
-    restart: unless-stopped
-
-    ports: []
-
     environment:
       MALLOC_ARENA_MAX: "2"
-
+    image: ghcr.io/trueforge-org/nextcloud-imaginary:20230401
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

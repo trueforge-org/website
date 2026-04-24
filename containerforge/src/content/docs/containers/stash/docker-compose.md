@@ -1,23 +1,22 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **stash**:
 
 ```yaml
-version: "3.9"
-
+name: stash
 services:
   stash:
-    image: ghcr.io/trueforge-org/stash:0.31.1
     container_name: stash
-    restart: unless-stopped
-
+    image: ghcr.io/trueforge-org/stash:0.31.1
     ports:
-      - "9999:9999"
-
-    environment: {}
-
+      - mode: ingress
+        target: 9999
+        published: "9999"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

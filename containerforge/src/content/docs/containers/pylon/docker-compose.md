@@ -1,23 +1,22 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **pylon**:
 
 ```yaml
-version: "3.9"
-
+name: pylon
 services:
   pylon:
-    image: ghcr.io/trueforge-org/pylon:2.11.1
     container_name: pylon
-    restart: unless-stopped
-
+    image: ghcr.io/trueforge-org/pylon:2.11.1
     ports:
-      - "3131:3131"
-
-    environment: {}
-
+      - mode: ingress
+        target: 3131
+        published: "3131"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

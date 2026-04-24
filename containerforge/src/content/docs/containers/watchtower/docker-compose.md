@@ -1,24 +1,20 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **watchtower**:
 
 ```yaml
-version: "3.9"
-
+name: watchtower
 services:
   watchtower:
-    image: ghcr.io/trueforge-org/watchtower:v1.7.1
     container_name: watchtower
-    restart: unless-stopped
-
-    ports: []
-
     environment:
       WATCHTOWER_LABEL_ENABLE: "true"
-      WORKDIR: "/app"
-
+      WORKDIR: /app
+    image: ghcr.io/trueforge-org/watchtower:v1.7.1
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

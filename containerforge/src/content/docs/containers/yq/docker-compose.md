@@ -1,22 +1,17 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **yq**:
 
 ```yaml
-version: "3.9"
-
+name: yq
 services:
   yq:
-    image: ghcr.io/trueforge-org/yq:3.4.3
     container_name: yq
+    image: ghcr.io/trueforge-org/yq:3.4.3
     restart: unless-stopped
-
-    ports: []
-
-    environment: {}
-
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

@@ -1,27 +1,27 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **esphome**:
 
 ```yaml
-version: "3.9"
-
+name: esphome
 services:
   esphome:
-    image: ghcr.io/trueforge-org/esphome:2026.4.2
     container_name: esphome
-    restart: unless-stopped
-
-    ports:
-      - "6052:6052"
-
     environment:
-      ESPHOME_BUILD_PATH: "/cache/build"
-      ESPHOME_DATA_DIR: "/cache/data"
-      HOME: "/config"
-      PLATFORMIO_CORE_DIR: "/cache/pio"
-
+      ESPHOME_BUILD_PATH: /cache/build
+      ESPHOME_DATA_DIR: /cache/data
+      HOME: /config
+      PLATFORMIO_CORE_DIR: /cache/pio
+    image: ghcr.io/trueforge-org/esphome:2026.4.2
+    ports:
+      - mode: ingress
+        target: 6052
+        published: "6052"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

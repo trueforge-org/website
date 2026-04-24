@@ -1,25 +1,25 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **autoscan**:
 
 ```yaml
-version: "3.9"
-
+name: autoscan
 services:
   autoscan:
-    image: ghcr.io/trueforge-org/autoscan:1.4.0
     container_name: autoscan
-    restart: unless-stopped
-
-    ports:
-      - "3030:3030"
-
     environment:
-      IMAGE_STATS: "${IMAGE_STATS}"
-      WEBUI_PORTS: "3030/tcp,3030/udp"
-
+      IMAGE_STATS: ${IMAGE_STATS}
+      WEBUI_PORTS: 3030/tcp,3030/udp
+    image: ghcr.io/trueforge-org/autoscan:1.4.0
+    ports:
+      - mode: ingress
+        target: 3030
+        published: "3030"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

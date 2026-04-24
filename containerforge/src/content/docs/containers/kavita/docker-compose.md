@@ -1,25 +1,25 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **kavita**:
 
 ```yaml
-version: "3.9"
-
+name: kavita
 services:
   kavita:
-    image: ghcr.io/trueforge-org/kavita:0.8.8.3
     container_name: kavita
-    restart: unless-stopped
-
-    ports:
-      - "5000:5000"
-
     environment:
       COMPlus_EnableDiagnostics: "0"
-      HOME: "/config"
-
+      HOME: /config
+    image: ghcr.io/trueforge-org/kavita:0.8.8.3
+    ports:
+      - mode: ingress
+        target: 5000
+        published: "5000"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

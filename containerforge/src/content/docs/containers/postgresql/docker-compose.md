@@ -1,28 +1,28 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **postgresql**:
 
 ```yaml
-version: "3.9"
-
+name: postgresql
 services:
   postgresql:
-    image: ghcr.io/trueforge-org/postgresql:18.2
     container_name: postgresql
-    restart: unless-stopped
-
-    ports:
-      - "5432:5432"
-
     environment:
-      LANG: "en_US.UTF-8"
-      LC_ALL: "en_US.UTF-8"
-      PATH: "/usr/lib/postgresql/${PG_MAJOR}/bin:$PATH"
-      PGDATA: "/config/$PG_MAJOR"
-      PG_MAJOR: "$PG_MAJOR"
-
+      LANG: en_US.UTF-8
+      LC_ALL: en_US.UTF-8
+      PATH: /usr/lib/postgresql/${PG_MAJOR}/bin:$PATH
+      PG_MAJOR: $PG_MAJOR
+      PGDATA: /config/$PG_MAJOR
+    image: ghcr.io/trueforge-org/postgresql:18.2
+    ports:
+      - mode: ingress
+        target: 5432
+        published: "5432"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

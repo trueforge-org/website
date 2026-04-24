@@ -1,25 +1,25 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **foldingathome**:
 
 ```yaml
-version: "3.9"
-
+name: foldingathome
 services:
   foldingathome:
-    image: ghcr.io/trueforge-org/foldingathome:8.4.9
     container_name: foldingathome
-    restart: unless-stopped
-
-    ports:
-      - "7396:7396"
-
     environment:
-      DEBIAN_FRONTEND: "noninteractive"
-      NVIDIA_DRIVER_CAPABILITIES: "compute,video,utility"
-
+      DEBIAN_FRONTEND: noninteractive
+      NVIDIA_DRIVER_CAPABILITIES: compute,video,utility
+    image: ghcr.io/trueforge-org/foldingathome:8.4.9
+    ports:
+      - mode: ingress
+        target: 7396
+        published: "7396"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

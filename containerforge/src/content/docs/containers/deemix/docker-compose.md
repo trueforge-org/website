@@ -1,23 +1,22 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **deemix**:
 
 ```yaml
-version: "3.9"
-
+name: deemix
 services:
   deemix:
-    image: ghcr.io/trueforge-org/deemix:0.0.1
     container_name: deemix
-    restart: unless-stopped
-
+    image: ghcr.io/trueforge-org/deemix:0.0.1
     ports:
-      - "6595:6595"
-
-    environment: {}
-
+      - mode: ingress
+        target: 6595
+        published: "6595"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

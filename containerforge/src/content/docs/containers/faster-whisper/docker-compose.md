@@ -1,24 +1,24 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **faster-whisper**:
 
 ```yaml
-version: "3.9"
-
+name: faster-whisper
 services:
   faster-whisper:
-    image: ghcr.io/trueforge-org/faster-whisper:3.0.2
     container_name: faster-whisper
-    restart: unless-stopped
-
-    ports:
-      - "10300:10300"
-
     environment:
-      HOME: "/config"
-
+      HOME: /config
+    image: ghcr.io/trueforge-org/faster-whisper:3.0.2
+    ports:
+      - mode: ingress
+        target: 10300
+        published: "10300"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

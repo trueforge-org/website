@@ -1,24 +1,24 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **pyload-ng**:
 
 ```yaml
-version: "3.9"
-
+name: pyload-ng
 services:
   pyload-ng:
-    image: ghcr.io/trueforge-org/pyload-ng:0.5.0b3.dev93
     container_name: pyload-ng
-    restart: unless-stopped
-
-    ports:
-      - "8000:8000"
-
     environment:
-      HOME: "/config"
-
+      HOME: /config
+    image: ghcr.io/trueforge-org/pyload-ng:0.5.0b3.dev93
+    ports:
+      - mode: ingress
+        target: 8000
+        published: "8000"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

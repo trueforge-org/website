@@ -1,24 +1,26 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **projectsend**:
 
 ```yaml
-version: "3.9"
-
+name: projectsend
 services:
   projectsend:
-    image: ghcr.io/trueforge-org/projectsend:r1945
     container_name: projectsend
-    restart: unless-stopped
-
+    image: ghcr.io/trueforge-org/projectsend:r1945
     ports:
-      - "80:80"
-      - "443:443"
-
-    environment: {}
-
+      - mode: ingress
+        target: 80
+        published: "80"
+        protocol: tcp
+      - mode: ingress
+        target: 443
+        published: "443"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

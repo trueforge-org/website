@@ -1,29 +1,25 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **kopia**:
 
 ```yaml
-version: "3.9"
-
+name: kopia
 services:
   kopia:
-    image: ghcr.io/trueforge-org/kopia:v0.22.3
     container_name: kopia
-    restart: unless-stopped
-
-    ports: []
-
     environment:
-      KOPIA_CACHE_DIRECTORY: "/config/cache"
+      KOPIA_CACHE_DIRECTORY: /config/cache
       KOPIA_CHECK_FOR_UPDATES: "false"
-      KOPIA_CONFIG_PATH: "/config/repository.config"
-      KOPIA_LOG_DIR: "/config/logs"
+      KOPIA_CONFIG_PATH: /config/repository.config
+      KOPIA_LOG_DIR: /config/logs
       KOPIA_PERSIST_CREDENTIALS_ON_CONNECT: "false"
       KOPIA_WEB_ENABLED: "true"
       KOPIA_WEB_PORT: "51515"
-
+    image: ghcr.io/trueforge-org/kopia:v0.22.3
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

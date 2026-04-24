@@ -1,26 +1,26 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **prowlarr**:
 
 ```yaml
-version: "3.9"
-
+name: prowlarr
 services:
   prowlarr:
-    image: ghcr.io/trueforge-org/prowlarr:2.3.6.5351
     container_name: prowlarr
-    restart: unless-stopped
-
-    ports:
-      - "9696:9696"
-
     environment:
       DOTNET_EnableDiagnostics: "0"
       PROWLARR__SERVER__PORT: "9696"
-      PROWLARR__UPDATE__BRANCH: "develop"
-
+      PROWLARR__UPDATE__BRANCH: develop
+    image: ghcr.io/trueforge-org/prowlarr:2.3.6.5351
+    ports:
+      - mode: ingress
+        target: 9696
+        published: "9696"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

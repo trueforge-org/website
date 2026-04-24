@@ -1,24 +1,26 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **pwndrop**:
 
 ```yaml
-version: "3.9"
-
+name: pwndrop
 services:
   pwndrop:
-    image: ghcr.io/trueforge-org/pwndrop:1.0.1
     container_name: pwndrop
-    restart: unless-stopped
-
+    image: ghcr.io/trueforge-org/pwndrop:1.0.1
     ports:
-      - "4443:4443"
-      - "8080:8080"
-
-    environment: {}
-
+      - mode: ingress
+        target: 4443
+        published: "4443"
+        protocol: tcp
+      - mode: ingress
+        target: 8080
+        published: "8080"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

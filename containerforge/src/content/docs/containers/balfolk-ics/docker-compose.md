@@ -1,23 +1,22 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **balfolk-ics**:
 
 ```yaml
-version: "3.9"
-
+name: balfolk-ics
 services:
   balfolk-ics:
-    image: ghcr.io/trueforge-org/balfolk-ics:0.0.5
     container_name: balfolk-ics
-    restart: unless-stopped
-
+    image: ghcr.io/trueforge-org/balfolk-ics:0.0.5
     ports:
-      - "8000:8000"
-
-    environment: {}
-
+      - mode: ingress
+        target: 8000
+        published: "8000"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

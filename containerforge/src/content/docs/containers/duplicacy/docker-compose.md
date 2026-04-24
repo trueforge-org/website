@@ -1,25 +1,28 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **duplicacy**:
 
 ```yaml
-version: "3.9"
-
+name: duplicacy
 services:
   duplicacy:
-    image: ghcr.io/trueforge-org/duplicacy:1.8.0
     container_name: duplicacy
-    restart: unless-stopped
-
+    image: ghcr.io/trueforge-org/duplicacy:1.8.0
     ports:
-      - "3875:3875"
-
-    environment: {}
-
+      - mode: ingress
+        target: 3875
+        published: "3875"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./cache:/cache
-      - ./config:/config
-      - ./logs:/logs
+      - type: bind
+        source: cache
+        target: /cache
+      - type: bind
+        source: config
+        target: /config
+      - type: bind
+        source: logs
+        target: /logs
 ```

@@ -1,22 +1,17 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **rsnapshot**:
 
 ```yaml
-version: "3.9"
-
+name: rsnapshot
 services:
   rsnapshot:
-    image: ghcr.io/trueforge-org/rsnapshot:1.4.5-r0-ls152
     container_name: rsnapshot
+    image: ghcr.io/trueforge-org/rsnapshot:1.4.5-r0-ls152
     restart: unless-stopped
-
-    ports: []
-
-    environment: {}
-
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

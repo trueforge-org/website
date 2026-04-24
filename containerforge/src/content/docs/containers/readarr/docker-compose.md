@@ -1,26 +1,26 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **readarr**:
 
 ```yaml
-version: "3.9"
-
+name: readarr
 services:
   readarr:
-    image: ghcr.io/trueforge-org/readarr:0.4.18.2805
     container_name: readarr
-    restart: unless-stopped
-
-    ports:
-      - "8787:8787"
-
     environment:
       COMPlus_EnableDiagnostics: "0"
       READARR__SERVER__PORT: "8787"
-      READARR__UPDATE__BRANCH: "develop"
-
+      READARR__UPDATE__BRANCH: develop
+    image: ghcr.io/trueforge-org/readarr:0.4.18.2805
+    ports:
+      - mode: ingress
+        target: 8787
+        published: "8787"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

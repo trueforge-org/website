@@ -1,23 +1,22 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **habridge**:
 
 ```yaml
-version: "3.9"
-
+name: habridge
 services:
   habridge:
-    image: ghcr.io/trueforge-org/habridge:5.4.1
     container_name: habridge
-    restart: unless-stopped
-
+    image: ghcr.io/trueforge-org/habridge:5.4.1
     ports:
-      - "8080:8080"
-
-    environment: {}
-
+      - mode: ingress
+        target: 8080
+        published: "8080"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

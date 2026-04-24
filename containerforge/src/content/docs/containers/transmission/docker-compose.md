@@ -1,27 +1,27 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **transmission**:
 
 ```yaml
-version: "3.9"
-
+name: transmission
 services:
   transmission:
-    image: ghcr.io/trueforge-org/transmission:4.0.5-1build5
     container_name: transmission
-    restart: unless-stopped
-
-    ports:
-      - "9091:9091"
-
     environment:
-      HOME: "/config"
-      TRANSMISSION_WEB_HOME: "/usr/share/transmission/public_html"
-      XDG_CONFIG_HOME: "/config"
-      XDG_DATA_HOME: "/config"
-
+      HOME: /config
+      TRANSMISSION_WEB_HOME: /usr/share/transmission/public_html
+      XDG_CONFIG_HOME: /config
+      XDG_DATA_HOME: /config
+    image: ghcr.io/trueforge-org/transmission:4.0.5-1build5
+    ports:
+      - mode: ingress
+        target: 9091
+        published: "9091"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

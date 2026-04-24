@@ -1,22 +1,17 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **postgresql-client**:
 
 ```yaml
-version: "3.9"
-
+name: postgresql-client
 services:
   postgresql-client:
-    image: ghcr.io/trueforge-org/postgresql-client:9.6.24
     container_name: postgresql-client
+    image: ghcr.io/trueforge-org/postgresql-client:9.6.24
     restart: unless-stopped
-
-    ports: []
-
-    environment: {}
-
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

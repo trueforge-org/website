@@ -1,22 +1,17 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **unpackerr**:
 
 ```yaml
-version: "3.9"
-
+name: unpackerr
 services:
   unpackerr:
-    image: ghcr.io/trueforge-org/unpackerr:0.15.2
     container_name: unpackerr
+    image: ghcr.io/trueforge-org/unpackerr:0.15.2
     restart: unless-stopped
-
-    ports: []
-
-    environment: {}
-
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

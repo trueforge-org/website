@@ -1,27 +1,27 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **drydock**:
 
 ```yaml
-version: "3.9"
-
+name: drydock
 services:
   drydock:
-    image: ghcr.io/trueforge-org/drydock:0.0.17
     container_name: drydock
-    restart: unless-stopped
-
-    ports:
-      - "3000:3000"
-
     environment:
-      DD_LOG_FORMAT: "text"
-      DD_STORE_PATH: "/config"
-      DD_VERSION: "$VERSION"
-      WORKDIR: "/app"
-
+      DD_LOG_FORMAT: text
+      DD_STORE_PATH: /config
+      DD_VERSION: $VERSION
+      WORKDIR: /app
+    image: ghcr.io/trueforge-org/drydock:0.0.17
+    ports:
+      - mode: ingress
+        target: 3000
+        published: "3000"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

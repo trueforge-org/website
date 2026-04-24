@@ -1,24 +1,26 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **ldap-auth**:
 
 ```yaml
-version: "3.9"
-
+name: ldap-auth
 services:
   ldap-auth:
-    image: ghcr.io/trueforge-org/ldap-auth:3.4.5
     container_name: ldap-auth
-    restart: unless-stopped
-
+    image: ghcr.io/trueforge-org/ldap-auth:3.4.5
     ports:
-      - "8888:8888"
-      - "9000:9000"
-
-    environment: {}
-
+      - mode: ingress
+        target: 8888
+        published: "8888"
+        protocol: tcp
+      - mode: ingress
+        target: 9000
+        published: "9000"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

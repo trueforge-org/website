@@ -1,22 +1,17 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **mongosh**:
 
 ```yaml
-version: "3.9"
-
+name: mongosh
 services:
   mongosh:
-    image: ghcr.io/trueforge-org/mongosh:2.8.2
     container_name: mongosh
+    image: ghcr.io/trueforge-org/mongosh:2.8.2
     restart: unless-stopped
-
-    ports: []
-
-    environment: {}
-
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

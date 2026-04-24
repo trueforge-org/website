@@ -1,26 +1,31 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **sealskin**:
 
 ```yaml
-version: "3.9"
-
+name: sealskin
 services:
   sealskin:
-    image: ghcr.io/trueforge-org/sealskin:0.1.37
     container_name: sealskin
-    restart: unless-stopped
-
-    ports:
-      - "8000:8000"
-      - "8443:8443"
-
     environment:
-      HOME: "/config"
-
+      HOME: /config
+    image: ghcr.io/trueforge-org/sealskin:0.1.37
+    ports:
+      - mode: ingress
+        target: 8000
+        published: "8000"
+        protocol: tcp
+      - mode: ingress
+        target: 8443
+        published: "8443"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
-      - ./storage:/storage
+      - type: bind
+        source: config
+        target: /config
+      - type: bind
+        source: storage
+        target: /storage
 ```

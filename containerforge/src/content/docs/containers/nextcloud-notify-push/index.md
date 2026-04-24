@@ -22,7 +22,7 @@ This page contains the container reference for **nextcloud-notify-push**, includ
 
 ## Available Documentation
 
-- [**Docker Compose**](./docker-compose)
+- [**Docker-Compose**](./docker-compose)
 
 ---
 

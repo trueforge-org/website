@@ -1,27 +1,23 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **golang**:
 
 ```yaml
-version: "3.9"
-
+name: golang
 services:
   golang:
-    image: ghcr.io/trueforge-org/golang:1.26.2
     container_name: golang
-    restart: unless-stopped
-
-    ports: []
-
     environment:
-      GOCACHE: "/tmp/go-build"
-      GOPATH: "/config/go"
-      GOTOOLCHAIN: "local"
-      HOME: "/config"
-      PATH: "/usr/local/go/bin:$PATH"
-
+      GOCACHE: /tmp/go-build
+      GOPATH: /config/go
+      GOTOOLCHAIN: local
+      HOME: /config
+      PATH: /usr/local/go/bin:$PATH
+    image: ghcr.io/trueforge-org/golang:1.26.2
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

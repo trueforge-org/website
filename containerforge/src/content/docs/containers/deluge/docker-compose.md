@@ -1,26 +1,26 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **deluge**:
 
 ```yaml
-version: "3.9"
-
+name: deluge
 services:
   deluge:
-    image: ghcr.io/trueforge-org/deluge:2.2.0
     container_name: deluge
-    restart: unless-stopped
-
-    ports:
-      - "58846:58846"
-
     environment:
-      DELUGE_BIN: "deluged"
-      PYTHON_EGG_CACHE: "/config/plugins/.python-eggs"
-      XDG_CONFIG_HOME: "/config"
-
+      DELUGE_BIN: deluged
+      PYTHON_EGG_CACHE: /config/plugins/.python-eggs
+      XDG_CONFIG_HOME: /config
+    image: ghcr.io/trueforge-org/deluge:2.2.0
+    ports:
+      - mode: ingress
+        target: 58846
+        published: "58846"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

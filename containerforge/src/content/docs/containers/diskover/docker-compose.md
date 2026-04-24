@@ -1,27 +1,30 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **diskover**:
 
 ```yaml
-version: "3.9"
-
+name: diskover
 services:
   diskover:
-    image: ghcr.io/trueforge-org/diskover:2.3.5
     container_name: diskover
-    restart: unless-stopped
-
-    ports:
-      - "80:80"
-      - "443:443"
-
     environment:
-      DATABASE: "/config/diskoverdb.sqlite3"
-      DISKOVERDIR: "/config/diskover.conf.d/diskover/"
-      ES_HOST: "elasticsearch"
-
+      DATABASE: /config/diskoverdb.sqlite3
+      DISKOVERDIR: /config/diskover.conf.d/diskover/
+      ES_HOST: elasticsearch
+    image: ghcr.io/trueforge-org/diskover:2.3.5
+    ports:
+      - mode: ingress
+        target: 80
+        published: "80"
+        protocol: tcp
+      - mode: ingress
+        target: 443
+        published: "443"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

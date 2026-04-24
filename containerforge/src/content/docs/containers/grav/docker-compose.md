@@ -1,24 +1,26 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **grav**:
 
 ```yaml
-version: "3.9"
-
+name: grav
 services:
   grav:
-    image: ghcr.io/trueforge-org/grav:1.7.49.5
     container_name: grav
-    restart: unless-stopped
-
+    image: ghcr.io/trueforge-org/grav:1.7.49.5
     ports:
-      - "80:80"
-      - "443:443"
-
-    environment: {}
-
+      - mode: ingress
+        target: 80
+        published: "80"
+        protocol: tcp
+      - mode: ingress
+        target: 443
+        published: "443"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

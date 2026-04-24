@@ -1,22 +1,17 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **duckdns**:
 
 ```yaml
-version: "3.9"
-
+name: duckdns
 services:
   duckdns:
-    image: ghcr.io/trueforge-org/duckdns:95e5988b
     container_name: duckdns
+    image: ghcr.io/trueforge-org/duckdns:95e5988b
     restart: unless-stopped
-
-    ports: []
-
-    environment: {}
-
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

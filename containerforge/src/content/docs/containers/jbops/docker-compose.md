@@ -1,24 +1,20 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **jbops**:
 
 ```yaml
-version: "3.9"
-
+name: jbops
 services:
   jbops:
-    image: ghcr.io/trueforge-org/jbops:master
     container_name: jbops
-    restart: unless-stopped
-
-    ports: []
-
     environment:
-      JBOPS__SCRIPT_PATH: "fun/plexapi_haiku.py"
-      PLEXAPI_CONFIG_PATH: "/config/config.ini"
-
+      JBOPS__SCRIPT_PATH: fun/plexapi_haiku.py
+      PLEXAPI_CONFIG_PATH: /config/config.ini
+    image: ghcr.io/trueforge-org/jbops:master
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

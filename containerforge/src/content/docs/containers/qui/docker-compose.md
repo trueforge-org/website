@@ -1,25 +1,28 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **qui**:
 
 ```yaml
-version: "3.9"
-
+name: qui
 services:
   qui:
-    image: ghcr.io/trueforge-org/qui:1.17.0
     container_name: qui
-    restart: unless-stopped
-
-    ports:
-      - "7476:7476"
-      - "7476:7476/udp"
-
     environment:
-      WEBUI_PORTS: "7476/tcp,7476/udp"
-
+      WEBUI_PORTS: 7476/tcp,7476/udp
+    image: ghcr.io/trueforge-org/qui:1.17.0
+    ports:
+      - mode: ingress
+        target: 7476
+        published: "7476"
+        protocol: tcp
+      - mode: ingress
+        target: 7476
+        published: "7476"
+        protocol: udp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

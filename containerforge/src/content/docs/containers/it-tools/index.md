@@ -22,7 +22,7 @@ This page contains the container reference for **it-tools**, including upstream 
 
 ## Available Documentation
 
-- [**Docker Compose**](./docker-compose)
+- [**Docker-Compose**](./docker-compose)
 
 ---
 

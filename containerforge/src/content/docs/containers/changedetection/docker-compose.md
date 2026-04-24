@@ -4,17 +4,17 @@ title: Docker-Compose
 
 
 ```yaml
-name: adguardhome-sync
+name: changedetection
 services:
-  adguardhome-sync:
-    container_name: adguardhome-sync
+  changedetection:
+    container_name: changedetection
     environment:
-      HOME: /config
-    image: ghcr.io/trueforge-org/adguardhome-sync:0.9.0
+      PYTHONUNBUFFERED: "1"
+    image: ghcr.io/trueforge-org/changedetection:0.54.10
     ports:
       - mode: ingress
-        target: 8080
-        published: "8080"
+        target: 5000
+        published: "5000"
         protocol: tcp
     restart: unless-stopped
     volumes:

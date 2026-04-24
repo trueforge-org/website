@@ -1,24 +1,24 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **requestrr**:
 
 ```yaml
-version: "3.9"
-
+name: requestrr
 services:
   requestrr:
-    image: ghcr.io/trueforge-org/requestrr:2.1.9
     container_name: requestrr
-    restart: unless-stopped
-
-    ports:
-      - "4545:4545"
-
     environment:
-      WEBUI_PORTS: "4545/tcp,4545/udp"
-
+      WEBUI_PORTS: 4545/tcp,4545/udp
+    image: ghcr.io/trueforge-org/requestrr:2.1.9
+    ports:
+      - mode: ingress
+        target: 4545
+        published: "4545"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

@@ -1,25 +1,25 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **budge**:
 
 ```yaml
-version: "3.9"
-
+name: budge
 services:
   budge:
-    image: ghcr.io/trueforge-org/budge:0.0.9
     container_name: budge
-    restart: unless-stopped
-
-    ports:
-      - "5000:5000"
-
     environment:
-      BUDGE_DATABASE: "/config/budge.db"
-      S6_STAGE2_HOOK: "/init-hook"
-
+      BUDGE_DATABASE: /config/budge.db
+      S6_STAGE2_HOOK: /init-hook
+    image: ghcr.io/trueforge-org/budge:0.0.9
+    ports:
+      - mode: ingress
+        target: 5000
+        published: "5000"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

@@ -1,24 +1,24 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **tautulli**:
 
 ```yaml
-version: "3.9"
-
+name: tautulli
 services:
   tautulli:
-    image: ghcr.io/trueforge-org/tautulli:2.17.0
     container_name: tautulli
-    restart: unless-stopped
-
-    ports:
-      - "8181:8181"
-
     environment:
       TAUTULLI_DOCKER: "True"
-
+    image: ghcr.io/trueforge-org/tautulli:2.17.0
+    ports:
+      - mode: ingress
+        target: 8181
+        published: "8181"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

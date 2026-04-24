@@ -1,23 +1,22 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **openssh-server**:
 
 ```yaml
-version: "3.9"
-
+name: openssh-server
 services:
   openssh-server:
-    image: ghcr.io/trueforge-org/openssh-server:10.2_p1-r0-ls217
     container_name: openssh-server
-    restart: unless-stopped
-
+    image: ghcr.io/trueforge-org/openssh-server:10.2_p1-r0-ls217
     ports:
-      - "2222:2222"
-
-    environment: {}
-
+      - mode: ingress
+        target: 2222
+        published: "2222"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

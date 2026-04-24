@@ -1,23 +1,22 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **lazylibrarian**:
 
 ```yaml
-version: "3.9"
-
+name: lazylibrarian
 services:
   lazylibrarian:
-    image: ghcr.io/trueforge-org/lazylibrarian:07aba984
     container_name: lazylibrarian
-    restart: unless-stopped
-
+    image: ghcr.io/trueforge-org/lazylibrarian:07aba984
     ports:
-      - "5299:5299"
-
-    environment: {}
-
+      - mode: ingress
+        target: 5299
+        published: "5299"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

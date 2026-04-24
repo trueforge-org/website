@@ -1,24 +1,24 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **healthchecks**:
 
 ```yaml
-version: "3.9"
-
+name: healthchecks
 services:
   healthchecks:
-    image: ghcr.io/trueforge-org/healthchecks:4.1.1
     container_name: healthchecks
-    restart: unless-stopped
-
-    ports:
-      - "8000:8000"
-
     environment:
       PYTHONUNBUFFERED: "1"
-
+    image: ghcr.io/trueforge-org/healthchecks:4.1.1
+    ports:
+      - mode: ingress
+        target: 8000
+        published: "8000"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

@@ -1,25 +1,25 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **home-assistant**:
 
 ```yaml
-version: "3.9"
-
+name: home-assistant
 services:
   home-assistant:
-    image: ghcr.io/trueforge-org/home-assistant:2026.4.3
     container_name: home-assistant
-    restart: unless-stopped
-
-    ports:
-      - "8123:8123"
-
     environment:
-      HOME: "/config"
-      PYTHONUSERBASE: "/usr/local"
-
+      HOME: /config
+      PYTHONUSERBASE: /usr/local
+    image: ghcr.io/trueforge-org/home-assistant:2026.4.3
+    ports:
+      - mode: ingress
+        target: 8123
+        published: "8123"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

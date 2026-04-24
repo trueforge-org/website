@@ -1,23 +1,22 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **limnoria**:
 
 ```yaml
-version: "3.9"
-
+name: limnoria
 services:
   limnoria:
-    image: ghcr.io/trueforge-org/limnoria:2025.11.2
     container_name: limnoria
-    restart: unless-stopped
-
+    image: ghcr.io/trueforge-org/limnoria:2025.11.2
     ports:
-      - "8080:8080"
-
-    environment: {}
-
+      - mode: ingress
+        target: 8080
+        published: "8080"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

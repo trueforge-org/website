@@ -1,24 +1,24 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **pairdrop**:
 
 ```yaml
-version: "3.9"
-
+name: pairdrop
 services:
   pairdrop:
-    image: ghcr.io/trueforge-org/pairdrop:1.11.2
     container_name: pairdrop
-    restart: unless-stopped
-
-    ports:
-      - "3000:3000"
-
     environment:
-      NODE_ENV: "production"
-
+      NODE_ENV: production
+    image: ghcr.io/trueforge-org/pairdrop:1.11.2
+    ports:
+      - mode: ingress
+        target: 3000
+        published: "3000"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

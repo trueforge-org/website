@@ -1,22 +1,17 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **doplarr**:
 
 ```yaml
-version: "3.9"
-
+name: doplarr
 services:
   doplarr:
-    image: ghcr.io/trueforge-org/doplarr:3.7.0
     container_name: doplarr
+    image: ghcr.io/trueforge-org/doplarr:3.7.0
     restart: unless-stopped
-
-    ports: []
-
-    environment: {}
-
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

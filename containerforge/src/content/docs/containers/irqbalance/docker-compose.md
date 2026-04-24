@@ -1,22 +1,17 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **irqbalance**:
 
 ```yaml
-version: "3.9"
-
+name: irqbalance
 services:
   irqbalance:
-    image: ghcr.io/trueforge-org/irqbalance:1.9.4-r1
     container_name: irqbalance
+    image: ghcr.io/trueforge-org/irqbalance:1.9.4-r1
     restart: unless-stopped
-
-    ports: []
-
-    environment: {}
-
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

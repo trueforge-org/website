@@ -1,23 +1,22 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **memcache**:
 
 ```yaml
-version: "3.9"
-
+name: memcache
 services:
   memcache:
-    image: ghcr.io/trueforge-org/memcache:1.6.24-1build3
     container_name: memcache
-    restart: unless-stopped
-
+    image: ghcr.io/trueforge-org/memcache:1.6.24-1build3
     ports:
-      - "11211:11211"
-
-    environment: {}
-
+      - mode: ingress
+        target: 11211
+        published: "11211"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

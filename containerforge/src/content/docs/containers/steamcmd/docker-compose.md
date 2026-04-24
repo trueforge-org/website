@@ -1,22 +1,17 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **steamcmd**:
 
 ```yaml
-version: "3.9"
-
+name: steamcmd
 services:
   steamcmd:
-    image: ghcr.io/trueforge-org/steamcmd:20180105-5
     container_name: steamcmd
+    image: ghcr.io/trueforge-org/steamcmd:20180105-5
     restart: unless-stopped
-
-    ports: []
-
-    environment: {}
-
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

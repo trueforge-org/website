@@ -1,22 +1,17 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **mariadb-client**:
 
 ```yaml
-version: "3.9"
-
+name: mariadb-client
 services:
   mariadb-client:
-    image: ghcr.io/trueforge-org/mariadb-client:12.2.2
     container_name: mariadb-client
+    image: ghcr.io/trueforge-org/mariadb-client:12.2.2
     restart: unless-stopped
-
-    ports: []
-
-    environment: {}
-
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

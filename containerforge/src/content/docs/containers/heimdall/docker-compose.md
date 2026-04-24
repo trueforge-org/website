@@ -1,24 +1,26 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **heimdall**:
 
 ```yaml
-version: "3.9"
-
+name: heimdall
 services:
   heimdall:
-    image: ghcr.io/trueforge-org/heimdall:2.7.6
     container_name: heimdall
-    restart: unless-stopped
-
+    image: ghcr.io/trueforge-org/heimdall:2.7.6
     ports:
-      - "80:80"
-      - "443:443"
-
-    environment: {}
-
+      - mode: ingress
+        target: 80
+        published: "80"
+        protocol: tcp
+      - mode: ingress
+        target: 443
+        published: "443"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

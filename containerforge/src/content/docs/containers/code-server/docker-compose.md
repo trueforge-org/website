@@ -1,24 +1,24 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **code-server**:
 
 ```yaml
-version: "3.9"
-
+name: code-server
 services:
   code-server:
-    image: ghcr.io/trueforge-org/code-server:4.117.0
     container_name: code-server
-    restart: unless-stopped
-
-    ports:
-      - "8443:8443"
-
     environment:
-      HOME: "/config"
-
+      HOME: /config
+    image: ghcr.io/trueforge-org/code-server:4.117.0
+    ports:
+      - mode: ingress
+        target: 8443
+        published: "8443"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

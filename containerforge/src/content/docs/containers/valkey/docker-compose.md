@@ -1,24 +1,24 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **valkey**:
 
 ```yaml
-version: "3.9"
-
+name: valkey
 services:
   valkey:
-    image: ghcr.io/trueforge-org/valkey:7.2.11
     container_name: valkey
-    restart: unless-stopped
-
-    ports:
-      - "6379:6379"
-
     environment:
       VALKEY_PORT: "6379"
-
+    image: ghcr.io/trueforge-org/valkey:7.2.11
+    ports:
+      - mode: ingress
+        target: 6379
+        published: "6379"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

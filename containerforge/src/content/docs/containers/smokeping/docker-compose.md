@@ -1,24 +1,25 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **smokeping**:
 
 ```yaml
-version: "3.9"
-
+name: smokeping
 services:
   smokeping:
-    image: ghcr.io/trueforge-org/smokeping:2.9.0-r0-ls164
     container_name: smokeping
-    restart: unless-stopped
-
+    image: ghcr.io/trueforge-org/smokeping:2.9.0-r0-ls164
     ports:
-      - "80:80"
-
-    environment: {}
-
+      - mode: ingress
+        target: 80
+        published: "80"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
-      - ./data:/data
+      - type: bind
+        source: config
+        target: /config
+      - type: bind
+        source: data
+        target: /data
 ```

@@ -22,7 +22,7 @@ This page contains the container reference for **flood**, including upstream sou
 
 ## Available Documentation
 
-- [**Docker Compose**](./docker-compose)
+- [**Docker-Compose**](./docker-compose)
 
 ---
 

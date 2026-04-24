@@ -1,24 +1,24 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **raneto**:
 
 ```yaml
-version: "3.9"
-
+name: raneto
 services:
   raneto:
-    image: ghcr.io/trueforge-org/raneto:0.18.1
     container_name: raneto
-    restart: unless-stopped
-
-    ports:
-      - "3000:3000"
-
     environment:
       PORT: "3000"
-
+    image: ghcr.io/trueforge-org/raneto:0.18.1
+    ports:
+      - mode: ingress
+        target: 3000
+        published: "3000"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

@@ -1,27 +1,27 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **bazarr**:
 
 ```yaml
-version: "3.9"
-
+name: bazarr
 services:
   bazarr:
-    image: ghcr.io/trueforge-org/bazarr:v1.5.6
     container_name: bazarr
-    restart: unless-stopped
-
-    ports:
-      - "6767:6767"
-
     environment:
-      BAZARR_PACKAGE_AUTHOR: "${VENDOR}"
-      BAZARR_PACKAGE_VERSION: "${VERSION}"
-      BAZARR_VERSION: "${VERSION}"
       BAZARR__PORT: "6767"
-
+      BAZARR_PACKAGE_AUTHOR: ${VENDOR}
+      BAZARR_PACKAGE_VERSION: ${VERSION}
+      BAZARR_VERSION: ${VERSION}
+    image: ghcr.io/trueforge-org/bazarr:v1.5.6
+    ports:
+      - mode: ingress
+        target: 6767
+        published: "6767"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

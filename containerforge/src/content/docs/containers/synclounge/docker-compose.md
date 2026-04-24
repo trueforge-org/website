@@ -1,24 +1,24 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **synclounge**:
 
 ```yaml
-version: "3.9"
-
+name: synclounge
 services:
   synclounge:
-    image: ghcr.io/trueforge-org/synclounge:5.2.35
     container_name: synclounge
-    restart: unless-stopped
-
-    ports:
-      - "8088:8088"
-
     environment:
-      HOME: "/app"
-
+      HOME: /app
+    image: ghcr.io/trueforge-org/synclounge:5.2.35
+    ports:
+      - mode: ingress
+        target: 8088
+        published: "8088"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

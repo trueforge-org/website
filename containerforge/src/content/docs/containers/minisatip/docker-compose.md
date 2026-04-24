@@ -1,28 +1,34 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **minisatip**:
 
 ```yaml
-version: "3.9"
-
+name: minisatip
 services:
   minisatip:
-    image: ghcr.io/trueforge-org/minisatip:2.0.79
     container_name: minisatip
-    restart: unless-stopped
-
-    ports:
-      - "554:554"
-      - "1900:1900/udp"
-      - "8875:8875"
-
     environment:
-      -type: "c"
-      ATTACHED_DEVICES_PERMS: "/dev/dvb"
-      MAKEFLAGS: "-j4"
-
+      -type: c
+      ATTACHED_DEVICES_PERMS: /dev/dvb
+      MAKEFLAGS: -j4
+    image: ghcr.io/trueforge-org/minisatip:2.0.79
+    ports:
+      - mode: ingress
+        target: 554
+        published: "554"
+        protocol: tcp
+      - mode: ingress
+        target: 1900
+        published: "1900"
+        protocol: udp
+      - mode: ingress
+        target: 8875
+        published: "8875"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

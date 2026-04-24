@@ -1,23 +1,22 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **netbox**:
 
 ```yaml
-version: "3.9"
-
+name: netbox
 services:
   netbox:
-    image: ghcr.io/trueforge-org/netbox:4.5.8
     container_name: netbox
-    restart: unless-stopped
-
+    image: ghcr.io/trueforge-org/netbox:4.5.8
     ports:
-      - "8000:8000"
-
-    environment: {}
-
+      - mode: ingress
+        target: 8000
+        published: "8000"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

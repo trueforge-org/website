@@ -1,23 +1,22 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **jellyseerr**:
 
 ```yaml
-version: "3.9"
-
+name: jellyseerr
 services:
   jellyseerr:
-    image: ghcr.io/trueforge-org/jellyseerr:2.7.3
     container_name: jellyseerr
-    restart: unless-stopped
-
+    image: ghcr.io/trueforge-org/jellyseerr:2.7.3
     ports:
-      - "5055:5055"
-
-    environment: {}
-
+      - mode: ingress
+        target: 5055
+        published: "5055"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

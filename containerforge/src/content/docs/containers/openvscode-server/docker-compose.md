@@ -1,24 +1,24 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **openvscode-server**:
 
 ```yaml
-version: "3.9"
-
+name: openvscode-server
 services:
   openvscode-server:
-    image: ghcr.io/trueforge-org/openvscode-server:1.105.1
     container_name: openvscode-server
-    restart: unless-stopped
-
-    ports:
-      - "3000:3000"
-
     environment:
-      HOME: "/config"
-
+      HOME: /config
+    image: ghcr.io/trueforge-org/openvscode-server:1.105.1
+    ports:
+      - mode: ingress
+        target: 3000
+        published: "3000"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

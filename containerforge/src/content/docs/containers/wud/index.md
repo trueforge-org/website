@@ -22,7 +22,7 @@ This page contains the container reference for **wud**, including upstream sourc
 
 ## Available Documentation
 
-- [**Docker Compose**](./docker-compose)
+- [**Docker-Compose**](./docker-compose)
 
 ---
 

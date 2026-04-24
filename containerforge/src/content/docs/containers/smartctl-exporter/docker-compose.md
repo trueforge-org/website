@@ -1,23 +1,22 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **smartctl-exporter**:
 
 ```yaml
-version: "3.9"
-
+name: smartctl-exporter
 services:
   smartctl-exporter:
-    image: ghcr.io/trueforge-org/smartctl-exporter:0.14.0
     container_name: smartctl-exporter
-    restart: unless-stopped
-
+    image: ghcr.io/trueforge-org/smartctl-exporter:0.14.0
     ports:
-      - "9633:9633"
-
-    environment: {}
-
+      - mode: ingress
+        target: 9633
+        published: "9633"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

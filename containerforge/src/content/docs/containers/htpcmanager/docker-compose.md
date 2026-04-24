@@ -1,23 +1,22 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **htpcmanager**:
 
 ```yaml
-version: "3.9"
-
+name: htpcmanager
 services:
   htpcmanager:
-    image: ghcr.io/trueforge-org/htpcmanager:26a641bf
     container_name: htpcmanager
-    restart: unless-stopped
-
+    image: ghcr.io/trueforge-org/htpcmanager:26a641bf
     ports:
-      - "8085:8085"
-
-    environment: {}
-
+      - mode: ingress
+        target: 8085
+        published: "8085"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

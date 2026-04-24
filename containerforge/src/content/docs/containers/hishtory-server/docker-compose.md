@@ -1,23 +1,22 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **hishtory-server**:
 
 ```yaml
-version: "3.9"
-
+name: hishtory-server
 services:
   hishtory-server:
-    image: ghcr.io/trueforge-org/hishtory-server:0.335
     container_name: hishtory-server
-    restart: unless-stopped
-
+    image: ghcr.io/trueforge-org/hishtory-server:0.335
     ports:
-      - "8080:8080"
-
-    environment: {}
-
+      - mode: ingress
+        target: 8080
+        published: "8080"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

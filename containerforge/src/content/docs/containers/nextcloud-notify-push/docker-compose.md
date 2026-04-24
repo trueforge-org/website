@@ -1,22 +1,17 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **nextcloud-notify-push**:
 
 ```yaml
-version: "3.9"
-
+name: nextcloud-notify-push
 services:
   nextcloud-notify-push:
-    image: ghcr.io/trueforge-org/nextcloud-notify-push:1.3.1
     container_name: nextcloud-notify-push
+    image: ghcr.io/trueforge-org/nextcloud-notify-push:1.3.1
     restart: unless-stopped
-
-    ports: []
-
-    environment: {}
-
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

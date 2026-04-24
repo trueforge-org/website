@@ -1,25 +1,25 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **ombi**:
 
 ```yaml
-version: "3.9"
-
+name: ombi
 services:
   ombi:
-    image: ghcr.io/trueforge-org/ombi:4.53.5
     container_name: ombi
-    restart: unless-stopped
-
-    ports:
-      - "3579:3579"
-
     environment:
       COMPlus_EnableDiagnostics: "0"
-      HOME: "/config"
-
+      HOME: /config
+    image: ghcr.io/trueforge-org/ombi:4.53.5
+    ports:
+      - mode: ingress
+        target: 3579
+        published: "3579"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./config:/config
+      - type: bind
+        source: config
+        target: /config
 ```

@@ -1,31 +1,35 @@
 ---
-title: Docker Compose
+title: Docker-Compose
 ---
 
-Example `docker-compose.yaml` for **duplicati**:
 
 ```yaml
-version: "3.9"
-
+name: duplicati
 services:
   duplicati:
-    image: ghcr.io/trueforge-org/duplicati:2.3.0.0_stable_2026-04-14
     container_name: duplicati
-    restart: unless-stopped
-
-    ports:
-      - "8200:8200"
-
     environment:
       DUPLICATI__REQUIRE_DB_ENCRYPTION_KEY: "true"
-      DUPLICATI__SERVER_DATAFOLDER: "/config"
-      DUPLICATI__WEBSERVICE_ALLOWED_HOSTNAMES: "*"
-      DUPLICATI__WEBSERVICE_INTERFACE: "any"
+      DUPLICATI__SERVER_DATAFOLDER: /config
+      DUPLICATI__WEBSERVICE_ALLOWED_HOSTNAMES: '*'
+      DUPLICATI__WEBSERVICE_INTERFACE: any
       DUPLICATI__WEBSERVICE_PORT: "8200"
-      HOME: "/config"
-
+      HOME: /config
+    image: ghcr.io/trueforge-org/duplicati:2.3.0.0_stable_2026-04-14
+    ports:
+      - mode: ingress
+        target: 8200
+        published: "8200"
+        protocol: tcp
+    restart: unless-stopped
     volumes:
-      - ./backups:/backups
-      - ./config:/config
-      - ./source:/source
+      - type: bind
+        source: backups
+        target: /backups
+      - type: bind
+        source: config
+        target: /config
+      - type: bind
+        source: source
+        target: /source
 ```
