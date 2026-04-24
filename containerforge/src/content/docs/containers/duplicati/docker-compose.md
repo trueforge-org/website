@@ -22,7 +22,7 @@ services:
       DUPLICATI__WEBSERVICE_INTERFACE: any
       TZ: Etc/UTC
       UMASK: "002"
-    image: ghcr.io/trueforge-org/duplicati:2.3.0.0_stable_2026-04-14
+    image: ghcr.io/trueforge-org/duplicati:2.3.0.1_stable_2026-04-24
     ports:
       - mode: ingress
         target: 8200
