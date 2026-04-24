@@ -13,6 +13,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2026.4.24 • [Train: ]
 
+- move settings schema to forgetool • [`90d1387`](https://github.com/trueforge-org/truecharts/commit/90d13871348e2629a401d53a27b6e3dc9590aa44) • [@Kjeld Schouten] (2026-04-24)
+- add dependencies settings key • [`f86db16`](https://github.com/trueforge-org/truecharts/commit/f86db166f69bb102f6a54714d7387cd393322ceb) • [@Kjeld Schouten] (2026-04-24)
+- tweak dependency system and allow for opt_dependencies • [`7d92bb5`](https://github.com/trueforge-org/truecharts/commit/7d92bb52cab800671d00900ec0109a0cff8b9fbe) • [@Kjeld Schouten] (2026-04-24)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to 5fa3c2c (#2076) • [`8582ebc`](https://github.com/trueforge-org/truecharts/commit/8582ebcc6a0322009da1c100ab08b2d52614ac5c) • [@TrueCharts Bot] (2026-04-24)
 
 ## 2026.4.23 • [Train: ]
@@ -31,5 +34,5 @@ If you need more than 2 scrolls to find your current version, please consider up
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to cc82810 (#1730) • [`fba0e4c`](https://github.com/trueforge-org/truecharts/commit/fba0e4cb9838b3e432a4dc6854905fb7c09c36b0) • [@TrueCharts Bot] (2026-04-07)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to 8f6de6a (#1685) • [`321716c`](https://github.com/trueforge-org/truecharts/commit/321716c160d4572147dcda1c8ae42f23a25ee2a5) • [@TrueCharts Bot] (2026-03-29)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to 1685c0f (#1696) • [`64d05ad`](https://github.com/trueforge-org/truecharts/commit/64d05ad1bb1da5beb109e92fc7aece41925f51ed) • [@TrueCharts Bot] (2026-03-29)
-- Restore upstream-based Renovate version sources for app containers (#1564) • [`ae336a4`](https://github.com/trueforge-org/truecharts/commit/ae336a46aad77583211f21fd13aa64cd5c30a557) • [@Copilot] (2026-02-24)
 - chore(ubuntu-dep): pin ghcr.io/trueforge-org/ubuntu docker tag digest to 1c87476 (#1533) • [`fa9215c`](https://github.com/trueforge-org/truecharts/commit/fa9215ca9fa8fc6f7118ab176ac04c2dd9f4d0a2) • [@TrueCharts Bot] (2026-02-24)
+- Restore upstream-based Renovate version sources for app containers (#1564) • [`ae336a4`](https://github.com/trueforge-org/truecharts/commit/ae336a46aad77583211f21fd13aa64cd5c30a557) • [@Copilot] (2026-02-24)
