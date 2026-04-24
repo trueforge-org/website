@@ -2,6 +2,14 @@
 title: Docker-Compose
 ---
 
+Every docker-container we build, can be easily loaded using a docker-compose file.
+
+Please note that any dependencies need to be manually connected (primarily their database names, usernames and passwords.
+Any optional dependancies or env-vars are commented out.
+
+Please do check the application source for installation instructions and any env-vars and ports that are not managed/created by us.
+
+## docker-compose.yaml
 
 ```yaml
 name: drydock
@@ -10,9 +18,7 @@ services:
     container_name: drydock
     environment:
       DD_LOG_FORMAT: text
-      DD_STORE_PATH: /config
-      DD_VERSION: $VERSION
-      WORKDIR: /app
+      TZ: Etc/UTC
     image: ghcr.io/trueforge-org/drydock:0.0.17
     ports:
       - mode: ingress

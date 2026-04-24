@@ -2,12 +2,28 @@
 title: Docker-Compose
 ---
 
+Every docker-container we build, can be easily loaded using a docker-compose file.
+
+Please note that any dependencies need to be manually connected (primarily their database names, usernames and passwords.
+Any optional dependancies or env-vars are commented out.
+
+Please do check the application source for installation instructions and any env-vars and ports that are not managed/created by us.
+
+## docker-compose.yaml
 
 ```yaml
 name: tailscale
 services:
   tailscale:
     container_name: tailscale
+    environment:
+      TS_ACCEPT_DNS: "false"
+      TS_AUTHKEY: ""
+      TS_EXTRA_ARGS: ""
+      TS_HOSTNAME: ""
+      TS_ROUTES: ""
+      TS_USERSPACE: "true"
+      TZ: Etc/UTC
     image: ghcr.io/trueforge-org/tailscale:v1.96.5
     restart: unless-stopped
     volumes:

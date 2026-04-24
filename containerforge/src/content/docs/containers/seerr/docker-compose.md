@@ -2,6 +2,14 @@
 title: Docker-Compose
 ---
 
+Every docker-container we build, can be easily loaded using a docker-compose file.
+
+Please note that any dependencies need to be manually connected (primarily their database names, usernames and passwords.
+Any optional dependancies or env-vars are commented out.
+
+Please do check the application source for installation instructions and any env-vars and ports that are not managed/created by us.
+
+## docker-compose.yaml
 
 ```yaml
 name: seerr
@@ -9,10 +17,8 @@ services:
   seerr:
     container_name: seerr
     environment:
-      NODE_ENV: production
-      NODE_OPTIONS: --max_old_space_size=2048
-      PATH: $PNPM_HOME:$PATH
-      PNPM_HOME: /pnpm
+      LOG_LEVEL: info
+      TZ: Etc/UTC
     image: ghcr.io/trueforge-org/seerr:3.2.0
     ports:
       - mode: ingress

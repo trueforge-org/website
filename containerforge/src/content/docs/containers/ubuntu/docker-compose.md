@@ -2,6 +2,14 @@
 title: Docker-Compose
 ---
 
+Every docker-container we build, can be easily loaded using a docker-compose file.
+
+Please note that any dependencies need to be manually connected (primarily their database names, usernames and passwords.
+Any optional dependancies or env-vars are commented out.
+
+Please do check the application source for installation instructions and any env-vars and ports that are not managed/created by us.
+
+## docker-compose.yaml
 
 ```yaml
 name: ubuntu
@@ -9,12 +17,7 @@ services:
   ubuntu:
     container_name: ubuntu
     environment:
-      "": Enable
-      DEBIAN_FRONTEND: noninteractive
       NVIDIA_DRIVER_CAPABILITIES: compute,video,utility
-      detection: of
-      dotnet: running
-      in: a
     image: ghcr.io/trueforge-org/ubuntu:24.04
     restart: unless-stopped
     volumes:

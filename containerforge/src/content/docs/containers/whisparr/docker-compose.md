@@ -2,6 +2,14 @@
 title: Docker-Compose
 ---
 
+Every docker-container we build, can be easily loaded using a docker-compose file.
+
+Please note that any dependencies need to be manually connected (primarily their database names, usernames and passwords.
+Any optional dependancies or env-vars are commented out.
+
+Please do check the application source for installation instructions and any env-vars and ports that are not managed/created by us.
+
+## docker-compose.yaml
 
 ```yaml
 name: whisparr
@@ -9,9 +17,8 @@ services:
   whisparr:
     container_name: whisparr
     environment:
-      COMPlus_EnableDiagnostics: "0"
-      WHISPARR__SERVER__PORT: "6969"
-      WHISPARR__UPDATE__BRANCH: eros
+      TZ: Etc/UTC
+      UMASK: "002"
     image: ghcr.io/trueforge-org/whisparr:3.1.0.2116
     ports:
       - mode: ingress
@@ -26,11 +33,10 @@ services:
 #   postgresql:
 #     container_name: postgresql
 #     environment:
-#       LANG: en_US.UTF-8
-#       LC_ALL: en_US.UTF-8
-#       PATH: /usr/lib/postgresql/${PG_MAJOR}/bin:$PATH
-#       PG_MAJOR: $PG_MAJOR
-#       PGDATA: /config/$PG_MAJOR
+#       POSTGRES_DB: postgres
+#       POSTGRES_PASSWORD: ""
+#       POSTGRES_USER: postgres
+#       TZ: Etc/UTC
 #     image: ghcr.io/trueforge-org/postgresql:18.2
 #     ports:
 #       - mode: ingress

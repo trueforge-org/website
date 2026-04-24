@@ -2,27 +2,20 @@
 title: Docker-Compose
 ---
 
+Every docker-container we build, can be easily loaded using a docker-compose file.
+
+Please note that any dependencies need to be manually connected (primarily their database names, usernames and passwords.
+Any optional dependancies or env-vars are commented out.
+
+Please do check the application source for installation instructions and any env-vars and ports that are not managed/created by us.
+
+## docker-compose.yaml
 
 ```yaml
 name: python
 services:
   python:
     container_name: python
-    environment:
-      CRYPTOGRAPHY_DONT_BUILD_RUST: "1"
-      PATH: /usr/local/bin:$PATH
-      PIP_BREAK_SYSTEM_PACKAGES: "1"
-      PIP_DISABLE_PIP_VERSION_CHECK: "1"
-      PIP_NO_CACHE_DIR: "1"
-      PIP_PREFER_BINARY: "1"
-      PIP_ROOT_USER_ACTION: ignore
-      PYTHONDONTWRITEBYTECODE: "1"
-      PYTHONUNBUFFERED: "1"
-      UV_EXTRA_INDEX_URL: https://wheel-index.linuxserver.io/ubuntu/
-      UV_NO_CACHE: "true"
-      UV_SYSTEM_PYTHON: "true"
-      VENV_FOLDER: /app/venv
-      https://pypi.org/simple": UV_INDEX_STRATEGY="unsafe-best-match
     image: ghcr.io/trueforge-org/python:3.14.4
     restart: unless-stopped
     volumes:

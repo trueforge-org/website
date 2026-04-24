@@ -2,6 +2,14 @@
 title: Docker-Compose
 ---
 
+Every docker-container we build, can be easily loaded using a docker-compose file.
+
+Please note that any dependencies need to be manually connected (primarily their database names, usernames and passwords.
+Any optional dependancies or env-vars are commented out.
+
+Please do check the application source for installation instructions and any env-vars and ports that are not managed/created by us.
+
+## docker-compose.yaml
 
 ```yaml
 name: projectsend
@@ -9,8 +17,11 @@ services:
   mariadb:
     container_name: mariadb
     environment:
-      DATADIR: $MYSQL_DIR/databases
-      MYSQL_DIR: /config
+      MARIADB_DATABASE: ""
+      MARIADB_PASSWORD: ""
+      MARIADB_ROOT_PASSWORD: ""
+      MARIADB_USER: ""
+      TZ: Etc/UTC
     image: ghcr.io/trueforge-org/mariadb:11.4.8-r0
     ports:
       - mode: ingress
@@ -24,6 +35,9 @@ services:
         target: /config
   projectsend:
     container_name: projectsend
+    environment:
+      TZ: Etc/UTC
+      UMASK: "002"
     image: ghcr.io/trueforge-org/projectsend:r1945
     ports:
       - mode: ingress

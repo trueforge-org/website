@@ -2,6 +2,14 @@
 title: Docker-Compose
 ---
 
+Every docker-container we build, can be easily loaded using a docker-compose file.
+
+Please note that any dependencies need to be manually connected (primarily their database names, usernames and passwords.
+Any optional dependancies or env-vars are commented out.
+
+Please do check the application source for installation instructions and any env-vars and ports that are not managed/created by us.
+
+## docker-compose.yaml
 
 ```yaml
 name: apprise-api
@@ -9,9 +17,11 @@ services:
   apprise-api:
     container_name: apprise-api
     environment:
-      APPRISE_ATTACH_DIR: /attachments
       APPRISE_ATTACH_SIZE: "0"
-      APPRISE_CONFIG_DIR: /config
+      APPRISE_DEFAULT_THEME: default
+      APPRISE_STATEFUL_MODE: simple
+      LOG_LEVEL: INFO
+      TZ: Etc/UTC
     image: ghcr.io/trueforge-org/apprise-api:1.3.3
     ports:
       - mode: ingress

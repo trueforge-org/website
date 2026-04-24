@@ -2,6 +2,14 @@
 title: Docker-Compose
 ---
 
+Every docker-container we build, can be easily loaded using a docker-compose file.
+
+Please note that any dependencies need to be manually connected (primarily their database names, usernames and passwords.
+Any optional dependancies or env-vars are commented out.
+
+Please do check the application source for installation instructions and any env-vars and ports that are not managed/created by us.
+
+## docker-compose.yaml
 
 ```yaml
 name: plex
@@ -9,18 +17,49 @@ services:
   plex:
     container_name: plex
     environment:
-      Container: (${VENDOR})
+      ADVERTISE_IP: ""
+      ALLOWED_NETWORKS: ""
       NVIDIA_DRIVER_CAPABILITIES: compute,video,utility
-      PLEX_MEDIA_SERVER_APPLICATION_SUPPORT_DIR: /config/Library/Application
-      PLEX_MEDIA_SERVER_INFO_DEVICE: Docker
-      PLEX_MEDIA_SERVER_INFO_VENDOR: Docker
-      PLEX_MEDIA_SERVER_MAX_PLUGIN_PROCS: "6"
-      Support": PLEX_MEDIA_SERVER_HOME="/usr/lib/plexmediaserver
+      PLEX_CLAIM: ""
+      TZ: Etc/UTC
+      UMASK: "002"
     image: ghcr.io/trueforge-org/plex:1.43.1.10611-1e34174b1
     ports:
       - mode: ingress
+        target: 1900
+        published: "1900"
+        protocol: udp
+      - mode: ingress
+        target: 5353
+        published: "5353"
+        protocol: udp
+      - mode: ingress
+        target: 8324
+        published: "8324"
+        protocol: tcp
+      - mode: ingress
         target: 32400
         published: "32400"
+        protocol: tcp
+      - mode: ingress
+        target: 32410
+        published: "32410"
+        protocol: udp
+      - mode: ingress
+        target: 32412
+        published: "32412"
+        protocol: udp
+      - mode: ingress
+        target: 32413
+        published: "32413"
+        protocol: udp
+      - mode: ingress
+        target: 32414
+        published: "32414"
+        protocol: udp
+      - mode: ingress
+        target: 32469
+        published: "32469"
         protocol: tcp
     restart: unless-stopped
     volumes:

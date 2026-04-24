@@ -2,12 +2,22 @@
 title: Docker-Compose
 ---
 
+Every docker-container we build, can be easily loaded using a docker-compose file.
+
+Please note that any dependencies need to be manually connected (primarily their database names, usernames and passwords.
+Any optional dependancies or env-vars are commented out.
+
+Please do check the application source for installation instructions and any env-vars and ports that are not managed/created by us.
+
+## docker-compose.yaml
 
 ```yaml
 name: nextcloud-fpm
 services:
   nextcloud-fpm:
     container_name: nextcloud-fpm
+    environment:
+      TZ: Etc/UTC
     image: ghcr.io/trueforge-org/nextcloud-fpm:33.0.2-fpm
     restart: unless-stopped
     volumes:
@@ -17,11 +27,10 @@ services:
   postgresql:
     container_name: postgresql
     environment:
-      LANG: en_US.UTF-8
-      LC_ALL: en_US.UTF-8
-      PATH: /usr/lib/postgresql/${PG_MAJOR}/bin:$PATH
-      PG_MAJOR: $PG_MAJOR
-      PGDATA: /config/$PG_MAJOR
+      POSTGRES_DB: postgres
+      POSTGRES_PASSWORD: ""
+      POSTGRES_USER: postgres
+      TZ: Etc/UTC
     image: ghcr.io/trueforge-org/postgresql:18.2
     ports:
       - mode: ingress
@@ -36,7 +45,8 @@ services:
   valkey:
     container_name: valkey
     environment:
-      VALKEY_PORT: "6379"
+      TZ: Etc/UTC
+      VALKEY_PASSWORD: ""
     image: ghcr.io/trueforge-org/valkey:7.2.11
     ports:
       - mode: ingress
@@ -50,6 +60,8 @@ services:
         target: /config
 #   memcache:
 #     container_name: memcache
+#     environment:
+#       TZ: Etc/UTC
 #     image: ghcr.io/trueforge-org/memcache:1.6.24-1build3
 #     ports:
 #       - mode: ingress

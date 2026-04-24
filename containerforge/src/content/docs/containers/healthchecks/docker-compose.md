@@ -2,6 +2,14 @@
 title: Docker-Compose
 ---
 
+Every docker-container we build, can be easily loaded using a docker-compose file.
+
+Please note that any dependencies need to be manually connected (primarily their database names, usernames and passwords.
+Any optional dependancies or env-vars are commented out.
+
+Please do check the application source for installation instructions and any env-vars and ports that are not managed/created by us.
+
+## docker-compose.yaml
 
 ```yaml
 name: healthchecks
@@ -9,7 +17,18 @@ services:
   healthchecks:
     container_name: healthchecks
     environment:
-      PYTHONUNBUFFERED: "1"
+      ALLOWED_HOSTS: '*'
+      DEBUG: "False"
+      DEFAULT_FROM_EMAIL: ""
+      EMAIL_HOST: ""
+      EMAIL_HOST_PASSWORD: ""
+      EMAIL_HOST_USER: ""
+      EMAIL_PORT: "587"
+      EMAIL_USE_TLS: "true"
+      SECRET_KEY: ""
+      SITE_NAME: Mychecks
+      SITE_ROOT: ""
+      TZ: Etc/UTC
     image: ghcr.io/trueforge-org/healthchecks:4.1.1
     ports:
       - mode: ingress
@@ -24,11 +43,10 @@ services:
   postgresql:
     container_name: postgresql
     environment:
-      LANG: en_US.UTF-8
-      LC_ALL: en_US.UTF-8
-      PATH: /usr/lib/postgresql/${PG_MAJOR}/bin:$PATH
-      PG_MAJOR: $PG_MAJOR
-      PGDATA: /config/$PG_MAJOR
+      POSTGRES_DB: postgres
+      POSTGRES_PASSWORD: ""
+      POSTGRES_USER: postgres
+      TZ: Etc/UTC
     image: ghcr.io/trueforge-org/postgresql:18.2
     ports:
       - mode: ingress

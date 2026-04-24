@@ -2,6 +2,14 @@
 title: Docker-Compose
 ---
 
+Every docker-container we build, can be easily loaded using a docker-compose file.
+
+Please note that any dependencies need to be manually connected (primarily their database names, usernames and passwords.
+Any optional dependancies or env-vars are commented out.
+
+Please do check the application source for installation instructions and any env-vars and ports that are not managed/created by us.
+
+## docker-compose.yaml
 
 ```yaml
 name: actions-runner
@@ -9,16 +17,13 @@ services:
   actions-runner:
     container_name: actions-runner
     environment:
-      ACTIONS_RUNNER_CONTAINER_HOOKS: /home/runner/k8s/index.js
-      ACTIONS_RUNNER_PRINT_LOG_TO_STDOUT: "1"
-      GOPATH: /tmp/go
-      HOMEBREW_NO_ANALYTICS: "1"
-      HOMEBREW_NO_ENV_HINTS: "1"
-      HOMEBREW_NO_INSTALL_CLEANUP: "1"
-      ImageOS: ubuntu22
-      RUNNER_ALLOW_RUNASROOT: "1"
-      RUNNER_MANUALLY_TRAP_SIG: "1"
-    image: ghcr.io/trueforge-org/actions-runner:2.334.0
+      RUNNER_LABELS: ""
+      RUNNER_NAME: ""
+      RUNNER_REPOSITORY_URL: ""
+      RUNNER_TOKEN: ""
+      RUNNER_WORKDIR: /tmp/runner/work
+      TZ: Etc/UTC
+    image: ghcr.io/trueforge-org/actions-runner:2.333.1
     restart: unless-stopped
     volumes:
       - type: bind

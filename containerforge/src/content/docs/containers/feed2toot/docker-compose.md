@@ -2,6 +2,14 @@
 title: Docker-Compose
 ---
 
+Every docker-container we build, can be easily loaded using a docker-compose file.
+
+Please note that any dependencies need to be manually connected (primarily their database names, usernames and passwords.
+Any optional dependancies or env-vars are commented out.
+
+Please do check the application source for installation instructions and any env-vars and ports that are not managed/created by us.
+
+## docker-compose.yaml
 
 ```yaml
 name: feed2toot
@@ -9,8 +17,7 @@ services:
   feed2toot:
     container_name: feed2toot
     environment:
-      PYTHONIOENCODING: utf-8
-      PYTHONUNBUFFERED: "1"
+      TZ: Etc/UTC
     image: ghcr.io/trueforge-org/feed2toot:0.17
     restart: unless-stopped
     volumes:

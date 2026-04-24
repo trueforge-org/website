@@ -2,14 +2,20 @@
 title: Docker-Compose
 ---
 
+Every docker-container we build, can be easily loaded using a docker-compose file.
+
+Please note that any dependencies need to be manually connected (primarily their database names, usernames and passwords.
+Any optional dependancies or env-vars are commented out.
+
+Please do check the application source for installation instructions and any env-vars and ports that are not managed/created by us.
+
+## docker-compose.yaml
 
 ```yaml
 name: kube-sa-proxy
 services:
   kube-sa-proxy:
     container_name: kube-sa-proxy
-    environment:
-      PORT: "3000"
     image: ghcr.io/trueforge-org/kube-sa-proxy:v1.30.2
     ports:
       - mode: ingress
