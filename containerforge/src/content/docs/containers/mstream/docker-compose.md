@@ -19,7 +19,7 @@ services:
     environment:
       TZ: Etc/UTC
       UMASK: "002"
-    image: ghcr.io/trueforge-org/mstream:6.5.3
+    image: ghcr.io/trueforge-org/mstream:6.5.4
     ports:
       - mode: ingress
         target: 3000

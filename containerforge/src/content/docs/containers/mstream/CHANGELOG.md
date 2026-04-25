@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 6.5.4 • [Train: ]
+
+- fix(deps): update irosthebeggar/mstream v6.5.3 → v6.5.4 (#2102) • [`0a12275`](https://github.com/trueforge-org/truecharts/commit/0a12275c01ab52adcadbc56805c1208d42ff2913) • [@TrueCharts Bot] (2026-04-25)
+
 ## 6.5.3 • [Train: ]
 
 - fix(deps): update irosthebeggar/mstream v6.5.2 → v6.5.3 (#2101) • [`c58b3c9`](https://github.com/trueforge-org/truecharts/commit/c58b3c9d0d772cf5174817cbbaf8fbe85dc9df9a) • [@TrueCharts Bot] (2026-04-25)
