@@ -19,7 +19,7 @@ services:
     environment:
       TZ: Etc/UTC
       UMASK: "002"
-    image: ghcr.io/trueforge-org/nzbhydra2:v8.7.1
+    image: ghcr.io/trueforge-org/nzbhydra2:v8.8.0
     ports:
       - mode: ingress
         target: 5076
