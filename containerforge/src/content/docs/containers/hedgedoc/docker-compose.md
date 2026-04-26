@@ -42,7 +42,7 @@ services:
       POSTGRES_PASSWORD: ""
       POSTGRES_USER: postgres
       TZ: Etc/UTC
-    image: ghcr.io/trueforge-org/postgresql:18.2
+    image: ghcr.io/trueforge-org/postgresql:18.3
     ports:
       - mode: ingress
         target: 5432
