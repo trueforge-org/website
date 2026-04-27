@@ -13,4 +13,5 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.5.1 • [Train: ]
 
+- chore(node-dep): pin node.js digest to 57a4a36 (#2139) • [`6119199`](https://github.com/trueforge-org/truecharts/commit/6119199ff879a826ea91f89456a2424121a876e8) • [@TrueCharts Bot] (2026-04-27)
 - Promote 18 verified-green containers from porting/queues/passing/ to apps/ &#43; fix failing containers (#2124) • [`6bfac98`](https://github.com/trueforge-org/truecharts/commit/6bfac988abc9dd6f7d1b84bc670f36b1f19e9233) • [@Copilot] (2026-04-27)
