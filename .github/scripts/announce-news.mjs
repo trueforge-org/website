@@ -191,6 +191,8 @@ for (const url of webhooks) {
 }
 
 // Open Collective: publish a public Update on each configured collective.
+// OC failures are logged as warnings but do NOT fail the script — Discord
+// is the primary target, and we still want the state commit to proceed.
 if (ocSlugs.length > 0) {
   if (!ocToken) {
     console.warn(
@@ -201,12 +203,10 @@ if (ocSlugs.length > 0) {
     for (const slug of ocSlugs) {
       try {
         await publishOpenCollectiveUpdate(ocToken, slug, post.fm.title, ocBody);
-        anySuccess = true;
         console.log(`Published Open Collective update on ${slug}: ${post.filePath}`);
       } catch (err) {
-        failures += 1;
-        console.error(
-          `Failed to publish Open Collective update on ${slug}: ${err.message}`,
+        console.warn(
+          `::warning::Open Collective publish failed for ${slug}: ${err.message}`,
         );
       }
     }
