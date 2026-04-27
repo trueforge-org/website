@@ -193,22 +193,38 @@ for (const url of webhooks) {
 // Open Collective: publish a public Update on each configured collective.
 // OC failures are logged as warnings but do NOT fail the script — Discord
 // is the primary target, and we still want the state commit to proceed.
-if (ocSlugs.length > 0) {
-  if (!ocToken) {
-    console.warn(
-      `Open Collective slug(s) configured but OC_API_TOKEN is not set; skipping OC publish.`,
-    );
-  } else {
-    const ocBody = buildOpenCollectiveBody(post, link);
-    for (const slug of ocSlugs) {
-      try {
-        await publishOpenCollectiveUpdate(ocToken, slug, post.fm.title, ocBody);
-        console.log(`Published Open Collective update on ${slug}: ${post.filePath}`);
-      } catch (err) {
-        console.warn(
-          `::warning::Open Collective publish failed for ${slug}: ${err.message}`,
-        );
-      }
+console.log(
+  `Open Collective: token=${ocToken ? "present" : "missing"}, ` +
+    `slugs=[${ocSlugs.join(", ") || "none"}]`,
+);
+if (ocSlugs.length === 0) {
+  console.log(
+    "Open Collective: no slugs configured (set OC_COLLECTIVE_SLUG and/or " +
+      `OC_COLLECTIVE_SLUG_${projectKey.toUpperCase()}); skipping OC publish.`,
+  );
+} else if (!ocToken) {
+  console.warn(
+    "::warning::Open Collective slug(s) configured but OC_API_TOKEN is not set; skipping OC publish.",
+  );
+} else {
+  const ocBody = buildOpenCollectiveBody(post, link);
+  for (const slug of ocSlugs) {
+    console.log(`Open Collective: publishing update on '${slug}'...`);
+    try {
+      const result = await publishOpenCollectiveUpdate(
+        ocToken,
+        slug,
+        post.fm.title,
+        ocBody,
+      );
+      console.log(
+        `Open Collective: published on '${slug}' ` +
+          `(updateId=${result.updateId}, publishedAt=${result.publishedAt})`,
+      );
+    } catch (err) {
+      console.warn(
+        `::warning::Open Collective publish failed for '${slug}': ${err.message}`,
+      );
     }
   }
 }
@@ -349,9 +365,10 @@ function escapeHtml(s) {
 async function publishOpenCollectiveUpdate(token, slug, title, html) {
   const endpoint = "https://api.opencollective.com/graphql/v2";
 
+  console.log(`  [OC] createUpdate(slug='${slug}', title='${title}')`);
   const createQuery = `
     mutation CreateUpdate($update: UpdateCreateInput!) {
-      createUpdate(update: $update) { id }
+      createUpdate(update: $update) { id legacyId slug }
     }
   `.trim();
   const createVariables = {
@@ -368,7 +385,11 @@ async function publishOpenCollectiveUpdate(token, slug, title, html) {
   if (!updateId) {
     throw new Error("createUpdate returned no id");
   }
+  console.log(
+    `  [OC] created draft id=${updateId} legacyId=${created.createUpdate.legacyId} slug=${created.createUpdate.slug}`,
+  );
 
+  console.log(`  [OC] publishUpdate(id='${updateId}', audience='ALL')`);
   const publishQuery = `
     mutation PublishUpdate($id: String!, $audience: UpdateAudience) {
       publishUpdate(id: $id, notificationAudience: $audience) {
@@ -377,10 +398,14 @@ async function publishOpenCollectiveUpdate(token, slug, title, html) {
       }
     }
   `.trim();
-  await ocGraphQL(endpoint, token, publishQuery, {
+  const published = await ocGraphQL(endpoint, token, publishQuery, {
     id: updateId,
     audience: "ALL",
   });
+  return {
+    updateId,
+    publishedAt: published?.publishUpdate?.publishedAt || "unknown",
+  };
 }
 
 async function ocGraphQL(endpoint, token, query, variables) {
