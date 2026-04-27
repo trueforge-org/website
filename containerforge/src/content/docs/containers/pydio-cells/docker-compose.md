@@ -20,7 +20,7 @@ services:
       EXTERNALURL: https://localhost:8080
       SERVER_IP: 0.0.0.0
       TZ: Etc/UTC
-    image: ghcr.io/trueforge-org/pydio-cells:4.4.15
+    image: ghcr.io/trueforge-org/pydio-cells:4.4.17
     ports:
       - mode: ingress
         target: 8080

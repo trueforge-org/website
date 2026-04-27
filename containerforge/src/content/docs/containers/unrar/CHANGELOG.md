@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.2.4 • [Train: ]
+
+- feat(deps): update linuxserver/unrar docker tag 7.1.10 → 7.2.4 (#2156) • [`947149b`](https://github.com/trueforge-org/truecharts/commit/947149b024774855df2a0748d52d492b1d1f3af9) • [@TrueCharts Bot] (2026-04-27)
+
 ## 7.1.10 • [Train: ]
 
 - Promote 18 verified-green containers from porting/queues/passing/ to apps/ &#43; fix failing containers (#2124) • [`6bfac98`](https://github.com/trueforge-org/truecharts/commit/6bfac988abc9dd6f7d1b84bc670f36b1f19e9233) • [@Copilot] (2026-04-27)

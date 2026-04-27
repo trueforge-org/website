@@ -2,7 +2,7 @@
 title: unrar
 ---
 
-![Version: 7.1.10](https://img.shields.io/badge/Version-7.1.10-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 7.2.4](https://img.shields.io/badge/Version-7.2.4-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **unrar**, including upstream sou
 | Field | Value |
 | --- | --- |
 | App | unrar |
-| Version | 7.1.10 |
+| Version | 7.2.4 |
 | License | AGPL--3.0--or--later |
 
 ## Source
