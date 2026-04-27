@@ -1,0 +1,97 @@
+name: "News: Announce to Discord"
+
+concurrency:
+  group: news-announce
+  cancel-in-progress: false
+
+on:
+  workflow_run:
+    workflows:
+      - "TrueForge: Build-and-Release"
+      - "ContainerForge: Build-and-Release"
+      - "GamingForge: Build-and-Release"
+      - "ManicMeads: Build-and-Release"
+      - "BodyForge: Build-and-Release"
+      - "TrueCharts: Build-and-Release"
+    types:
+      - completed
+  schedule:
+    # Daily check to drain any rate-limited backlog.
+    - cron: "5 13 * * *"
+  workflow_dispatch:
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  announce:
+    # Run for successful main-branch builds, scheduled runs, or manual dispatch.
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      github.event_name == 'schedule' ||
+      (github.event_name == 'workflow_run' &&
+       github.event.workflow_run.conclusion == 'success' &&
+       github.event.workflow_run.head_branch == 'main' &&
+       github.event.workflow_run.event == 'push')
+    runs-on:
+      group: default
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6
+        with:
+          ref: main
+          fetch-depth: 1
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node
+        uses: actions/setup-node@53b83947a5a98c8d113130e565377fae1a50d02f # v6
+        with:
+          node-version-file: ./.nvmrc
+
+      - name: Announce new news posts
+        env:
+          # Per-site webhooks. Each is optional; if unset for a project,
+          # DISCORD_WEBHOOK is used as a fallback.
+          DISCORD_WEBHOOK_TRUEFORGE:      ${{ secrets.DISCORD_WEBHOOK_TRUEFORGE }}
+          DISCORD_WEBHOOK_CONTAINERFORGE: ${{ secrets.DISCORD_WEBHOOK_CONTAINERFORGE }}
+          DISCORD_WEBHOOK_GAMINGFORGE:    ${{ secrets.DISCORD_WEBHOOK_GAMINGFORGE }}
+          DISCORD_WEBHOOK_MANICMEADS:     ${{ secrets.DISCORD_WEBHOOK_MANICMEADS }}
+          DISCORD_WEBHOOK_BODYFORGE:      ${{ secrets.DISCORD_WEBHOOK_BODYFORGE }}
+          DISCORD_WEBHOOK_TRUECHARTS:     ${{ secrets.DISCORD_WEBHOOK_TRUECHARTS }}
+          DISCORD_WEBHOOK:                ${{ secrets.DISCORD_NEWS_WEBHOOK }}
+          STATE_FILE: .github/news-announced.json
+        run: |
+          set -euo pipefail
+          # The script enforces a global 1/day rate limit via the state file,
+          # so iterating all projects here is safe — it will announce at most
+          # one post per overall workflow run.
+          while IFS='|' read -r key label url; do
+            [ -z "$key" ] && continue
+            echo "::group::$label"
+            PROJECT_KEY="$key" PROJECT_LABEL="$label" PROJECT_URL="$url" \
+              node .github/scripts/announce-news.mjs
+            echo "::endgroup::"
+          done <<'EOF'
+          trueforge|TrueForge|https://trueforge.org
+          containerforge|ContainerForge|https://containerforge.org
+          gamingforge|GamingForge|https://gamingforge.org
+          manicmeads|ManicMeads|https://manicmeads.com
+          bodyforge|BodyForge|https://bodyforge.org
+          truecharts|TrueCharts|https://truecharts.org
+          EOF
+
+      - name: Commit updated state
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- .github/news-announced.json; then
+            echo "No state changes to commit."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .github/news-announced.json
+          git commit -m "chore(news): record announced posts [skip ci]"
+          git push origin HEAD:main
