@@ -53,15 +53,27 @@ jobs:
 
       - name: Announce new news posts
         env:
-          # Per-site webhooks. Each is optional; if unset for a project,
-          # DISCORD_WEBHOOK is used as a fallback.
+          # Per-site Discord webhooks. Each is optional; the global
+          # DISCORD_WEBHOOK is always also posted to if set.
           DISCORD_WEBHOOK_TRUEFORGE:      ${{ secrets.DISCORD_WEBHOOK_TRUEFORGE }}
           DISCORD_WEBHOOK_CONTAINERFORGE: ${{ secrets.DISCORD_WEBHOOK_CONTAINERFORGE }}
           DISCORD_WEBHOOK_GAMINGFORGE:    ${{ secrets.DISCORD_WEBHOOK_GAMINGFORGE }}
           DISCORD_WEBHOOK_MANICMEADS:     ${{ secrets.DISCORD_WEBHOOK_MANICMEADS }}
           DISCORD_WEBHOOK_BODYFORGE:      ${{ secrets.DISCORD_WEBHOOK_BODYFORGE }}
           DISCORD_WEBHOOK_TRUECHARTS:     ${{ secrets.DISCORD_WEBHOOK_TRUECHARTS }}
-          DISCORD_WEBHOOK:                ${{ secrets.DISCORD_NEWS_WEBHOOK }}
+          DISCORD_WEBHOOK:                ${{ secrets.DISCORD_WEBHOOK }}
+          # Open Collective: optional. If OC_API_TOKEN is set, public Updates
+          # are also published. OC_COLLECTIVE_SLUG is the always-used global
+          # collective; OC_COLLECTIVE_SLUG_<KEY> is the per-project slug.
+          # Both are posted to if both are set.
+          OC_API_TOKEN:                   ${{ secrets.OC_API_TOKEN }}
+          OC_COLLECTIVE_SLUG:             ${{ vars.OC_COLLECTIVE_SLUG }}
+          OC_COLLECTIVE_SLUG_TRUEFORGE:      ${{ vars.OC_COLLECTIVE_SLUG_TRUEFORGE }}
+          OC_COLLECTIVE_SLUG_CONTAINERFORGE: ${{ vars.OC_COLLECTIVE_SLUG_CONTAINERFORGE }}
+          OC_COLLECTIVE_SLUG_GAMINGFORGE:    ${{ vars.OC_COLLECTIVE_SLUG_GAMINGFORGE }}
+          OC_COLLECTIVE_SLUG_MANICMEADS:     ${{ vars.OC_COLLECTIVE_SLUG_MANICMEADS }}
+          OC_COLLECTIVE_SLUG_BODYFORGE:      ${{ vars.OC_COLLECTIVE_SLUG_BODYFORGE }}
+          OC_COLLECTIVE_SLUG_TRUECHARTS:     ${{ vars.OC_COLLECTIVE_SLUG_TRUECHARTS }}
           STATE_FILE: .github/news-announced.json
         run: |
           set -euo pipefail

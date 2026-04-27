@@ -8,7 +8,12 @@
 //   DISCORD_WEBHOOK_<KEY>  - Per-project Discord webhook (e.g. DISCORD_WEBHOOK_TRUEFORGE).
 //   DISCORD_WEBHOOK        - Global Discord webhook, always posted to.
 //                            If both are set, BOTH receive the announcement.
-//                            At least one must be set.
+//                            At least one Discord webhook must be set.
+//   OC_API_TOKEN           - Open Collective Personal Token. If set, public
+//                            Updates are also published on Open Collective.
+//   OC_COLLECTIVE_SLUG     - Global Open Collective slug, always posted to.
+//   OC_COLLECTIVE_SLUG_<KEY> - Per-project Open Collective slug (optional).
+//                            If both are set, BOTH receive the Update.
 //   STATE_FILE       - path to state JSON file (defaults to .github/news-announced.json)
 //
 // Behaviour:
@@ -26,10 +31,31 @@ const projectKey = required("PROJECT_KEY");
 const projectLabel = required("PROJECT_LABEL");
 const projectUrl = (process.env.PROJECT_URL || "").replace(/\/+$/, "");
 const webhooks = resolveWebhooks(projectKey);
+const ocSlugs = resolveOpenCollectiveSlugs(projectKey);
+const ocToken = process.env.OC_API_TOKEN || "";
 const stateFile = resolve(
   repoRoot,
   process.env.STATE_FILE || ".github/news-announced.json",
 );
+
+// Resolve a list of Open Collective slugs for the given project key. The
+// per-project and global slugs are combined and de-duplicated. Multiple
+// slugs in a single env var may be separated by commas/whitespace.
+// Returns an empty array if Open Collective publishing is not configured.
+function resolveOpenCollectiveSlugs(key) {
+  const perProjectVar = `OC_COLLECTIVE_SLUG_${key.toUpperCase()}`;
+  const perProject = splitList(process.env[perProjectVar]);
+  const global = splitList(process.env.OC_COLLECTIVE_SLUG);
+  return [...new Set([...perProject, ...global])];
+}
+
+function splitList(value) {
+  if (!value) return [];
+  return value
+    .split(/[\s,]+/)
+    .map((s) => s.trim())
+    .filter(Boolean);
+}
 
 // Resolve a list of Discord webhook URLs for the given project key.
 // Both the per-project and the global webhook are used (combined and
@@ -163,6 +189,30 @@ for (const url of webhooks) {
     );
   }
 }
+
+// Open Collective: publish a public Update on each configured collective.
+if (ocSlugs.length > 0) {
+  if (!ocToken) {
+    console.warn(
+      `Open Collective slug(s) configured but OC_API_TOKEN is not set; skipping OC publish.`,
+    );
+  } else {
+    const ocBody = buildOpenCollectiveBody(post, link);
+    for (const slug of ocSlugs) {
+      try {
+        await publishOpenCollectiveUpdate(ocToken, slug, post.fm.title, ocBody);
+        anySuccess = true;
+        console.log(`Published Open Collective update on ${slug}: ${post.filePath}`);
+      } catch (err) {
+        failures += 1;
+        console.error(
+          `Failed to publish Open Collective update on ${slug}: ${err.message}`,
+        );
+      }
+    }
+  }
+}
+
 if (anySuccess) {
   announced.add(post.filePath);
   state.lastAnnouncedAt = new Date(now).toISOString();
@@ -265,4 +315,95 @@ async function postToDiscord(url, content) {
     const body = await res.text().catch(() => "");
     throw new Error(`Discord webhook returned ${res.status}: ${body}`);
   }
+}
+
+// Build the HTML body for the Open Collective Update.
+function buildOpenCollectiveBody(post, link) {
+  const parts = [];
+  if (post.fm.date) {
+    parts.push(`<p><em>Published ${escapeHtml(post.fm.date)}</em></p>`);
+  }
+  if (post.excerpt) {
+    parts.push(`<p><em>${escapeHtml(post.excerpt)}</em></p>`);
+  }
+  if (link) {
+    const safe = escapeHtml(link);
+    parts.push(`<p><a href="${safe}">Read the full article on ${escapeHtml(projectLabel)}</a></p>`);
+  }
+  return parts.join("\n");
+}
+
+function escapeHtml(s) {
+  return String(s)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#39;");
+}
+
+// Publish a public Update on the given Open Collective collective slug
+// using the GraphQL v2 API. Creates a draft Update then publishes it to
+// the ALL audience. Personal Tokens authenticate via the `Personal-Token`
+// header.
+async function publishOpenCollectiveUpdate(token, slug, title, html) {
+  const endpoint = "https://api.opencollective.com/graphql/v2";
+
+  const createQuery = `
+    mutation CreateUpdate($update: UpdateCreateInput!) {
+      createUpdate(update: $update) { id }
+    }
+  `.trim();
+  const createVariables = {
+    update: {
+      account: { slug },
+      title,
+      html,
+      isPrivate: false,
+      isChangelog: false,
+    },
+  };
+  const created = await ocGraphQL(endpoint, token, createQuery, createVariables);
+  const updateId = created?.createUpdate?.id;
+  if (!updateId) {
+    throw new Error("createUpdate returned no id");
+  }
+
+  const publishQuery = `
+    mutation PublishUpdate($id: String!, $audience: UpdateAudience) {
+      publishUpdate(id: $id, notificationAudience: $audience) {
+        id
+        publishedAt
+      }
+    }
+  `.trim();
+  await ocGraphQL(endpoint, token, publishQuery, {
+    id: updateId,
+    audience: "ALL",
+  });
+}
+
+async function ocGraphQL(endpoint, token, query, variables) {
+  const res = await fetch(endpoint, {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      "Personal-Token": token,
+    },
+    body: JSON.stringify({ query, variables }),
+  });
+  const text = await res.text();
+  let parsed;
+  try {
+    parsed = JSON.parse(text);
+  } catch {
+    throw new Error(`Open Collective returned ${res.status}: ${text.slice(0, 200)}`);
+  }
+  if (!res.ok || parsed.errors) {
+    const msg = parsed.errors
+      ? parsed.errors.map((e) => e.message).join("; ")
+      : `HTTP ${res.status}`;
+    throw new Error(`Open Collective error: ${msg}`);
+  }
+  return parsed.data;
 }
