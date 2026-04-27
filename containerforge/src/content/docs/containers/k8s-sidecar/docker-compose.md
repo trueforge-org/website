@@ -22,7 +22,7 @@ services:
       METHOD: WATCH
       NAMESPACE: ALL
       RESOURCE: configmap
-    image: ghcr.io/trueforge-org/k8s-sidecar:2.6.1
+    image: ghcr.io/trueforge-org/k8s-sidecar:2.6.0
     restart: unless-stopped
     volumes:
       - type: bind
