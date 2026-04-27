@@ -18,7 +18,7 @@ services:
     container_name: webgrabplus
     environment:
       TZ: Etc/UTC
-    image: ghcr.io/trueforge-org/webgrabplus:5.5.0
+    image: ghcr.io/trueforge-org/webgrabplus:5.5.3
     restart: unless-stopped
     volumes:
       - type: bind

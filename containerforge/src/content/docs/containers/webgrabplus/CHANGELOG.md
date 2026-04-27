@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.5.3 • [Train: ]
+
+- fix(deps): update linuxserver/webgrabplus docker tag 5.5.0 → 5.5.3 (#2144) • [`5e27505`](https://github.com/trueforge-org/truecharts/commit/5e27505d50f1f14cfa3ef0419823c36b4926a48c) • [@TrueCharts Bot] (2026-04-27)
+
 ## 5.5.0 • [Train: ]
 
 - Promote 18 verified-green containers from porting/queues/passing/ to apps/ &#43; fix failing containers (#2124) • [`6bfac98`](https://github.com/trueforge-org/truecharts/commit/6bfac988abc9dd6f7d1b84bc670f36b1f19e9233) • [@Copilot] (2026-04-27)
