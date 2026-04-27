@@ -1,7 +1,7 @@
 ---
 title: Persistent Storage
 sidebar:
-  order: 9
+  order: 2
 ---
 
 Containers are ephemeral — anything not written to a mounted volume is lost on recreation. This guide covers how to persist application data correctly.
@@ -44,7 +44,7 @@ The mounted directory must be readable and writable by the container user. Our i
 sudo chown -R 568:568 /mnt/tank/configs/my-app
 ```
 
-If you change the user via `user:` or `securityContext`, update ownership accordingly. See [Rootless Containers](/guides/rootless/).
+If you change the user via `user:` or `securityContext`, update ownership accordingly. See [Rootless Containers](/guides/containerforge/rootless/).
 
 ## Read-Only Root Filesystem
 

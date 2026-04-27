@@ -1,7 +1,7 @@
 ---
 title: Networking & Ports
 sidebar:
-  order: 10
+  order: 3
 ---
 
 This guide covers exposing container services to the host and to other containers.
@@ -19,7 +19,7 @@ services:
       - 127.0.0.1:9090:9090  # loopback only
 ```
 
-Use a loopback bind whenever a service is reached only via a [reverse proxy](/guides/reverse-proxy/) on the same host — it removes the port from your LAN.
+Use a loopback bind whenever a service is reached only via a [reverse proxy](/guides/tools/reverse-proxy/) on the same host — it removes the port from your LAN.
 
 ## Container-to-Container Networking
 

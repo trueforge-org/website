@@ -4,6 +4,12 @@ sidebar:
   order: 1
 ---
 
+This page covers the conventions that apply to **every** ContainerForge image when running it with [Docker Compose](https://docs.docker.com/compose/). For an exact, copy-pasteable Compose snippet tailored to a specific application — including its required volumes, ports, and environment variables — see that container's own page under [Containers](/containers/).
+
+:::tip
+Every container in our catalog has its own documentation page with a ready-to-use Compose example. Always start there and use this page as a reference for the conventions those snippets rely on.
+:::
+
 ## Basic Usage
 
 ```yaml
@@ -35,3 +41,16 @@ services:
       - --port
       - "8080"
 ```
+
+## Per-Container Examples
+
+The snippet at the top of this page is intentionally generic. Each application has its own requirements — required environment variables, ports to expose, volumes to mount, sidecar databases, etc.
+
+Browse the [Containers](/containers/) section and open the page for the image you want to run. Every container page includes:
+
+- A working `docker compose` example
+- The list of supported environment variables
+- Volume paths and recommended bind-mount layout
+- Any app-specific notes (read-only root FS support, required capabilities, …)
+
+Use those snippets as your starting point and apply the conventions documented on this page (user, `/config` volume, argument passing) as needed.

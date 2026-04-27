@@ -1,7 +1,7 @@
 ---
 title: Updating with Watchtower
 sidebar:
-  order: 13
+  order: 3
 ---
 
 [Watchtower](https://containrrr.dev/watchtower/) polls a registry and restarts running containers when a newer image is published. It is the simplest "just keep me current" option — and the trade-off is that updates happen without review.
@@ -42,7 +42,7 @@ services:
 
 ## Tag Selection Matters
 
-Watchtower updates the tag you deployed. Pair it with our [tag formats](/guides/tag-immutability/) so you only receive the level of change you want:
+Watchtower updates the tag you deployed. Pair it with our [tag formats](/guides/containerforge/tag-immutability/) so you only receive the level of change you want:
 
 | Tag | Result |
 |---|---|
@@ -52,5 +52,5 @@ Watchtower updates the tag you deployed. Pair it with our [tag formats](/guides/
 | `Major.Minor.Patch` | Digest updates only |
 
 :::caution
-Watchtower performs unattended updates. For production systems prefer [Renovate](/guides/renovate/) so changes go through review.
+Watchtower performs unattended updates. For production systems prefer [Renovate](/guides/tools/renovate/) so changes go through review.
 :::

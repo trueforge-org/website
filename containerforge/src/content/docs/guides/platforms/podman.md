@@ -1,7 +1,7 @@
 ---
 title: Podman
 sidebar:
-  order: 4
+  order: 3
 ---
 
 [Podman](https://podman.io/) is a daemonless, drop-in alternative to Docker that runs containers rootless by default — a great match for our images.
@@ -25,7 +25,7 @@ podman run -d \
 
 ## Using Compose
 
-Podman supports Compose files via [`podman compose`](https://docs.podman.io/en/latest/markdown/podman-compose.1.html) or the standalone [`podman-compose`](https://github.com/containers/podman-compose) tool. Compose snippets from our [Docker Compose](/guides/docker-compose/) guide work unchanged.
+Podman supports Compose files via [`podman compose`](https://docs.podman.io/en/latest/markdown/podman-compose.1.html) or the standalone [`podman-compose`](https://github.com/containers/podman-compose) tool. Compose snippets from our [Docker Compose](/guides/platforms/docker-compose/) guide work unchanged.
 
 ## Quadlets (systemd)
 

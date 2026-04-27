@@ -1,7 +1,7 @@
 ---
 title: Healthchecks
 sidebar:
-  order: 15
+  order: 4
 ---
 
 A healthcheck lets your runtime know whether the application inside the container is actually working — not just whether the process is alive.

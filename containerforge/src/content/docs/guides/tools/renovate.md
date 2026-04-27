@@ -1,7 +1,7 @@
 ---
 title: Automatic Updates with Renovate
 sidebar:
-  order: 12
+  order: 2
 ---
 
 [Renovate](https://github.com/renovatebot/renovate) is the recommended way to keep our images up to date. It opens pull requests against your Compose, Helm, or Kustomize files when a new tag or digest is published.
@@ -22,7 +22,7 @@ Add a `renovate.json` to the repository hosting your Compose files:
 
 ## Pinning to Digests
 
-Combine Renovate's `pinDigests` preset with our [tag pinning](/guides/tag-immutability/) recommendation:
+Combine Renovate's `pinDigests` preset with our [tag pinning](/guides/containerforge/tag-immutability/) recommendation:
 
 ```json
 {

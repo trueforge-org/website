@@ -1,7 +1,7 @@
 ---
 title: Secrets Management
 sidebar:
-  order: 17
+  order: 6
 ---
 
 Secrets — API tokens, database passwords, TLS keys — should never be committed to Git in plaintext or baked into images. This guide covers the safest options for each runtime.

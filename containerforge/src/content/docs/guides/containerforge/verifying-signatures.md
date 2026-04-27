@@ -1,7 +1,7 @@
 ---
 title: Verifying Image Signatures
 sidebar:
-  order: 3
+  order: 4
 ---
 
 Container images are signed using the [attest-build-provenance](https://github.com/actions/attest-build-provenance) action.

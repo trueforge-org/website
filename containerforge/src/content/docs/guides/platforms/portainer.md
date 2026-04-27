@@ -1,7 +1,7 @@
 ---
 title: Portainer
 sidebar:
-  order: 7
+  order: 6
 ---
 
 [Portainer](https://www.portainer.io/) provides a web UI for managing Docker, Podman, and Kubernetes environments. Our images deploy through it without any special configuration.
@@ -31,8 +31,8 @@ sidebar:
 
 ## GitOps Stacks
 
-For reproducible deployments, point Portainer at a Git repository containing your Compose files. Combine this with [Renovate](/guides/renovate/) to automate image updates via pull requests.
+For reproducible deployments, point Portainer at a Git repository containing your Compose files. Combine this with [Renovate](/guides/tools/renovate/) to automate image updates via pull requests.
 
 ## Image Pinning
 
-Portainer's "Pull image" toggle re-pulls by tag on redeploy. To guarantee immutability across redeploys, pin to a digest as described in [Tag Immutability](/guides/tag-immutability/).
+Portainer's "Pull image" toggle re-pulls by tag on redeploy. To guarantee immutability across redeploys, pin to a digest as described in [Tag Immutability](/guides/containerforge/tag-immutability/).

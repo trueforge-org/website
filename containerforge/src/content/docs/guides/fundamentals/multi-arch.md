@@ -1,7 +1,7 @@
 ---
 title: Multi-Architecture Images
 sidebar:
-  order: 19
+  order: 8
 ---
 
 All ContainerForge images are published as multi-architecture manifests. The container runtime automatically pulls the variant that matches the host.

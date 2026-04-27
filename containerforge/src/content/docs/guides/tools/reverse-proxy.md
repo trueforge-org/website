@@ -1,7 +1,7 @@
 ---
 title: Reverse Proxy
 sidebar:
-  order: 11
+  order: 1
 ---
 
 Putting a reverse proxy in front of our containers gives you TLS termination, a single ingress point, and clean DNS names. This guide shows minimal configurations for the most common proxies.

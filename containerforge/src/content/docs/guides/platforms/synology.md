@@ -1,7 +1,7 @@
 ---
 title: Synology DSM
 sidebar:
-  order: 6
+  order: 5
 ---
 
 Synology DSM 7.2+ ships with [Container Manager](https://www.synology.com/en-global/dsm/feature/container-manager), which is fully compatible with our images.
@@ -35,7 +35,7 @@ Before first start, ensure the bind-mounted directory is owned by UID/GID `568`:
 sudo chown -R 568:568 /volume1/docker/home-assistant/config
 ```
 
-If you cannot create that user/group on the NAS, override the container user instead — see [Rootless Containers](/guides/rootless/).
+If you cannot create that user/group on the NAS, override the container user instead — see [Rootless Containers](/guides/containerforge/rootless/).
 
 ## Networking
 

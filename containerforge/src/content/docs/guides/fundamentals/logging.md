@@ -1,7 +1,7 @@
 ---
 title: Logging
 sidebar:
-  order: 18
+  order: 7
 ---
 
 Our containers follow the [12-factor](https://12factor.net/logs) convention: every process logs to `stdout` and `stderr`, and the runtime decides what to do with those streams.
@@ -58,4 +58,4 @@ For Kubernetes, use a node-level collector such as [Promtail](https://grafana.co
 
 ## Log Levels
 
-Most applications expose a `LOG_LEVEL` (or similar) variable. See [Environment Variables](/guides/environment-variables/).
+Most applications expose a `LOG_LEVEL` (or similar) variable. See [Environment Variables](/guides/fundamentals/environment-variables/).

@@ -1,7 +1,7 @@
 ---
 title: Unraid
 sidebar:
-  order: 5
+  order: 4
 ---
 
 Our images can be deployed on [Unraid](https://unraid.net/) using the built-in Docker manager. There is no Community Apps template required — you can add any image manually.
@@ -22,7 +22,7 @@ Our images can be deployed on [Unraid](https://unraid.net/) using the built-in D
 Unraid traditionally uses `nobody:users` (`99:100`) on the array. Either:
 
 - Mount the volume and `chown -R 568:568` it once, or
-- Override the container user to `99:100` (see [Rootless Containers](/guides/rootless/)).
+- Override the container user to `99:100` (see [Rootless Containers](/guides/containerforge/rootless/)).
 
 :::caution
 Changing the container user is supported but not extensively tested. Prefer adjusting volume ownership.
@@ -30,4 +30,4 @@ Changing the container user is supported but not extensively tested. Prefer adju
 
 ## Updates
 
-Use Unraid's built-in update check, or pin the image tag and rely on [Renovate](/guides/renovate/) to bump it in your configuration repository.
+Use Unraid's built-in update check, or pin the image tag and rely on [Renovate](/guides/tools/renovate/) to bump it in your configuration repository.

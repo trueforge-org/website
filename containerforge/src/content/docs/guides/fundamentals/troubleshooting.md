@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting
 sidebar:
-  order: 20
+  order: 10
 ---
 
 A short checklist for the issues we see most often. If none of these apply, please open an issue in the [containers repository](https://github.com/trueforge-org/containers/issues) with logs and the exact image tag.
@@ -16,7 +16,7 @@ docker logs my-app
 
 The most common causes are:
 
-- Wrong volume permissions — see [Persistent Storage](/guides/persistent-storage/).
+- Wrong volume permissions — see [Persistent Storage](/guides/fundamentals/persistent-storage/).
 - Missing required environment variable — see the per-container page.
 - Port already in use on the host.
 
@@ -28,7 +28,7 @@ The mounted directory is not owned by the container user (`568:568` by default):
 sudo chown -R 568:568 /path/to/config
 ```
 
-If you cannot change ownership, override the user instead — see [Rootless Containers](/guides/rootless/).
+If you cannot change ownership, override the user instead — see [Rootless Containers](/guides/containerforge/rootless/).
 
 ## Image Pull Fails
 
@@ -42,7 +42,7 @@ The container is verifying or migrating data. Watch the logs and give it time be
 
 ## Networking Between Containers Doesn't Work
 
-- Containers must share a [user-defined network](/guides/networking/) — the default `bridge` network does not provide DNS-based service discovery.
+- Containers must share a [user-defined network](/guides/fundamentals/networking/) — the default `bridge` network does not provide DNS-based service discovery.
 - Service names are case-sensitive and must match the key in `services:`.
 
 ## Verifying You Have the Right Image
@@ -54,7 +54,7 @@ gh attestation verify --repo trueforge-org/containers \
   oci://oci.trueforge.org/containerforge/<app>:<tag>
 ```
 
-See [Verifying Image Signatures](/guides/verifying-signatures/) for the full procedure.
+See [Verifying Image Signatures](/guides/containerforge/verifying-signatures/) for the full procedure.
 
 ## Collecting Diagnostics
 

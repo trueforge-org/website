@@ -1,7 +1,7 @@
 ---
 title: Environment Variables
 sidebar:
-  order: 8
+  order: 1
 ---
 
 Most of our containers are configured primarily via environment variables. They follow upstream conventions — refer to each application's per-container page for the supported keys.
@@ -52,5 +52,5 @@ services:
 All our images respect the standard `TZ` variable, e.g. `TZ=Europe/Amsterdam`. If unset, the container defaults to UTC.
 
 :::tip
-Avoid placing secrets directly in `environment:` blocks committed to Git. See [Secrets Management](/guides/secrets-management/) for safer patterns.
+Avoid placing secrets directly in `environment:` blocks committed to Git. See [Secrets Management](/guides/fundamentals/secrets-management/) for safer patterns.
 :::

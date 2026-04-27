@@ -1,7 +1,7 @@
 ---
 title: Resource Limits
 sidebar:
-  order: 16
+  order: 5
 ---
 
 Without limits, a misbehaving container can starve its host. Set sensible CPU and memory caps for every long-running service.
@@ -54,4 +54,4 @@ resources:
 
 ## OOM Behavior
 
-If a container exceeds its memory limit it is killed (`OOMKilled`). Combine limits with [healthchecks](/guides/healthchecks/) and a restart policy so the workload recovers automatically.
+If a container exceeds its memory limit it is killed (`OOMKilled`). Combine limits with [healthchecks](/guides/fundamentals/healthchecks/) and a restart policy so the workload recovers automatically.

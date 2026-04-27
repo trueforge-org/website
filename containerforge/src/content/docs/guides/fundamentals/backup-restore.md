@@ -1,7 +1,7 @@
 ---
 title: Backup & Restore
 sidebar:
-  order: 14
+  order: 9
 ---
 
 Container images are reproducible — your data is not. This guide covers the basics of backing up and restoring the volumes that hold your application state.
