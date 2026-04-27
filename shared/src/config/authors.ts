@@ -4,25 +4,31 @@ import type { StarlightBlogAuthor } from "starlight-blog/schema";
 export const authors: Record<string, StarlightBlogAuthor> = {
   ornias: {
     name: "Kjeld Schouten",
-    title: "Ops and R&D Lead",
+    title: "Operations Lead",
     url: "https://github.com/privatepuffin",
     picture: "https://avatars.githubusercontent.com/u/7613738?v=4",
   },
   privatepuffin: {
     name: "Kjeld Schouten",
-    title: "Ops and R&D Lead",
+    title: "Operations Lead",
+    url: "https://github.com/privatepuffin",
+    picture: "https://avatars.githubusercontent.com/u/7613738?v=4",
+  },
+  crowcontrol: {
+    name: "Kjeld Schouten",
+    title: "Operations Lead",
     url: "https://github.com/privatepuffin",
     picture: "https://avatars.githubusercontent.com/u/7613738?v=4",
   },
   stavros: {
     name: "Stavros Kois",
-    title: "Common Lead",
+    title: "Truecharts-Common Lead",
     url: "https://github.com/stavros-k",
     picture: "https://avatars.githubusercontent.com/u/47820033?v=4",
   },
   kqmaverick: {
     name: "Anthony Scaffidi",
-    title: "Support Lead",
+    title: "TrueTech Lead",
     url: "https://github.com/kqmaverick",
     picture: "https://avatars.githubusercontent.com/u/121722567?v=4",
   },
@@ -34,13 +40,13 @@ export const authors: Record<string, StarlightBlogAuthor> = {
   },
   jagrbombs: {
     name: "Steven McElligott",
-    title: "Community Lead",
+    title: "Head Moderator",
     url: "https://github.com/stevenmcelligott",
     picture: "https://avatars.githubusercontent.com/u/89483932?v=4",
   },
   shadofall: {
     name: "Jeff M.",
-    title: "Support Team",
+    title: "TrueCharts Support",
     url: "https://github.com/shadofall",
     picture: "https://avatars.githubusercontent.com/u/9327622?v=4",
   },
@@ -52,7 +58,7 @@ export const authors: Record<string, StarlightBlogAuthor> = {
   },
   alfi0812: {
     name: "Alfred Göppel",
-    title: "Community Development Lead",
+    title: "TrueCharts Lead",
     url: "https://github.com/alfi0812",
     picture: "https://avatars.githubusercontent.com/u/43101280?v=4",
   },
