@@ -19,7 +19,7 @@ services:
     environment:
       NGINX_PORT: "8080"
       TZ: Etc/UTC
-    image: ghcr.io/trueforge-org/nginx:1.24.0-2ubuntu7.6
+    image: ghcr.io/trueforge-org/nginx:1.24.0-2ubuntu7.7
     ports:
       - mode: ingress
         target: 8080
