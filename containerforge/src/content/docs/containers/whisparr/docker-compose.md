@@ -19,7 +19,7 @@ services:
     environment:
       TZ: Etc/UTC
       UMASK: "002"
-    image: ghcr.io/trueforge-org/whisparr:3.1.0.2116
+    image: ghcr.io/trueforge-org/whisparr:2.2.0-release.108
     ports:
       - mode: ingress
         target: 6969

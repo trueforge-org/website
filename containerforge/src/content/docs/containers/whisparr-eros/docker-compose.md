@@ -12,22 +12,40 @@ Please do check the application source for installation instructions and any env
 ## docker-compose.yaml
 
 ```yaml
-name: jackett
+name: whisparr-eros
 services:
-  jackett:
-    container_name: jackett
+  whisparr-eros:
+    container_name: whisparr-eros
     environment:
       TZ: Etc/UTC
       UMASK: "002"
-    image: ghcr.io/trueforge-org/jackett:v0.24.1787
+    image: ghcr.io/trueforge-org/whisparr-eros:3.3.3-release.683
     ports:
       - mode: ingress
-        target: 9117
-        published: "9117"
+        target: 6969
+        published: "6969"
         protocol: tcp
     restart: unless-stopped
     volumes:
       - type: bind
         source: config
         target: /config
+#   postgresql:
+#     container_name: postgresql
+#     environment:
+#       POSTGRES_DB: postgres
+#       POSTGRES_PASSWORD: ""
+#       POSTGRES_USER: postgres
+#       TZ: Etc/UTC
+#     image: ghcr.io/trueforge-org/postgresql:18.3
+#     ports:
+#       - mode: ingress
+#         target: 5432
+#         published: "5432"
+#         protocol: tcp
+#     restart: unless-stopped
+#     volumes:
+#       - type: bind
+#         source: config
+#         target: /config
 ```

@@ -47,7 +47,7 @@ services:
     environment:
       TZ: Etc/UTC
       VALKEY_PASSWORD: ""
-    image: ghcr.io/trueforge-org/valkey:7.2.11
+    image: ghcr.io/trueforge-org/valkey:7.2.12
     ports:
       - mode: ingress
         target: 6379
