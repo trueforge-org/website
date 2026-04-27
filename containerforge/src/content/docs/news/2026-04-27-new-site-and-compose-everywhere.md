@@ -1,7 +1,7 @@
 ---
 slug: "news/containerforge/new-site-and-compose-everywhere"
 title: "ContainerForge Has Its Own Home — and Compose Examples Everywhere"
-authors: [privatepuffin, alfi0812]
+authors: [crowcontrol, alfi0812]
 date: 2026-04-27
 tags:
   - "2026"

@@ -1,7 +1,7 @@
 ---
 slug: "news/recent-changes"
 title: "Recent Changes"
-authors: [alfi0812, privatepuffin]
+authors: [alfi0812, crowcontrol]
 date: 2025-03-09
 tags:
   - "2025"

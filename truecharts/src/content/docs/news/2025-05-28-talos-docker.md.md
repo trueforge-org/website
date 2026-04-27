@@ -1,7 +1,7 @@
 ---
 slug: "news/docker-compose-talos"
 title: "Truenas-Oriented Talos Docker-Compose"
-authors: [alfi0812, privatepuffin]
+authors: [alfi0812, crowcontrol]
 date: 2025-05-28
 tags:
   - "2025"

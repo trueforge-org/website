@@ -1,7 +1,7 @@
 ---
 slug: "news/announcing-containerforge"
 title: "Announcing: ContainerForge"
-authors: [privatepuffin]
+authors: [crowcontrol]
 date: 2025-11-12
 tags:
   - "2025"

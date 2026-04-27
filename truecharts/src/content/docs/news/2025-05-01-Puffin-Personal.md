@@ -1,7 +1,7 @@
 ---
 slug: "news/puffin-post"
 title: "MrPuffins new role"
-authors: [privatepuffin]
+authors: [crowcontrol]
 date: 2025-05-01
 tags:
   - "2025"

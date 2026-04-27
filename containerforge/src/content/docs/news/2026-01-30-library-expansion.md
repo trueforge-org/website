@@ -1,7 +1,7 @@
 ---
 slug: "news/library-expansion"
 title: "ContainerForge January Update"
-authors: [alfi0812, privatepuffin]
+authors: [alfi0812, crowcontrol]
 date: 2026-01-30
 tags:
   - "2026"

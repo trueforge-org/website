@@ -1,7 +1,7 @@
 ---
 slug: "news/truecharts/back-on-our-own-site"
 title: "TrueCharts Has Its Own Website Again"
-authors: [privatepuffin, alfi0812]
+authors: [crowcontrol, alfi0812]
 date: 2026-04-27
 tags:
   - "2026"

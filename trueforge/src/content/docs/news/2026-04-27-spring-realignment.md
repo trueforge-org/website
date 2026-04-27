@@ -1,7 +1,7 @@
 ---
 slug: "news/trueforge/spring-2026-realignment"
 title: "Spring 2026: A New Shape for TrueForge"
-authors: [privatepuffin]
+authors: [crowcontrol]
 date: 2026-04-27
 tags:
   - "2026"

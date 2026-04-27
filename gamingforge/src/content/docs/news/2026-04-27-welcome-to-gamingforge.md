@@ -1,7 +1,7 @@
 ---
 slug: "news/gamingforge/welcome-to-gamingforge"
 title: "Welcome to the New GamingForge Site"
-authors: [privatepuffin]
+authors: [crowcontrol]
 date: 2026-04-27
 tags:
   - "2026"
