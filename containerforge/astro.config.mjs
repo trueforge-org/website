@@ -47,18 +47,34 @@ export default defineConfig({
       ],
       sidebar: [
         {
-          label: "Guides",
+          label: "Overview",
           collapsed: false,
-          autogenerate: {
-            directory: "guides",
-          },
+          items: [{ label: "Mission & Overview", slug: "guides" }],
+        },
+        {
+          label: "ContainerForge",
+          collapsed: false,
+          autogenerate: { directory: "guides/containerforge" },
+        },
+        {
+          label: "Deployment Platforms",
+          collapsed: false,
+          autogenerate: { directory: "guides/platforms" },
+        },
+        {
+          label: "How Containers Work",
+          collapsed: true,
+          autogenerate: { directory: "guides/fundamentals" },
+        },
+        {
+          label: "Tools",
+          collapsed: true,
+          autogenerate: { directory: "guides/tools" },
         },
         {
           label: "Containers",
           collapsed: true,
-          autogenerate: {
-            directory: "containers",
-          },
+          autogenerate: { directory: "containers" },
         },
       ],
     }),
