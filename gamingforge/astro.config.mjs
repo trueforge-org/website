@@ -1,6 +1,7 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 import starlightImageZoom from "starlight-image-zoom";
+import starlightBlog from "starlight-blog";
 // Shared config from multi-site setup
 import {
   sharedConfig,
@@ -11,6 +12,8 @@ import {
   sharedHead,
   sharedLogo,
 } from "../shared/config/astro.mjs";
+// Shared authors used across all sites with blog
+import { authors } from "../shared/src/config/authors";
 
 const site = "https://gamingforge.org";
 
@@ -31,8 +34,18 @@ export default defineConfig({
       editLink: {
         baseUrl: "https://github.com/trueforge-org/website/tree/main/gamingforge",
       },
-      components: sharedComponents,
+      components: {
+        ...sharedComponents,
+        MarkdownContent: "../shared/src/components/CustomMarkdownBlogContent.astro",
+      },
       plugins: [
+        starlightBlog({
+          prefix: "news",
+          title: "GamingForge News",
+          postCount: 5,
+          recentPostCount: 10,
+          authors: authors,
+        }),
         starlightImageZoom(),
       ],
       sidebar: [
