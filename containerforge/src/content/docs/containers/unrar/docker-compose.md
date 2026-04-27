@@ -16,7 +16,7 @@ name: unrar
 services:
   unrar:
     container_name: unrar
-    image: ghcr.io/trueforge-org/unrar:7.2.4
+    image: ghcr.io/trueforge-org/unrar:7.1.10
     restart: unless-stopped
     volumes:
       - type: bind
