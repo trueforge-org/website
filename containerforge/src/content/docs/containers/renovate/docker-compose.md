@@ -18,7 +18,7 @@ services:
     container_name: renovate
     environment:
       TZ: Etc/UTC
-    image: ghcr.io/trueforge-org/renovate:43.142.1
+    image: ghcr.io/trueforge-org/renovate:43.144.0
     restart: unless-stopped
     volumes:
       - type: bind
