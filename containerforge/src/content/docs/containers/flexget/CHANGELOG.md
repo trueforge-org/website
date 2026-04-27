@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.19.15 • [Train: ]
+
+- fix(deps): update flexget/flexget v3.19.14 → v3.19.15 (#2160) • [`28a10f7`](https://github.com/trueforge-org/truecharts/commit/28a10f7c65f8f534c042072bd2582ac03ddf8c6d) • [@TrueCharts Bot] (2026-04-27)
+
 ## 3.19.14 • [Train: ]
 
 - feat(deps): update flexget/flexget v3.18.24 → v3.19.14 (#2153) • [`80548fc`](https://github.com/trueforge-org/truecharts/commit/80548fc24a305da552847ca35ae21d7022aa716a) • [@TrueCharts Bot] (2026-04-27)

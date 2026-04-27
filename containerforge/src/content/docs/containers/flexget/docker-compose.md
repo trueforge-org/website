@@ -21,7 +21,7 @@ services:
       FG_LOG_LEVEL: info
       FG_WEBUI_PASSWORD: ""
       TZ: Etc/UTC
-    image: ghcr.io/trueforge-org/flexget:3.19.14
+    image: ghcr.io/trueforge-org/flexget:3.19.15
     ports:
       - mode: ingress
         target: 5050
