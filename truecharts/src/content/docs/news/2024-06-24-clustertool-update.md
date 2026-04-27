@@ -1,7 +1,7 @@
 ---
 slug: "news/clustertool-update"
 title: "SCALE Migration Path Update"
-authors: [ornias]
+authors: [crowcontrol]
 date: 2024-06-24
 tags:
   - "2024"

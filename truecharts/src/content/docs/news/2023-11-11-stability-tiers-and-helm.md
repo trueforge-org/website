@@ -1,7 +1,7 @@
 ---
 slug: "news/stability-tiers-and-helm"
 title: "Stability Tiers and Helm Support"
-authors: [ornias]
+authors: [crowcontrol]
 date: 2023-11-11
 tags:
   - "2023"

@@ -1,7 +1,7 @@
 ---
 slug: "news/post-easter-stable-update"
 title: "Post Easter Stable Update"
-authors: [ornias]
+authors: [crowcontrol]
 date: 2023-04-11
 tags:
   - "2023"

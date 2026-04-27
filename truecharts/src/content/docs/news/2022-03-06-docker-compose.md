@@ -1,7 +1,7 @@
 ---
 slug: "news/docker-compose"
 title: "Docker-Compose on TrueNAS SCALE using TrueCharts"
-authors: [ornias]
+authors: [crowcontrol]
 date: 2022-03-06
 tags:
   - "2022"

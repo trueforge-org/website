@@ -1,7 +1,7 @@
 ---
 slug: "news/helm-repo-back"
 title: "Relaunched: Our Helm Repository"
-authors: [ornias]
+authors: [crowcontrol]
 date: 2023-02-14
 tags:
   - "2023"

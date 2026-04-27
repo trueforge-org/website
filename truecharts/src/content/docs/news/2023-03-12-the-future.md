@@ -1,7 +1,7 @@
 ---
 slug: "news/the-future"
 title: "The Future of TrueCharts"
-authors: [ornias]
+authors: [crowcontrol]
 date: 2023-03-12
 tags:
   - "2023"

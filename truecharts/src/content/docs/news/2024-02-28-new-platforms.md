@@ -1,7 +1,7 @@
 ---
 slug: "news/embrace-kubeapps"
 title: "Embrace KubeApps, Rancher, and FluxCD! 🚀"
-authors: [ornias]
+authors: [crowcontrol]
 date: 2024-02-28
 tags:
   - "2024"

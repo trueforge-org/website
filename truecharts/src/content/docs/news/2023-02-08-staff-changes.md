@@ -1,7 +1,7 @@
 ---
 slug: "news/staff-changes-feb-2023"
 title: "February 2023 Staff Changes"
-authors: [ornias]
+authors: [crowcontrol]
 date: 2023-02-08
 tags:
   - "2023"

@@ -1,7 +1,7 @@
 ---
 slug: "news/meet-jellyfin"
 title: "Meet Jellyfin, OpenSource Media Server"
-authors: [ornias]
+authors: [crowcontrol]
 date: 2023-01-31
 tags:
   - "2023"

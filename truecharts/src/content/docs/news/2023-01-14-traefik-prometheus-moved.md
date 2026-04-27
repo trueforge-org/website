@@ -1,7 +1,7 @@
 ---
 slug: "news/traefik-prometheus-moved"
 title: "Traefik, Prometheus and Grafana moved to Enterprise Train"
-authors: [ornias]
+authors: [crowcontrol]
 date: 2023-01-14
 tags:
   - "2023"

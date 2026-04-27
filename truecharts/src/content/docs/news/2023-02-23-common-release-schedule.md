@@ -1,7 +1,7 @@
 ---
 slug: "news/truecharts/common-release-schedule"
 title: "New breaking common release"
-authors: [ornias]
+authors: [crowcontrol]
 date: 2023-02-23
 tags:
   - "2023"

@@ -1,7 +1,7 @@
 ---
 slug: "news/breaking-enterprise-changes"
 title: "Breaking Changes: Enterprise"
-authors: [ornias]
+authors: [crowcontrol]
 date: 2023-03-06
 ---
 

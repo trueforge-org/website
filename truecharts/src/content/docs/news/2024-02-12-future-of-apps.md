@@ -1,7 +1,7 @@
 ---
 slug: "news/future-of-apps"
 title: "The future of SCALE Apps"
-authors: [ornias]
+authors: [crowcontrol]
 date: 2024-02-12
 tags:
   - "2024"

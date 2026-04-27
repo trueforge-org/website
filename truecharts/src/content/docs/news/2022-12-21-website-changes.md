@@ -1,7 +1,7 @@
 ---
 slug: "news/website-changes"
 title: "Website and Announcement Changes"
-authors: [ornias]
+authors: [crowcontrol]
 date: 2022-12-21
 tags:
   - "2022"

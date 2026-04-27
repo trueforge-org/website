@@ -1,7 +1,7 @@
 ---
 slug: "news/new-chartslist"
 title: "A new ChartsList"
-authors: [ornias]
+authors: [crowcontrol]
 date: 2023-03-24
 tags:
   - "2023"

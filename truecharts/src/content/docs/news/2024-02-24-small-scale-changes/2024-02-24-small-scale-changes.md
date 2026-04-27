@@ -1,7 +1,7 @@
 ---
 slug: "news/small-scale-changes"
 title: "Small SCALE Changes"
-authors: [ornias]
+authors: [crowcontrol]
 date: 2024-02-24
 ---
 

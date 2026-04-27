@@ -1,7 +1,7 @@
 ---
 slug: "news/meet-truecharts"
 title: "Meet TrueCharts - the First App Store for TrueNAS SCALE"
-authors: [ornias]
+authors: [crowcontrol]
 date: 2021-12-16
 tags:
   - "2021"

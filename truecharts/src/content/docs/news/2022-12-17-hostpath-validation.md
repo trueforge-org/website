@@ -1,7 +1,7 @@
 ---
 slug: "news/hostpath-validation"
 title: "TrueNAS SCALE 22.12: hostPath Validation"
-authors: [ornias]
+authors: [crowcontrol]
 date: 2022-12-17
 tags:
   - "2022"

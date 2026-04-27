@@ -1,7 +1,7 @@
 ---
 slug: "news/truetool-updated"
 title: "TrueTool, Refreshed"
-authors: [ornias]
+authors: [crowcontrol]
 date: 2022-12-27
 tags:
   - "2022"

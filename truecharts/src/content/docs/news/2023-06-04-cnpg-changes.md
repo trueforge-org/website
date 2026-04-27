@@ -1,7 +1,7 @@
 ---
 slug: "news/cnpg-changes"
 title: "New CloudNative-PG (CNPG) operator chart."
-authors: [ornias]
+authors: [crowcontrol]
 date: 2023-06-04
 tags:
   - "2023"

@@ -1,7 +1,7 @@
 ---
 slug: "news/2024-licensing-changes"
 title: "Exciting Licensing Changes"
-authors: [ornias]
+authors: [crowcontrol]
 date: 2024-02-21
 tags:
   - "2024"

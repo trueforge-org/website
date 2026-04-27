@@ -1,7 +1,7 @@
 ---
 slug: "news/new-support-policy"
 title: "New Support Policy"
-authors: [ornias]
+authors: [crowcontrol]
 date: 2024-11-06
 tags:
   - "2024"

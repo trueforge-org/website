@@ -9,7 +9,7 @@ tags:
 
 Hey everyone,
 
-Kjeld here — most of you know me as **MrPuffin**, or back in the day, **Ornias**.
+Kjeld here — most of you know me as **MrPuffin**, or back in the day, **crowcontrol**.
 
 Over the past year, we’ve been quietly but steadily working on something big at TrueCharts. Behind the scenes, we’ve focused hard on professionalizing and restructuring the project to make it more sustainable, more scalable, and frankly, more awesome.
 

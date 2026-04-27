@@ -1,7 +1,7 @@
 ---
 slug: "news/updates-recontinued"
 title: "Updates recontinued, common-migration mostly done"
-authors: [ornias]
+authors: [crowcontrol]
 date: 2023-05-01
 tags:
   - "2023"

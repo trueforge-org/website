@@ -1,7 +1,7 @@
 ---
 slug: "news/AI-Support"
 title: "Introducing our AI bot: TrueAI"
-authors: [ornias]
+authors: [crowcontrol]
 date: 2023-12-31
 tags:
   - "2023"

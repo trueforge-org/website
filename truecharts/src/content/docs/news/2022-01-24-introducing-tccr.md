@@ -1,7 +1,7 @@
 ---
 slug: "news/introducing-tccr"
 title: "Introducing: TrueCharts Container Repository"
-authors: [ornias]
+authors: [crowcontrol]
 date: 2022-01-24
 tags:
   - "2022"

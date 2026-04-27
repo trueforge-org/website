@@ -1,7 +1,7 @@
 ---
 slug: "news/arr-revert"
 title: "*Arr revert"
-authors: [ornias]
+authors: [crowcontrol]
 date: 2023-04-18
 tags:
   - "2023"

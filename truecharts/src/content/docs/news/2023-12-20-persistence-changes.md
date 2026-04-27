@@ -1,7 +1,7 @@
 ---
 slug: "news/persistence-changes"
 title: "Changes to Storage, Persistence, and PostgreSQL"
-authors: [ornias]
+authors: [crowcontrol]
 date: 2023-12-20
 tags:
   - "2023"

@@ -1,7 +1,7 @@
 ---
 slug: "news/train-renames"
 title: "Refreshed Train Names, Team Changes and DragonFish Support"
-authors: [ornias]
+authors: [crowcontrol]
 date: 2024-03-16
 tags:
   - "2024"

@@ -1,7 +1,7 @@
 ---
 slug: "news/traefik-changes"
 title: "Traefik Changes"
-authors: [ornias]
+authors: [crowcontrol]
 date: 2023-05-24
 tags:
   - "2023"

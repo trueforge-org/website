@@ -1,7 +1,7 @@
 ---
 slug: "news/ix-christmas"
 title: "Our Christmas with iXsystems"
-authors: [ornias]
+authors: [crowcontrol]
 date: 2023-02-20
 ---
 
