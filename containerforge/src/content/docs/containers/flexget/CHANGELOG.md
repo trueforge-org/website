@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.19.15 • [Train: ]
 
+- fix(deps): update ghcr.io/astral-sh/uv docker tag 0.9.10 → 0.9.30 (#2143) • [`0769e74`](https://github.com/trueforge-org/truecharts/commit/0769e74038141687071d120c92fa18aec5ade196) • [@TrueCharts Bot] (2026-04-28)
 - fix(deps): update flexget/flexget v3.19.14 → v3.19.15 (#2160) • [`28a10f7`](https://github.com/trueforge-org/truecharts/commit/28a10f7c65f8f534c042072bd2582ac03ddf8c6d) • [@TrueCharts Bot] (2026-04-27)
 
 ## 3.19.14 • [Train: ]
