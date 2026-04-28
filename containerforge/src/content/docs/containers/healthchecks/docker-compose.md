@@ -29,7 +29,7 @@ services:
       SITE_NAME: Mychecks
       SITE_ROOT: ""
       TZ: Etc/UTC
-    image: ghcr.io/trueforge-org/healthchecks:4.1.1
+    image: ghcr.io/trueforge-org/healthchecks:4.2
     ports:
       - mode: ingress
         target: 8000
