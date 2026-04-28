@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 0.55.3 • [Train: ]
+
+- fix(deps): update dgtlmoon/changedetection.io 0.55.1 → 0.55.3 (#2173) • [`7e2b4df`](https://github.com/trueforge-org/truecharts/commit/7e2b4df6408915255792195a0af431b3e20b1fe8) • [@TrueCharts Bot] (2026-04-28)
+
 ## 0.55.1 • [Train: ]
 
 - feat(deps): update dgtlmoon/changedetection.io 0.54.10 → 0.55.1 (#2131) • [`815f323`](https://github.com/trueforge-org/truecharts/commit/815f3236f47ab76ab0c2e7d13c2eb2c938d5c7d1) • [@TrueCharts Bot] (2026-04-27)

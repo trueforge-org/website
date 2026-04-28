@@ -21,7 +21,7 @@ services:
       PLAYWRIGHT_DRIVER_URL: ""
       TZ: Etc/UTC
       USE_X_SETTINGS_FILE: ""
-    image: ghcr.io/trueforge-org/changedetection:0.55.1
+    image: ghcr.io/trueforge-org/changedetection:0.55.3
     ports:
       - mode: ingress
         target: 5000
