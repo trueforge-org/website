@@ -23,7 +23,7 @@ services:
       SUPERUSER_NAME: admin
       SUPERUSER_PASSWORD: ""
       TZ: Etc/UTC
-    image: ghcr.io/trueforge-org/netbox:4.5.8
+    image: ghcr.io/trueforge-org/netbox:4.5.9
     ports:
       - mode: ingress
         target: 8000
