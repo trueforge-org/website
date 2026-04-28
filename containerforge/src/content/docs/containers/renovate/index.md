@@ -2,7 +2,7 @@
 title: renovate
 ---
 
-![Version: 43.146.0](https://img.shields.io/badge/Version-43.146.0-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 43.144.0](https://img.shields.io/badge/Version-43.144.0-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **renovate**, including upstream 
 | Field | Value |
 | --- | --- |
 | App | renovate |
-| Version | 43.146.0 |
+| Version | 43.144.0 |
 | License | AGPL--3.0--or--later |
 
 ## Source

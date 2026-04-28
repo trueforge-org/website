@@ -20,7 +20,7 @@ services:
       ESPHOME_DASHBOARD_RELATIVE_URL: /
       ESPHOME_DASHBOARD_USE_PING: "false"
       TZ: Etc/UTC
-    image: ghcr.io/trueforge-org/esphome:2026.4.3
+    image: ghcr.io/trueforge-org/esphome:2026.4.2
     ports:
       - mode: ingress
         target: 5353
