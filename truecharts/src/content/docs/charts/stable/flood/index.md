@@ -2,7 +2,7 @@
 title: flood
 ---
 
-![Version: 17.1.3](https://img.shields.io/badge/Version-17.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.13.9](https://img.shields.io/badge/AppVersion-4.13.9-informational?style=flat-square)
+![Version: 17.1.4](https://img.shields.io/badge/Version-17.1.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.13.9](https://img.shields.io/badge/AppVersion-4.13.9-informational?style=flat-square)
 
 Flood is a monitoring service for various torrent clients
 
