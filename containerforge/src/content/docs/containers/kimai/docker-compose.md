@@ -18,7 +18,7 @@ services:
     container_name: kimai
     environment:
       TZ: Etc/UTC
-    image: ghcr.io/trueforge-org/kimai:2.55.0
+    image: ghcr.io/trueforge-org/kimai:2.56.0
     ports:
       - mode: ingress
         target: 80
