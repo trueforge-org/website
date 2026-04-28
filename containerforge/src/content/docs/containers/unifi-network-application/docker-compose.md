@@ -18,7 +18,7 @@ services:
     container_name: unifi-network-application
     environment:
       TZ: Etc/UTC
-    image: ghcr.io/trueforge-org/unifi-network-application:10.3.55
+    image: ghcr.io/trueforge-org/unifi-network-application:10.3.58
     ports:
       - mode: ingress
         target: 8080
