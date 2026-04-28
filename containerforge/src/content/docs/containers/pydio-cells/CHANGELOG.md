@@ -17,5 +17,5 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.4.15 • [Train: ]
 
-- chore(golang-dep): pin ghcr.io/trueforge-org/golang docker tag digest to 66c4ecd (#2137) • [`0652e6c`](https://github.com/trueforge-org/truecharts/commit/0652e6cf5509d76876b006b2231ae36a840044c7) • [@TrueCharts Bot] (2026-04-27)
 - Promote 18 verified-green containers from porting/queues/passing/ to apps/ &#43; fix failing containers (#2124) • [`6bfac98`](https://github.com/trueforge-org/truecharts/commit/6bfac988abc9dd6f7d1b84bc670f36b1f19e9233) • [@Copilot] (2026-04-27)
+- chore(golang-dep): pin ghcr.io/trueforge-org/golang docker tag digest to 66c4ecd (#2137) • [`0652e6c`](https://github.com/trueforge-org/truecharts/commit/0652e6cf5509d76876b006b2231ae36a840044c7) • [@TrueCharts Bot] (2026-04-27)

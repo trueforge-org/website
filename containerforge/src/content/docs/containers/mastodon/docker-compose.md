@@ -26,7 +26,7 @@ services:
       RUN_DB_PREPARE: "false"
       SECRET_KEY_BASE: ""
       TZ: Etc/UTC
-    image: ghcr.io/trueforge-org/mastodon:4.5.1
+    image: ghcr.io/trueforge-org/mastodon:4.5.9
     ports:
       - mode: ingress
         target: 3000
