@@ -6,8 +6,10 @@
       "name": "Projects",
       "icon": "rocket",
       "children": [
-        { "name": "TrueTech", "href": "/truetech/" },
-        { "name": "LifeForge", "href": "/lifeforge/" },
+        { "name": "Guides", "href": "/guides/" },
+        { "name": "ForgeTool", "href": "/forgetool/" },
+        { "name": "Mealie", "href": "https://mealie.trueforge.org" },
+        { "name": "Matrix", "href": "https://matrix.trueforge.org" },
         { "name": "TrueCharts", "href": "https://truecharts.org" },
         { "name": "ContainerForge", "href": "https://containerforge.org" },
         { "name": "GamingForge", "href": "https://gamingforge.org" },

@@ -3,6 +3,6 @@
     { "name": "News", "href": "/news/", "icon": "rss" },
     { "name": "Charts", "href": "/charts/", "icon": "open-book" },
     { "name": "Guides", "href": "/guides/", "icon": "document" },
-    { "name": "Common Chart", "href": "/common/", "icon": "setting" }
+    { "name": "Common", "href": "/common/", "icon": "setting" }
   ]
 }
