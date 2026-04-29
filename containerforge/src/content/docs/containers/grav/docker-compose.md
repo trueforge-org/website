@@ -18,7 +18,7 @@ services:
     container_name: grav
     environment:
       TZ: Etc/UTC
-    image: ghcr.io/trueforge-org/grav:1.7.51
+    image: ghcr.io/trueforge-org/grav:1.7.52
     ports:
       - mode: ingress
         target: 80

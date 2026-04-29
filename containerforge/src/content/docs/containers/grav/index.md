@@ -2,7 +2,7 @@
 title: grav
 ---
 
-![Version: 1.7.51](https://img.shields.io/badge/Version-1.7.51-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 1.7.52](https://img.shields.io/badge/Version-1.7.52-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **grav**, including upstream sour
 | Field | Value |
 | --- | --- |
 | App | grav |
-| Version | 1.7.51 |
+| Version | 1.7.52 |
 | License | AGPL--3.0--or--later |
 
 ## Source
