@@ -13,7 +13,9 @@
 //                            Updates are also published on Open Collective.
 //   OC_COLLECTIVE_SLUG     - Global Open Collective slug, always posted to.
 //   OC_COLLECTIVE_SLUG_<KEY> - Per-project Open Collective slug (optional).
-//                            If both are set, BOTH receive the Update.
+//                            Each project also has a hardcoded default slug
+//                            matching its PROJECT_KEY. All configured slugs
+//                            (defaults + env vars) receive the Update.
 //   STATE_FILE       - path to state JSON file (defaults to .github/news-announced.json)
 //
 // Behaviour:
@@ -38,15 +40,28 @@ const stateFile = resolve(
   process.env.STATE_FILE || ".github/news-announced.json",
 );
 
+// Default Open Collective slugs per project. These are always included so
+// that publishing works out of the box; additional slugs may be appended via
+// the OC_COLLECTIVE_SLUG_<KEY> and OC_COLLECTIVE_SLUG env vars.
+const DEFAULT_OC_SLUGS = {
+  trueforge: ["trueforge"],
+  containerforge: ["containerforge"],
+  gamingforge: ["gamingforge"],
+  manicmeads: ["manicmeads"],
+  bodyforge: ["bodyforge"],
+  truecharts: ["truecharts"],
+};
+
 // Resolve a list of Open Collective slugs for the given project key. The
-// per-project and global slugs are combined and de-duplicated. Multiple
-// slugs in a single env var may be separated by commas/whitespace.
-// Returns an empty array if Open Collective publishing is not configured.
+// hardcoded defaults, per-project, and global slugs are combined and
+// de-duplicated. Multiple slugs in a single env var may be separated by
+// commas/whitespace.
 function resolveOpenCollectiveSlugs(key) {
   const perProjectVar = `OC_COLLECTIVE_SLUG_${key.toUpperCase()}`;
+  const defaults = DEFAULT_OC_SLUGS[key.toLowerCase()] || [];
   const perProject = splitList(process.env[perProjectVar]);
   const global = splitList(process.env.OC_COLLECTIVE_SLUG);
-  return [...new Set([...perProject, ...global])];
+  return [...new Set([...defaults, ...perProject, ...global])];
 }
 
 function splitList(value) {
