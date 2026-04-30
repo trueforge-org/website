@@ -28,18 +28,6 @@
 import { readFileSync, writeFileSync, readdirSync, existsSync } from "node:fs";
 import { join, relative, resolve } from "node:path";
 
-const repoRoot = process.cwd();
-const projectKey = required("PROJECT_KEY");
-const projectLabel = required("PROJECT_LABEL");
-const projectUrl = (process.env.PROJECT_URL || "").replace(/\/+$/, "");
-const webhooks = resolveWebhooks(projectKey);
-const ocSlugs = resolveOpenCollectiveSlugs(projectKey);
-const ocToken = process.env.OC_API_TOKEN || "";
-const stateFile = resolve(
-  repoRoot,
-  process.env.STATE_FILE || ".github/news-announced.json",
-);
-
 // Default Open Collective slugs per project. These are always included so
 // that publishing works out of the box; additional slugs may be appended via
 // the OC_COLLECTIVE_SLUG_<KEY> and OC_COLLECTIVE_SLUG env vars.
@@ -51,6 +39,18 @@ const DEFAULT_OC_SLUGS = {
   bodyforge: ["bodyforge"],
   truecharts: ["truecharts"],
 };
+
+const repoRoot = process.cwd();
+const projectKey = required("PROJECT_KEY");
+const projectLabel = required("PROJECT_LABEL");
+const projectUrl = (process.env.PROJECT_URL || "").replace(/\/+$/, "");
+const webhooks = resolveWebhooks(projectKey);
+const ocSlugs = resolveOpenCollectiveSlugs(projectKey);
+const ocToken = process.env.OC_API_TOKEN || "";
+const stateFile = resolve(
+  repoRoot,
+  process.env.STATE_FILE || ".github/news-announced.json",
+);
 
 // Resolve a list of Open Collective slugs for the given project key. The
 // hardcoded defaults, per-project, and global slugs are combined and
