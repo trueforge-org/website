@@ -2,6 +2,7 @@
   "announced": [
     "containerforge/src/content/docs/news/2025-11-12-announcing-containerforge.md",
     "containerforge/src/content/docs/news/2026-01-30-library-expansion.md",
+    "containerforge/src/content/docs/news/2026-04-27-new-site-and-compose-everywhere.md",
     "truecharts/src/content/docs/news/2021-12-16-meet-truecharts.md",
     "truecharts/src/content/docs/news/2022-01-24-introducing-tccr.md",
     "truecharts/src/content/docs/news/2022-03-06-docker-compose.md",
@@ -67,5 +68,6 @@
     "trueforge/src/content/docs/news/2025-11-12-containerforge.md",
     "trueforge/src/content/docs/news/2026-01-30-forgetool.md",
     "trueforge/src/content/docs/news/2026-04-27-spring-realignment.md"
-  ]
+  ],
+  "lastAnnouncedAt": "2026-04-30T11:48:54.437Z"
 }
