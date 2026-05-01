@@ -19,7 +19,7 @@ services:
     environment:
       TZ: Etc/UTC
       UMASK: "002"
-    image: ghcr.io/trueforge-org/flood:4.13.9
+    image: ghcr.io/trueforge-org/flood:4.13.10
     ports:
       - mode: ingress
         target: 3000
