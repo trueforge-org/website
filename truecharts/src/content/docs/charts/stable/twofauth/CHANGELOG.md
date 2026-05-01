@@ -203,9 +203,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.9.0 • [Train: stable]
 
-- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
 - more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
+- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 
 ## 4.8.0 • [Train: stable]
 
@@ -256,8 +256,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.3.5 • [Train: stable]
 
-- chore(helm): update chart common 28.16.5 → 28.16.6 (#39145) • [`827fa3c`](https://github.com/trueforge-org/truecharts/commit/827fa3cc55b82b3d292228d8b331331b863ffb3b) • [@TrueCharts Bot] (2025-09-07)
 - chore: fix links • [`1c28a12`](https://github.com/trueforge-org/truecharts/commit/1c28a127898e7db3a350e07a42810acd8eaa4c30) • [@Kjeld Schouten] (2025-09-07)
+- chore(helm): update chart common 28.16.5 → 28.16.6 (#39145) • [`827fa3c`](https://github.com/trueforge-org/truecharts/commit/827fa3cc55b82b3d292228d8b331331b863ffb3b) • [@TrueCharts Bot] (2025-09-07)
 
 ## 4.3.4 • [Train: stable]
 
@@ -682,9 +682,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 - Commit daily changes • [`792aace`](https://github.com/trueforge-org/truecharts/commit/792aace6379e941d08dcef609a79098199a3cf14) • [@TrueCharts-Bot] (2024-01-08)
 - Commit daily changes • [`c376a25`](https://github.com/trueforge-org/truecharts/commit/c376a256ee925e1d295ae1900a00a244693b5873) • [@TrueCharts-Bot] (2024-01-06)
 - Commit daily changes • [`6e29769`](https://github.com/trueforge-org/truecharts/commit/6e29769f758a5286eab8a9c6c67ef3e4e3b0ab3e) • [@TrueCharts-Bot] (2024-01-05)
+- chore: move all incubator to dev • [`ce92332`](https://github.com/trueforge-org/truecharts/commit/ce92332e6980fcbd48138b35a9723351005fc29a) • [@Kjeld Schouten] (2024-01-04)
 - chore(deps): update ignored by renovate (patch) (#16673) • [`d68653e`](https://github.com/trueforge-org/truecharts/commit/d68653ea086de7295fb48c76a3f7534558ac6e46) • [@TrueCharts Bot] (2024-01-04)
 - Commit daily changes • [`21d6030`](https://github.com/trueforge-org/truecharts/commit/21d603097af31264c46b27995b97282077fb132f) • [@TrueCharts-Bot] (2024-01-04)
-- chore: move all incubator to dev • [`ce92332`](https://github.com/trueforge-org/truecharts/commit/ce92332e6980fcbd48138b35a9723351005fc29a) • [@Kjeld Schouten] (2024-01-04)
 
 ## 0.0.5 • [Train: incubator]
 
@@ -702,8 +702,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.2 • [Train: incubator]
 
-- chore: bump all charts for OCI test push • [`aee4189`](https://github.com/trueforge-org/truecharts/commit/aee418953ae3e5a2d1d3c50c3ae9171c46f38299) • [@Kjeld Schouten] (2024-01-01)
 - chore(questions): remove non-existent template refs (#16738) • [`1e0dbf1`](https://github.com/trueforge-org/truecharts/commit/1e0dbf15e95afae40c7b3a47b2d38e0562323270) • [@Stavros Kois] (2024-01-01)
+- chore: bump all charts for OCI test push • [`aee4189`](https://github.com/trueforge-org/truecharts/commit/aee418953ae3e5a2d1d3c50c3ae9171c46f38299) • [@Kjeld Schouten] (2024-01-01)
 
 ## 0.0.1 • [Train: incubator]
 
