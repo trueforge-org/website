@@ -21,7 +21,7 @@ services:
       PUBLISHED_SERVER_URL: ""
       TZ: Etc/UTC
       UMASK: "002"
-    image: ghcr.io/trueforge-org/emby:4.10.0.10
+    image: ghcr.io/trueforge-org/emby:4.10.0.11
     ports:
       - mode: ingress
         target: 1900
