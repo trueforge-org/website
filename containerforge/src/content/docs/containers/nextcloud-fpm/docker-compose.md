@@ -18,7 +18,7 @@ services:
     container_name: nextcloud-fpm
     environment:
       TZ: Etc/UTC
-    image: ghcr.io/trueforge-org/nextcloud-fpm:33.0.2-fpm
+    image: ghcr.io/trueforge-org/nextcloud-fpm:33.0.3-fpm
     restart: unless-stopped
     volumes:
       - type: bind
