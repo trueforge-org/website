@@ -42,7 +42,7 @@ services:
       DB_TYPE: postgres
       DB_USER: ""
       TZ: Etc/UTC
-    image: ghcr.io/trueforge-org/wikijs:2.5.313
+    image: ghcr.io/trueforge-org/wikijs:2.5.314
     ports:
       - mode: ingress
         target: 3000
