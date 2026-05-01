@@ -19,7 +19,7 @@ services:
     environment:
       TZ: Etc/UTC
       UMASK: "002"
-    image: ghcr.io/trueforge-org/jackett:v0.24.1806
+    image: ghcr.io/trueforge-org/jackett:v0.24.1807
     ports:
       - mode: ingress
         target: 9117
