@@ -21,7 +21,7 @@ services:
       SABNZBD__HOST_WHITELIST_ENTRIES: ""
       TZ: Etc/UTC
       UMASK: "002"
-    image: ghcr.io/trueforge-org/sabnzbd:5.0.0
+    image: ghcr.io/trueforge-org/sabnzbd:5.0.1
     ports:
       - mode: ingress
         target: 8080

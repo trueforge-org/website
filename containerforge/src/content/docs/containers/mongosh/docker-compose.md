@@ -16,7 +16,7 @@ name: mongosh
 services:
   mongosh:
     container_name: mongosh
-    image: ghcr.io/trueforge-org/mongosh:2.8.2
+    image: ghcr.io/trueforge-org/mongosh:2.8.3
     restart: unless-stopped
     volumes:
       - type: bind
