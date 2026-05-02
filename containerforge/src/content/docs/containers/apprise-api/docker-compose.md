@@ -22,7 +22,7 @@ services:
       APPRISE_STATEFUL_MODE: simple
       LOG_LEVEL: INFO
       TZ: Etc/UTC
-    image: ghcr.io/trueforge-org/apprise-api:1.4.0
+    image: ghcr.io/trueforge-org/apprise-api:1.4.1
     ports:
       - mode: ingress
         target: 8000
