@@ -19,7 +19,7 @@ services:
     environment:
       FG_CONFIG_FILE: /config/config.yml
       FG_LOG_LEVEL: info
-      FG_WEBUI_PASSWORD: ""
+      FG_WEBUI_PASSWORD: MYFGWEBUIPASSWORD
       TZ: Etc/UTC
     image: ghcr.io/trueforge-org/flexget:3.19.15
     ports:

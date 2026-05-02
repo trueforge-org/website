@@ -22,7 +22,7 @@ services:
       DB_CONNECTION: sqlite
       DB_DATABASE: ""
       DB_HOST: ""
-      DB_PASSWORD: ""
+      DB_PASSWORD: MYPOSTGRESPASSWORD
       DB_PORT: ""
       DB_USERNAME: ""
       TZ: Etc/UTC
@@ -44,25 +44,6 @@ services:
 #       - mode: ingress
 #         target: 5432
 #         published: "5432"
-#         protocol: tcp
-#     restart: unless-stopped
-#     volumes:
-#       - type: bind
-#         source: config
-#         target: /config
-#   mariadb:
-#     container_name: mariadb
-#     environment:
-#       MARIADB_DATABASE: ""
-#       MARIADB_PASSWORD: MYMARIADBPASSWORD
-#       MARIADB_ROOT_PASSWORD: MYMARIADBROOTPASSWORD
-#       MARIADB_USER: ""
-#       TZ: Etc/UTC
-#     image: ghcr.io/trueforge-org/mariadb:11.4.8-r0
-#     ports:
-#       - mode: ingress
-#         target: 3306
-#         published: "3306"
 #         protocol: tcp
 #     restart: unless-stopped
 #     volumes:

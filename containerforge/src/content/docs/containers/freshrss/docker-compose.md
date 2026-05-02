@@ -17,9 +17,9 @@ services:
   freshrss:
     container_name: freshrss
     environment:
-      ADMIN_API_PASSWORD: ""
+      ADMIN_API_PASSWORD: MYADMINAPIPASSWORD
       ADMIN_EMAIL: ""
-      ADMIN_PASSWORD: ""
+      ADMIN_PASSWORD: MYADMINPASSWORD
       TZ: Etc/UTC
     image: ghcr.io/trueforge-org/freshrss:1.28.1
     ports:
@@ -48,25 +48,6 @@ services:
 #       - mode: ingress
 #         target: 5432
 #         published: "5432"
-#         protocol: tcp
-#     restart: unless-stopped
-#     volumes:
-#       - type: bind
-#         source: config
-#         target: /config
-#   mariadb:
-#     container_name: mariadb
-#     environment:
-#       MARIADB_DATABASE: ""
-#       MARIADB_PASSWORD: MYMARIADBPASSWORD
-#       MARIADB_ROOT_PASSWORD: MYMARIADBROOTPASSWORD
-#       MARIADB_USER: ""
-#       TZ: Etc/UTC
-#     image: ghcr.io/trueforge-org/mariadb:11.4.8-r0
-#     ports:
-#       - mode: ingress
-#         target: 3306
-#         published: "3306"
 #         protocol: tcp
 #     restart: unless-stopped
 #     volumes:

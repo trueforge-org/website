@@ -21,7 +21,7 @@ services:
       SECRET_KEY: ""
       SUPERUSER_EMAIL: ""
       SUPERUSER_NAME: admin
-      SUPERUSER_PASSWORD: ""
+      SUPERUSER_PASSWORD: MYSUPERUSERPASSWORD
       TZ: Etc/UTC
     image: ghcr.io/trueforge-org/netbox:4.5.9
     ports:
