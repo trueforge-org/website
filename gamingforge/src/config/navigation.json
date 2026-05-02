@@ -1,5 +1,6 @@
 {
   "links": [
+    { "name": "News", "href": "/news/", "icon": "rss" },
     { "name": "Servers", "href": "/servers/", "icon": "rocket" }
   ]
 }
