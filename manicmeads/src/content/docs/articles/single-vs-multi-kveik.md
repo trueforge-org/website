@@ -11,20 +11,19 @@ Its been suggested that there is some kind of undocumented synergy happening whe
 We've decided to put the activation speed to the test, by rehydrating Single-Strain "Bjorn" Hornindal Kveik by WHC and Multi-Strain "Stalljen" Hornindal kveik by Kveik Yeastery.
 
 
-We rehydrated with Goferm.
+We rehydrated with GoFerm.
 
-20 minutes after rehydration, we reviewed the activity of both yeasts.
-And added about 2 cups of cloudy apple juice to each.
+20 minutes after rehydration, we reviewed the activity of both yeasts and added about 2 cups of cloudy apple juice to each.
 
-Which we let set for 1 hour, after which they where both reviewed again.
+We let them sit for 1 hour, after which they were both reviewed again.
 
 ## Results
 
-It was interesting to see that the "bjorn" single strain kveik had  barely started producing bubbles and foam after the first 20 minutes of rehydration.
+It was interesting to see that the "Bjorn" single-strain kveik had barely started producing bubbles and foam after the first 20 minutes of rehydration.
 
-Meanwwhile the "stalljen" multi-strain kveik was covered by a nice thick coat of bubbly foam.
+Meanwhile the "Stalljen" multi-strain kveik was covered by a nice thick coat of bubbly foam.
 
-After adding the applejuice, the single-strain kveik had started producing some bubbles, but was still very mild in comparison to the multi-strain kveik, which had created a consistentthick foamy head.
+After adding the apple juice, the single-strain kveik had started producing some bubbles, but was still very mild in comparison to the multi-strain kveik, which had created a consistent, thick foamy head.
 
 ## Note
 
