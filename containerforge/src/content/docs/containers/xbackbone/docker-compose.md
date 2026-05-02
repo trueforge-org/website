@@ -18,8 +18,8 @@ services:
     container_name: mariadb
     environment:
       MARIADB_DATABASE: ""
-      MARIADB_PASSWORD: ""
-      MARIADB_ROOT_PASSWORD: ""
+      MARIADB_PASSWORD: MYMARIADBPASSWORD
+      MARIADB_ROOT_PASSWORD: MYMARIADBROOTPASSWORD
       MARIADB_USER: ""
       TZ: Etc/UTC
     image: ghcr.io/trueforge-org/mariadb:11.4.8-r0

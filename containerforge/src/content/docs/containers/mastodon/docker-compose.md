@@ -41,7 +41,7 @@ services:
 #     container_name: postgresql
 #     environment:
 #       POSTGRES_DB: postgres
-#       POSTGRES_PASSWORD: ""
+#       POSTGRES_PASSWORD: MYPOSTGRESPASSWORD
 #       POSTGRES_USER: postgres
 #       TZ: Etc/UTC
 #     image: ghcr.io/trueforge-org/postgresql:18.3

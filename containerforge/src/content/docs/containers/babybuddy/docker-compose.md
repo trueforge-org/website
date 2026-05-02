@@ -33,7 +33,7 @@ services:
 #     container_name: postgresql
 #     environment:
 #       POSTGRES_DB: postgres
-#       POSTGRES_PASSWORD: ""
+#       POSTGRES_PASSWORD: MYPOSTGRESPASSWORD
 #       POSTGRES_USER: postgres
 #       TZ: Etc/UTC
 #     image: ghcr.io/trueforge-org/postgresql:18.3
@@ -51,8 +51,8 @@ services:
 #     container_name: mariadb
 #     environment:
 #       MARIADB_DATABASE: ""
-#       MARIADB_PASSWORD: ""
-#       MARIADB_ROOT_PASSWORD: ""
+#       MARIADB_PASSWORD: MYMARIADBPASSWORD
+#       MARIADB_ROOT_PASSWORD: MYMARIADBROOTPASSWORD
 #       MARIADB_USER: ""
 #       TZ: Etc/UTC
 #     image: ghcr.io/trueforge-org/mariadb:11.4.8-r0

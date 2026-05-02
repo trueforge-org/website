@@ -18,7 +18,7 @@ services:
     container_name: valkey
     environment:
       TZ: Etc/UTC
-      VALKEY_PASSWORD: ""
+      VALKEY_PASSWORD: MYVALKEYPASSWORD
     image: ghcr.io/trueforge-org/valkey:7.2.12
     ports:
       - mode: ingress

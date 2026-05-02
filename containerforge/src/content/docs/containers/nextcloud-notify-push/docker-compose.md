@@ -38,7 +38,7 @@ services:
     container_name: postgresql
     environment:
       POSTGRES_DB: postgres
-      POSTGRES_PASSWORD: ""
+      POSTGRES_PASSWORD: MYPOSTGRESPASSWORD
       POSTGRES_USER: postgres
       TZ: Etc/UTC
     image: ghcr.io/trueforge-org/postgresql:18.3
@@ -56,7 +56,7 @@ services:
     container_name: valkey
     environment:
       TZ: Etc/UTC
-      VALKEY_PASSWORD: ""
+      VALKEY_PASSWORD: MYVALKEYPASSWORD
     image: ghcr.io/trueforge-org/valkey:7.2.12
     ports:
       - mode: ingress
