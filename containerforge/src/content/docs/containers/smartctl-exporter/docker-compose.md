@@ -23,18 +23,31 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: smartctl-exporter
 services:
   smartctl-exporter:
+    cap_drop:
+      - ALL
     container_name: smartctl-exporter
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       SMARTCTL_EXPORTER_LOG_LEVEL: info
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/smartctl-exporter:0.14.0
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 9633
         published: "9633"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/smartctl-exporter/config
         target: /config
+        read_only: false
 ```

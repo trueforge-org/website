@@ -23,19 +23,32 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: autoscan
 services:
   autoscan:
+    cap_drop:
+      - ALL
     container_name: autoscan
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       TZ: Etc/UTC
       UMASK: "002"
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/autoscan:1.4.0
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 3030
         published: "3030"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/autoscan/config
         target: /config
+        read_only: false
 ```

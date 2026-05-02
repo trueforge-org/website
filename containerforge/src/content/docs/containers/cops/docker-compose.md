@@ -23,24 +23,38 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: cops
 services:
   cops:
+    cap_drop:
+      - ALL
     container_name: cops
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       COPS_PASS: ""
       COPS_USER: ""
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/cops:4.3.1
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 80
         published: "80"
         protocol: tcp
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 443
         published: "443"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/cops/config
         target: /config
+        read_only: false
 ```

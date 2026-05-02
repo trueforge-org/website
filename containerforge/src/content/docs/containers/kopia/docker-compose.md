@@ -23,17 +23,29 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: kopia
 services:
   kopia:
+    cap_drop:
+      - ALL
     container_name: kopia
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       KOPIA_CHECK_FOR_UPDATES: "false"
       KOPIA_PERSIST_CREDENTIALS_ON_CONNECT: "false"
       KOPIA_WEB_ENABLED: "true"
       TZ: Etc/UTC
       UMASK: "002"
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/kopia:v0.22.3
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/kopia/config
         target: /config
+        read_only: false
 ```

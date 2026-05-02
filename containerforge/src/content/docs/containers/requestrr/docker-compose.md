@@ -23,18 +23,31 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: requestrr
 services:
   requestrr:
+    cap_drop:
+      - ALL
     container_name: requestrr
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/requestrr:2.1.9
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 4545
         published: "4545"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/requestrr/config
         target: /config
+        read_only: false
 ```

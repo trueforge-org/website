@@ -23,7 +23,15 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: tailscale
 services:
   tailscale:
+    cap_drop:
+      - ALL
     container_name: tailscale
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       TS_ACCEPT_DNS: "false"
       TS_AUTHKEY: ""
@@ -32,13 +40,18 @@ services:
       TS_ROUTES: ""
       TS_USERSPACE: "true"
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/tailscale:v1.96.5
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/tailscale/config
         target: /config
+        read_only: false
       - type: bind
-        source: tailscale
+        source: /mnt/tank/apps/tailscale/tailscale
         target: /var/lib/tailscale
+        read_only: false
 ```

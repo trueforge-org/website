@@ -23,7 +23,15 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: actions-runner
 services:
   actions-runner:
+    cap_drop:
+      - ALL
     container_name: actions-runner
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       RUNNER_LABELS: ""
       RUNNER_NAME: ""
@@ -31,10 +39,14 @@ services:
       RUNNER_TOKEN: ""
       RUNNER_WORKDIR: /tmp/runner/work
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/actions-runner:2.334.0
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/actions-runner/config
         target: /config
+        read_only: false
 ```

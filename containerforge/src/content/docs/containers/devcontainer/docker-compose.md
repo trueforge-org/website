@@ -23,11 +23,23 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: devcontainer
 services:
   devcontainer:
+    cap_drop:
+      - ALL
     container_name: devcontainer
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/devcontainer:3.0.2
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/devcontainer/config
         target: /config
+        read_only: false
 ```

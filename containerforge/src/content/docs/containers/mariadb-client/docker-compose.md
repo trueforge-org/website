@@ -23,11 +23,23 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: mariadb-client
 services:
   mariadb-client:
+    cap_drop:
+      - ALL
     container_name: mariadb-client
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/mariadb-client:12.2.2
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/mariadb-client/config
         target: /config
+        read_only: false
 ```

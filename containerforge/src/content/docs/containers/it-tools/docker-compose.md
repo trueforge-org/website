@@ -23,18 +23,31 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: it-tools
 services:
   it-tools:
+    cap_drop:
+      - ALL
     container_name: it-tools
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/it-tools:v2024.10.22-7ca5933
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 8080
         published: "8080"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/it-tools/config
         target: /config
+        read_only: false
 ```

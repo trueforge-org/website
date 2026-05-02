@@ -23,11 +23,23 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: scratch
 services:
   scratch:
+    cap_drop:
+      - ALL
     container_name: scratch
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/scratch:1.0.0
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/scratch/config
         target: /config
+        read_only: false
 ```

@@ -23,18 +23,31 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: synclounge
 services:
   synclounge:
+    cap_drop:
+      - ALL
     container_name: synclounge
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/synclounge:5.2.35
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 8088
         published: "8088"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/synclounge/config
         target: /config
+        read_only: false
 ```

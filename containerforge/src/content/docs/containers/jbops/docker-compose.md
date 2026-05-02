@@ -23,13 +23,25 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: jbops
 services:
   jbops:
+    cap_drop:
+      - ALL
     container_name: jbops
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/jbops:master
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/jbops/config
         target: /config
+        read_only: false
 ```

@@ -23,11 +23,23 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: java25
 services:
   java25:
+    cap_drop:
+      - ALL
     container_name: java25
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/java25:25.0.1+8
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/java25/config
         target: /config
+        read_only: false
 ```

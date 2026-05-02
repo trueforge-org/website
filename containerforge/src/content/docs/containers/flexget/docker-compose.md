@@ -23,21 +23,34 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: flexget
 services:
   flexget:
+    cap_drop:
+      - ALL
     container_name: flexget
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       FG_CONFIG_FILE: /config/config.yml
       FG_LOG_LEVEL: info
-      FG_WEBUI_PASSWORD: MYFGWEBUIPASSWORD
+      FG_WEBUI_PASSWORD: 989caef020477938cd194deb789457d1WORD
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/flexget:3.19.15
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 5050
         published: "5050"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/flexget/config
         target: /config
+        read_only: false
 ```

@@ -23,18 +23,31 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: rdesktop
 services:
   rdesktop:
+    cap_drop:
+      - ALL
     container_name: rdesktop
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/rdesktop:ubuntu-xfce-7a12df0e
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 3389
         published: "3389"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/rdesktop/config
         target: /config
+        read_only: false
 ```

@@ -23,19 +23,32 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: seerr
 services:
   seerr:
+    cap_drop:
+      - ALL
     container_name: seerr
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       LOG_LEVEL: info
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/seerr:3.2.0
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 5055
         published: "5055"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/seerr/config
         target: /config
+        read_only: false
 ```

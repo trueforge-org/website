@@ -23,23 +23,37 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: smokeping
 services:
   smokeping:
+    cap_drop:
+      - ALL
     container_name: smokeping
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       MASTER_URL: ""
       SHARED_SECRET: ""
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/smokeping:2.9.0-r0-ls164
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 80
         published: "80"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/smokeping/config
         target: /config
+        read_only: false
       - type: bind
-        source: data
+        source: /mnt/tank/apps/smokeping/data
         target: /data
+        read_only: false
 ```

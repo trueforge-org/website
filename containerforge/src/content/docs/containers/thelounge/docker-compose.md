@@ -23,18 +23,31 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: thelounge
 services:
   thelounge:
+    cap_drop:
+      - ALL
     container_name: thelounge
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/thelounge:4.4.3
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 9000
         published: "9000"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/thelounge/config
         target: /config
+        read_only: false
 ```

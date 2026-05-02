@@ -23,32 +23,48 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: syncthing
 services:
   syncthing:
+    cap_drop:
+      - ALL
     container_name: syncthing
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       STGUIADDRESS: 0.0.0.0:8384
       TZ: Etc/UTC
       UMASK: "002"
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/syncthing:2.0.16
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 8384
         published: "8384"
         protocol: tcp
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 21027
         published: "21027"
         protocol: udp
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 22000
         published: "22000"
         protocol: tcp
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 22000
         published: "22000"
         protocol: udp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/syncthing/config
         target: /config
+        read_only: false
 ```

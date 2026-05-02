@@ -23,14 +23,26 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: qbitmanage
 services:
   qbitmanage:
+    cap_drop:
+      - ALL
     container_name: qbitmanage
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       TZ: Etc/UTC
       UMASK: "002"
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/qbitmanage:4.7.0
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/qbitmanage/config
         target: /config
+        read_only: false
 ```

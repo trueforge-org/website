@@ -23,11 +23,23 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: java8
 services:
   java8:
+    cap_drop:
+      - ALL
     container_name: java8
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/java8:8u472-b08
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/java8/config
         target: /config
+        read_only: false
 ```

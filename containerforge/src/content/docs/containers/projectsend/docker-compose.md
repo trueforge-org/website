@@ -23,42 +23,69 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: projectsend
 services:
   mariadb:
+    cap_drop:
+      - ALL
     container_name: mariadb
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
-      MARIADB_DATABASE: ""
-      MARIADB_PASSWORD: MYMARIADBPASSWORD
-      MARIADB_ROOT_PASSWORD: MYMARIADBROOTPASSWORD
-      MARIADB_USER: ""
+      MARIADB_DATABASE: projectsend
+      MARIADB_PASSWORD: 1ad92c8fa798174333ce2c86adfb03e1WORD
+      MARIADB_ROOT_PASSWORD: a98236abce67d185757d12c1d8779bf1WORD
+      MARIADB_USER: projectsend
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/mariadb:11.4.8-r0
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 3306
         published: "3306"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/mariadb/config
         target: /config
+        read_only: false
   projectsend:
+    cap_drop:
+      - ALL
     container_name: projectsend
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       TZ: Etc/UTC
       UMASK: "002"
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/projectsend:r1945
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 80
         published: "80"
         protocol: tcp
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 443
         published: "443"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/projectsend/config
         target: /config
+        read_only: false
 ```

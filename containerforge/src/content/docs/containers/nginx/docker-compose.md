@@ -23,23 +23,37 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: nginx
 services:
   nginx:
+    cap_drop:
+      - ALL
     container_name: nginx
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       NGINX_PORT: "8080"
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/nginx:1.24.0-2ubuntu7.7
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 8080
         published: "8080"
         protocol: tcp
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 8443
         published: "8443"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/nginx/config
         target: /config
+        read_only: false
 ```

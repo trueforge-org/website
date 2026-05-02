@@ -23,14 +23,26 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: nextcloud-imaginary
 services:
   nextcloud-imaginary:
+    cap_drop:
+      - ALL
     container_name: nextcloud-imaginary
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       PORT: "9000"
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/nextcloud-imaginary:20230401
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/nextcloud-imaginary/config
         target: /config
+        read_only: false
 ```

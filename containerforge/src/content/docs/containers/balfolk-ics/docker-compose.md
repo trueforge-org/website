@@ -23,18 +23,31 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: balfolk-ics
 services:
   balfolk-ics:
+    cap_drop:
+      - ALL
     container_name: balfolk-ics
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/balfolk-ics:0.0.5
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 8000
         published: "8000"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/balfolk-ics/config
         target: /config
+        read_only: false
 ```

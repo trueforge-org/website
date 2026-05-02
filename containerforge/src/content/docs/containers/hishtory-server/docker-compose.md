@@ -23,36 +23,63 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: hishtory-server
 services:
   hishtory-server:
+    cap_drop:
+      - ALL
     container_name: hishtory-server
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
+      HISHTORY_POSTGRES_DB: postgresql://hishtory-server:bf586f953bacf64c46eca8e0bed0f022WORD@postgresql:5432/hishtory-server
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/hishtory-server:0.335
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 8080
         published: "8080"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/hishtory-server/config
         target: /config
+        read_only: false
   postgresql:
+    cap_drop:
+      - ALL
     container_name: postgresql
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
-      POSTGRES_DB: postgres
-      POSTGRES_PASSWORD: MYPOSTGRESPASSWORD
-      POSTGRES_USER: postgres
+      POSTGRES_DB: hishtory-server
+      POSTGRES_PASSWORD: bf586f953bacf64c46eca8e0bed0f022WORD
+      POSTGRES_USER: hishtory-server
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/postgresql:18.3
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 5432
         published: "5432"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/postgresql/config
         target: /config
+        read_only: false
 ```

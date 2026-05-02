@@ -23,57 +23,115 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: nextcloud-notify-push
 services:
   nextcloud-fpm:
+    cap_drop:
+      - ALL
     container_name: nextcloud-fpm
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
+      NX_POSTGRES_HOST: postgresql
+      NX_POSTGRES_NAME: nextcloud-notify-push
+      NX_POSTGRES_PASSWORD: c1231e45f15958ccdeaa0330f70a736fWORD
+      NX_POSTGRES_PORT: "5432"
+      NX_POSTGRES_USER: nextcloud-notify-push
+      NX_REDIS_HOST: valkey
+      NX_REDIS_PASS: cbe17d3cb421aa43703026fe264d8d5eWORD
+      NX_REDIS_PORT: "6379"
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/nextcloud-fpm:33.0.3-fpm
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/nextcloud-fpm/config
         target: /config
+        read_only: false
   nextcloud-notify-push:
+    cap_drop:
+      - ALL
     container_name: nextcloud-notify-push
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/nextcloud-notify-push:1.3.1
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/nextcloud-notify-push/config
         target: /config
+        read_only: false
   postgresql:
+    cap_drop:
+      - ALL
     container_name: postgresql
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
-      POSTGRES_DB: postgres
-      POSTGRES_PASSWORD: MYPOSTGRESPASSWORD
-      POSTGRES_USER: postgres
+      POSTGRES_DB: nextcloud-notify-push
+      POSTGRES_PASSWORD: c1231e45f15958ccdeaa0330f70a736fWORD
+      POSTGRES_USER: nextcloud-notify-push
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/postgresql:18.3
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 5432
         published: "5432"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/postgresql/config
         target: /config
+        read_only: false
   valkey:
+    cap_drop:
+      - ALL
     container_name: valkey
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       TZ: Etc/UTC
-      VALKEY_PASSWORD: MYVALKEYPASSWORD
+      VALKEY_PASSWORD: cbe17d3cb421aa43703026fe264d8d5eWORD
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/valkey:7.2.12
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 6379
         published: "6379"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/valkey/config
         target: /config
+        read_only: false
 ```

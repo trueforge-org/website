@@ -23,18 +23,31 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: code-server
 services:
   code-server:
+    cap_drop:
+      - ALL
     container_name: code-server
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/code-server:4.117.0
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 8443
         published: "8443"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/code-server/config
         target: /config
+        read_only: false
 ```

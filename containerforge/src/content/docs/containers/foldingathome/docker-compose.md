@@ -23,26 +23,40 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: foldingathome
 services:
   foldingathome:
+    cap_drop:
+      - ALL
     container_name: foldingathome
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       NVIDIA_DRIVER_CAPABILITIES: compute,video,utility
       PASSKEY: ""
       TEAM: "0"
       TZ: Etc/UTC
       USER: Anonymous
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/foldingathome:8.4.9
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 7396
         published: "7396"
         protocol: tcp
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 36330
         published: "36330"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/foldingathome/config
         target: /config
+        read_only: false
 ```

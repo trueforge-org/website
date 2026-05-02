@@ -23,42 +23,74 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: hedgedoc
 services:
   hedgedoc:
+    cap_drop:
+      - ALL
     container_name: hedgedoc
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       CMD_ALLOW_ANONYMOUS: "true"
       CMD_ALLOW_FREEURL: "false"
+      CMD_DB_DIALECT: postgres
       CMD_DOMAIN: ""
       CMD_PROTOCOL_USESSL: "false"
       CMD_SESSION_SECRET: ""
       CMD_URL_ADDPORT: "false"
+      DB_HOST: postgresql
+      DB_NAME: hedgedoc
+      DB_PASS: 329b2a9efec3b1d9239298f72e0b76b0WORD
+      DB_PORT: "5432"
+      DB_USER: hedgedoc
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/hedgedoc:1.10.8
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 3000
         published: "3000"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/hedgedoc/config
         target: /config
+        read_only: false
   postgresql:
+    cap_drop:
+      - ALL
     container_name: postgresql
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
-      POSTGRES_DB: postgres
-      POSTGRES_PASSWORD: MYPOSTGRESPASSWORD
-      POSTGRES_USER: postgres
+      POSTGRES_DB: hedgedoc
+      POSTGRES_PASSWORD: 329b2a9efec3b1d9239298f72e0b76b0WORD
+      POSTGRES_USER: hedgedoc
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/postgresql:18.3
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 5432
         published: "5432"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/postgresql/config
         target: /config
+        read_only: false
 ```

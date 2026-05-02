@@ -23,14 +23,26 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: ddclient
 services:
   ddclient:
+    cap_drop:
+      - ALL
     container_name: ddclient
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       DDCLIENT_OPTIONS: ""
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/ddclient:4.0.0
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/ddclient/config
         target: /config
+        read_only: false
 ```

@@ -23,13 +23,25 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: hytale
 services:
   hytale:
+    cap_drop:
+      - ALL
     container_name: hytale
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/hytale:1.0.0
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/hytale/config
         target: /config
+        read_only: false
 ```

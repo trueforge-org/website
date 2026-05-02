@@ -23,28 +23,43 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: transmission
 services:
   transmission:
+    cap_drop:
+      - ALL
     container_name: transmission
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       TRANSMISSION_PEER_PORT: "51413"
       TZ: Etc/UTC
       UMASK: "002"
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/transmission:4.0.5-1build5
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 9091
         published: "9091"
         protocol: tcp
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 51413
         published: "51413"
         protocol: tcp
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 51413
         published: "51413"
         protocol: udp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/transmission/config
         target: /config
+        read_only: false
 ```

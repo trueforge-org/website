@@ -23,16 +23,28 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: wud
 services:
   wud:
+    cap_drop:
+      - ALL
     container_name: wud
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       TZ: Etc/UTC
       WUD_LOG_FORMAT: text
       WUD_REGISTRY_CUSTOM_TRUEFORGE_URL: https://oci.trueforge.org
       WUD_WATCHER_local_WATCHBYDEFAULT: "false"
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/wud:8.2.2
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/wud/config
         target: /config
+        read_only: false
 ```

@@ -23,30 +23,46 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: unifi-network-application
 services:
   unifi-network-application:
+    cap_drop:
+      - ALL
     container_name: unifi-network-application
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/unifi-network-application:10.3.58
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 8080
         published: "8080"
         protocol: tcp
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 8443
         published: "8443"
         protocol: tcp
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 8843
         published: "8843"
         protocol: tcp
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 8880
         published: "8880"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/unifi-network-application/config
         target: /config
+        read_only: false
 ```

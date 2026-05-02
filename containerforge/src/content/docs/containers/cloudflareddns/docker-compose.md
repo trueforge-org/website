@@ -23,7 +23,15 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: cloudflareddns
 services:
   cloudflareddns:
+    cap_drop:
+      - ALL
     container_name: cloudflareddns
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       API_KEY: ""
       EMAIL: ""
@@ -31,10 +39,14 @@ services:
       SUBDOMAIN: ""
       TZ: Etc/UTC
       ZONE: ""
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/cloudflareddns:3.0.0.4856
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/cloudflareddns/config
         target: /config
+        read_only: false
 ```

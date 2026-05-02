@@ -23,41 +23,69 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: kimai
 services:
   kimai:
+    cap_drop:
+      - ALL
     container_name: kimai
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
+      DATABASE_URL: mysql://kimai:385d11dfaba9d80556b53a448df9651bWORD@mariadb:3306/kimai
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/kimai:2.56.0
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 80
         published: "80"
         protocol: tcp
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 443
         published: "443"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/kimai/config
         target: /config
+        read_only: false
   mariadb:
+    cap_drop:
+      - ALL
     container_name: mariadb
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
-      MARIADB_DATABASE: ""
-      MARIADB_PASSWORD: MYMARIADBPASSWORD
-      MARIADB_ROOT_PASSWORD: MYMARIADBROOTPASSWORD
-      MARIADB_USER: ""
+      MARIADB_DATABASE: kimai
+      MARIADB_PASSWORD: 385d11dfaba9d80556b53a448df9651bWORD
+      MARIADB_ROOT_PASSWORD: 0dfb09911932c75db3ebfb6a8a3e1744WORD
+      MARIADB_USER: kimai
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/mariadb:11.4.8-r0
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 3306
         published: "3306"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/mariadb/config
         target: /config
+        read_only: false
 ```

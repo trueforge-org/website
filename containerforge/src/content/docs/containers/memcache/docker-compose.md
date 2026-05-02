@@ -23,18 +23,31 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: memcache
 services:
   memcache:
+    cap_drop:
+      - ALL
     container_name: memcache
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/memcache:1.6.24-1build3
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 11211
         published: "11211"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/memcache/config
         target: /config
+        read_only: false
 ```

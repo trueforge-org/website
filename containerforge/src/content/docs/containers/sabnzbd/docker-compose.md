@@ -23,21 +23,34 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: sabnzbd
 services:
   sabnzbd:
+    cap_drop:
+      - ALL
     container_name: sabnzbd
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       SABNZBD__ADDRESS: '[::]'
       SABNZBD__HOST_WHITELIST_ENTRIES: ""
       TZ: Etc/UTC
       UMASK: "002"
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/sabnzbd:5.0.1
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 8080
         published: "8080"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/sabnzbd/config
         target: /config
+        read_only: false
 ```

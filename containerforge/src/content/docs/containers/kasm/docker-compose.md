@@ -23,27 +23,42 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: kasm
 services:
   kasm:
+    cap_drop:
+      - ALL
     container_name: kasm
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       DOCKER_HUB_PASSWORD: ""
       DOCKER_HUB_USERNAME: ""
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/kasm:1.18.0
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 3000
         published: "3000"
         protocol: tcp
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 443
         published: "443"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/kasm/config
         target: /config
+        read_only: false
       - type: bind
-        source: opt
+        source: /mnt/tank/apps/kasm/opt
         target: /opt
+        read_only: false
 ```

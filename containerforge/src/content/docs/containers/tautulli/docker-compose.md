@@ -23,18 +23,31 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: tautulli
 services:
   tautulli:
+    cap_drop:
+      - ALL
     container_name: tautulli
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/tautulli:2.17.0
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 8181
         published: "8181"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/tautulli/config
         target: /config
+        read_only: false
 ```

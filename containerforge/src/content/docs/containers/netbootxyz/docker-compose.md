@@ -23,29 +23,44 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: netbootxyz
 services:
   netbootxyz:
+    cap_drop:
+      - ALL
     container_name: netbootxyz
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       MENU_VERSION: ""
       PORT_RANGE: ""
       SUBFOLDER: /
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/netbootxyz:0.7.6
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 69
         published: "69"
         protocol: udp
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 3000
         published: "3000"
         protocol: tcp
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 8080
         published: "8080"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/netbootxyz/config
         target: /config
+        read_only: false
 ```

@@ -23,20 +23,33 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: luanti
 services:
   luanti:
+    cap_drop:
+      - ALL
     container_name: luanti
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       CLI_ARGS: ""
       DATA_DIR: /config/.minetest
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/luanti:5.14.0
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 30000
         published: "30000"
         protocol: udp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/luanti/config
         target: /config
+        read_only: false
 ```

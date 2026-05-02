@@ -23,22 +23,36 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: ldap-auth
 services:
   ldap-auth:
+    cap_drop:
+      - ALL
     container_name: ldap-auth
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/ldap-auth:3.4.5
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 8888
         published: "8888"
         protocol: tcp
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 9000
         published: "9000"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/ldap-auth/config
         target: /config
+        read_only: false
 ```

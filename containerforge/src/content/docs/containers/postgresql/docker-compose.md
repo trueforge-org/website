@@ -23,21 +23,34 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: postgresql
 services:
   postgresql:
+    cap_drop:
+      - ALL
     container_name: postgresql
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
-      POSTGRES_DB: postgres
-      POSTGRES_PASSWORD: MYPOSTGRESPASSWORD
-      POSTGRES_USER: postgres
+      POSTGRES_DB: postgresql
+      POSTGRES_PASSWORD: d159c9ccc0ffa1e2e44c85a745c8dc6fWORD
+      POSTGRES_USER: postgresql
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/postgresql:18.3
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 5432
         published: "5432"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/postgresql/config
         target: /config
+        read_only: false
 ```

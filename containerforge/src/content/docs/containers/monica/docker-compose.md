@@ -23,44 +23,77 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: monica
 services:
   mariadb:
+    cap_drop:
+      - ALL
     container_name: mariadb
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
-      MARIADB_DATABASE: ""
-      MARIADB_PASSWORD: MYMARIADBPASSWORD
-      MARIADB_ROOT_PASSWORD: MYMARIADBROOTPASSWORD
-      MARIADB_USER: ""
+      MARIADB_DATABASE: monica
+      MARIADB_PASSWORD: bb20c91d09f4c660219f2bf8c1fdb7fdWORD
+      MARIADB_ROOT_PASSWORD: 4db22e86fb97964ef79feb97d9072f3aWORD
+      MARIADB_USER: monica
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/mariadb:11.4.8-r0
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 3306
         published: "3306"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/mariadb/config
         target: /config
+        read_only: false
   monica:
+    cap_drop:
+      - ALL
     container_name: monica
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       APP_ENV: production
       APP_KEY: ""
       APP_URL: ""
+      DB_CONNECTION: mysql
+      DB_DATABASE: monica
+      DB_HOST: mariadb
+      DB_PASSWORD: bb20c91d09f4c660219f2bf8c1fdb7fdWORD
+      DB_PORT: "3306"
+      DB_USERNAME: monica
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/monica:4.1.2
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 80
         published: "80"
         protocol: tcp
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 443
         published: "443"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/monica/config
         target: /config
+        read_only: false
 ```

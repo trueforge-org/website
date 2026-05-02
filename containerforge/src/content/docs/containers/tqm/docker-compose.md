@@ -23,14 +23,26 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: tqm
 services:
   tqm:
+    cap_drop:
+      - ALL
     container_name: tqm
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       TZ: Etc/UTC
       UMASK: "002"
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/tqm:v1.19.0
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/tqm/config
         target: /config
+        read_only: false
 ```

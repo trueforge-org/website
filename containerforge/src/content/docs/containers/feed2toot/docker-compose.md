@@ -23,13 +23,25 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: feed2toot
 services:
   feed2toot:
+    cap_drop:
+      - ALL
     container_name: feed2toot
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/feed2toot:0.17
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/feed2toot/config
         target: /config
+        read_only: false
 ```

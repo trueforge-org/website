@@ -23,37 +23,68 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: whisparr-eros
 services:
   whisparr-eros:
+    cap_drop:
+      - ALL
     container_name: whisparr-eros
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
+      DB_DATABASE: whisparr-eros
+      DB_HOST: postgresql
+      DB_LOGSDB: whisparr-eros-log
+      DB_PASSWORD: 724c812c3007353d26294effdb8badb0WORD
+      DB_PORT: "5432"
+      DB_TYPE: sqlite
+      DB_USER: whisparr-eros
       TZ: Etc/UTC
       UMASK: "002"
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/whisparr-eros:3.3.3-release.683
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 6969
         published: "6969"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/whisparr-eros/config
         target: /config
+        read_only: false
 #   postgresql:
+#     cap_drop:
+#       - ALL
 #     container_name: postgresql
+#     deploy:
+#       resources:
+#         limits:
+#           cpus: 4
+#           memory: "4294967296"
 #     environment:
-#       POSTGRES_DB: postgres
-#       POSTGRES_PASSWORD: MYPOSTGRESPASSWORD
-#       POSTGRES_USER: postgres
+#       POSTGRES_DB: whisparr-eros
+#       POSTGRES_PASSWORD: 724c812c3007353d26294effdb8badb0WORD
+#       POSTGRES_USER: whisparr-eros
 #       TZ: Etc/UTC
+#     group_add:
+#       - "568"
 #     image: ghcr.io/trueforge-org/postgresql:18.3
 #     ports:
 #       - mode: ingress
+#         host_ip: 127.0.0.1
 #         target: 5432
 #         published: "5432"
 #         protocol: tcp
 #     restart: unless-stopped
+#     shm_size: "268435456"
 #     volumes:
 #       - type: bind
-#         source: config
+#         source: /mnt/tank/apps/postgresql/config
 #         target: /config
 ```

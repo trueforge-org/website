@@ -23,24 +23,38 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: esphome
 services:
   esphome:
+    cap_drop:
+      - ALL
     container_name: esphome
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       ESPHOME_DASHBOARD_RELATIVE_URL: /
       ESPHOME_DASHBOARD_USE_PING: "false"
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/esphome:2026.4.3
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 5353
         published: "5353"
         protocol: udp
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 6052
         published: "6052"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/esphome/config
         target: /config
+        read_only: false
 ```

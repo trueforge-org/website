@@ -23,7 +23,15 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: socket-proxy
 services:
   socket-proxy:
+    cap_drop:
+      - ALL
     container_name: socket-proxy
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       ALLOW_RESTARTS: "0"
       ALLOW_START: "0"
@@ -53,10 +61,14 @@ services:
       TASKS: "0"
       VERSION: "1"
       VOLUMES: "0"
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/socket-proxy:3.2.13-r0-ls70
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/socket-proxy/config
         target: /config
+        read_only: false
 ```

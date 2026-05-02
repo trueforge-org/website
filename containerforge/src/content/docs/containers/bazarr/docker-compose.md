@@ -23,19 +23,32 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: bazarr
 services:
   bazarr:
+    cap_drop:
+      - ALL
     container_name: bazarr
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       TZ: Etc/UTC
       UMASK: "002"
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/bazarr:v1.5.6
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 6767
         published: "6767"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/bazarr/config
         target: /config
+        read_only: false
 ```

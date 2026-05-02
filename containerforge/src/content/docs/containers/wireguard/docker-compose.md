@@ -23,7 +23,15 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: wireguard
 services:
   wireguard:
+    cap_drop:
+      - ALL
     container_name: wireguard
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       ALLOWEDIPS: 0.0.0.0/0
       INTERNAL_SUBNET: 10.13.13.0
@@ -35,15 +43,20 @@ services:
       SERVERURL: auto
       TZ: Etc/UTC
       USE_COREDNS: "false"
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/wireguard:1.0.20250521-r0
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 51820
         published: "51820"
         protocol: udp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/wireguard/config
         target: /config
+        read_only: false
 ```

@@ -23,44 +23,70 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: piwigo
 services:
   piwigo:
+    cap_drop:
+      - ALL
     container_name: piwigo
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/piwigo:15.7.0
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 80
         published: "80"
         protocol: tcp
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 443
         published: "443"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/piwigo/config
         target: /config
+        read_only: false
       - type: bind
-        source: gallery
+        source: /mnt/tank/apps/piwigo/gallery
         target: /gallery
+        read_only: false
 #   mariadb:
+#     cap_drop:
+#       - ALL
 #     container_name: mariadb
+#     deploy:
+#       resources:
+#         limits:
+#           cpus: 4
+#           memory: "4294967296"
 #     environment:
-#       MARIADB_DATABASE: ""
-#       MARIADB_PASSWORD: MYMARIADBPASSWORD
-#       MARIADB_ROOT_PASSWORD: MYMARIADBROOTPASSWORD
-#       MARIADB_USER: ""
+#       MARIADB_DATABASE: piwigo
+#       MARIADB_PASSWORD: 276aa18afb51c5035626d05f48cc7705WORD
+#       MARIADB_ROOT_PASSWORD: 164e2519619d2abbd0c87927be11b70fWORD
+#       MARIADB_USER: piwigo
 #       TZ: Etc/UTC
+#     group_add:
+#       - "568"
 #     image: ghcr.io/trueforge-org/mariadb:11.4.8-r0
 #     ports:
 #       - mode: ingress
+#         host_ip: 127.0.0.1
 #         target: 3306
 #         published: "3306"
 #         protocol: tcp
 #     restart: unless-stopped
+#     shm_size: "268435456"
 #     volumes:
 #       - type: bind
-#         source: config
+#         source: /mnt/tank/apps/mariadb/config
 #         target: /config
 ```

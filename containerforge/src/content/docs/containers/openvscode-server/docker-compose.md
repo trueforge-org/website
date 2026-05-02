@@ -23,18 +23,31 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: openvscode-server
 services:
   openvscode-server:
+    cap_drop:
+      - ALL
     container_name: openvscode-server
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/openvscode-server:1.105.1
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 3000
         published: "3000"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/openvscode-server/config
         target: /config
+        read_only: false
 ```

@@ -23,13 +23,25 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: ubuntu
 services:
   ubuntu:
+    cap_drop:
+      - ALL
     container_name: ubuntu
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       NVIDIA_DRIVER_CAPABILITIES: compute,video,utility
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/ubuntu:24.04
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/ubuntu/config
         target: /config
+        read_only: false
 ```

@@ -23,41 +23,70 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: airsonic-advanced
 services:
   airsonic-advanced:
+    cap_drop:
+      - ALL
     container_name: airsonic-advanced
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
+      SPRING_DATASOURCE_DRIVER_CLASS_NAME: org.postgresql.Driver
+      SPRING_DATASOURCE_PASSWORD: 516f392c6582be63dc00fb4c71ac3f59WORD
+      SPRING_DATASOURCE_URL: jdbc:postgresql://postgresql:5432/airsonic-advanced
+      SPRING_DATASOURCE_USERNAME: airsonic-advanced
       TZ: Etc/UTC
       UMASK: "002"
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/airsonic-advanced:11.1.4
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 4040
         published: "4040"
         protocol: tcp
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 4041
         published: "4041"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/airsonic-advanced/config
         target: /config
+        read_only: false
 #   postgresql:
+#     cap_drop:
+#       - ALL
 #     container_name: postgresql
+#     deploy:
+#       resources:
+#         limits:
+#           cpus: 4
+#           memory: "4294967296"
 #     environment:
-#       POSTGRES_DB: postgres
-#       POSTGRES_PASSWORD: MYPOSTGRESPASSWORD
-#       POSTGRES_USER: postgres
+#       POSTGRES_DB: airsonic-advanced
+#       POSTGRES_PASSWORD: 516f392c6582be63dc00fb4c71ac3f59WORD
+#       POSTGRES_USER: airsonic-advanced
 #       TZ: Etc/UTC
+#     group_add:
+#       - "568"
 #     image: ghcr.io/trueforge-org/postgresql:18.3
 #     ports:
 #       - mode: ingress
+#         host_ip: 127.0.0.1
 #         target: 5432
 #         published: "5432"
 #         protocol: tcp
 #     restart: unless-stopped
+#     shm_size: "268435456"
 #     volumes:
 #       - type: bind
-#         source: config
+#         source: /mnt/tank/apps/postgresql/config
 #         target: /config
 ```

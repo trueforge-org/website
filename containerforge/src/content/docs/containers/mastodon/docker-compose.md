@@ -23,44 +23,68 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: mastodon
 services:
   mastodon:
+    cap_drop:
+      - ALL
     container_name: mastodon
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       ACTIVE_RECORD_ENCRYPTION_DETERMINISTIC_KEY: ""
       ACTIVE_RECORD_ENCRYPTION_KEY_DERIVATION_SALT: ""
       ACTIVE_RECORD_ENCRYPTION_PRIMARY_KEY: ""
-      DATABASE_URL: ""
+      DATABASE_URL: postgresql://mastodon:81c6c155bb634ecc25524144efc0f17aWORD@postgresql:5432/mastodon
       OTP_SECRET: ""
-      REDIS_URL: ""
+      REDIS_URL: redis://:7205f2da4b5765213b9f92bcf1997504WORD@valkey:6379
       RUN_DB_PREPARE: "false"
       SECRET_KEY_BASE: ""
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/mastodon:4.5.9
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 3000
         published: "3000"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/mastodon/config
         target: /config
+        read_only: false
 #   postgresql:
+#     cap_drop:
+#       - ALL
 #     container_name: postgresql
+#     deploy:
+#       resources:
+#         limits:
+#           cpus: 4
+#           memory: "4294967296"
 #     environment:
-#       POSTGRES_DB: postgres
-#       POSTGRES_PASSWORD: MYPOSTGRESPASSWORD
-#       POSTGRES_USER: postgres
+#       POSTGRES_DB: mastodon
+#       POSTGRES_PASSWORD: 81c6c155bb634ecc25524144efc0f17aWORD
+#       POSTGRES_USER: mastodon
 #       TZ: Etc/UTC
+#     group_add:
+#       - "568"
 #     image: ghcr.io/trueforge-org/postgresql:18.3
 #     ports:
 #       - mode: ingress
+#         host_ip: 127.0.0.1
 #         target: 5432
 #         published: "5432"
 #         protocol: tcp
 #     restart: unless-stopped
+#     shm_size: "268435456"
 #     volumes:
 #       - type: bind
-#         source: config
+#         source: /mnt/tank/apps/postgresql/config
 #         target: /config
 ```

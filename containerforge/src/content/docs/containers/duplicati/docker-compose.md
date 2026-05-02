@@ -23,28 +23,43 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: duplicati
 services:
   duplicati:
+    cap_drop:
+      - ALL
     container_name: duplicati
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       DUPLICATI__REQUIRE_DB_ENCRYPTION_KEY: "true"
       DUPLICATI__WEBSERVICE_ALLOWED_HOSTNAMES: '*'
       DUPLICATI__WEBSERVICE_INTERFACE: any
       TZ: Etc/UTC
       UMASK: "002"
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/duplicati:2.3.0.1_stable_2026-04-24
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 8200
         published: "8200"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: backups
+        source: /mnt/tank/apps/duplicati/backups
         target: /backups
+        read_only: false
       - type: bind
-        source: config
+        source: /mnt/tank/apps/duplicati/config
         target: /config
+        read_only: false
       - type: bind
-        source: source
+        source: /mnt/tank/apps/duplicati/source
         target: /source
+        read_only: false
 ```

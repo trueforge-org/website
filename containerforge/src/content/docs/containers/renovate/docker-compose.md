@@ -23,13 +23,25 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: renovate
 services:
   renovate:
+    cap_drop:
+      - ALL
     container_name: renovate
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/renovate:43.160.5
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/renovate/config
         target: /config
+        read_only: false
 ```

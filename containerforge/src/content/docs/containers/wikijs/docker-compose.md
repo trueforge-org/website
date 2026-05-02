@@ -23,42 +23,68 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: wikijs
 services:
   postgresql:
+    cap_drop:
+      - ALL
     container_name: postgresql
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
-      POSTGRES_DB: postgres
-      POSTGRES_PASSWORD: MYPOSTGRESPASSWORD
-      POSTGRES_USER: postgres
+      POSTGRES_DB: wikijs
+      POSTGRES_PASSWORD: 22986f2303ed7015907d90b997228053WORD
+      POSTGRES_USER: wikijs
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/postgresql:18.3
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 5432
         published: "5432"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/postgresql/config
         target: /config
+        read_only: false
   wikijs:
+    cap_drop:
+      - ALL
     container_name: wikijs
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       DB_HOST: postgresql
-      DB_NAME: ""
-      DB_PASS: MYPOSTGRESPASSWORD
+      DB_NAME: wikijs
+      DB_PASS: 22986f2303ed7015907d90b997228053WORD
       DB_PORT: "5432"
       DB_TYPE: postgres
-      DB_USER: ""
+      DB_USER: wikijs
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/wikijs:2.5.314
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 3000
         published: "3000"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/wikijs/config
         target: /config
+        read_only: false
 ```

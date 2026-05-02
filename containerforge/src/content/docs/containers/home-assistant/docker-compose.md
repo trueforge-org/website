@@ -23,19 +23,32 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: home-assistant
 services:
   home-assistant:
+    cap_drop:
+      - ALL
     container_name: home-assistant
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       TZ: Etc/UTC
       WHEELS_LINKS: https://wheels.home-assistant.io/musllinux/
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/home-assistant:2026.4.4
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 8123
         published: "8123"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/home-assistant/config
         target: /config
+        read_only: false
 ```

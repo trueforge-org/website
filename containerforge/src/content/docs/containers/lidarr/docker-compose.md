@@ -23,37 +23,68 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: lidarr
 services:
   lidarr:
+    cap_drop:
+      - ALL
     container_name: lidarr
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
+      DB_DATABASE: lidarr
+      DB_HOST: postgresql
+      DB_LOGSDB: lidarr-log
+      DB_PASSWORD: 46cbb8d7fdb21e60fa89295fa70b2408WORD
+      DB_PORT: "5432"
+      DB_TYPE: sqlite
+      DB_USER: lidarr
       TZ: Etc/UTC
       UMASK: "002"
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/lidarr:3.1.2.4938
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 8686
         published: "8686"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/lidarr/config
         target: /config
+        read_only: false
 #   postgresql:
+#     cap_drop:
+#       - ALL
 #     container_name: postgresql
+#     deploy:
+#       resources:
+#         limits:
+#           cpus: 4
+#           memory: "4294967296"
 #     environment:
-#       POSTGRES_DB: postgres
-#       POSTGRES_PASSWORD: MYPOSTGRESPASSWORD
-#       POSTGRES_USER: postgres
+#       POSTGRES_DB: lidarr
+#       POSTGRES_PASSWORD: 46cbb8d7fdb21e60fa89295fa70b2408WORD
+#       POSTGRES_USER: lidarr
 #       TZ: Etc/UTC
+#     group_add:
+#       - "568"
 #     image: ghcr.io/trueforge-org/postgresql:18.3
 #     ports:
 #       - mode: ingress
+#         host_ip: 127.0.0.1
 #         target: 5432
 #         published: "5432"
 #         protocol: tcp
 #     restart: unless-stopped
+#     shm_size: "268435456"
 #     volumes:
 #       - type: bind
-#         source: config
+#         source: /mnt/tank/apps/postgresql/config
 #         target: /config
 ```

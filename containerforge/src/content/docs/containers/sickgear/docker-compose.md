@@ -23,19 +23,32 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: sickgear
 services:
   sickgear:
+    cap_drop:
+      - ALL
     container_name: sickgear
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       TZ: Etc/UTC
       UMASK: "002"
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/sickgear:release_3.34.5
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 8081
         published: "8081"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/sickgear/config
         target: /config
+        read_only: false
 ```

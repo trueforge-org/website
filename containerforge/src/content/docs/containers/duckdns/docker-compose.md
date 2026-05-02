@@ -23,15 +23,27 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: duckdns
 services:
   duckdns:
+    cap_drop:
+      - ALL
     container_name: duckdns
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       SUBDOMAINS: ""
       TOKEN: ""
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/duckdns:95e5988b
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/duckdns/config
         target: /config
+        read_only: false
 ```

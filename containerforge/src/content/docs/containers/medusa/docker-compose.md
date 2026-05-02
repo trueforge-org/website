@@ -23,19 +23,32 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: medusa
 services:
   medusa:
+    cap_drop:
+      - ALL
     container_name: medusa
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       TZ: Etc/UTC
       UMASK: "002"
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/medusa:1.0.25
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 8081
         published: "8081"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/medusa/config
         target: /config
+        read_only: false
 ```

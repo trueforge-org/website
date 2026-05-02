@@ -23,11 +23,23 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: lvm-disk-watcher
 services:
   lvm-disk-watcher:
+    cap_drop:
+      - ALL
     container_name: lvm-disk-watcher
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/lvm-disk-watcher:1.1.0
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/lvm-disk-watcher/config
         target: /config
+        read_only: false
 ```

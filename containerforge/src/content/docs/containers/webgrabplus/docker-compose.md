@@ -23,16 +23,29 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: webgrabplus
 services:
   webgrabplus:
+    cap_drop:
+      - ALL
     container_name: webgrabplus
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/webgrabplus:5.5.3
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/webgrabplus/config
         target: /config
+        read_only: false
       - type: bind
-        source: data
+        source: /mnt/tank/apps/webgrabplus/data
         target: /data
+        read_only: false
 ```

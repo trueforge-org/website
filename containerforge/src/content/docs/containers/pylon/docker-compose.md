@@ -23,18 +23,31 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: pylon
 services:
   pylon:
+    cap_drop:
+      - ALL
     container_name: pylon
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/pylon:2.11.1
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 3131
         published: "3131"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/pylon/config
         target: /config
+        read_only: false
 ```

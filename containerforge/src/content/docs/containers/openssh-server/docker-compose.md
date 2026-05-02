@@ -23,23 +23,36 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: openssh-server
 services:
   openssh-server:
+    cap_drop:
+      - ALL
     container_name: openssh-server
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       PASSWORD_ACCESS: "false"
       PUBLIC_KEY: ""
       SUDO_ACCESS: "false"
       TZ: Etc/UTC
       USER_NAME: apps
-      USER_PASSWORD: MYUSERPASSWORD
+      USER_PASSWORD: 71cd84aa6406b3346f7be63cb4271699WORD
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/openssh-server:10.2_p1-r0-ls217
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 2222
         published: "2222"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/openssh-server/config
         target: /config
+        read_only: false
 ```

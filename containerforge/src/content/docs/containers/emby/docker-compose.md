@@ -23,29 +23,44 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: emby
 services:
   emby:
+    cap_drop:
+      - ALL
     container_name: emby
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       NVIDIA_DRIVER_CAPABILITIES: compute,video,utility
       PUBLISHED_SERVER_URL: ""
       TZ: Etc/UTC
       UMASK: "002"
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/emby:4.10.0.11
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 1900
         published: "1900"
         protocol: udp
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 7359
         published: "7359"
         protocol: udp
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 8096
         published: "8096"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/emby/config
         target: /config
+        read_only: false
 ```

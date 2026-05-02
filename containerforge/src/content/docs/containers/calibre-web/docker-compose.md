@@ -23,19 +23,32 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: calibre-web
 services:
   calibre-web:
+    cap_drop:
+      - ALL
     container_name: calibre-web
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       TZ: Etc/UTC
       UMASK: "002"
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/calibre-web:0.6.26
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 8083
         published: "8083"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/calibre-web/config
         target: /config
+        read_only: false
 ```

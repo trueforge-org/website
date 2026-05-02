@@ -23,11 +23,23 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: cni-plugins
 services:
   cni-plugins:
+    cap_drop:
+      - ALL
     container_name: cni-plugins
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/cni-plugins:v1.9.1
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/cni-plugins/config
         target: /config
+        read_only: false
 ```

@@ -23,20 +23,33 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: pydio-cells
 services:
   pydio-cells:
+    cap_drop:
+      - ALL
     container_name: pydio-cells
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       EXTERNALURL: https://localhost:8080
       SERVER_IP: 0.0.0.0
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/pydio-cells:4.4.17
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 8080
         published: "8080"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/pydio-cells/config
         target: /config
+        read_only: false
 ```

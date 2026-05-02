@@ -23,7 +23,15 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: kometa
 services:
   kometa:
+    cap_drop:
+      - ALL
     container_name: kometa
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       KOMETA_NO_MISSING: "false"
       KOMETA_NO_VERIFY_SSL: "false"
@@ -31,13 +39,18 @@ services:
       KOMETA_TIMES: "05:00"
       TZ: Etc/UTC
       UMASK: "002"
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/kometa:2.3.1
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: app
+        source: /mnt/tank/apps/kometa/app
         target: /app
+        read_only: false
       - type: bind
-        source: config
+        source: /mnt/tank/apps/kometa/config
         target: /config
+        read_only: false
 ```

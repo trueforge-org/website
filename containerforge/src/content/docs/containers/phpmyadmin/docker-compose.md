@@ -23,7 +23,15 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: phpmyadmin
 services:
   phpmyadmin:
+    cap_drop:
+      - ALL
     container_name: phpmyadmin
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       MAX_EXECUTION_TIME: "600"
       MEMORY_LIMIT: 512M
@@ -31,38 +39,55 @@ services:
       PMA_USER_CONFIG_BASE64: ""
       TZ: Etc/UTC
       UPLOAD_LIMIT: 8192K
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/phpmyadmin:5.2.3
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 80
         published: "80"
         protocol: tcp
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 443
         published: "443"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/phpmyadmin/config
         target: /config
+        read_only: false
 #   mariadb:
+#     cap_drop:
+#       - ALL
 #     container_name: mariadb
+#     deploy:
+#       resources:
+#         limits:
+#           cpus: 4
+#           memory: "4294967296"
 #     environment:
-#       MARIADB_DATABASE: ""
-#       MARIADB_PASSWORD: MYMARIADBPASSWORD
-#       MARIADB_ROOT_PASSWORD: MYMARIADBROOTPASSWORD
-#       MARIADB_USER: ""
+#       MARIADB_DATABASE: phpmyadmin
+#       MARIADB_PASSWORD: 3e165948a13ab219285bbb6cc3052e0dWORD
+#       MARIADB_ROOT_PASSWORD: 4a4f90210400a0c1929128b1eb33c81eWORD
+#       MARIADB_USER: phpmyadmin
 #       TZ: Etc/UTC
+#     group_add:
+#       - "568"
 #     image: ghcr.io/trueforge-org/mariadb:11.4.8-r0
 #     ports:
 #       - mode: ingress
+#         host_ip: 127.0.0.1
 #         target: 3306
 #         published: "3306"
 #         protocol: tcp
 #     restart: unless-stopped
+#     shm_size: "268435456"
 #     volumes:
 #       - type: bind
-#         source: config
+#         source: /mnt/tank/apps/mariadb/config
 #         target: /config
 ```

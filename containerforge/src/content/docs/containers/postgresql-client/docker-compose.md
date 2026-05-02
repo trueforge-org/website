@@ -23,11 +23,23 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: postgresql-client
 services:
   postgresql-client:
+    cap_drop:
+      - ALL
     container_name: postgresql-client
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/postgresql-client:9.6.24
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/postgresql-client/config
         target: /config
+        read_only: false
 ```

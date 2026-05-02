@@ -23,11 +23,23 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: fail2ban
 services:
   fail2ban:
+    cap_drop:
+      - ALL
     container_name: fail2ban
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/fail2ban:1.1.0-r2-ls29
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/fail2ban/config
         target: /config
+        read_only: false
 ```

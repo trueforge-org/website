@@ -23,22 +23,36 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: librespeed
 services:
   librespeed:
+    cap_drop:
+      - ALL
     container_name: librespeed
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/librespeed:v6.1.0
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 80
         published: "80"
         protocol: tcp
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 443
         published: "443"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/librespeed/config
         target: /config
+        read_only: false
 ```

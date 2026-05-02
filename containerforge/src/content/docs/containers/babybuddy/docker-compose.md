@@ -23,36 +23,61 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: babybuddy
 services:
   babybuddy:
+    cap_drop:
+      - ALL
     container_name: babybuddy
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
+      DATABASE_URL: postgres://babybuddy:a680ade2bff03ac43e09d07ae305e356WORD@postgresql:5432/babybuddy
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/babybuddy:2.8.0
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 8000
         published: "8000"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/babybuddy/config
         target: /config
+        read_only: false
 #   postgresql:
+#     cap_drop:
+#       - ALL
 #     container_name: postgresql
+#     deploy:
+#       resources:
+#         limits:
+#           cpus: 4
+#           memory: "4294967296"
 #     environment:
-#       POSTGRES_DB: postgres
-#       POSTGRES_PASSWORD: MYPOSTGRESPASSWORD
-#       POSTGRES_USER: postgres
+#       POSTGRES_DB: babybuddy
+#       POSTGRES_PASSWORD: a680ade2bff03ac43e09d07ae305e356WORD
+#       POSTGRES_USER: babybuddy
 #       TZ: Etc/UTC
+#     group_add:
+#       - "568"
 #     image: ghcr.io/trueforge-org/postgresql:18.3
 #     ports:
 #       - mode: ingress
+#         host_ip: 127.0.0.1
 #         target: 5432
 #         published: "5432"
 #         protocol: tcp
 #     restart: unless-stopped
+#     shm_size: "268435456"
 #     volumes:
 #       - type: bind
-#         source: config
+#         source: /mnt/tank/apps/postgresql/config
 #         target: /config
 ```

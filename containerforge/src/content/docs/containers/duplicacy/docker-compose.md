@@ -23,25 +23,40 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: duplicacy
 services:
   duplicacy:
+    cap_drop:
+      - ALL
     container_name: duplicacy
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       TZ: Etc/UTC
       UMASK: "002"
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/duplicacy:1.8.0
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 3875
         published: "3875"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: cache
+        source: /mnt/tank/apps/duplicacy/cache
         target: /cache
+        read_only: false
       - type: bind
-        source: config
+        source: /mnt/tank/apps/duplicacy/config
         target: /config
+        read_only: false
       - type: bind
-        source: logs
+        source: /mnt/tank/apps/duplicacy/logs
         target: /logs
+        read_only: false
 ```

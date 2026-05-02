@@ -23,23 +23,37 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: ubooquity
 services:
   ubooquity:
+    cap_drop:
+      - ALL
     container_name: ubooquity
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       MAXMEM: "512"
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/ubooquity:3.1.0
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 2202
         published: "2202"
         protocol: tcp
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 2203
         published: "2203"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/ubooquity/config
         target: /config
+        read_only: false
 ```

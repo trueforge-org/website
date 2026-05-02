@@ -23,14 +23,26 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: unpackerr
 services:
   unpackerr:
+    cap_drop:
+      - ALL
     container_name: unpackerr
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       TZ: Etc/UTC
       UMASK: "002"
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/unpackerr:0.15.2
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/unpackerr/config
         target: /config
+        read_only: false
 ```

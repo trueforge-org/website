@@ -23,33 +23,49 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: jellyfin
 services:
   jellyfin:
+    cap_drop:
+      - ALL
     container_name: jellyfin
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       JELLYFIN_PublishedServerUrl: ""
       NVIDIA_DRIVER_CAPABILITIES: compute,video,utility
       TZ: Etc/UTC
       UMASK: "002"
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/jellyfin:10.11.8
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 1900
         published: "1900"
         protocol: udp
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 7359
         published: "7359"
         protocol: udp
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 8096
         published: "8096"
         protocol: tcp
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 8920
         published: "8920"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/jellyfin/config
         target: /config
+        read_only: false
 ```

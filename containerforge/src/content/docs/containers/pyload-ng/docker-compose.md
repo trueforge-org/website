@@ -23,21 +23,34 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: pyload-ng
 services:
   pyload-ng:
+    cap_drop:
+      - ALL
     container_name: pyload-ng
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
       PYLOAD_PASSWORD: pyload
       PYLOAD_USERNAME: pyload
       TZ: Etc/UTC
       UMASK: "002"
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/pyload-ng:0.5.0b3.dev93
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 8000
         published: "8000"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/pyload-ng/config
         target: /config
+        read_only: false
 ```

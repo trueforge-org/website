@@ -23,43 +23,68 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 name: freshrss
 services:
   freshrss:
+    cap_drop:
+      - ALL
     container_name: freshrss
+    privileged: false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+          memory: 4G
     environment:
-      ADMIN_API_PASSWORD: MYADMINAPIPASSWORD
+      ADMIN_API_PASSWORD: 48c7a9cc9d4cc9992fb7c1c9978baebaWORD
       ADMIN_EMAIL: ""
-      ADMIN_PASSWORD: MYADMINPASSWORD
+      ADMIN_PASSWORD: cbc586397f78682c83d324545c032fafWORD
       TZ: Etc/UTC
+    group_add:
+      - "568"
     image: ghcr.io/trueforge-org/freshrss:1.28.1
     ports:
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 80
         published: "80"
         protocol: tcp
       - mode: ingress
+        # host_ip: 127.0.0.1
         target: 443
         published: "443"
         protocol: tcp
     restart: unless-stopped
+    shm_size: 256M
     volumes:
       - type: bind
-        source: config
+        source: /mnt/tank/apps/freshrss/config
         target: /config
+        read_only: false
 #   postgresql:
+#     cap_drop:
+#       - ALL
 #     container_name: postgresql
+#     deploy:
+#       resources:
+#         limits:
+#           cpus: 4
+#           memory: "4294967296"
 #     environment:
-#       POSTGRES_DB: postgres
-#       POSTGRES_PASSWORD: MYPOSTGRESPASSWORD
-#       POSTGRES_USER: postgres
+#       POSTGRES_DB: freshrss
+#       POSTGRES_PASSWORD: 39bd37b89c97f13de5b43ed26aacf9ffWORD
+#       POSTGRES_USER: freshrss
 #       TZ: Etc/UTC
+#     group_add:
+#       - "568"
 #     image: ghcr.io/trueforge-org/postgresql:18.3
 #     ports:
 #       - mode: ingress
+#         host_ip: 127.0.0.1
 #         target: 5432
 #         published: "5432"
 #         protocol: tcp
 #     restart: unless-stopped
+#     shm_size: "268435456"
 #     volumes:
 #       - type: bind
-#         source: config
+#         source: /mnt/tank/apps/postgresql/config
 #         target: /config
 ```
