@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.19.16 • [Train: ]
+
+- fix(deps): update flexget/flexget v3.19.15 → v3.19.16 (#2224) • [`590e497`](https://github.com/trueforge-org/truecharts/commit/590e497e161e8e8c77f3b1665aa5a4561bb86dca) • [@TrueCharts Bot] (2026-05-04)
+
 ## 3.19.15 • [Train: ]
 
 - some password fixes • [`68a527b`](https://github.com/trueforge-org/truecharts/commit/68a527b6c7a868d29014720fc8458313be3410e1) • [@Kjeld Schouten] (2026-05-02)
