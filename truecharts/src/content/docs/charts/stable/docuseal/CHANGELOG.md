@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 6.3.1 • [Train: stable]
+
+- fix(docuseal): update image docker.io/docuseal/docuseal 2.5.1 → 2.5.2 (#47844) • [`c6c5707`](https://github.com/trueforge-org/truecharts/commit/c6c5707e6655776edd95adecd79c7dd64614ccfd) • [@TrueCharts Bot] (2026-05-04)
+
 ## 6.3.0 • [Train: stable]
 
 - feat(helm-deps): update chart common 29.1.6 → 29.2.8 (#47769) • [`8ef3aa1`](https://github.com/trueforge-org/truecharts/commit/8ef3aa184cf34955ed448c1f22a6050600733977) • [@TrueCharts Bot] (2026-05-01)
@@ -131,8 +135,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 5.16.8 • [Train: stable]
 
 - Commit daily changes • [`bafc468`](https://github.com/trueforge-org/truecharts/commit/bafc468832c3bd0cd5db1adf3087e205881ec267) • [@TrueCharts-Bot] (2026-02-03)
-- fix(docuseal): update image docker.io/docuseal/docuseal 2.3.1 → 2.3.2 (#44457) • [`5079d74`](https://github.com/trueforge-org/truecharts/commit/5079d74c83bac695ed977aa81aff52d252dd365e) • [@TrueCharts Bot] (2026-02-02)
 - feat(helm-deps): update chart common to v28.29.49 (#44431) • [`32a5df0`](https://github.com/trueforge-org/truecharts/commit/32a5df0fdad2f71ea9a0f371e0a7ce073cdf49c0) • [@TrueCharts Bot] (2026-02-02)
+- fix(docuseal): update image docker.io/docuseal/docuseal 2.3.1 → 2.3.2 (#44457) • [`5079d74`](https://github.com/trueforge-org/truecharts/commit/5079d74c83bac695ed977aa81aff52d252dd365e) • [@TrueCharts Bot] (2026-02-02)
 
 ## 5.16.7 • [Train: stable]
 
