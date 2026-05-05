@@ -71,8 +71,8 @@ services:
 #           memory: "4294967296"
 #     environment:
 #       MARIADB_DATABASE: phpmyadmin
-#       MARIADB_PASSWORD: dbdcffb7beddb2369a53932af7eadfc6WORD
-#       MARIADB_ROOT_PASSWORD: 76d7a77049ecfc70a163e8fa967389b8WORD
+#       MARIADB_PASSWORD: fa2a0cf126f3bad4a7af6d2efc500d67WORD
+#       MARIADB_ROOT_PASSWORD: b95ed2b9dbbb1dd3feca367fea811ef0WORD
 #       MARIADB_USER: phpmyadmin
 #       TZ: Etc/UTC
 #     group_add:
