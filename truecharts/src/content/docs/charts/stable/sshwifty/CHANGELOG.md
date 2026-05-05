@@ -256,8 +256,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 8.3.6 • [Train: stable]
 
-- chore(helm): update chart common 28.16.5 → 28.16.6 (#39145) • [`827fa3c`](https://github.com/trueforge-org/truecharts/commit/827fa3cc55b82b3d292228d8b331331b863ffb3b) • [@TrueCharts Bot] (2025-09-07)
 - chore: fix links • [`1c28a12`](https://github.com/trueforge-org/truecharts/commit/1c28a127898e7db3a350e07a42810acd8eaa4c30) • [@Kjeld Schouten] (2025-09-07)
+- chore(helm): update chart common 28.16.5 → 28.16.6 (#39145) • [`827fa3c`](https://github.com/trueforge-org/truecharts/commit/827fa3cc55b82b3d292228d8b331331b863ffb3b) • [@TrueCharts Bot] (2025-09-07)
 
 ## 8.3.5 • [Train: stable]
 
@@ -355,8 +355,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 7.5.5 • [Train: stable]
 
 - Commit daily changes • [`81131bc`](https://github.com/trueforge-org/truecharts/commit/81131bc7f2a3f63487ba9bff2396ea05abbba2ba) • [@TrueCharts-Bot] (2025-04-10)
-- chore(helm): update image docker.io/niruix/sshwifty digest to 713aba4 (#34031) • [`adb77a3`](https://github.com/trueforge-org/truecharts/commit/adb77a33d8e0f9aee73bca3af196137018dd80f0) • [@TrueCharts Bot] (2025-04-07)
 - feat(common): remove portal and ensure appUrl is used for notes.txt (#34047) • [`f8e3376`](https://github.com/trueforge-org/truecharts/commit/f8e33766bfc580b0cfa1ebbda93e110c98209022) • [@Kjeld Schouten] (2025-04-07)
+- chore(helm): update image docker.io/niruix/sshwifty digest to 713aba4 (#34031) • [`adb77a3`](https://github.com/trueforge-org/truecharts/commit/adb77a33d8e0f9aee73bca3af196137018dd80f0) • [@TrueCharts Bot] (2025-04-07)
 
 ## 7.5.4 • [Train: stable]
 
