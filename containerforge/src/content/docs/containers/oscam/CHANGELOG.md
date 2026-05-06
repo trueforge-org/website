@@ -13,5 +13,6 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 11906.0.0 • [Train: ]
 
-- more fixes • [`6c44f0b`](https://github.com/trueforge-org/truecharts/commit/6c44f0b4daf7650f239244581d86e8adf0b44e46) • [@Kjeld Schouten] (2026-05-06)
+- chore(ubuntu-dep): pin ghcr.io/trueforge-org/ubuntu docker tag digest to fdcc4e2 (#2262) • [`0f2f25a`](https://github.com/trueforge-org/truecharts/commit/0f2f25a49aec5b8cc813af78809163412ef99600) • [@TrueCharts Bot] (2026-05-06)
 - fxes • [`657d301`](https://github.com/trueforge-org/truecharts/commit/657d301e7a7b73617b714163dfd31200e0fff59a) • [@Kjeld Schouten] (2026-05-06)
+- more fixes • [`6c44f0b`](https://github.com/trueforge-org/truecharts/commit/6c44f0b4daf7650f239244581d86e8adf0b44e46) • [@Kjeld Schouten] (2026-05-06)
