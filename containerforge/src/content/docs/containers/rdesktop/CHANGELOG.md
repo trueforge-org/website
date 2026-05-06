@@ -13,9 +13,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2026.5.6 • [Train: ]
 
-- re-add arm support for rdesktop to see if we can get it to build • [`662bf4c`](https://github.com/trueforge-org/truecharts/commit/662bf4cc3820d543453a8f007eb635c979f042db) • [@Kjeld Schouten] (2026-05-06)
 - allow another package for rdesktop • [`92567e2`](https://github.com/trueforge-org/truecharts/commit/92567e2c8824bef478b5063b8ad040670b8d75a0) • [@Kjeld Schouten] (2026-05-06)
 - rdesktop does not have an arm build • [`3164ba9`](https://github.com/trueforge-org/truecharts/commit/3164ba9f8b654a33fa7cf0fa4ab4e5383c52dbd8) • [@Kjeld Schouten] (2026-05-06)
+- re-add arm support for rdesktop to see if we can get it to build • [`662bf4c`](https://github.com/trueforge-org/truecharts/commit/662bf4cc3820d543453a8f007eb635c979f042db) • [@Kjeld Schouten] (2026-05-06)
 - chore(ubuntu-dep): pin ghcr.io/trueforge-org/ubuntu docker tag digest to fdcc4e2 (#2140) • [`f443ebf`](https://github.com/trueforge-org/truecharts/commit/f443ebf9463e49614be0c399d8b57160a68be9ab) • [@TrueCharts Bot] (2026-04-28)
 - Promote 18 verified-green containers from porting/queues/passing/ to apps/ &#43; fix failing containers (#2124) • [`6bfac98`](https://github.com/trueforge-org/truecharts/commit/6bfac988abc9dd6f7d1b84bc670f36b1f19e9233) • [@Copilot] (2026-04-27)
 
