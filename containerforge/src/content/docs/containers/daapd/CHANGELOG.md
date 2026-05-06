@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 28.12.0 • [Train: ]
+
+- feat(deps): update owntone/owntone-server 28.10 → 28.12 (#2158) • [`f145c12`](https://github.com/trueforge-org/truecharts/commit/f145c1291971b1c55f4b816844f7c601992cf5e5) • [@TrueCharts Bot] (2026-05-06)
+
 ## 28.10.0 • [Train: ]
 
 - chore(ubuntu-dep): pin ghcr.io/trueforge-org/ubuntu docker tag digest to fdcc4e2 (#2140) • [`f443ebf`](https://github.com/trueforge-org/truecharts/commit/f443ebf9463e49614be0c399d8b57160a68be9ab) • [@TrueCharts Bot] (2026-04-28)
