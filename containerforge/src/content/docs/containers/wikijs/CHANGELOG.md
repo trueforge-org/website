@@ -13,8 +13,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.5.314 • [Train: ]
 
-- work on compose rendering placeholders • [`62433a7`](https://github.com/trueforge-org/truecharts/commit/62433a7054d425651f3d1f0c8d7dfbdb5c7b629a) • [@Kjeld Schouten] (2026-05-02)
 - some more settings • [`8c51ef4`](https://github.com/trueforge-org/truecharts/commit/8c51ef4479a9db12fa5b329f4cf40151366176d3) • [@Kjeld Schouten] (2026-05-02)
+- work on compose rendering placeholders • [`62433a7`](https://github.com/trueforge-org/truecharts/commit/62433a7054d425651f3d1f0c8d7dfbdb5c7b629a) • [@Kjeld Schouten] (2026-05-02)
 - fix(deps): update requarks/wiki v2.5.313 → v2.5.314 (#2204) • [`44eabf3`](https://github.com/trueforge-org/truecharts/commit/44eabf3c1f13bf8e9bb8cae8e83f45b521cad537) • [@TrueCharts Bot] (2026-05-01)
 
 ## 2.5.313 • [Train: ]
@@ -23,8 +23,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.5.312 • [Train: ]
 
-- tweak dependency system and allow for opt_dependencies • [`7d92bb5`](https://github.com/trueforge-org/truecharts/commit/7d92bb52cab800671d00900ec0109a0cff8b9fbe) • [@Kjeld Schouten] (2026-04-24)
 - refactor(settings): audit env/ports/volumes across all apps (#2090) • [`6249d10`](https://github.com/trueforge-org/truecharts/commit/6249d10f99fc4515d01a965daf511ca00eb2b3ba) • [@Copilot] (2026-04-24)
+- tweak dependency system and allow for opt_dependencies • [`7d92bb5`](https://github.com/trueforge-org/truecharts/commit/7d92bb52cab800671d00900ec0109a0cff8b9fbe) • [@Kjeld Schouten] (2026-04-24)
 - move settings schema to forgetool • [`90d1387`](https://github.com/trueforge-org/truecharts/commit/90d13871348e2629a401d53a27b6e3dc9590aa44) • [@Kjeld Schouten] (2026-04-24)
 - add dependencies settings key • [`f86db16`](https://github.com/trueforge-org/truecharts/commit/f86db166f69bb102f6a54714d7387cd393322ceb) • [@Kjeld Schouten] (2026-04-24)
 - fix dependencies and opt_dependencies • [`4d1f4a3`](https://github.com/trueforge-org/truecharts/commit/4d1f4a39e60cd0239cb0fdfaa59b97180553dd90) • [@Kjeld Schouten] (2026-04-24)
