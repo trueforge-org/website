@@ -14,3 +14,4 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 1.9.2 • [Train: ]
 
 - chore(golang-dep): pin ghcr.io/trueforge-org/golang docker tag digest to 66c4ecd (#2259) • [`9374fbe`](https://github.com/trueforge-org/truecharts/commit/9374fbe238c837867b310fe81478cffcb475e5df) • [@TrueCharts Bot] (2026-05-06)
+- fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.13.12 → 3.13.13 (#2266) • [`8e09793`](https://github.com/trueforge-org/truecharts/commit/8e097933e8952e20738bb27c3e4dc1495692d069) • [@TrueCharts Bot] (2026-05-06)
