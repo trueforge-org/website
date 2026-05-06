@@ -36,7 +36,7 @@ services:
       TZ: Etc/UTC
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/piwigo:15.7.0
+    image: ghcr.io/trueforge-org/piwigo:16.4.0
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
@@ -70,8 +70,8 @@ services:
 #           memory: "4294967296"
 #     environment:
 #       MARIADB_DATABASE: piwigo
-#       MARIADB_PASSWORD: 12daf0df303d173ba9d5a2dfc03bd0ccWORD
-#       MARIADB_ROOT_PASSWORD: 6671c14008e33e5532311d8c8e838401WORD
+#       MARIADB_PASSWORD: 73957ba6a28bb3a71f9dd2b9d2e502c7WORD
+#       MARIADB_ROOT_PASSWORD: e646446278649e5c45c744d936d4f24eWORD
 #       MARIADB_USER: piwigo
 #       TZ: Etc/UTC
 #     group_add:

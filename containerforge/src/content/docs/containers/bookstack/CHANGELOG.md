@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 25.12.9 • [Train: ]
+
+- feat(deps): update bookstackapp/bookstack v25.11.1 → v25.12.9 (#2152) • [`8583f60`](https://github.com/trueforge-org/truecharts/commit/8583f604560994d92187ca8de2648cfa8405f849) • [@TrueCharts Bot] (2026-05-06)
+
 ## 25.11.1 • [Train: ]
 
 - work on compose rendering placeholders • [`62433a7`](https://github.com/trueforge-org/truecharts/commit/62433a7054d425651f3d1f0c8d7dfbdb5c7b629a) • [@Kjeld Schouten] (2026-05-02)

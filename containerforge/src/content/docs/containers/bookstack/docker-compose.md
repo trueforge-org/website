@@ -37,13 +37,14 @@ services:
       APP_URL: ""
       DB_DATABASE: bookstack
       DB_HOST: ""
-      DB_PASS: cfe37c186ae5dee40222c76410b9589bWORD
+      DB_PASS: 7fb7945fefd3b6a4d8ffdab1d713b99dWORD
       DB_PORT: "3306"
       DB_USER: bookstack
+      QUEUE_CONNECTION: database
       TZ: Etc/UTC
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/bookstack:25.11.1
+    image: ghcr.io/trueforge-org/bookstack:25.12.9
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
@@ -73,8 +74,8 @@ services:
 #           memory: "4294967296"
 #     environment:
 #       MARIADB_DATABASE: bookstack
-#       MARIADB_PASSWORD: cfe37c186ae5dee40222c76410b9589bWORD
-#       MARIADB_ROOT_PASSWORD: 45a94959c311e6ec65b335f7d70d1992WORD
+#       MARIADB_PASSWORD: 7fb7945fefd3b6a4d8ffdab1d713b99dWORD
+#       MARIADB_ROOT_PASSWORD: 732169c08bc347bf11cdf8c7ac4f035dWORD
 #       MARIADB_USER: bookstack
 #       TZ: Etc/UTC
 #     group_add:

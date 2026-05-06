@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 16.4.0 • [Train: ]
+
+- BREAKING CHANGE(deps): Update Piwigo/Piwigo 15.7.0 → 16.4.0 (#2171) • [`176ff2b`](https://github.com/trueforge-org/truecharts/commit/176ff2be093dc9a8d728a6e16a148c9293bd59ff) • [@TrueCharts Bot] (2026-05-06)
+
 ## 15.7.0 • [Train: ]
 
 - chore(ubuntu-dep): pin ghcr.io/trueforge-org/ubuntu docker tag digest to fdcc4e2 (#2140) • [`f443ebf`](https://github.com/trueforge-org/truecharts/commit/f443ebf9463e49614be0c399d8b57160a68be9ab) • [@TrueCharts Bot] (2026-04-28)
