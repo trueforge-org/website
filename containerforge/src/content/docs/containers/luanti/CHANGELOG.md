@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.15.2 • [Train: ]
+
+- feat(deps): update luanti-org/luanti to v5.15.2 (#2157) • [`47f12f3`](https://github.com/trueforge-org/truecharts/commit/47f12f3886b699f39fc9c5854a36fa0fc6f7209c) • [@TrueCharts Bot] (2026-05-06)
+
 ## 5.14.0 • [Train: ]
 
 - fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.13.12 → 3.13.13 (#2150) • [`438a36e`](https://github.com/trueforge-org/truecharts/commit/438a36ed912e0aca061688e1d9e752c4cd333f8e) • [@TrueCharts Bot] (2026-04-28)
