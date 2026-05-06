@@ -2,7 +2,7 @@
 title: daapd
 ---
 
-![Version: 28.12](https://img.shields.io/badge/Version-28.12-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 29.2](https://img.shields.io/badge/Version-29.2-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **daapd**, including upstream sou
 | Field | Value |
 | --- | --- |
 | App | daapd |
-| Version | 28.12 |
+| Version | 29.2 |
 | License | AGPL--3.0--or--later |
 
 ## Source

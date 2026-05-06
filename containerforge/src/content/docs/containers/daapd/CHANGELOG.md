@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 29.2.0 • [Train: ]
+
+- BREAKING CHANGE(deps): Update owntone/owntone-server 28.12 → 29.2 (#2170) • [`9ba9c70`](https://github.com/trueforge-org/truecharts/commit/9ba9c7052b9accf8451a71da7cf567e35145d0cf) • [@TrueCharts Bot] (2026-05-06)
+
 ## 28.12.0 • [Train: ]
 
 - feat(deps): update owntone/owntone-server 28.10 → 28.12 (#2158) • [`f145c12`](https://github.com/trueforge-org/truecharts/commit/f145c1291971b1c55f4b816844f7c601992cf5e5) • [@TrueCharts Bot] (2026-05-06)
