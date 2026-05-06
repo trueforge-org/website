@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 26.3.4 • [Train: ]
 
+- BREAKING CHANGE(ubuntu-dep): Update ghcr.io/trueforge-org/ubuntu Docker tag (#2271) • [`2030ba8`](https://github.com/trueforge-org/truecharts/commit/2030ba8657cd49390206c3638a4635de0b4a4bf9) • [@TrueCharts Bot] (2026-05-06)
 - BREAKING CHANGE(deps): Update BookStackApp/BookStack v25.11.1 → v26.03.4 (#2169) • [`a5823b7`](https://github.com/trueforge-org/truecharts/commit/a5823b79df4a28c6781febc205a3ecc325fabcfb) • [@TrueCharts Bot] (2026-05-06)
 
 ## 25.12.9 • [Train: ]

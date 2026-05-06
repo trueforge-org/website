@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 7.2.4 • [Train: ]
 
+- BREAKING CHANGE(ubuntu-dep): Update ghcr.io/trueforge-org/ubuntu Docker tag (#2271) • [`2030ba8`](https://github.com/trueforge-org/truecharts/commit/2030ba8657cd49390206c3638a4635de0b4a4bf9) • [@TrueCharts Bot] (2026-05-06)
 - chore(ubuntu-dep): pin ghcr.io/trueforge-org/ubuntu docker tag digest to fdcc4e2 (#2140) • [`f443ebf`](https://github.com/trueforge-org/truecharts/commit/f443ebf9463e49614be0c399d8b57160a68be9ab) • [@TrueCharts Bot] (2026-04-28)
 - feat(deps): update linuxserver/unrar docker tag 7.1.10 → 7.2.4 (#2156) • [`947149b`](https://github.com/trueforge-org/truecharts/commit/947149b024774855df2a0748d52d492b1d1f3af9) • [@TrueCharts Bot] (2026-04-27)
 
