@@ -2,7 +2,7 @@
 title: fireshare
 ---
 
-![Version: 10.3.1](https://img.shields.io/badge/Version-10.3.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.6.9](https://img.shields.io/badge/AppVersion-1.6.9-informational?style=flat-square)
+![Version: 10.3.2](https://img.shields.io/badge/Version-10.3.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.6.10](https://img.shields.io/badge/AppVersion-1.6.10-informational?style=flat-square)
 
 Share your game clips, videos, or other media via unique links.
 
