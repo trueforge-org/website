@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 26.3.4 • [Train: ]
+
+- BREAKING CHANGE(deps): Update BookStackApp/BookStack v25.11.1 → v26.03.4 (#2169) • [`a5823b7`](https://github.com/trueforge-org/truecharts/commit/a5823b79df4a28c6781febc205a3ecc325fabcfb) • [@TrueCharts Bot] (2026-05-06)
+
 ## 25.12.9 • [Train: ]
 
 - feat(deps): update bookstackapp/bookstack v25.11.1 → v25.12.9 (#2152) • [`8583f60`](https://github.com/trueforge-org/truecharts/commit/8583f604560994d92187ca8de2648cfa8405f849) • [@TrueCharts Bot] (2026-05-06)
