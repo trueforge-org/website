@@ -33,9 +33,9 @@ services:
           cpus: 4
           memory: 4G
     environment:
-      ADMIN_API_PASSWORD: 30b87ee121314a8ad59490960ec9a851WORD
+      ADMIN_API_PASSWORD: 05f2d3e4af0cf536a002971a1d00f3b0WORD
       ADMIN_EMAIL: ""
-      ADMIN_PASSWORD: af91ef339219672471b8364ca79b79dfWORD
+      ADMIN_PASSWORD: 83f3297d8d4dedd641ee41c5ad0f20d1WORD
       TZ: Etc/UTC
     group_add:
       - "568"
@@ -69,7 +69,7 @@ services:
 #           memory: "4294967296"
 #     environment:
 #       POSTGRES_DB: freshrss
-#       POSTGRES_PASSWORD: 44f7ecd8e2e437bead72dafa2b505d97WORD
+#       POSTGRES_PASSWORD: cfc36886df4993431267b89b01eddeebWORD
 #       POSTGRES_USER: freshrss
 #       TZ: Etc/UTC
 #     group_add:
