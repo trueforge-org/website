@@ -2,7 +2,7 @@
 title: ubuntu
 ---
 
-![Version: 24.04](https://img.shields.io/badge/Version-24.04-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 26.04](https://img.shields.io/badge/Version-26.04-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **ubuntu**, including upstream so
 | Field | Value |
 | --- | --- |
 | App | ubuntu |
-| Version | 24.04 |
+| Version | 26.04 |
 | License | AGPL--3.0--or--later |
 
 ## Source

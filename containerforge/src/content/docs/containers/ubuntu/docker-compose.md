@@ -36,7 +36,7 @@ services:
       NVIDIA_DRIVER_CAPABILITIES: compute,video,utility
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/ubuntu:24.04
+    image: ghcr.io/trueforge-org/ubuntu:26.04
     restart: unless-stopped
     shm_size: 256M
     volumes:
