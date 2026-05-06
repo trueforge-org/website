@@ -2,7 +2,7 @@
 title: wireguard
 ---
 
-![Version: 1.0.20250521](https://img.shields.io/badge/Version-1.0.20250521-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 1.0.20250521-r0](https://img.shields.io/badge/Version-1.0.20250521-r0-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **wireguard**, including upstream
 | Field | Value |
 | --- | --- |
 | App | wireguard |
-| Version | 1.0.20250521 |
+| Version | 1.0.20250521-r0 |
 | License | AGPL--3.0--or--later |
 
 ## Source
