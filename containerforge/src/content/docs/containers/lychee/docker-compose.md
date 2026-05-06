@@ -37,17 +37,12 @@ services:
       UMASK: "002"
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/lychee:6.10.4
+    image: ghcr.io/trueforge-org/lychee:7.5.4
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
-        target: 80
-        published: "80"
-        protocol: tcp
-      - mode: ingress
-        # host_ip: 127.0.0.1
-        target: 443
-        published: "443"
+        target: 8000
+        published: "8000"
         protocol: tcp
     restart: unless-stopped
     shm_size: 256M
