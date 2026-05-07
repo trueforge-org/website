@@ -36,7 +36,7 @@ services:
       DB_DATABASE: whisparr
       DB_HOST: postgresql
       DB_LOGSDB: whisparr-log
-      DB_PASSWORD: 78c05fadbff26978e9d2c3575557e449WORD
+      DB_PASSWORD: a6f76577588866d59f18d29eabf54ca6WORD
       DB_PORT: "5432"
       DB_TYPE: sqlite
       DB_USER: whisparr
@@ -69,7 +69,7 @@ services:
 #           memory: "4294967296"
 #     environment:
 #       POSTGRES_DB: whisparr
-#       POSTGRES_PASSWORD: 78c05fadbff26978e9d2c3575557e449WORD
+#       POSTGRES_PASSWORD: a6f76577588866d59f18d29eabf54ca6WORD
 #       POSTGRES_USER: whisparr
 #       TZ: Etc/UTC
 #     group_add:
