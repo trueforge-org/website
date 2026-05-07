@@ -20,12 +20,12 @@ Source: [{{ SOURCE }}]({{ SOURCE }})
 ## docker-compose.yaml
 
 ```yaml
-name: valkey
+name: kasmvnc
 services:
-  valkey:
+  kasmvnc:
     cap_drop:
       - ALL
-    container_name: valkey
+    container_name: kasmvnc
     privileged: false
     deploy:
       resources:
@@ -33,22 +33,31 @@ services:
           cpus: 4
           memory: 4G
     environment:
+      CUSTOM_HTTPS_PORT: "3001"
+      CUSTOM_PORT: "3000"
+      CUSTOM_USER: apps
+      PASSWORD: ""
+      SUBFOLDER: /
       TZ: Etc/UTC
-      VALKEY_PASSWORD: 55b2aaf1e99f41efd1c3ee8c402e1df9WORD
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/valkey:9.0.3
+    image: ghcr.io/trueforge-org/kasmvnc:alpine321-89d8a445
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
-        target: 6379
-        published: "6379"
+        target: 3000
+        published: "3000"
+        protocol: tcp
+      - mode: ingress
+        # host_ip: 127.0.0.1
+        target: 3001
+        published: "3001"
         protocol: tcp
     restart: unless-stopped
     shm_size: 256M
     volumes:
       - type: bind
-        source: /mnt/tank/apps/valkey/config
+        source: /mnt/tank/apps/kasmvnc/config
         target: /config
         read_only: false
 ```
