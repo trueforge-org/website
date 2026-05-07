@@ -36,7 +36,7 @@ services:
       TZ: Etc/UTC
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/steamcmd:20180105-5
+    image: ghcr.io/trueforge-org/steamcmd:20180105-5build1
     restart: unless-stopped
     shm_size: 256M
     volumes:

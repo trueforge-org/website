@@ -34,10 +34,10 @@ services:
           memory: 4G
     environment:
       TZ: Etc/UTC
-      VALKEY_PASSWORD: 0d9cca68ddf8f29b033a82bb10159183WORD
+      VALKEY_PASSWORD: ffaf2b92e20bc08ff75175c3dbb2731cWORD
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/valkey:7.2.12
+    image: ghcr.io/trueforge-org/valkey:9.0.3
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
