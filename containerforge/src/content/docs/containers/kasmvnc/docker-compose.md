@@ -41,7 +41,7 @@ services:
       TZ: Etc/UTC
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/kasmvnc:alpine321-89d8a445
+    image: ghcr.io/trueforge-org/kasmvnc:1.4.0
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1

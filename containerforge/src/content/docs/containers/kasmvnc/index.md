@@ -2,7 +2,7 @@
 title: kasmvnc
 ---
 
-![Version: alpine321-89d8a445](https://img.shields.io/badge/Version-alpine321-89d8a445-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 1.4.0](https://img.shields.io/badge/Version-1.4.0-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **kasmvnc**, including upstream s
 | Field | Value |
 | --- | --- |
 | App | kasmvnc |
-| Version | alpine321-89d8a445 |
+| Version | 1.4.0 |
 | License | AGPL--3.0--or--later |
 
 ## Source
