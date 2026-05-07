@@ -33,7 +33,7 @@ services:
           cpus: 4
           memory: 4G
     environment:
-      HISHTORY_POSTGRES_DB: postgresql://hishtory-server:0c93806d91230db3d44e6bcb6466b5b7WORD@postgresql:5432/hishtory-server
+      HISHTORY_POSTGRES_DB: postgresql://hishtory-server:f101c8117ea8092d50788c815db23e85WORD@postgresql:5432/hishtory-server
       TZ: Etc/UTC
     group_add:
       - "568"
@@ -63,7 +63,7 @@ services:
           memory: 4G
     environment:
       POSTGRES_DB: hishtory-server
-      POSTGRES_PASSWORD: 0c93806d91230db3d44e6bcb6466b5b7WORD
+      POSTGRES_PASSWORD: f101c8117ea8092d50788c815db23e85WORD
       POSTGRES_USER: hishtory-server
       TZ: Etc/UTC
     group_add:
