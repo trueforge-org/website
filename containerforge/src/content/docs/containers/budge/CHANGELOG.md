@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.9 • [Train: ]
 
+- fix(budge): pin npm to v10 so optional peer deps install during frontend build (#2295) • [`06b178d`](https://github.com/trueforge-org/truecharts/commit/06b178d84f6f4b31c0dd770e02639d9de149cdac) • [@Copilot] (2026-05-07)
 - feat(python-node-dep): update ghcr.io/trueforge-org/python-node docker tag 3.13.13 → 3.14.4 (#2289) • [`78bc726`](https://github.com/trueforge-org/truecharts/commit/78bc7261879d62075fe9e3ec5c94db6d4bd80355) • [@TrueCharts Bot] (2026-05-07)
 - refactor(settings): audit env/ports/volumes across all apps (#2090) • [`6249d10`](https://github.com/trueforge-org/truecharts/commit/6249d10f99fc4515d01a965daf511ca00eb2b3ba) • [@Copilot] (2026-04-24)
 - move settings schema to forgetool • [`90d1387`](https://github.com/trueforge-org/truecharts/commit/90d13871348e2629a401d53a27b6e3dc9590aa44) • [@Kjeld Schouten] (2026-04-24)
