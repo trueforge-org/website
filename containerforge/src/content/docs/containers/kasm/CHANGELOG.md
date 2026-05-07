@@ -14,6 +14,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 1.18.1 • [Train: ]
 
 - fix kasm verisoning • [`0930475`](https://github.com/trueforge-org/truecharts/commit/09304759cd36ea124cd7d6a050369a8f53cbf88d) • [@Kjeld Schouten] (2026-05-07)
+- chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.4 docker digest digest to 7682636 (#2309) • [`bde844e`](https://github.com/trueforge-org/truecharts/commit/bde844e9997c1559b0e48a09ca34a3261dea5d1a) • [@TrueCharts Bot] (2026-05-07)
 
 ## 1.18.0 • [Train: ]
 
