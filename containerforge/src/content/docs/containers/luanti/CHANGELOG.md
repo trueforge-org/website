@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.16.0 • [Train: ]
+
+- feat(deps): update luanti-org/luanti 5.15.2 → 5.16.0 (#2343) • [`cb2bfa6`](https://github.com/trueforge-org/truecharts/commit/cb2bfa6a2cfba80fa36ba7bdd910ad64e4f8c66f) • [@TrueCharts Bot] (2026-05-08)
+
 ## 5.15.2 • [Train: ]
 
 - feat(python-dep): update python (minor) (#2287) • [`4efcb6e`](https://github.com/trueforge-org/truecharts/commit/4efcb6ed8c0de6dacaa7ca3c02ec104816578aa8) • [@TrueCharts Bot] (2026-05-07)
