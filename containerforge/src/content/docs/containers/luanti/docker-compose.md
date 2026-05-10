@@ -38,7 +38,7 @@ services:
       TZ: Etc/UTC
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/luanti:5.16.0
+    image: ghcr.io/trueforge-org/luanti:5.16.1
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
