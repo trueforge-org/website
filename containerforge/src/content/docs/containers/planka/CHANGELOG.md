@@ -13,8 +13,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.1.1 • [Train: ]
 
-- chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.4 docker digest digest to dc445cf (#2329) • [`8f965cd`](https://github.com/trueforge-org/truecharts/commit/8f965cdb278e85539ef8092bf7427d7de902b62b) • [@TrueCharts Bot] (2026-05-07)
 - BREAKING CHANGE(deps): Update plankanban/planka v1.26.3 → 2.1.1 (#2290) • [`475c351`](https://github.com/trueforge-org/truecharts/commit/475c351bfbbfef336fb8ba0bfb6b0f6545c90252) • [@TrueCharts Bot] (2026-05-07)
+- chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.4 docker digest digest to dc445cf (#2329) • [`8f965cd`](https://github.com/trueforge-org/truecharts/commit/8f965cdb278e85539ef8092bf7427d7de902b62b) • [@TrueCharts Bot] (2026-05-07)
 
 ## 1.26.3 • [Train: ]
 
