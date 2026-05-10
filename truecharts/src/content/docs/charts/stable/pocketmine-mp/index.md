@@ -2,7 +2,7 @@
 title: pocketmine-mp
 ---
 
-![Version: 7.3.0](https://img.shields.io/badge/Version-7.3.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.42.1](https://img.shields.io/badge/AppVersion-5.42.1-informational?style=flat-square)
+![Version: 7.4.0](https://img.shields.io/badge/Version-7.4.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.43.1](https://img.shields.io/badge/AppVersion-5.43.1-informational?style=flat-square)
 
 A server software for Minecraft Bedrock Edition in PHP.
 
