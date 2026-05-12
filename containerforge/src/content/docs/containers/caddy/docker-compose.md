@@ -37,7 +37,7 @@ services:
       TZ: Etc/UTC
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/caddy:2.11.2
+    image: ghcr.io/trueforge-org/caddy:2.11.3
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
