@@ -2,7 +2,7 @@
 title: local-ai
 ---
 
-![Version: 18.5.2](https://img.shields.io/badge/Version-18.5.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.2.3](https://img.shields.io/badge/AppVersion-4.2.3-informational?style=flat-square)
+![Version: 18.5.3](https://img.shields.io/badge/Version-18.5.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.2.4](https://img.shields.io/badge/AppVersion-4.2.4-informational?style=flat-square)
 
 Self-hosted, community-driven, local OpenAI-compatible API.
 
