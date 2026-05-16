@@ -2,7 +2,7 @@
 title: wekan
 ---
 
-![Version: 21.7.2](https://img.shields.io/badge/Version-21.7.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 9.18.0](https://img.shields.io/badge/AppVersion-9.18.0-informational?style=flat-square)
+![Version: 21.8.0](https://img.shields.io/badge/Version-21.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 9.19.0](https://img.shields.io/badge/AppVersion-9.19.0-informational?style=flat-square)
 
 WeKan - Open Source kanban
 
