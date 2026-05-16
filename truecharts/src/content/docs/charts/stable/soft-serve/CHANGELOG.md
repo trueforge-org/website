@@ -551,8 +551,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.8.5 • [Train: stable]
 
-- chore(deps): update container image common to v20.3.7@8cf9fc9 by renovate (#20819) • [`4413ae4`](https://github.com/trueforge-org/truecharts/commit/4413ae4d1cdd32a9d5f70d57f0c01e429ee90298) • [@TrueCharts Bot] (2024-04-16)
 - Webp icons2 (#20851) • [`8b489f4`](https://github.com/trueforge-org/truecharts/commit/8b489f48bb8f4f6a01050a08ad544323375bce74) • [@Kjeld Schouten] (2024-04-16)
+- chore(deps): update container image common to v20.3.7@8cf9fc9 by renovate (#20819) • [`4413ae4`](https://github.com/trueforge-org/truecharts/commit/4413ae4d1cdd32a9d5f70d57f0c01e429ee90298) • [@TrueCharts Bot] (2024-04-16)
 
 ## 6.8.4 • [Train: stable]
 
@@ -826,8 +826,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 - Commit daily changes • [`a75ade9`](https://github.com/trueforge-org/truecharts/commit/a75ade9cecec94cdb45441704c760cdb51054a57) • [@TrueCharts-Bot] (2023-12-15)
 - Merge branch &#39;master&#39; of github.com:truecharts/charts • [`d85f6a7`](https://github.com/trueforge-org/truecharts/commit/d85f6a76ea5ed62e71514fc874b4b8b1e6c73230) • [@Kjeld Schouten] (2023-12-14)
 - Commit daily changes • [`836a202`](https://github.com/trueforge-org/truecharts/commit/836a202222e70213ddd12fcecb0b4a74bfa88631) • [@TrueCharts-Bot] (2023-12-14)
-- Commit daily changes • [`b9f4cca`](https://github.com/trueforge-org/truecharts/commit/b9f4ccaee6a5612110484ca4e8e91c6ede3465c8) • [@TrueCharts-Bot] (2023-12-12)
 - chore(deps): update container image charmcli/soft-serve to v0.7.4@1e89075 (#15985) • [`9da33b2`](https://github.com/trueforge-org/truecharts/commit/9da33b2745f3cc98057282e1632fa85b7955282c) • [@TrueCharts Bot] (2023-12-12)
+- Commit daily changes • [`b9f4cca`](https://github.com/trueforge-org/truecharts/commit/b9f4ccaee6a5612110484ca4e8e91c6ede3465c8) • [@TrueCharts-Bot] (2023-12-12)
 
 ## 3.0.18 • [Train: stable]
 
@@ -856,8 +856,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.0.15 • [Train: stable]
 
-- Commit daily changes • [`d1c2213`](https://github.com/trueforge-org/truecharts/commit/d1c22138f95fdb77ed67ed1702ac71741ce17f1b) • [@TrueCharts-Bot] (2023-11-28)
 - Commit daily changes • [`0027f37`](https://github.com/trueforge-org/truecharts/commit/0027f3756f8bc222b262970613f7465d746b0548) • [@TrueCharts-Bot] (2023-11-28)
+- Commit daily changes • [`d1c2213`](https://github.com/trueforge-org/truecharts/commit/d1c22138f95fdb77ed67ed1702ac71741ce17f1b) • [@TrueCharts-Bot] (2023-11-28)
 - fix(images): update container image charmcli/soft-serve to v0.7.2 (#14785) • [`53b925e`](https://github.com/trueforge-org/truecharts/commit/53b925e1c230b1275e065936698319db8dd730a4) • [@TrueCharts Bot] (2023-11-17)
 
 ## 3.0.14 • [Train: stable]
@@ -1036,8 +1036,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 - Commit daily changes • [`94c00b8`](https://github.com/trueforge-org/truecharts/commit/94c00b8c6fb66a5bb068f18fb26cd62297f35359) • [@TrueCharts-Bot] (2023-03-24)
 - adapt workload and container questions for all apps • [`3c47107`](https://github.com/trueforge-org/truecharts/commit/3c471071cc485e386195989e12a1c45af51d67ac) • [@Kjeld Schouten-Lebbing] (2023-03-01)
 - update security context questions • [`893b55d`](https://github.com/trueforge-org/truecharts/commit/893b55dc56a6a658d921b59ec48696c23cb21926) • [@Kjeld Schouten-Lebbing] (2023-03-01)
-- Merge pull request #7474 from truecharts/renovate/tccr.io-truecharts-soft-serve-0.4.x • [`29f8372`](https://github.com/trueforge-org/truecharts/commit/29f8372d8cf3cf5b202407d859ea812d2cff8d48) • [@TrueCharts Bot] (2023-02-22)
 - Commit bumped Chart Version • [`10dc85e`](https://github.com/trueforge-org/truecharts/commit/10dc85efd2b25e21d4380dfcb79195cbba54b52a) • [@TrueCharts-Bot] (2023-02-22)
+- Merge pull request #7474 from truecharts/renovate/tccr.io-truecharts-soft-serve-0.4.x • [`29f8372`](https://github.com/trueforge-org/truecharts/commit/29f8372d8cf3cf5b202407d859ea812d2cff8d48) • [@TrueCharts Bot] (2023-02-22)
 
 ## 1.0.3 • [Train: stable]
 
@@ -1049,9 +1049,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 1.0.2 • [Train: stable]
 
 - Commit daily changes • [`3c21085`](https://github.com/trueforge-org/truecharts/commit/3c21085dcaf868d5d18a05311f9f24b7ff0ca5d2) • [@TrueCharts-Bot] (2023-02-10)
+- clean more (#6924) • [`0b1e0b1`](https://github.com/trueforge-org/truecharts/commit/0b1e0b16b0dca0a31c9b7886e5620923899674be) • [@Stavros Kois] (2023-02-03)
 - Revert &#34;Commit daily changes&#34; • [`110ae61`](https://github.com/trueforge-org/truecharts/commit/110ae6125b24f4a5def05781696141f3ff44ed12) • [@Kjeld Schouten-Lebbing] (2023-02-03)
 - Commit daily changes • [`208c291`](https://github.com/trueforge-org/truecharts/commit/208c2919fec945cc14276a229222915ae0ec50b4) • [@TrueCharts-Bot] (2023-02-03)
-- clean more (#6924) • [`0b1e0b1`](https://github.com/trueforge-org/truecharts/commit/0b1e0b16b0dca0a31c9b7886e5620923899674be) • [@Stavros Kois] (2023-02-03)
 
 ## 1.0.1 • [Train: stable]
 
