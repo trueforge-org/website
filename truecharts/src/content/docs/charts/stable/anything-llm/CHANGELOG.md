@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.3.6 • [Train: stable]
+
+- chore(anything-llm): update image ghcr.io/mintplex-labs/anything-llm digest to 2cf1159 (#48435) • [`c891fb4`](https://github.com/trueforge-org/truecharts/commit/c891fb407c9b0ff0fb027cc4b56495f71d57d73e) • [@TrueCharts Bot] (2026-05-22)
+
 ## 5.3.5 • [Train: stable]
 
 - chore(anything-llm): update image ghcr.io/mintplex-labs/anything-llm digest to dcbd6b8 (#48339) • [`873d0ec`](https://github.com/trueforge-org/truecharts/commit/873d0ecb3342b9538dec6f4ea9be8b1e1861c8ab) • [@TrueCharts Bot] (2026-05-19)
@@ -1413,8 +1417,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 1.5.33 • [Train: stable]
 
 - Commit daily changes • [`4cfcfb0`](https://github.com/trueforge-org/truecharts/commit/4cfcfb0324596df0870511c656314b8af9e3f7ee) • [@TrueCharts-Bot] (2024-04-28)
-- chore(deps): update container image ghcr.io/mintplex-labs/anything-llm to latest@4fa4ad8 by renovate (#21402) • [`a035c4a`](https://github.com/trueforge-org/truecharts/commit/a035c4a4157e140b52d708d28820693cc72a0829) • [@TrueCharts Bot] (2024-04-27)
 - Merge branch &#39;master&#39; of github.com:truecharts/charts • [`4093da1`](https://github.com/trueforge-org/truecharts/commit/4093da14198218d1cc87512febb19aae2d1e9e5c) • [@Kjeld Schouten] (2024-04-27)
+- chore(deps): update container image ghcr.io/mintplex-labs/anything-llm to latest@4fa4ad8 by renovate (#21402) • [`a035c4a`](https://github.com/trueforge-org/truecharts/commit/a035c4a4157e140b52d708d28820693cc72a0829) • [@TrueCharts Bot] (2024-04-27)
 
 ## 1.5.32 • [Train: stable]
 
