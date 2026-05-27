@@ -15,6 +15,7 @@ A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent se
 
 ## Available Documentation
 
+- [**Disclaimer**](./disclaimer)
 
 
 ---
