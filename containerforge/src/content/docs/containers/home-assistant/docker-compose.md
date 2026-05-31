@@ -37,7 +37,7 @@ services:
       WHEELS_LINKS: https://wheels.home-assistant.io/musllinux/
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/home-assistant:2026.5.0
+    image: ghcr.io/trueforge-org/home-assistant:2026.5.1
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
