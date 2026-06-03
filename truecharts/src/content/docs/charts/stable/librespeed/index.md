@@ -2,7 +2,7 @@
 title: librespeed
 ---
 
-![Version: 18.4.3](https://img.shields.io/badge/Version-18.4.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.1.0](https://img.shields.io/badge/AppVersion-6.1.0-informational?style=flat-square)
+![Version: 18.4.4](https://img.shields.io/badge/Version-18.4.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.1.0](https://img.shields.io/badge/AppVersion-6.1.0-informational?style=flat-square)
 
 Librespeed is a HTML5 webpage to test upload and download speeds
 
