@@ -3,13 +3,17 @@ title: Changelog
 pagefind: false
 ---
 
-All history information can be found at [Github History](https://github.com/trueforge-org/truecharts/commits/master/charts/incubator/affine)
+All history information can be found at [Github History](https://github.com/trueforge-org/truecharts/commits/master/charts/stable/affine)
 
 :::tip
 
 If you need more than 2 scrolls to find your current version, please consider updating the chart as soon as possible.
 
 :::
+
+## 1.0.0 • [Train: stable]
+
+- feat(affine): promote to stable (#48763) • [`34d960f`](https://github.com/trueforge-org/truecharts/commit/34d960faccc3f3eb5f1729d48cc3db487daa4b6f) • [@Brioche] (2026-06-04)
 
 ## 0.1.1 • [Train: incubator]
 
