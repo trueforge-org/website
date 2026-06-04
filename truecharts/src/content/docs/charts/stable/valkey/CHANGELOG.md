@@ -15,6 +15,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - feat: Add incubator `valkey` chart scaffolded from stable `redis` (#44984) • [`b21ce0e`](https://github.com/trueforge-org/truecharts/commit/b21ce0e1f5056e51481b8627d3813eec0b1bb9d2) • [@Copilot] (2026-02-15)
 
+## 2.3.3 • [Train: stable]
+
+- chore(valkey): update image docker.io/bitnamisecure/valkey digest to 50df82d (#48707) • [`add7359`](https://github.com/trueforge-org/truecharts/commit/add7359449c3fb1a849460d065f8254c56218b9f) • [@TrueCharts Bot] (2026-06-04)
+
 ## 2.3.2 • [Train: stable]
 
 - chore(valkey): update image docker.io/bitnamisecure/valkey digest to a3c580c (#48442) • [`cc363cd`](https://github.com/trueforge-org/truecharts/commit/cc363cd05e1fc6cc721732d52707604f8d1ae5cc) • [@TrueCharts Bot] (2026-05-22)
