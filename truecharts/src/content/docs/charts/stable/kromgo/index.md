@@ -9,8 +9,8 @@ A simple go project that allows you to expose prometheus metrics "safely" to a p
 ## Chart Sources
 
 - https://ghcr.io/home-operations/kromgo
-- https://github.com/trueforge-org/truecharts/tree/master/charts/stable/kromgo
 - https://github.com/home-operations/kromgo
+- https://github.com/trueforge-org/truecharts/tree/master/charts/stable/kromgo
 
 ## Available Documentation
 
