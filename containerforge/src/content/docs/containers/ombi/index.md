@@ -2,7 +2,7 @@
 title: ombi
 ---
 
-![Version: 4.53.5](https://img.shields.io/badge/Version-4.53.5-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 4.53.10](https://img.shields.io/badge/Version-4.53.10-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **ombi**, including upstream sour
 | Field | Value |
 | --- | --- |
 | App | ombi |
-| Version | 4.53.5 |
+| Version | 4.53.10 |
 | License | AGPL--3.0--or--later |
 
 ## Source
