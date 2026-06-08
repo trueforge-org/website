@@ -36,7 +36,7 @@ services:
       TZ: Etc/UTC
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/doplarr:3.8.0
+    image: ghcr.io/trueforge-org/doplarr:3.7.0
     restart: unless-stopped
     shm_size: 256M
     volumes:
