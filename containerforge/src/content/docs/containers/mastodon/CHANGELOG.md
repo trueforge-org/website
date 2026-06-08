@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 4.5.11 • [Train: ]
+
+- fix(deps): update mastodon/mastodon v4.5.9 → v4.5.11 (#2405) • [`f484a8c`](https://github.com/trueforge-org/truecharts/commit/f484a8c2c7f90779c5da47a7a63c867d79c8a30c) • [@TrueCharts Bot] (2026-06-08)
+
 ## 4.5.9 • [Train: ]
 
 - chore(node-dep): update node.js digest to 5d40182 (#2261) • [`be16ac1`](https://github.com/trueforge-org/truecharts/commit/be16ac142131cd5a0e1323cc8cfa3aed64c491b4) • [@TrueCharts Bot] (2026-05-07)
