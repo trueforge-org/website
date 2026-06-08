@@ -2,7 +2,7 @@
 title: doplarr
 ---
 
-![Version: 3.7.0](https://img.shields.io/badge/Version-3.7.0-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 3.8.0](https://img.shields.io/badge/Version-3.8.0-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **doplarr**, including upstream s
 | Field | Value |
 | --- | --- |
 | App | doplarr |
-| Version | 3.7.0 |
+| Version | 3.8.0 |
 | License | AGPL--3.0--or--later |
 
 ## Source
