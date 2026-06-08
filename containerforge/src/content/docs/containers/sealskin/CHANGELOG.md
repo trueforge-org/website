@@ -15,6 +15,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.14.4 → 3.14.5 (#2375) • [`65af60a`](https://github.com/trueforge-org/truecharts/commit/65af60a10dbd6733d8e52f8eba9564091bdfe5a2) • [@TrueCharts Bot] (2026-06-08)
 - fix(deps): update selkies-project/sealskin 0.1.38 → 0.1.39 (#2420) • [`c960fdb`](https://github.com/trueforge-org/truecharts/commit/c960fdb3b2dca592beee1aec6071ab55867667f1) • [@TrueCharts Bot] (2026-06-08)
+- chore(python-dep): update ghcr.io/trueforge-org/python:3.14.5 docker digest digest to b87e7b8 (#2463) • [`fb8da62`](https://github.com/trueforge-org/truecharts/commit/fb8da62a83ecce42bed996582167265995863cf8) • [@TrueCharts Bot] (2026-06-08)
 
 ## 0.1.38 • [Train: ]
 
