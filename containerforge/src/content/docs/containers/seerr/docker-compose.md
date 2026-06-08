@@ -37,7 +37,7 @@ services:
       TZ: Etc/UTC
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/seerr:3.3.0
+    image: ghcr.io/trueforge-org/seerr:3.2.0
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
