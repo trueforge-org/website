@@ -36,7 +36,7 @@ services:
       DB_DATABASE: prowlarr
       DB_HOST: postgresql
       DB_LOGSDB: prowlarr-log
-      DB_PASSWORD: fafd22dfb03ffc70b47e72ad38f4ab74WORD
+      DB_PASSWORD: 34ac37a5b25c088b5a6d9b047bac007cWORD
       DB_PORT: "5432"
       DB_TYPE: sqlite
       DB_USER: prowlarr
@@ -44,7 +44,7 @@ services:
       UMASK: "002"
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/prowlarr:2.3.7.5365
+    image: ghcr.io/trueforge-org/prowlarr:2.4.0.5391
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
@@ -69,7 +69,7 @@ services:
 #           memory: "4294967296"
 #     environment:
 #       POSTGRES_DB: prowlarr
-#       POSTGRES_PASSWORD: fafd22dfb03ffc70b47e72ad38f4ab74WORD
+#       POSTGRES_PASSWORD: 34ac37a5b25c088b5a6d9b047bac007cWORD
 #       POSTGRES_USER: prowlarr
 #       TZ: Etc/UTC
 #     group_add:
