@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 6.27.2 • [Train: stable]
+
+- fix(renovate): update image oci.trueforge.org/containerforge/renovate 43.176.3 → 43.176.9 (#48901) • [`9a63f33`](https://github.com/trueforge-org/truecharts/commit/9a63f33eb12dd731b47d9b8dd3660b75ba6f278d) • [@TrueCharts Bot] (2026-06-08)
+
 ## 6.27.1 • [Train: stable]
 
 - fix(renovate): update image oci.trueforge.org/containerforge/renovate 43.176.1 → 43.176.3 (#48175) • [`6cd84ee`](https://github.com/trueforge-org/truecharts/commit/6cd84ee754c64e3c36abfb1285cf60d3b7aef103) • [@TrueCharts Bot] (2026-05-13)
@@ -1109,8 +1113,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.11.5 • [Train: incubator]
 
-- bump • [`2bac9fe`](https://github.com/trueforge-org/truecharts/commit/2bac9fe04fa3536845e4e5cd7db2b6eb6190934c) • [@Kjeld Schouten] (2025-02-08)
 - move renovate cache mountpoint • [`1b178e6`](https://github.com/trueforge-org/truecharts/commit/1b178e670e704acdd2649a55b12b41bb0dd8bf9b) • [@Kjeld Schouten] (2025-02-08)
+- bump • [`2bac9fe`](https://github.com/trueforge-org/truecharts/commit/2bac9fe04fa3536845e4e5cd7db2b6eb6190934c) • [@Kjeld Schouten] (2025-02-08)
 
 ## 1.11.4 • [Train: incubator]
 
