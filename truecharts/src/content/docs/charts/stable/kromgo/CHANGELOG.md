@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.0.3 • [Train: stable]
+
+- fix(kromgo): update image ghcr.io/home-operations/kromgo 0.14.3 → 0.14.4 (#48859) • [`a652cb7`](https://github.com/trueforge-org/truecharts/commit/a652cb73367c02952b82e8c685f48303de311155) • [@TrueCharts Bot] (2026-06-08)
+
 ## 3.0.2 • [Train: stable]
 
 - fix(kromgo): update image ghcr.io/home-operations/kromgo 0.14.2 → 0.14.3 (#48791) • [`5c79fc4`](https://github.com/trueforge-org/truecharts/commit/5c79fc49a93b7007e0c17be15af26960dc78e449) • [@TrueCharts Bot] (2026-06-05)
