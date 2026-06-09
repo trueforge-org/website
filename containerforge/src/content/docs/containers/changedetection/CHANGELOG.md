@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.55.7 • [Train: ]
 
+- chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.5 docker digest digest to bd70ab5 (#2469) • [`6fee23e`](https://github.com/trueforge-org/truecharts/commit/6fee23ee6e1f7311416651cf64210c600e2426d2) • [@TrueCharts Bot] (2026-06-09)
 - fix(deps): update dgtlmoon/changedetection.io 0.55.3 → 0.55.7 (#2397) • [`0abf239`](https://github.com/trueforge-org/truecharts/commit/0abf239a2b1a4652c821c2357f000b3de6330f9f) • [@TrueCharts Bot] (2026-06-08)
 
 ## 0.55.3 • [Train: ]
