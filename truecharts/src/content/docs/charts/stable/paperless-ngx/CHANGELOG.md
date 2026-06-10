@@ -266,8 +266,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 11.36.9 • [Train: stable]
 
-- fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
 - Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
+- fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
 
 ## 11.36.8 • [Train: stable]
 
@@ -296,11 +296,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 11.36.3 • [Train: stable]
 
 - Commit daily changes • [`bf152c8`](https://github.com/trueforge-org/truecharts/commit/bf152c8e746c6568782467d57483768b4b89a6c4) • [@TrueCharts-Bot] (2026-02-01)
-- chore(paperless-ngx): update image ghcr.io/paperless-ngx/paperless-ngx digest to a283304 (#44375) • [`249fc11`](https://github.com/trueforge-org/truecharts/commit/249fc11602c4720e7770dde24db4483d13ddc606) • [@TrueCharts Bot] (2026-01-31)
 - Commit daily changes • [`5aef95e`](https://github.com/trueforge-org/truecharts/commit/5aef95e6ad29dfcd85b5ecbaf25bc7fb6c8873cb) • [@TrueCharts-Bot] (2026-01-31)
 - fix(all-charts): Fix chart.yaml &amp; add missing icons (#44393) • [`a802ce6`](https://github.com/trueforge-org/truecharts/commit/a802ce64e922757d94500d369fd1de25ffd69e5e) • [@Alfred Göppel] (2026-01-31)
 - fix(charts): remove old annotations &amp; add proper category  (#44376) • [`a855dd6`](https://github.com/trueforge-org/truecharts/commit/a855dd67f77f3353f4e70fa506d3ded479abd8c8) • [@Alfred Göppel] (2026-01-31)
 - Commit daily changes • [`f8c1ee7`](https://github.com/trueforge-org/truecharts/commit/f8c1ee7bdf3fbb09f34358af18d4cd2a3fb5acd3) • [@TrueCharts-Bot] (2026-01-31)
+- chore(paperless-ngx): update image ghcr.io/paperless-ngx/paperless-ngx digest to a283304 (#44375) • [`249fc11`](https://github.com/trueforge-org/truecharts/commit/249fc11602c4720e7770dde24db4483d13ddc606) • [@TrueCharts Bot] (2026-01-31)
 
 ## 11.36.2 • [Train: stable]
 
@@ -651,8 +651,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 11.15.2 • [Train: stable]
 
-- chore(helm): update chart common 28.18.0 → 28.18.1 (#39776) • [`f2ede73`](https://github.com/trueforge-org/truecharts/commit/f2ede73cf7468fabb08a49474424f45b85c406c3) • [@TrueCharts Bot] (2025-09-20)
 - chore(helm): update chart redis 17.7.0 → 17.7.1 (#39780) • [`6b3751f`](https://github.com/trueforge-org/truecharts/commit/6b3751f8515be13d584d02d43c9f3b37f73ae9d6) • [@TrueCharts Bot] (2025-09-20)
+- chore(helm): update chart common 28.18.0 → 28.18.1 (#39776) • [`f2ede73`](https://github.com/trueforge-org/truecharts/commit/f2ede73cf7468fabb08a49474424f45b85c406c3) • [@TrueCharts Bot] (2025-09-20)
 
 ## 11.15.1 • [Train: stable]
 
@@ -697,8 +697,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 11.11.3 • [Train: stable]
 
-- chore(helm): update image ghcr.io/paperless-ngx/paperless-ngx 2.18.2 → 2.18.3 (#39035) • [`a3f81fa`](https://github.com/trueforge-org/truecharts/commit/a3f81fad909ae580051115473e201d43bfef619f) • [@TrueCharts Bot] (2025-09-07)
 - chore: fix links • [`1c28a12`](https://github.com/trueforge-org/truecharts/commit/1c28a127898e7db3a350e07a42810acd8eaa4c30) • [@Kjeld Schouten] (2025-09-07)
+- chore(helm): update image ghcr.io/paperless-ngx/paperless-ngx 2.18.2 → 2.18.3 (#39035) • [`a3f81fa`](https://github.com/trueforge-org/truecharts/commit/a3f81fad909ae580051115473e201d43bfef619f) • [@TrueCharts Bot] (2025-09-07)
 
 ## 11.11.2 • [Train: stable]
 
@@ -1083,8 +1083,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 9.7.4 • [Train: stable]
 
-- chore(deps): update container image redis to v15.2.7@d261bbb by renovate (#26441) • [`2b2f0c7`](https://github.com/trueforge-org/truecharts/commit/2b2f0c790d3564175ec7af9833dccf179272e588) • [@TrueCharts Bot] (2024-09-16)
 - chore(deps): update container image ghcr.io/paperless-ngx/paperless-ngx to v2.12.1@217cec7 by renovate (#26451) • [`af98e2c`](https://github.com/trueforge-org/truecharts/commit/af98e2cf7967c750e31494b933bd4c9de75efaac) • [@TrueCharts Bot] (2024-09-16)
+- chore(deps): update container image redis to v15.2.7@d261bbb by renovate (#26441) • [`2b2f0c7`](https://github.com/trueforge-org/truecharts/commit/2b2f0c790d3564175ec7af9833dccf179272e588) • [@TrueCharts Bot] (2024-09-16)
 
 ## 9.7.3 • [Train: stable]
 
@@ -1096,8 +1096,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 9.7.1 • [Train: stable]
 
-- chore(deps): update container image redis to v15.2.5@91b10aa by renovate (#25984) • [`bbbe4e9`](https://github.com/trueforge-org/truecharts/commit/bbbe4e92cbeb8a336744a16baed051fd191fdb44) • [@TrueCharts Bot] (2024-09-09)
 - chore(deps): update container image common to v24.1.15@0763087 by renovate (#26098) • [`5fca841`](https://github.com/trueforge-org/truecharts/commit/5fca8413569321d0bb70e2e788319c99151f624f) • [@TrueCharts Bot] (2024-09-09)
+- chore(deps): update container image redis to v15.2.5@91b10aa by renovate (#25984) • [`bbbe4e9`](https://github.com/trueforge-org/truecharts/commit/bbbe4e92cbeb8a336744a16baed051fd191fdb44) • [@TrueCharts Bot] (2024-09-09)
 
 ## 9.7.0 • [Train: stable]
 
@@ -1183,8 +1183,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 9.1.2 • [Train: stable]
 
-- chore(deps): update container image common to v24.0.6@5cd15b8 by renovate (#23138) • [`b79d3fc`](https://github.com/trueforge-org/truecharts/commit/b79d3fce6d6f5a2533b217f2e9edb9e6e611d9e0) • [@TrueCharts Bot] (2024-06-15)
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/trueforge-org/truecharts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
+- chore(deps): update container image common to v24.0.6@5cd15b8 by renovate (#23138) • [`b79d3fc`](https://github.com/trueforge-org/truecharts/commit/b79d3fce6d6f5a2533b217f2e9edb9e6e611d9e0) • [@TrueCharts Bot] (2024-06-15)
 
 ## 9.1.1 • [Train: stable]
 
@@ -1512,8 +1512,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 7.1.4 • [Train: stable]
 
-- Commit daily changes • [`97ded71`](https://github.com/trueforge-org/truecharts/commit/97ded71eb672b4811c6a365dde0700aa75114775) • [@TrueCharts-Bot] (2024-02-27)
 - chore: pre-commit cleanup • [`d66746c`](https://github.com/trueforge-org/truecharts/commit/d66746cae553d4bbb1ca4b2e013e1be0410dd3a3) • [@Kjeld Schouten] (2024-02-27)
+- Commit daily changes • [`97ded71`](https://github.com/trueforge-org/truecharts/commit/97ded71eb672b4811c6a365dde0700aa75114775) • [@TrueCharts-Bot] (2024-02-27)
 - chore(deps): update container image common to v18.0.3@3f3170c by renovate (#18664) • [`eb6ece6`](https://github.com/trueforge-org/truecharts/commit/eb6ece6923050f017bf8fa56d3bbce1ca6644d2e) • [@TrueCharts Bot] (2024-02-26)
 
 ## 7.1.3 • [Train: stable]
@@ -1657,8 +1657,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.2.3 • [Train: stable]
 
-- chore(deps): update container image common to v17.2.19@4ebb688 by renovate (#16733) • [`026bebd`](https://github.com/trueforge-org/truecharts/commit/026bebde2d90a467a43b46a6b889eca2cb01cf3f) • [@TrueCharts Bot] (2024-01-01)
 - chore(questions): remove non-existent template refs (#16738) • [`1e0dbf1`](https://github.com/trueforge-org/truecharts/commit/1e0dbf15e95afae40c7b3a47b2d38e0562323270) • [@Stavros Kois] (2024-01-01)
+- chore(deps): update container image common to v17.2.19@4ebb688 by renovate (#16733) • [`026bebd`](https://github.com/trueforge-org/truecharts/commit/026bebde2d90a467a43b46a6b889eca2cb01cf3f) • [@TrueCharts Bot] (2024-01-01)
 
 ## 6.2.2 • [Train: stable]
 
@@ -1670,15 +1670,15 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.2.0 • [Train: stable]
 
-- chore: move everything to consume OCI-hosted common-chart dependency • [`0eae972`](https://github.com/trueforge-org/truecharts/commit/0eae972794d2fe164dc298993e899508639d2f2b) • [@Kjeld Schouten] (2024-01-01)
 - Commit daily changes • [`92663fd`](https://github.com/trueforge-org/truecharts/commit/92663fd20508f148c3750c79de3f37f44530a18a) • [@TrueCharts-Bot] (2024-01-01)
+- chore: move everything to consume OCI-hosted common-chart dependency • [`0eae972`](https://github.com/trueforge-org/truecharts/commit/0eae972794d2fe164dc298993e899508639d2f2b) • [@Kjeld Schouten] (2024-01-01)
 - chore(deps): update container image ghcr.io/paperless-ngx/paperless-ngx to v2.2.1@096719d by renovate (#16680) • [`04e2141`](https://github.com/trueforge-org/truecharts/commit/04e21418807a558a2936060b0d7b087000200341) • [@TrueCharts Bot] (2023-12-31)
 - chore(docs): standardize ./img references (#16704) • [`6986224`](https://github.com/trueforge-org/truecharts/commit/698622495ce0dccf9f0dbbb324d5df196d3eba3c) • [@Stavros Kois] (2023-12-31)
 
 ## 6.1.0 • [Train: stable]
 
-- chore(docs): lints some docs, uses front-matter instead of # h1, and fix list items in changelog (#16589) • [`12b5c56`](https://github.com/trueforge-org/truecharts/commit/12b5c56b241e801486c6cedab0b783949449048e) • [@Stavros Kois] (2023-12-31)
 - Commit daily changes • [`bf535bc`](https://github.com/trueforge-org/truecharts/commit/bf535bc529cd11f520ea04d08751f4b3083b8c91) • [@TrueCharts-Bot] (2023-12-31)
+- chore(docs): lints some docs, uses front-matter instead of # h1, and fix list items in changelog (#16589) • [`12b5c56`](https://github.com/trueforge-org/truecharts/commit/12b5c56b241e801486c6cedab0b783949449048e) • [@Stavros Kois] (2023-12-31)
 - chore(deps): update helm general minor by renovate (#16579) • [`9eddcd9`](https://github.com/trueforge-org/truecharts/commit/9eddcd99d3acbcf55a2f3e67b046a8f288d56a59) • [@TrueCharts Bot] (2023-12-30)
 
 ## 6.0.2 • [Train: stable]
@@ -1755,8 +1755,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.0.0 • [Train: stable]
 
-- chore(deps): update helm general major by renovate (major) (#14631) • [`49e418b`](https://github.com/trueforge-org/truecharts/commit/49e418b48889cb85206afcb8bcc4edef31a6303e) • [@TrueCharts Bot] (2023-12-20)
 - Commit daily changes • [`1b4ce58`](https://github.com/trueforge-org/truecharts/commit/1b4ce58b07af1529cb62f6554febbdc1f797ddb6) • [@TrueCharts-Bot] (2023-12-20)
+- chore(deps): update helm general major by renovate (major) (#14631) • [`49e418b`](https://github.com/trueforge-org/truecharts/commit/49e418b48889cb85206afcb8bcc4edef31a6303e) • [@TrueCharts Bot] (2023-12-20)
 
 ## 3.1.6 • [Train: stable]
 
@@ -1787,8 +1787,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.1.1 • [Train: stable]
 
-- Commit daily changes • [`61f5b6a`](https://github.com/trueforge-org/truecharts/commit/61f5b6aca3c0616c3df63b283edf75da2834fe7a) • [@TrueCharts-Bot] (2023-12-13)
 - Commit daily changes • [`0389064`](https://github.com/trueforge-org/truecharts/commit/0389064d4964c10ef3297a94d24d3120e8e7dece) • [@TrueCharts-Bot] (2023-12-13)
+- Commit daily changes • [`61f5b6a`](https://github.com/trueforge-org/truecharts/commit/61f5b6aca3c0616c3df63b283edf75da2834fe7a) • [@TrueCharts-Bot] (2023-12-13)
 - Commit daily changes • [`8600090`](https://github.com/trueforge-org/truecharts/commit/86000902696d589d56ec162ac605e9a079eba969) • [@TrueCharts-Bot] (2023-12-12)
 - Commit daily changes • [`b9f4cca`](https://github.com/trueforge-org/truecharts/commit/b9f4ccaee6a5612110484ca4e8e91c6ede3465c8) • [@TrueCharts-Bot] (2023-12-12)
 - Commit daily changes • [`84eca1f`](https://github.com/trueforge-org/truecharts/commit/84eca1fd32b6dd0181feeca73f43ba861d2459b2) • [@TrueCharts-Bot] (2023-12-11)
@@ -1803,18 +1803,18 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.0.2 • [Train: stable]
 
-- Commit daily changes • [`c5c271c`](https://github.com/trueforge-org/truecharts/commit/c5c271cb7efffb1c7200f9e6818a445658fa3890) • [@TrueCharts-Bot] (2023-12-03)
 - chore: bump everything to ensure catalog has latest versions • [`02d153a`](https://github.com/trueforge-org/truecharts/commit/02d153a62c739dabc92491b0f64739ad8db2c94d) • [@Kjeld Schouten] (2023-12-03)
 - Commit daily changes • [`1805e0a`](https://github.com/trueforge-org/truecharts/commit/1805e0a25ab55f07e62bdd17caefe9246ef198c2) • [@TrueCharts-Bot] (2023-12-03)
+- Commit daily changes • [`c5c271c`](https://github.com/trueforge-org/truecharts/commit/c5c271cb7efffb1c7200f9e6818a445658fa3890) • [@TrueCharts-Bot] (2023-12-03)
 
 ## 3.0.1 • [Train: stable]
 
 - Commit daily changes • [`8f14f12`](https://github.com/trueforge-org/truecharts/commit/8f14f125ffe7ae4dd658577b3863dddd2a367c4b) • [@TrueCharts-Bot] (2023-12-03)
+- Commit daily changes • [`4029aea`](https://github.com/trueforge-org/truecharts/commit/4029aea090973758ef3c4f7952ae41c2cf78bcb0) • [@TrueCharts-Bot] (2023-12-02)
 - chore: fix annotations again • [`968da8e`](https://github.com/trueforge-org/truecharts/commit/968da8ed456fb6015744404b9cd21b832b0f9b38) • [@Kjeld Schouten] (2023-12-02)
+- Commit daily changes • [`57a03f8`](https://github.com/trueforge-org/truecharts/commit/57a03f87318553c6d549bb9ae286dcd3cb3d8d5e) • [@TrueCharts-Bot] (2023-12-02)
 - chore: update annotations • [`5e194fb`](https://github.com/trueforge-org/truecharts/commit/5e194fb0bb5e2db19f02aac9cfd3cf32f28694f2) • [@Kjeld Schouten] (2023-12-02)
 - Commit daily changes • [`a0cab80`](https://github.com/trueforge-org/truecharts/commit/a0cab8013532aa7e3751411c7a16cc020866fa8d) • [@TrueCharts-Bot] (2023-12-02)
-- Commit daily changes • [`4029aea`](https://github.com/trueforge-org/truecharts/commit/4029aea090973758ef3c4f7952ae41c2cf78bcb0) • [@TrueCharts-Bot] (2023-12-02)
-- Commit daily changes • [`57a03f8`](https://github.com/trueforge-org/truecharts/commit/57a03f87318553c6d549bb9ae286dcd3cb3d8d5e) • [@TrueCharts-Bot] (2023-12-02)
 - Commit daily changes • [`e75af59`](https://github.com/trueforge-org/truecharts/commit/e75af597d02003f3848de446c0b2f0c9dc4c10a1) • [@TrueCharts-Bot] (2023-12-01)
 - Commit daily changes • [`04aa896`](https://github.com/trueforge-org/truecharts/commit/04aa8961601cf238e7345e2a5e1856d084fdc529) • [@TrueCharts-Bot] (2023-12-01)
 - chore(deps): update container image ghcr.io/paperless-ngx/paperless-ngx to v2.0.1@ab255be (#15538) • [`eba4997`](https://github.com/trueforge-org/truecharts/commit/eba49979acb26604ca9a0fb4765edc45db1ea1ab) • [@TrueCharts Bot] (2023-11-30)
@@ -1825,8 +1825,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.0.14 • [Train: stable]
 
-- Commit daily changes • [`0027f37`](https://github.com/trueforge-org/truecharts/commit/0027f3756f8bc222b262970613f7465d746b0548) • [@TrueCharts-Bot] (2023-11-28)
 - Commit daily changes • [`d1c2213`](https://github.com/trueforge-org/truecharts/commit/d1c22138f95fdb77ed67ed1702ac71741ce17f1b) • [@TrueCharts-Bot] (2023-11-28)
+- Commit daily changes • [`0027f37`](https://github.com/trueforge-org/truecharts/commit/0027f3756f8bc222b262970613f7465d746b0548) • [@TrueCharts-Bot] (2023-11-28)
 - chore(repo) change stable charts to the upstream images (#14739) • [`613fd90`](https://github.com/trueforge-org/truecharts/commit/613fd90a4c6b3684e0f5ba28225b7475b81f1f62) • [@Xstar97TheNoob] (2023-11-17)
 
 ## 2.0.13 • [Train: stable]
