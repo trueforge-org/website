@@ -365,8 +365,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 43.131.0 • [Train: ]
 
-- fix(ubuntu): fix yaml and update ubuntu tests (#1902) • [`91b5362`](https://github.com/trueforge-org/truecharts/commit/91b5362fc0dacdd7d544f9457e5826f99a70c16f) • [@Alfred Göppel] (2026-04-19)
 - feat(deps): update renovate/renovate docker tag 43.130.1 → 43.131.0 (#1900) • [`c8b8931`](https://github.com/trueforge-org/truecharts/commit/c8b8931f4b384d528ccdc039c7c0938008a89e65) • [@TrueCharts Bot] (2026-04-19)
+- fix(ubuntu): fix yaml and update ubuntu tests (#1902) • [`91b5362`](https://github.com/trueforge-org/truecharts/commit/91b5362fc0dacdd7d544f9457e5826f99a70c16f) • [@Alfred Göppel] (2026-04-19)
 
 ## 43.130.1 • [Train: ]
 
@@ -374,9 +374,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 43.129.1 • [Train: ]
 
-- Update FORGETOOL_VERSION to 4.0.0-ALPHA25 • [`fb81432`](https://github.com/trueforge-org/truecharts/commit/fb81432e5932b6fb756b0ca335f4b9c37b3e2324) • [@Kjeld Schouten] (2026-04-19)
 - fix(deps): update renovate/renovate docker tag 43.129.0 → 43.129.1 (#1887) • [`0a3a387`](https://github.com/trueforge-org/truecharts/commit/0a3a387cba1f45a487688c99c8d911ab626595f6) • [@TrueCharts Bot] (2026-04-19)
 - try loose versioning on forgetool renovate to force prereleases • [`4bc7a1a`](https://github.com/trueforge-org/truecharts/commit/4bc7a1a066f88fe80b36762e0a51c80961060e44) • [@Kjeld Schouten] (2026-04-19)
+- Update FORGETOOL_VERSION to 4.0.0-ALPHA25 • [`fb81432`](https://github.com/trueforge-org/truecharts/commit/fb81432e5932b6fb756b0ca335f4b9c37b3e2324) • [@Kjeld Schouten] (2026-04-19)
 
 ## 43.129.0 • [Train: ]
 
@@ -486,8 +486,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 43.18.0 • [Train: ]
 
-- feat(deps): update renovate/renovate docker tag 43.17.1 → 43.18.0 (#1240) • [`8851aca`](https://github.com/trueforge-org/truecharts/commit/8851aca38fca6f8a18b50dce586c7a08b540aec6) • [@TrueCharts Bot] (2026-02-16)
 - feat: move go testing to runtime instead of go test -v (#1235) • [`3c9d92a`](https://github.com/trueforge-org/truecharts/commit/3c9d92a388d6c3271d4da542f236e8fdbe5de3a5) • [@Kjeld Schouten] (2026-02-16)
+- feat(deps): update renovate/renovate docker tag 43.17.1 → 43.18.0 (#1240) • [`8851aca`](https://github.com/trueforge-org/truecharts/commit/8851aca38fca6f8a18b50dce586c7a08b540aec6) • [@TrueCharts Bot] (2026-02-16)
 
 ## 43.17.1 • [Train: ]
 
@@ -495,8 +495,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 43.16.0 • [Train: ]
 
-- feat(deps): update renovate/renovate docker tag 43.15.3 → 43.16.0 (#1222) • [`37f4bc0`](https://github.com/trueforge-org/truecharts/commit/37f4bc0ef6e96f1005fff3447a3517ad02f019cf) • [@TrueCharts Bot] (2026-02-16)
 - feat: python update and test fix (#1231) • [`6726e6e`](https://github.com/trueforge-org/truecharts/commit/6726e6e27dd2429860696d81844654f9f6e88611) • [@Kjeld Schouten] (2026-02-16)
+- feat(deps): update renovate/renovate docker tag 43.15.3 → 43.16.0 (#1222) • [`37f4bc0`](https://github.com/trueforge-org/truecharts/commit/37f4bc0ef6e96f1005fff3447a3517ad02f019cf) • [@TrueCharts Bot] (2026-02-16)
 
 ## 43.15.3 • [Train: ]
 
@@ -1104,8 +1104,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 41.169.1 • [Train: ]
 
-- trigger rebuilds and republic • [`97d8992`](https://github.com/trueforge-org/truecharts/commit/97d899261bfb7bd91b0b08ef9a3737d6b9d54cf0) • [@Kjeld Schouten] (2025-11-04)
 - upload everything to quay • [`2b6f79d`](https://github.com/trueforge-org/truecharts/commit/2b6f79d056c0fe62762f5e1101dd8453437ccb1d) • [@Kjeld Schouten] (2025-11-04)
+- trigger rebuilds and republic • [`97d8992`](https://github.com/trueforge-org/truecharts/commit/97d899261bfb7bd91b0b08ef9a3737d6b9d54cf0) • [@Kjeld Schouten] (2025-11-04)
 - Update renovate/renovate ( 41.168.5 → 41.169.1 ) (#139) • [`728c519`](https://github.com/trueforge-org/truecharts/commit/728c519d167c1571ca7c13d4f9b6c8c49c40acc5) • [@TrueCharts Bot] (2025-11-02)
 
 ## 41.168.5 • [Train: ]
