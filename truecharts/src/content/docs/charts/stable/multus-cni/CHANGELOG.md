@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.6.0 • [Train: stable]
+
+- feat(multus-cni): update image ghcr.io/k8snetworkplumbingwg/multus-cni v4.2.4 → v4.3.0 (#49036) • [`5cb293c`](https://github.com/trueforge-org/truecharts/commit/5cb293cbba2b568df38003400e43b12eb1b141ac) • [@TrueCharts Bot] (2026-06-11)
+
 ## 2.5.0 • [Train: stable]
 
 - feat(helm-deps): update chart common 29.3.4 → 29.5.3 (#48994) • [`9394df1`](https://github.com/trueforge-org/truecharts/commit/9394df19895096df1861134e8b85fa99ce9e43df) • [@TrueCharts Bot] (2026-06-11)
