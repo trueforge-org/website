@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 0.2.0 • [Train: incubator]
+
+- feat(helm-deps): update chart common 29.3.4 → 29.5.3 (#48994) • [`9394df1`](https://github.com/trueforge-org/truecharts/commit/9394df19895096df1861134e8b85fa99ce9e43df) • [@TrueCharts Bot] (2026-06-11)
+
 ## 0.1.0 • [Train: incubator]
 
 - Commit daily changes • [`4d40df5`](https://github.com/trueforge-org/truecharts/commit/4d40df54add4b93e65ff260ce1c451e7c396248d) • [@TrueCharts-Bot] (2026-06-11)

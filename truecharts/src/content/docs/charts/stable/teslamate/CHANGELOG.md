@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.5.0 • [Train: stable]
+
+- feat(helm-deps): update chart common 29.3.4 → 29.5.3 (#48994) • [`9394df1`](https://github.com/trueforge-org/truecharts/commit/9394df19895096df1861134e8b85fa99ce9e43df) • [@TrueCharts Bot] (2026-06-11)
+
 ## 7.4.0 • [Train: stable]
 
 - feat(teslamate): update image docker.io/teslamate/teslamate 3.0.0 → 3.1.0 (#48853) • [`92c592d`](https://github.com/trueforge-org/truecharts/commit/92c592df4c171e1543f6042d6ec958ce9297cec7) • [@TrueCharts Bot] (2026-06-07)
@@ -162,8 +166,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.15.0 • [Train: stable]
 
-- fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
 - chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
+- fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
 
 ## 5.14.0 • [Train: stable]
 
