@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 4.8.2 • [Train: stable]
+
+- fix(gatus): update image ghcr.io/home-operations/gatus-sidecar 0.3.1 → 0.3.2 (#49168) • [`0e379e8`](https://github.com/trueforge-org/truecharts/commit/0e379e82b3549736f93a1ab727b5acfb5dfcc3df) • [@TrueCharts Bot] (2026-06-16)
+
 ## 4.8.1 • [Train: stable]
 
 - fix(gatus): update image ghcr.io/home-operations/gatus-sidecar 0.3.0 → 0.3.1 (#49152) • [`7050363`](https://github.com/trueforge-org/truecharts/commit/7050363c6dc5a0739dd3130bbf5ce9cfec8b476c) • [@TrueCharts Bot] (2026-06-15)
