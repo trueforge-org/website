@@ -77,8 +77,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 9.2.3 • [Train: stable]
 
-- fix(helm-deps): update chart mariadb 18.1.1 → 18.1.2 (#47440) • [`a0b8c96`](https://github.com/trueforge-org/truecharts/commit/a0b8c96db59a091f5fdac28191ff8b9eb4051269) • [@TrueCharts Bot] (2026-04-24)
 - fix(helm-deps): update chart valkey 2.1.1 → 2.1.2 (#47441) • [`6180129`](https://github.com/trueforge-org/truecharts/commit/6180129fe8039eb7b32d66ae26ef11f35a688d9c) • [@TrueCharts Bot] (2026-04-24)
+- fix(helm-deps): update chart mariadb 18.1.1 → 18.1.2 (#47440) • [`a0b8c96`](https://github.com/trueforge-org/truecharts/commit/a0b8c96db59a091f5fdac28191ff8b9eb4051269) • [@TrueCharts Bot] (2026-04-24)
 
 ## 9.2.2 • [Train: stable]
 
@@ -291,8 +291,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 6.24.28 • [Train: stable]
 
 - Commit daily changes • [`21c41fa`](https://github.com/trueforge-org/truecharts/commit/21c41fa63ee258f17571b236d18f1731403d29a8) • [@TrueCharts-Bot] (2026-02-04)
-- fix(helm-deps): update chart redis 17.15.18 → 17.15.19 (#44472) • [`66dda59`](https://github.com/trueforge-org/truecharts/commit/66dda59b7ff1a01193b980f5d0546bc068148ea5) • [@TrueCharts Bot] (2026-02-03)
 - fix(helm-deps): update chart mariadb 17.11.16 → 17.11.17 (#44469) • [`fd57688`](https://github.com/trueforge-org/truecharts/commit/fd57688cbb7ccd98544c53a7711fde612f2b0964) • [@TrueCharts Bot] (2026-02-03)
+- fix(helm-deps): update chart redis 17.15.18 → 17.15.19 (#44472) • [`66dda59`](https://github.com/trueforge-org/truecharts/commit/66dda59b7ff1a01193b980f5d0546bc068148ea5) • [@TrueCharts Bot] (2026-02-03)
 
 ## 6.24.27 • [Train: stable]
 
@@ -302,11 +302,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 6.24.26 • [Train: stable]
 
 - Commit daily changes • [`bf152c8`](https://github.com/trueforge-org/truecharts/commit/bf152c8e746c6568782467d57483768b4b89a6c4) • [@TrueCharts-Bot] (2026-02-01)
-- Commit daily changes • [`d2de50f`](https://github.com/trueforge-org/truecharts/commit/d2de50f17ea2800d3a87690c06fe721280ed6e30) • [@TrueCharts-Bot] (2026-01-31)
-- Commit daily changes • [`f8c1ee7`](https://github.com/trueforge-org/truecharts/commit/f8c1ee7bdf3fbb09f34358af18d4cd2a3fb5acd3) • [@TrueCharts-Bot] (2026-01-31)
 - Commit daily changes • [`5aef95e`](https://github.com/trueforge-org/truecharts/commit/5aef95e6ad29dfcd85b5ecbaf25bc7fb6c8873cb) • [@TrueCharts-Bot] (2026-01-31)
 - fix(all-charts): Fix chart.yaml &amp; add missing icons (#44393) • [`a802ce6`](https://github.com/trueforge-org/truecharts/commit/a802ce64e922757d94500d369fd1de25ffd69e5e) • [@Alfred Göppel] (2026-01-31)
 - fix(charts): remove old annotations &amp; add proper category  (#44376) • [`a855dd6`](https://github.com/trueforge-org/truecharts/commit/a855dd67f77f3353f4e70fa506d3ded479abd8c8) • [@Alfred Göppel] (2026-01-31)
+- Commit daily changes • [`d2de50f`](https://github.com/trueforge-org/truecharts/commit/d2de50f17ea2800d3a87690c06fe721280ed6e30) • [@TrueCharts-Bot] (2026-01-31)
+- Commit daily changes • [`f8c1ee7`](https://github.com/trueforge-org/truecharts/commit/f8c1ee7bdf3fbb09f34358af18d4cd2a3fb5acd3) • [@TrueCharts-Bot] (2026-01-31)
 - fix(helm-deps): update chart redis 17.15.17 → 17.15.18 (#44199) • [`2d74672`](https://github.com/trueforge-org/truecharts/commit/2d74672f4b7867cf87b91723d4d0ef399e060e54) • [@TrueCharts Bot] (2026-01-28)
 
 ## 6.24.25 • [Train: stable]
@@ -315,9 +315,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.24.24 • [Train: stable]
 
+- fix(helm-deps): update chart common 28.29.37 → 28.29.40 (#44167) • [`09e7d81`](https://github.com/trueforge-org/truecharts/commit/09e7d81949c4fcf2049ea2213a6e8acbc115c618) • [@TrueCharts Bot] (2026-01-27)
 - fix(helm-deps): update chart redis 17.15.16 → 17.15.17 (#44171) • [`8abd5c4`](https://github.com/trueforge-org/truecharts/commit/8abd5c48bdc8938cf5814f90062468ab41a4f4d6) • [@TrueCharts Bot] (2026-01-27)
 - fix(helm-deps): update chart mariadb 17.11.14 → 17.11.15 (#44168) • [`e6cded6`](https://github.com/trueforge-org/truecharts/commit/e6cded6e99fee6ad9d3690da945d928f9783c522) • [@TrueCharts Bot] (2026-01-27)
-- fix(helm-deps): update chart common 28.29.37 → 28.29.40 (#44167) • [`09e7d81`](https://github.com/trueforge-org/truecharts/commit/09e7d81949c4fcf2049ea2213a6e8acbc115c618) • [@TrueCharts Bot] (2026-01-27)
 
 ## 6.24.23 • [Train: stable]
 
@@ -388,8 +388,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.24.8 • [Train: stable]
 
-- fix(helm-deps): update chart mariadb 17.11.6 → 17.11.7 (#43648) • [`eb21081`](https://github.com/trueforge-org/truecharts/commit/eb210814f45071f69daa04aa37b06794166c3453) • [@TrueCharts Bot] (2026-01-16)
 - fix(helm-deps): update chart redis 17.15.8 → 17.15.9 (#43651) • [`62de303`](https://github.com/trueforge-org/truecharts/commit/62de3039185d6f3a54ac903d3f55a9c5d626abea) • [@TrueCharts Bot] (2026-01-16)
+- fix(helm-deps): update chart mariadb 17.11.6 → 17.11.7 (#43648) • [`eb21081`](https://github.com/trueforge-org/truecharts/commit/eb210814f45071f69daa04aa37b06794166c3453) • [@TrueCharts Bot] (2026-01-16)
 
 ## 6.24.7 • [Train: stable]
 
@@ -445,8 +445,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.22.0 • [Train: stable]
 
-- fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
 - chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
+- fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
 
 ## 6.21.1 • [Train: stable]
 
@@ -467,8 +467,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.19.14 • [Train: stable]
 
-- chore(helm): update chart mariadb 17.9.6 → 17.9.7 (#41891) • [`dc6106e`](https://github.com/trueforge-org/truecharts/commit/dc6106ebee50d88c891ef12b60d4c1f3df1f71e8) • [@TrueCharts Bot] (2025-11-19)
 - chore(helm): update chart redis 17.13.7 → 17.13.8 (#41892) • [`6c17874`](https://github.com/trueforge-org/truecharts/commit/6c17874a28ea725fe5300226f53307d629ac91d6) • [@TrueCharts Bot] (2025-11-19)
+- chore(helm): update chart mariadb 17.9.6 → 17.9.7 (#41891) • [`dc6106e`](https://github.com/trueforge-org/truecharts/commit/dc6106ebee50d88c891ef12b60d4c1f3df1f71e8) • [@TrueCharts Bot] (2025-11-19)
 
 ## 6.19.13 • [Train: stable]
 
@@ -568,9 +568,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.12.0 • [Train: stable]
 
-- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
 - more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
+- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 
 ## 6.11.0 • [Train: stable]
 
@@ -611,8 +611,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.6.4 • [Train: stable]
 
-- chore(helm): update chart redis 17.8.1 → 17.8.2 (#40118) • [`91e77e4`](https://github.com/trueforge-org/truecharts/commit/91e77e4ed91fad269e24f1e5ee6d24ab27aa043b) • [@TrueCharts Bot] (2025-09-28)
 - chore(helm): update chart mariadb 17.4.1 → 17.4.2 (#40115) • [`327bf22`](https://github.com/trueforge-org/truecharts/commit/327bf223f1b5842f6f5572cc90e57bf4222a0c7b) • [@TrueCharts Bot] (2025-09-28)
+- chore(helm): update chart redis 17.8.1 → 17.8.2 (#40118) • [`91e77e4`](https://github.com/trueforge-org/truecharts/commit/91e77e4ed91fad269e24f1e5ee6d24ab27aa043b) • [@TrueCharts Bot] (2025-09-28)
 
 ## 6.6.3 • [Train: stable]
 
@@ -653,9 +653,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.3.1 • [Train: stable]
 
-- chore(helm): update chart common 28.18.0 → 28.18.1 (#39776) • [`f2ede73`](https://github.com/trueforge-org/truecharts/commit/f2ede73cf7468fabb08a49474424f45b85c406c3) • [@TrueCharts Bot] (2025-09-20)
 - chore(helm): update chart redis 17.7.0 → 17.7.1 (#39780) • [`6b3751f`](https://github.com/trueforge-org/truecharts/commit/6b3751f8515be13d584d02d43c9f3b37f73ae9d6) • [@TrueCharts Bot] (2025-09-20)
 - chore(helm): update chart mariadb 17.3.0 → 17.3.1 (#39777) • [`b6d46b5`](https://github.com/trueforge-org/truecharts/commit/b6d46b54dc65ccd688ad524c3fe1f1bba449bdad) • [@TrueCharts Bot] (2025-09-20)
+- chore(helm): update chart common 28.18.0 → 28.18.1 (#39776) • [`f2ede73`](https://github.com/trueforge-org/truecharts/commit/f2ede73cf7468fabb08a49474424f45b85c406c3) • [@TrueCharts Bot] (2025-09-20)
 
 ## 6.3.0 • [Train: stable]
 
@@ -691,13 +691,13 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.8.0 • [Train: stable]
 
-- chore(helm): update chart redis 17.4.6 → 17.5.0 (#39243) • [`91615e9`](https://github.com/trueforge-org/truecharts/commit/91615e9516e42be80e7bf29280273875611fb78f) • [@TrueCharts Bot] (2025-09-07)
 - chore(helm): update chart common 28.16.6 → 28.17.0 (#39240) • [`7843a4a`](https://github.com/trueforge-org/truecharts/commit/7843a4aa177ab7df5e9857f534858eddbadf0cf0) • [@TrueCharts Bot] (2025-09-07)
+- chore(helm): update chart redis 17.4.6 → 17.5.0 (#39243) • [`91615e9`](https://github.com/trueforge-org/truecharts/commit/91615e9516e42be80e7bf29280273875611fb78f) • [@TrueCharts Bot] (2025-09-07)
 
 ## 5.7.11 • [Train: stable]
 
-- chore: fix links • [`1c28a12`](https://github.com/trueforge-org/truecharts/commit/1c28a127898e7db3a350e07a42810acd8eaa4c30) • [@Kjeld Schouten] (2025-09-07)
 - chore(helm): update chart redis 17.4.5 → 17.4.6 (#39213) • [`6c37b2b`](https://github.com/trueforge-org/truecharts/commit/6c37b2bb2dd533e00ec0783a1d66603a7a24c907) • [@TrueCharts Bot] (2025-09-07)
+- chore: fix links • [`1c28a12`](https://github.com/trueforge-org/truecharts/commit/1c28a127898e7db3a350e07a42810acd8eaa4c30) • [@Kjeld Schouten] (2025-09-07)
 
 ## 5.7.10 • [Train: stable]
 
@@ -709,8 +709,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.7.8 • [Train: stable]
 
-- chore(helm): update chart common 28.16.4 → 28.16.5 (#38952) • [`977aa51`](https://github.com/trueforge-org/truecharts/commit/977aa51ecddfb3da31c324fcbf0f73ba51f1017b) • [@TrueCharts Bot] (2025-08-30)
 - chore(helm): update chart redis 17.4.3 → 17.4.4 (#38955) • [`5f1b3ce`](https://github.com/trueforge-org/truecharts/commit/5f1b3ceecee1cc14fe2af8710043defcc098eabe) • [@TrueCharts Bot] (2025-08-30)
+- chore(helm): update chart common 28.16.4 → 28.16.5 (#38952) • [`977aa51`](https://github.com/trueforge-org/truecharts/commit/977aa51ecddfb3da31c324fcbf0f73ba51f1017b) • [@TrueCharts Bot] (2025-08-30)
 
 ## 5.7.7 • [Train: stable]
 
@@ -744,8 +744,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.7.0 • [Train: stable]
 
-- chore(helm): update chart redis 17.3.0 → 17.4.0 (#38396) • [`37c7225`](https://github.com/trueforge-org/truecharts/commit/37c72257a24ff00e90c5f08fb491de498e92f8a7) • [@TrueCharts Bot] (2025-08-14)
 - chore(helm): update chart mariadb 16.2.3 → 16.3.0 (#38393) • [`3687be4`](https://github.com/trueforge-org/truecharts/commit/3687be4c58e1c049dce9e4ca9c16f169e3ad099a) • [@TrueCharts Bot] (2025-08-14)
+- chore(helm): update chart redis 17.3.0 → 17.4.0 (#38396) • [`37c7225`](https://github.com/trueforge-org/truecharts/commit/37c72257a24ff00e90c5f08fb491de498e92f8a7) • [@TrueCharts Bot] (2025-08-14)
 
 ## 5.6.0 • [Train: stable]
 
@@ -820,8 +820,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.0.7 • [Train: stable]
 
-- chore(helm): update chart mariadb 16.0.5 → 16.0.6 (#37122) • [`0700fe7`](https://github.com/trueforge-org/truecharts/commit/0700fe76570bf3a24a85fdcbcf15cad29931ef70) • [@TrueCharts Bot] (2025-07-07)
 - chore(helm): update chart redis 17.0.5 → 17.0.6 (#37125) • [`b734e24`](https://github.com/trueforge-org/truecharts/commit/b734e243b0d09d9f4ef975bddc12f66c700ca7da) • [@TrueCharts Bot] (2025-07-07)
+- chore(helm): update chart mariadb 16.0.5 → 16.0.6 (#37122) • [`0700fe7`](https://github.com/trueforge-org/truecharts/commit/0700fe76570bf3a24a85fdcbcf15cad29931ef70) • [@TrueCharts Bot] (2025-07-07)
 
 ## 5.0.6 • [Train: stable]
 
@@ -831,15 +831,15 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.0.5 • [Train: stable]
 
-- chore(helm): update chart common 28.12.4 → 28.12.5 (#37083) • [`9417cba`](https://github.com/trueforge-org/truecharts/commit/9417cba999a9dfceb0ecbb48594a655e622a4f3c) • [@TrueCharts Bot] (2025-07-06)
 - chore(helm): update chart redis 17.0.3 → 17.0.4 (#37087) • [`3d776cb`](https://github.com/trueforge-org/truecharts/commit/3d776cb5a8bea56827ae88e92dccf052eaa0aeae) • [@TrueCharts Bot] (2025-07-06)
 - chore(helm): update chart mariadb 16.0.3 → 16.0.4 (#37084) • [`93b550c`](https://github.com/trueforge-org/truecharts/commit/93b550c49d1fab06935e4121653628d479354bef) • [@TrueCharts Bot] (2025-07-06)
+- chore(helm): update chart common 28.12.4 → 28.12.5 (#37083) • [`9417cba`](https://github.com/trueforge-org/truecharts/commit/9417cba999a9dfceb0ecbb48594a655e622a4f3c) • [@TrueCharts Bot] (2025-07-06)
 
 ## 5.0.4 • [Train: stable]
 
+- chore(helm): update chart redis 17.0.2 → 17.0.3 (#37059) • [`00be013`](https://github.com/trueforge-org/truecharts/commit/00be0133c2251a1ace80575fe6578a50d6c8993a) • [@TrueCharts Bot] (2025-07-06)
 - chore(helm): update chart mariadb 16.0.2 → 16.0.3 (#37056) • [`4714bd4`](https://github.com/trueforge-org/truecharts/commit/4714bd427cbee172bcc1c4f1904fab9b0b888d98) • [@TrueCharts Bot] (2025-07-06)
 - chore(helm): update chart common 28.12.3 → 28.12.4 (#37055) • [`d19b952`](https://github.com/trueforge-org/truecharts/commit/d19b9525c3e6c9c90062789e719c847b68e410c4) • [@TrueCharts Bot] (2025-07-06)
-- chore(helm): update chart redis 17.0.2 → 17.0.3 (#37059) • [`00be013`](https://github.com/trueforge-org/truecharts/commit/00be0133c2251a1ace80575fe6578a50d6c8993a) • [@TrueCharts Bot] (2025-07-06)
 
 ## 5.0.3 • [Train: stable]
 
@@ -849,8 +849,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.0.2 • [Train: stable]
 
-- chore(helm): update chart redis 17.0.0 → 17.0.1 (#37002) • [`a91e618`](https://github.com/trueforge-org/truecharts/commit/a91e618372eb64f3ac24b4506840abe8c644a713) • [@TrueCharts Bot] (2025-07-06)
 - chore(helm): update chart common 28.12.1 → 28.12.2 (#37005) • [`4d68284`](https://github.com/trueforge-org/truecharts/commit/4d6828462fa89118d177f01cf2f39d0aa67d0161) • [@TrueCharts Bot] (2025-07-06)
+- chore(helm): update chart redis 17.0.0 → 17.0.1 (#37002) • [`a91e618`](https://github.com/trueforge-org/truecharts/commit/a91e618372eb64f3ac24b4506840abe8c644a713) • [@TrueCharts Bot] (2025-07-06)
 
 ## 5.0.1 • [Train: stable]
 
@@ -1001,8 +1001,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.13.0 • [Train: incubator]
 
-- chore(helm): update chart redis 15.4.2 → 15.5.0 (#30523) • [`4bc9cea`](https://github.com/trueforge-org/truecharts/commit/4bc9cea4e2bbf08b0b65568533c4dc81becc20fa) • [@TrueCharts Bot] (2024-12-31)
 - chore(helm): update chart mariadb 15.6.2 → 15.7.0 (#30520) • [`d0c7b77`](https://github.com/trueforge-org/truecharts/commit/d0c7b77de055232e5c7574252010ffa7b9fd9bbb) • [@TrueCharts Bot] (2024-12-31)
+- chore(helm): update chart redis 15.4.2 → 15.5.0 (#30523) • [`4bc9cea`](https://github.com/trueforge-org/truecharts/commit/4bc9cea4e2bbf08b0b65568533c4dc81becc20fa) • [@TrueCharts Bot] (2024-12-31)
 
 ## 1.12.1 • [Train: incubator]
 
@@ -1018,8 +1018,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.11.0 • [Train: incubator]
 
-- chore(helm): update chart mariadb 15.4.7 → 15.6.1 (#30376) • [`fc6b683`](https://github.com/trueforge-org/truecharts/commit/fc6b6838f211fb8c1769400191def9d4d64a178a) • [@TrueCharts Bot] (2024-12-29)
 - chore(helm): update chart redis 15.3.2 → 15.4.1 (#30379) • [`235c43d`](https://github.com/trueforge-org/truecharts/commit/235c43d8cef5aa1250141c0403d527e64bf2eee7) • [@TrueCharts Bot] (2024-12-29)
+- chore(helm): update chart mariadb 15.4.7 → 15.6.1 (#30376) • [`fc6b683`](https://github.com/trueforge-org/truecharts/commit/fc6b6838f211fb8c1769400191def9d4d64a178a) • [@TrueCharts Bot] (2024-12-29)
 
 ## 1.10.2 • [Train: incubator]
 
