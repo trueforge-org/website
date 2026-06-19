@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 4.4.1 • [Train: stable]
+
+- chore(broadcast-box): update image seaduboi/broadcast-box digest to 1d45a63 (#49280) • [`9d11e1e`](https://github.com/trueforge-org/truecharts/commit/9d11e1ed09e732b7d96603e277f4de287b30b349) • [@TrueCharts Bot] (2026-06-19)
+
 ## 4.4.0 • [Train: stable]
 
 - feat(helm-deps): update chart common 29.3.4 → 29.5.3 (#48994) • [`9394df1`](https://github.com/trueforge-org/truecharts/commit/9394df19895096df1861134e8b85fa99ce9e43df) • [@TrueCharts Bot] (2026-06-11)
@@ -151,8 +155,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.13.13 • [Train: stable]
 
-- fix(helm-deps): update chart common to v28.29.30 (#43902) • [`2bda3b6`](https://github.com/trueforge-org/truecharts/commit/2bda3b6dbd422da4676aa35dcf136a9d4aba86f2) • [@TrueCharts Bot] (2026-01-22)
 - chore(broadcast-box): update image seaduboi/broadcast-box digest to 4ea1c68 (#43940) • [`e1f9481`](https://github.com/trueforge-org/truecharts/commit/e1f9481dabc0dd5ba167c12c77f440e885037daa) • [@TrueCharts Bot] (2026-01-22)
+- fix(helm-deps): update chart common to v28.29.30 (#43902) • [`2bda3b6`](https://github.com/trueforge-org/truecharts/commit/2bda3b6dbd422da4676aa35dcf136a9d4aba86f2) • [@TrueCharts Bot] (2026-01-22)
 
 ## 2.13.12 • [Train: stable]
 
