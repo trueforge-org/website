@@ -8,9 +8,9 @@ Configuration management tool for Radarr/Sonarr that automates importing and ver
 
 ## Chart Sources
 
+- https://ghcr.io/dictionarry-hub/profilarr
 - https://github.com/Dictionarry-Hub/profilarr
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/profilarr
-- https://ghcr.io/dictionarry-hub/profilarr
 
 ## Available Documentation
 
