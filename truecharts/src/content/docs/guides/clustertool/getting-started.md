@@ -43,11 +43,11 @@ First off we need to generate all file and folder structure for us to store any 
 
 For this, in a terminal, run:
 
-`clustertool cluster init`
+`clustertool init`
 
 or, on Windows:
 
-`clustertool.exe cluster init`
+`clustertool.exe init`
 
 This builds all config files and folders.
 
@@ -111,11 +111,11 @@ For More info, see: [here](https://docs.github.com/en/authentication/connecting-
 
 To finalize all the configuration changes please run:Ö
 
-`clustertool cluster init`
+`clustertool init`
 
 or, on Windows:
 
-`clustertool.exe cluster init`
+`clustertool.exe init`
 
 again. This will generate all remaining necessary files
 
