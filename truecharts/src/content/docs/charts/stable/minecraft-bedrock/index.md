@@ -8,9 +8,9 @@ Minecraft Bedrock Dedicated Server
 
 ## Chart Sources
 
+- https://ghcr.io/itzg/minecraft-bedrock-server
 - https://github.com/itzg/docker-minecraft-server
 - https://github.com/trueforge-org/truecharts/tree/master/charts/stable/minecraft-bedrock
-- https://hub.docker.com/r/itzg/minecraft-bedrock-server
 
 ## Available Documentation
 
