@@ -38,13 +38,13 @@ services:
       DB_CONNECTION: sqlite
       DB_DATABASE: ""
       DB_HOST: ""
-      DB_PASSWORD: 79e79be7016994c1021ad2906a887dacWORD
+      DB_PASSWORD: 0e212193a5c2d8145894fbad63343d21WORD
       DB_PORT: ""
       DB_USERNAME: ""
       TZ: Etc/UTC
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/speedtest-tracker:1.14.3
+    image: ghcr.io/trueforge-org/speedtest-tracker:1.14.5
     restart: unless-stopped
     shm_size: 256M
     volumes:
@@ -63,7 +63,7 @@ services:
 #           memory: "4294967296"
 #     environment:
 #       POSTGRES_DB: speedtest-tracker
-#       POSTGRES_PASSWORD: 79e79be7016994c1021ad2906a887dacWORD
+#       POSTGRES_PASSWORD: 0e212193a5c2d8145894fbad63343d21WORD
 #       POSTGRES_USER: speedtest-tracker
 #       TZ: Etc/UTC
 #     group_add:
