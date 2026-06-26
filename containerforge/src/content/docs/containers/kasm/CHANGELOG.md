@@ -13,9 +13,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.19.0 • [Train: ]
 
-- fix(python-node-dep): update ghcr.io/trueforge-org/python-node docker tag 3.14.5 → 3.14.6 (#2503) • [`101e222`](https://github.com/trueforge-org/truecharts/commit/101e222b8be8373025ffc981c256c4d86b42df4f) • [@TrueCharts Bot] (2026-06-26)
 - chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.6 docker digest digest to d527a7c (#2577) • [`15626f6`](https://github.com/trueforge-org/truecharts/commit/15626f6b7deb4ad1c0a6b31586a5b87a4176ecaa) • [@TrueCharts Bot] (2026-06-26)
 - feat(deps): update kasmtech/kasm-install-wizard 1.18.1 → 1.19.0 (#2559) • [`5918314`](https://github.com/trueforge-org/truecharts/commit/59183144d7094906de3bfd71c01f299c51cc024b) • [@TrueCharts Bot] (2026-06-26)
+- fix(python-node-dep): update ghcr.io/trueforge-org/python-node docker tag 3.14.5 → 3.14.6 (#2503) • [`101e222`](https://github.com/trueforge-org/truecharts/commit/101e222b8be8373025ffc981c256c4d86b42df4f) • [@TrueCharts Bot] (2026-06-26)
 
 ## 1.18.1 • [Train: ]
 
