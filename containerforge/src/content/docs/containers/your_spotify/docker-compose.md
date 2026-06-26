@@ -39,7 +39,7 @@ services:
       TZ: Etc/UTC
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/your_spotify:1.20.0
+    image: ghcr.io/trueforge-org/your_spotify:1.19.0
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
