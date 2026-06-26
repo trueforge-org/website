@@ -2,7 +2,7 @@
 title: pydio-cells
 ---
 
-![Version: 4.4.17](https://img.shields.io/badge/Version-4.4.17-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 5.0.1](https://img.shields.io/badge/Version-5.0.1-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **pydio-cells**, including upstre
 | Field | Value |
 | --- | --- |
 | App | pydio-cells |
-| Version | 4.4.17 |
+| Version | 5.0.1 |
 | License | AGPL--3.0--or--later |
 
 ## Source
