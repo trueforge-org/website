@@ -40,7 +40,7 @@ services:
       UMASK: "002"
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/kopia:v0.23.0
+    image: ghcr.io/trueforge-org/kopia:v0.23.1
     restart: unless-stopped
     shm_size: 256M
     volumes:
