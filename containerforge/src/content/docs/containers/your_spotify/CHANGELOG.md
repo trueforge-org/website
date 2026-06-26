@@ -15,6 +15,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - feat(deps): update yooooomi/your_spotify 1.19.0 → 1.20.0 (#2455) • [`7a59eb1`](https://github.com/trueforge-org/truecharts/commit/7a59eb1bee1651c992c1757ceb6eb0c2473b645b) • [@TrueCharts Bot] (2026-06-26)
 - fix(python-node-dep): update ghcr.io/trueforge-org/python-node docker tag 3.14.5 → 3.14.6 (#2503) • [`101e222`](https://github.com/trueforge-org/truecharts/commit/101e222b8be8373025ffc981c256c4d86b42df4f) • [@TrueCharts Bot] (2026-06-26)
+- chore(python-node-dep): update ghcr.io/trueforge-org/python-node:3.14.6 docker digest digest to d527a7c (#2577) • [`15626f6`](https://github.com/trueforge-org/truecharts/commit/15626f6b7deb4ad1c0a6b31586a5b87a4176ecaa) • [@TrueCharts Bot] (2026-06-26)
 
 ## 1.19.0 • [Train: ]
 
