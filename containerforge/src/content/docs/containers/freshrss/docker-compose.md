@@ -33,13 +33,13 @@ services:
           cpus: 4
           memory: 4G
     environment:
-      ADMIN_API_PASSWORD: 40a905c93298254671e9a10d1d78af5aWORD
+      ADMIN_API_PASSWORD: 72a0c56e58c8c23b0871743a23e6e68cWORD
       ADMIN_EMAIL: ""
-      ADMIN_PASSWORD: 5f8d0d2f17bff357a335a9f2e9a13533WORD
+      ADMIN_PASSWORD: d53abf1beb81c73f635486f032943d93WORD
       TZ: Etc/UTC
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/freshrss:1.28.1
+    image: ghcr.io/trueforge-org/freshrss:1.29.1
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
@@ -69,7 +69,7 @@ services:
 #           memory: "4294967296"
 #     environment:
 #       POSTGRES_DB: freshrss
-#       POSTGRES_PASSWORD: 0727b49011fb790f89c2302abe114f9bWORD
+#       POSTGRES_PASSWORD: 4daea44c132dd6a9f461d28221168facWORD
 #       POSTGRES_USER: freshrss
 #       TZ: Etc/UTC
 #     group_add:
