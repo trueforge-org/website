@@ -15,6 +15,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - chore: Add a bunch of direct-from-upstream system charts for clustertool-use (#23768) • [`e1bc567`](https://github.com/trueforge-org/truecharts/commit/e1bc5676c686f29322d66bd7e71f4c41c411ecf5) • [@Kjeld Schouten] (2024-06-25)
 
+## 3.5.0 • [Train: stable]
+
+- feat(helm-deps): update chart common 29.5.3 → 29.6.0 (#49561) • [`21581d9`](https://github.com/trueforge-org/truecharts/commit/21581d92d5ef7f8448b7b14cd9f7a5142cdaac3c) • [@TrueCharts Bot] (2026-06-27)
+
 ## 3.4.0 • [Train: stable]
 
 - feat(helm-deps): update chart common 29.3.4 → 29.5.3 (#48994) • [`9394df1`](https://github.com/trueforge-org/truecharts/commit/9394df19895096df1861134e8b85fa99ce9e43df) • [@TrueCharts Bot] (2026-06-11)
@@ -234,8 +238,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.6.1 • [Train: system]
 
-- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 - chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
+- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 
 ## 2.6.0 • [Train: system]
 

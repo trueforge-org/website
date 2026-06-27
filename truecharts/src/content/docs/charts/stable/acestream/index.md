@@ -2,7 +2,7 @@
 title: acestream
 ---
 
-![Version: 10.4.0](https://img.shields.io/badge/Version-10.4.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.0.2.8](https://img.shields.io/badge/AppVersion-2.0.2.8-informational?style=flat-square)
+![Version: 10.5.0](https://img.shields.io/badge/Version-10.5.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.0.2.8](https://img.shields.io/badge/AppVersion-2.0.2.8-informational?style=flat-square)
 
 IPTV service providing streaming, playlist, search engine and epg.
 
