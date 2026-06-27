@@ -38,7 +38,7 @@ services:
       TZ: Etc/UTC
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/kasm:1.19.0
+    image: ghcr.io/trueforge-org/kasm:1.18.1
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
