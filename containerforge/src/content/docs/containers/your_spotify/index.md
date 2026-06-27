@@ -2,7 +2,7 @@
 title: your_spotify
 ---
 
-![Version: 1.19.0](https://img.shields.io/badge/Version-1.19.0-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 1.20.0](https://img.shields.io/badge/Version-1.20.0-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **your_spotify**, including upstr
 | Field | Value |
 | --- | --- |
 | App | your_spotify |
-| Version | 1.19.0 |
+| Version | 1.20.0 |
 | License | AGPL--3.0--or--later |
 
 ## Source
