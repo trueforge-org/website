@@ -34,7 +34,7 @@ services:
           memory: 4G
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/mergerfs:2.42.0
+    image: ghcr.io/trueforge-org/mergerfs:2.41.1
     restart: unless-stopped
     shm_size: 256M
     volumes:
