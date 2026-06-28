@@ -96,6 +96,7 @@ words:
   - flushtables
   - fluxcd
   - forcegc
+  - forgetool
   - forwardauth
   - fowner
   - frontmatter
@@ -157,6 +158,7 @@ words:
   - kubeconfig
   - kubectl
   - kubernetes
+  - kustomization
   - lancache
   - ldapldap
   - ldapldaps
@@ -361,7 +363,6 @@ words:
   - trakt
   - truecharts
   - truenas
-  - forgetool
   - ttrss
   - umami
   - unet

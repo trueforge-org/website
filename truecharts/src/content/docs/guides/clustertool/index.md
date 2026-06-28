@@ -1,10 +1,10 @@
 ---
 sidebar:
   order: 1
-title: Introduction to ForgeTool
+title: Introduction to ClusterTool
 ---
 
-ForgeTool is TrueCharts' own easy deployment and maintenance tool for TalosOS clusters.
+ClusterTool is TrueCharts' own easy deployment and maintenance tool for TalosOS clusters.
 
 It has support for both single-node and multi-node clusters, both as Virtual Machines and on Bare-Metal.
 It can also be used to bootstrap and maintain a FluxCD environment, shared with TalOS Through a single settings interface.
@@ -16,13 +16,13 @@ As security is important, it features integrated encryption and decryption. Base
 We do expect users to understand what Talos OS is and isn't.
 As well as understand the basics of what "Apply", "Bootstrap" and/or "Upgrade" means for Talos OS.
 
-## What ForgeTool is not
+## What ClusterTool is not
 
-Besides bootstrapping included helm charts, ForgeTool will NOT help you update, maintain or alter helm-charts in *any* way.
+Besides bootstrapping included helm charts, ClusterTool will NOT help you update, maintain or alter helm-charts in *any* way.
 How users run their cluster post-bootstrap, is on to the user to decide.
 
 This means that users are expected to have basic shell/console/terminal skills and understand the basics on how to edit, update, upgrade and install Helm charts.
-Our support is explicitly limited to ForgeTool *itself* and the values.yaml of our Helm charts.
+Our support is explicitly limited to ClusterTool *itself* and the values.yaml of our Helm charts.
 
 ## Noteworthy settings
 
