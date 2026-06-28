@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.6.1 • [Train: stable]
+
+- fix(orcaslicer): update image ghcr.io/linuxserver/orcaslicer 2.4.0 → 2.4.1 (#49608) • [`5741d50`](https://github.com/trueforge-org/truecharts/commit/5741d5093d0ef386facded8923522f54c4804729) • [@TrueCharts Bot] (2026-06-28)
+
 ## 3.6.0 • [Train: stable]
 
 - feat(helm-deps): update chart common 29.5.3 → 29.6.0 (#49561) • [`21581d9`](https://github.com/trueforge-org/truecharts/commit/21581d92d5ef7f8448b7b14cd9f7a5142cdaac3c) • [@TrueCharts Bot] (2026-06-27)
@@ -128,8 +132,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.17.2 • [Train: stable]
 
-- fix(helm-deps): update chart common 28.33.0 → 28.33.3 (#45974) • [`7727607`](https://github.com/trueforge-org/truecharts/commit/77276072da04092d5ba9072ff6456dffdb9d680a) • [@TrueCharts Bot] (2026-03-12)
 - chore(orcaslicer): update image ghcr.io/linuxserver/orcaslicer digest to 3448b73 (#45969) • [`6347900`](https://github.com/trueforge-org/truecharts/commit/63479001bfc80a9a39d380ffd84007adbee21893) • [@TrueCharts Bot] (2026-03-12)
+- fix(helm-deps): update chart common 28.33.0 → 28.33.3 (#45974) • [`7727607`](https://github.com/trueforge-org/truecharts/commit/77276072da04092d5ba9072ff6456dffdb9d680a) • [@TrueCharts Bot] (2026-03-12)
 
 ## 2.17.1 • [Train: stable]
 
@@ -196,11 +200,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 2.13.24 • [Train: stable]
 
 - Commit daily changes • [`bf152c8`](https://github.com/trueforge-org/truecharts/commit/bf152c8e746c6568782467d57483768b4b89a6c4) • [@TrueCharts-Bot] (2026-02-01)
-- Commit daily changes • [`5aef95e`](https://github.com/trueforge-org/truecharts/commit/5aef95e6ad29dfcd85b5ecbaf25bc7fb6c8873cb) • [@TrueCharts-Bot] (2026-01-31)
 - fix(all-charts): Fix chart.yaml &amp; add missing icons (#44393) • [`a802ce6`](https://github.com/trueforge-org/truecharts/commit/a802ce64e922757d94500d369fd1de25ffd69e5e) • [@Alfred Göppel] (2026-01-31)
 - fix(charts): remove old annotations &amp; add proper category  (#44376) • [`a855dd6`](https://github.com/trueforge-org/truecharts/commit/a855dd67f77f3353f4e70fa506d3ded479abd8c8) • [@Alfred Göppel] (2026-01-31)
 - Commit daily changes • [`d2de50f`](https://github.com/trueforge-org/truecharts/commit/d2de50f17ea2800d3a87690c06fe721280ed6e30) • [@TrueCharts-Bot] (2026-01-31)
 - Commit daily changes • [`f8c1ee7`](https://github.com/trueforge-org/truecharts/commit/f8c1ee7bdf3fbb09f34358af18d4cd2a3fb5acd3) • [@TrueCharts-Bot] (2026-01-31)
+- Commit daily changes • [`5aef95e`](https://github.com/trueforge-org/truecharts/commit/5aef95e6ad29dfcd85b5ecbaf25bc7fb6c8873cb) • [@TrueCharts-Bot] (2026-01-31)
 - chore(orcaslicer): update image ghcr.io/linuxserver/orcaslicer digest to b5cef3c (#44311) • [`ec4368f`](https://github.com/trueforge-org/truecharts/commit/ec4368fe70b94e19ca39e7f7d93dc499f9786bbf) • [@TrueCharts Bot] (2026-01-30)
 
 ## 2.13.23 • [Train: stable]
