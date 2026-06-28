@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 43.246.0 • [Train: ]
+
+- feat(deps): update renovate/renovate docker tag 43.245.0 → 43.246.0 (#2608) • [`ca8bd2d`](https://github.com/trueforge-org/truecharts/commit/ca8bd2ded462c873063bc6081e345724f5c8eb87) • [@TrueCharts Bot] (2026-06-28)
+
 ## 43.245.0 • [Train: ]
 
 - feat(deps): update renovate/renovate docker tag 43.244.4 → 43.245.0 (#2598) • [`f692f1b`](https://github.com/trueforge-org/truecharts/commit/f692f1b2f0a053ab2295e825d6fadbbed8829381) • [@TrueCharts Bot] (2026-06-27)
@@ -532,10 +536,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 43.15.1 • [Train: ]
 
-- fix(deps): update renovate/renovate docker tag 43.15.0 → 43.15.1 (#1176) • [`2b8b26c`](https://github.com/trueforge-org/truecharts/commit/2b8b26cce956131125c3cc7926d1c4ddc2a003e4) • [@TrueCharts Bot] (2026-02-15)
 - setup initial work on container-test.yaml files • [`7cabf85`](https://github.com/trueforge-org/truecharts/commit/7cabf85c2d9de84a2525cf303d3a5aef62b21309) • [@Kjeld Schouten] (2026-02-15)
 - test: standardize all container tests on shared image helper pattern (#1184) • [`a0ed683`](https://github.com/trueforge-org/truecharts/commit/a0ed68388c83990e063b6ec632f181272f1cdf27) • [@Copilot] (2026-02-15)
 - test: mount host-backed /config in container tests (#1178) • [`ed57e3c`](https://github.com/trueforge-org/truecharts/commit/ed57e3c5601790a3254ea43e5fe388b357946893) • [@Copilot] (2026-02-15)
+- fix(deps): update renovate/renovate docker tag 43.15.0 → 43.15.1 (#1176) • [`2b8b26c`](https://github.com/trueforge-org/truecharts/commit/2b8b26cce956131125c3cc7926d1c4ddc2a003e4) • [@TrueCharts Bot] (2026-02-15)
 
 ## 43.15.0 • [Train: ]
 
