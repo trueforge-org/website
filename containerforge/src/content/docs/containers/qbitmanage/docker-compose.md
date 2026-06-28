@@ -37,7 +37,7 @@ services:
       UMASK: "002"
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/qbitmanage:4.8.1
+    image: ghcr.io/trueforge-org/qbitmanage:4.9.0
     restart: unless-stopped
     shm_size: 256M
     volumes:
