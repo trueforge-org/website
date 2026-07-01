@@ -33,11 +33,14 @@ services:
           cpus: 4
           memory: 4G
     environment:
+      ARGS: ""
+      QBT_CONFIG: ""
+      QBT_CONFIG_DIR: ""
       TZ: Etc/UTC
       UMASK: "002"
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/qbitmanage:4.9.0
+    image: ghcr.io/trueforge-org/qbitmanage:v4.9.1
     restart: unless-stopped
     shm_size: 256M
     volumes:
