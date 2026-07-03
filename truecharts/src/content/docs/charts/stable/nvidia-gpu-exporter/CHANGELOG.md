@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 6.9.0 • [Train: stable]
+
+- feat(nvidia-gpu-exporter): update image docker.io/utkuozdemir/nvidia_gpu_exporter 1.7.0 → 1.8.0 (#49849) • [`419e76e`](https://github.com/trueforge-org/truecharts/commit/419e76e7a0d467bb15de9add3ebe2ab00f1fb211) • [@TrueCharts Bot] (2026-07-03)
+
 ## 6.8.0 • [Train: stable]
 
 - feat(nvidia-gpu-exporter): update image docker.io/utkuozdemir/nvidia_gpu_exporter 1.6.0 → 1.7.0 (#49763) • [`6375441`](https://github.com/trueforge-org/truecharts/commit/63754417d6bc836b7f3e7465448c843c008bfe1d) • [@TrueCharts Bot] (2026-07-02)
@@ -105,8 +109,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.14.17 • [Train: stable]
 
-- Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
 - fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
+- Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
 
 ## 5.14.16 • [Train: stable]
 
@@ -212,9 +216,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.10.0 • [Train: stable]
 
-- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 - More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
+- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 
 ## 5.9.1 • [Train: stable]
 

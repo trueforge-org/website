@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.9.0 • [Train: stable]
+
+- feat(minecraft-router): update image docker.io/itzg/mc-router 1.43.2 → 1.44.0 (#49848) • [`844d27a`](https://github.com/trueforge-org/truecharts/commit/844d27a135b7cc591dd76cb712ccb1b912e0d656) • [@TrueCharts Bot] (2026-07-03)
+
 ## 3.8.1 • [Train: stable]
 
 - fix(minecraft-router): update image docker.io/itzg/mc-router 1.43.1 → 1.43.2 (#49829) • [`3ebad00`](https://github.com/trueforge-org/truecharts/commit/3ebad001219f9d92f5e7b63f3cabe2f3edc5c7ce) • [@TrueCharts Bot] (2026-07-03)
@@ -264,9 +268,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.14.0 • [Train: stable]
 
-- chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
 - more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 - More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
+- chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
 
 ## 2.13.0 • [Train: stable]
 
