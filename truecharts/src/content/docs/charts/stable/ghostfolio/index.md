@@ -2,7 +2,7 @@
 title: ghostfolio
 ---
 
-![Version: 12.29.1](https://img.shields.io/badge/Version-12.29.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.19.1](https://img.shields.io/badge/AppVersion-3.19.1-informational?style=flat-square)
+![Version: 12.30.0](https://img.shields.io/badge/Version-12.30.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.20.0](https://img.shields.io/badge/AppVersion-3.20.0-informational?style=flat-square)
 
 Ghostfolio is a privacy-first, open source dashboard for your personal finances. Break down your asset allocation, know your net worth and make solid, data-driven investment decisions.
 
