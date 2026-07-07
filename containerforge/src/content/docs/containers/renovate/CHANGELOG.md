@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 43.255.2 • [Train: ]
+
+- fix(deps): update renovate/renovate docker tag 43.255.0 → 43.255.2 (#2715) • [`b92cb98`](https://github.com/trueforge-org/truecharts/commit/b92cb9854efb5b84d26ebadaf42f6dd395dd965b) • [@TrueCharts Bot] (2026-07-08)
+
 ## 43.255.0 • [Train: ]
 
 - feat(deps): update renovate/renovate docker tag 43.254.0 → 43.255.0 (#2712) • [`951b479`](https://github.com/trueforge-org/truecharts/commit/951b47915f1c8bf2c609e4dc0f9ff7012ccfce9a) • [@TrueCharts Bot] (2026-07-07)
@@ -416,8 +420,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 43.139.7 • [Train: ]
 
-- fix(deps): update renovate/renovate docker tag 43.139.6 → 43.139.7 (#2029) • [`06eb724`](https://github.com/trueforge-org/truecharts/commit/06eb724525692878416179a0b9e78f907e18e559) • [@TrueCharts Bot] (2026-04-23)
 - first work on docker-compose-file generation • [`5392444`](https://github.com/trueforge-org/truecharts/commit/53924449b9d4138344b638061563b5a788f59ea1) • [@Kjeld Schouten] (2026-04-23)
+- fix(deps): update renovate/renovate docker tag 43.139.6 → 43.139.7 (#2029) • [`06eb724`](https://github.com/trueforge-org/truecharts/commit/06eb724525692878416179a0b9e78f907e18e559) • [@TrueCharts Bot] (2026-04-23)
 
 ## 43.139.6 • [Train: ]
 
@@ -494,9 +498,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 43.129.1 • [Train: ]
 
+- fix(deps): update renovate/renovate docker tag 43.129.0 → 43.129.1 (#1887) • [`0a3a387`](https://github.com/trueforge-org/truecharts/commit/0a3a387cba1f45a487688c99c8d911ab626595f6) • [@TrueCharts Bot] (2026-04-19)
 - try loose versioning on forgetool renovate to force prereleases • [`4bc7a1a`](https://github.com/trueforge-org/truecharts/commit/4bc7a1a066f88fe80b36762e0a51c80961060e44) • [@Kjeld Schouten] (2026-04-19)
 - Update FORGETOOL_VERSION to 4.0.0-ALPHA25 • [`fb81432`](https://github.com/trueforge-org/truecharts/commit/fb81432e5932b6fb756b0ca335f4b9c37b3e2324) • [@Kjeld Schouten] (2026-04-19)
-- fix(deps): update renovate/renovate docker tag 43.129.0 → 43.129.1 (#1887) • [`0a3a387`](https://github.com/trueforge-org/truecharts/commit/0a3a387cba1f45a487688c99c8d911ab626595f6) • [@TrueCharts Bot] (2026-04-19)
 
 ## 43.129.0 • [Train: ]
 
@@ -513,11 +517,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 43.29.2 • [Train: ]
 
 - fix(renovate): unblock container test against upstream HEALTHCHECK (#1842) • [`49b126f`](https://github.com/trueforge-org/truecharts/commit/49b126f957e0ce964812f453e44dc1f5e32d8268) • [@Copilot] (2026-04-18)
-- chore: test tests (#1467) • [`6d9a63e`](https://github.com/trueforge-org/truecharts/commit/6d9a63e332da940dc8d94fb29cbd1118840cf077) • [@Kjeld Schouten] (2026-02-21)
 - chore: test tests 2 (#1507) • [`9f06e63`](https://github.com/trueforge-org/truecharts/commit/9f06e63b0e0c037db8b68b48bc3c10bf8599aae3) • [@Kjeld Schouten] (2026-02-21)
 - update filepath for latest forgetool • [`45309d7`](https://github.com/trueforge-org/truecharts/commit/45309d740b3865fd31c94aa0eeaeaed939467cf3) • [@Kjeld Schouten] (2026-02-21)
-- feat: move to new trueforge backed container tests (#1466) • [`540a92f`](https://github.com/trueforge-org/truecharts/commit/540a92f30e737b59381922e88d19ceec21e98408) • [@Kjeld Schouten] (2026-02-20)
+- chore: test tests (#1467) • [`6d9a63e`](https://github.com/trueforge-org/truecharts/commit/6d9a63e332da940dc8d94fb29cbd1118840cf077) • [@Kjeld Schouten] (2026-02-21)
 - fix(deps): update renovate/renovate docker tag 43.29.0 → 43.29.2 (#1465) • [`2e2dde8`](https://github.com/trueforge-org/truecharts/commit/2e2dde855048b1379909e7ea8706117dd0c0e90f) • [@TrueCharts Bot] (2026-02-20)
+- feat: move to new trueforge backed container tests (#1466) • [`540a92f`](https://github.com/trueforge-org/truecharts/commit/540a92f30e737b59381922e88d19ceec21e98408) • [@Kjeld Schouten] (2026-02-20)
 
 ## 43.29.0 • [Train: ]
 
