@@ -37,7 +37,7 @@ services:
       UMASK: "002"
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/nzbhydra2:v8.8.5
+    image: ghcr.io/trueforge-org/nzbhydra2:v8.9.0
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
