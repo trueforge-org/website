@@ -45,7 +45,7 @@ services:
       USE_COREDNS: "false"
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/wireguard:1.0.20250521
+    image: ghcr.io/trueforge-org/wireguard:1.0.20260223
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
