@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.8.1 • [Train: stable]
+
+- fix(reaparr): update image docker.io/reaparr/reaparr 0.38.0 → 0.38.1 (#50163) • [`96f9dc4`](https://github.com/trueforge-org/truecharts/commit/96f9dc4919796360031eaf8a3908022a5702172c) • [@TrueCharts Bot] (2026-07-12)
+
 ## 2.8.0 • [Train: stable]
 
 - feat(reaparr): update image docker.io/reaparr/reaparr 0.37.0 → 0.38.0 (#50150) • [`00be7d0`](https://github.com/trueforge-org/truecharts/commit/00be7d0da63e51fae7f37ca5fb601a3abeea9e6a) • [@TrueCharts Bot] (2026-07-11)
