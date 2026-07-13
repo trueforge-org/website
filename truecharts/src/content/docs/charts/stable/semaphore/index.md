@@ -2,7 +2,7 @@
 title: semaphore
 ---
 
-![Version: 7.7.9](https://img.shields.io/badge/Version-7.7.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.18.26](https://img.shields.io/badge/AppVersion-2.18.26-informational?style=flat-square)
+![Version: 7.7.10](https://img.shields.io/badge/Version-7.7.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.18.27](https://img.shields.io/badge/AppVersion-2.18.27-informational?style=flat-square)
 
 Semaphore is a modern, open source alternative to Ansible Tower. It is a self-hosted web-based solution that allows you to create and manage Ansible projects, playbooks, and roles, while also providing a web interface for running and monitoring Ansible tasks.
 
