@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.7.1 • [Train: stable]
+
+- chore(affine): update image ghcr.io/toeverything/affine digest to 93e7a89 (#50264) • [`b6c376c`](https://github.com/trueforge-org/truecharts/commit/b6c376cefb8f85e83b2fdbd7f5db3ce4ff0ba44e) • [@TrueCharts Bot] (2026-07-15)
+
 ## 1.7.0 • [Train: stable]
 
 - feat(affine): update image ghcr.io/toeverything/affine 0.26.7 → 0.27.0 (#50259) • [`40c55d7`](https://github.com/trueforge-org/truecharts/commit/40c55d7082a3bd419c6c94ea9c77d12d384b06d8) • [@TrueCharts Bot] (2026-07-14)
