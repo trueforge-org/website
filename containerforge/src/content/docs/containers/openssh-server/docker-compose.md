@@ -38,7 +38,7 @@ services:
       SUDO_ACCESS: "false"
       TZ: Etc/UTC
       USER_NAME: apps
-      USER_PASSWORD: 73be7dfce5a7a7a85bdb9e2fb92a5525WORD
+      USER_PASSWORD: b5f063cd8f79ef74c94380f87107872aWORD
     group_add:
       - "568"
     image: ghcr.io/trueforge-org/openssh-server:10.2_p1-r0-ls217
