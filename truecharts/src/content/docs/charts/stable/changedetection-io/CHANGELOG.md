@@ -106,8 +106,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.20.3 • [Train: stable]
 
-- fix(changedetection-io): update image ghcr.io/dgtlmoon/changedetection.io 0.54.4 → 0.54.5 (#45985) • [`e7c9aa9`](https://github.com/trueforge-org/truecharts/commit/e7c9aa91f97a3e675e1f9e0b8b76b9148f5f1c73) • [@TrueCharts Bot] (2026-03-12)
 - fix(helm-deps): update chart common 28.33.3 → 28.33.4 (#45987) • [`465db91`](https://github.com/trueforge-org/truecharts/commit/465db91ac6853d102ac8bb2ffd731d1b01168a02) • [@TrueCharts Bot] (2026-03-12)
+- fix(changedetection-io): update image ghcr.io/dgtlmoon/changedetection.io 0.54.4 → 0.54.5 (#45985) • [`e7c9aa9`](https://github.com/trueforge-org/truecharts/commit/e7c9aa91f97a3e675e1f9e0b8b76b9148f5f1c73) • [@TrueCharts Bot] (2026-03-12)
 
 ## 5.20.2 • [Train: stable]
 
@@ -409,9 +409,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.9.0 • [Train: stable]
 
-- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 - More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
+- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 
 ## 5.8.3 • [Train: stable]
 
@@ -795,8 +795,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.0.2 • [Train: stable]
 
-- chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/trueforge-org/truecharts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
 - chore(deps): update container image common to v24.0.6@5cd15b8 by renovate (#23138) • [`b79d3fc`](https://github.com/trueforge-org/truecharts/commit/b79d3fce6d6f5a2533b217f2e9edb9e6e611d9e0) • [@TrueCharts Bot] (2024-06-15)
+- chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/trueforge-org/truecharts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
 
 ## 4.0.1 • [Train: stable]
 

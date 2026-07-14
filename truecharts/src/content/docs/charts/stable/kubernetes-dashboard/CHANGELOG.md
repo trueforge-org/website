@@ -182,9 +182,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.2.26 • [Train: stable]
 
-- Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
 - chore(kubernetes-dashboard): update image oci.trueforge.org/containerforge/kube-sa-proxy digest to d574dab (#44977) • [`38bc359`](https://github.com/trueforge-org/truecharts/commit/38bc3591b7d201032266142ce09a184fed25f370) • [@TrueCharts Bot] (2026-02-15)
 - fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
+- Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
 
 ## 3.2.25 • [Train: stable]
 
@@ -218,8 +218,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.2.20 • [Train: stable]
 
-- chore(kubernetes-dashboard): update image oci.trueforge.org/containerforge/kube-sa-proxy digest to c08e116 (#44136) • [`326cfb7`](https://github.com/trueforge-org/truecharts/commit/326cfb7a0c0ea6a50faf208f000a6003f5f55fdd) • [@TrueCharts Bot] (2026-01-26)
 - fix(helm-deps): update chart common 28.29.36 → 28.29.37 (#44120) • [`6fef4f5`](https://github.com/trueforge-org/truecharts/commit/6fef4f53787f24b468c8db964f464a66742b2e69) • [@TrueCharts Bot] (2026-01-26)
+- chore(kubernetes-dashboard): update image oci.trueforge.org/containerforge/kube-sa-proxy digest to c08e116 (#44136) • [`326cfb7`](https://github.com/trueforge-org/truecharts/commit/326cfb7a0c0ea6a50faf208f000a6003f5f55fdd) • [@TrueCharts Bot] (2026-01-26)
 
 ## 3.2.19 • [Train: stable]
 
@@ -310,8 +310,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.0.0 • [Train: stable]
 
-- Commit daily changes • [`92e9b4a`](https://github.com/trueforge-org/truecharts/commit/92e9b4afa1d752349b847bb6a59fce207405de08) • [@TrueCharts-Bot] (2025-11-06)
 - chore!: move non-common containers from tccr to containerforge (#41408) • [`bbff07c`](https://github.com/trueforge-org/truecharts/commit/bbff07c7978f171e134de3a3ca32dd1c056edd3e) • [@Kjeld Schouten] (2025-11-06)
+- Commit daily changes • [`92e9b4a`](https://github.com/trueforge-org/truecharts/commit/92e9b4afa1d752349b847bb6a59fce207405de08) • [@TrueCharts-Bot] (2025-11-06)
 
 ## 2.12.2 • [Train: stable]
 
@@ -341,15 +341,15 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.9.0 • [Train: stable]
 
+- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
 - more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
-- More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 
 ## 2.8.0 • [Train: premium]
 
 - some readme fixes • [`65bdc5b`](https://github.com/trueforge-org/truecharts/commit/65bdc5bee8da831093597a659d090b06f50a9f7f) • [@Kjeld Schouten] (2025-10-12)
-- more tc to tf • [`70f87d4`](https://github.com/trueforge-org/truecharts/commit/70f87d44a930f912f6ba4eead6cdda9ca993572f) • [@Kjeld Schouten] (2025-10-10)
 - cut down on trains and copy to truecharts instead of charts • [`30fbfba`](https://github.com/trueforge-org/truecharts/commit/30fbfba1cbc1fdaa2d3da98698548c759815b54a) • [@Kjeld Schouten] (2025-10-10)
+- more tc to tf • [`70f87d4`](https://github.com/trueforge-org/truecharts/commit/70f87d44a930f912f6ba4eead6cdda9ca993572f) • [@Kjeld Schouten] (2025-10-10)
 - Commit daily changes • [`0c5d251`](https://github.com/trueforge-org/truecharts/commit/0c5d251be3ae436508bf66ff83e3d0a2b556df6a) • [@TrueCharts-Bot] (2025-10-07)
 - chore(helm): update chart common 28.21.1 → 28.22.0 (#40430) • [`04b47b8`](https://github.com/trueforge-org/truecharts/commit/04b47b8a4ff4dd72e51e572e26c68e41ce15222e) • [@TrueCharts Bot] (2025-10-06)
 
@@ -515,8 +515,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.13.3 • [Train: premium]
 
-- chore(helm): update image docker.io/kubernetesui/dashboard-api 1.10.2 → 1.10.3 (#32636) • [`cf47b7f`](https://github.com/trueforge-org/truecharts/commit/cf47b7fc3d2f607918daaaf9f6d2fe77d99f0f4b) • [@TrueCharts Bot] (2025-02-27)
 - chore(helm): update image docker.io/kubernetesui/dashboard-web 1.6.1 → 1.6.2 (#32637) • [`2605f23`](https://github.com/trueforge-org/truecharts/commit/2605f23124ba1b61cf917afb31b52d930b7e16af) • [@TrueCharts Bot] (2025-02-27)
+- chore(helm): update image docker.io/kubernetesui/dashboard-api 1.10.2 → 1.10.3 (#32636) • [`cf47b7f`](https://github.com/trueforge-org/truecharts/commit/cf47b7fc3d2f607918daaaf9f6d2fe77d99f0f4b) • [@TrueCharts Bot] (2025-02-27)
 
 ## 1.13.2 • [Train: premium]
 
@@ -581,8 +581,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.8.1 • [Train: premium]
 
-- chore(helm): update image docker.io/kubernetesui/dashboard-auth 1.2.0 → 1.2.1 (#28167) • [`081386d`](https://github.com/trueforge-org/truecharts/commit/081386d5347703c4816539d124c229416b873f32) • [@TrueCharts Bot] (2024-10-22)
 - chore(helm): update image docker.io/kubernetesui/dashboard-web 1.5.0 → 1.5.1 (#28169) • [`57b8bae`](https://github.com/trueforge-org/truecharts/commit/57b8bae4499f45ca5f712c9b506bd26c0c245d99) • [@TrueCharts Bot] (2024-10-22)
+- chore(helm): update image docker.io/kubernetesui/dashboard-auth 1.2.0 → 1.2.1 (#28167) • [`081386d`](https://github.com/trueforge-org/truecharts/commit/081386d5347703c4816539d124c229416b873f32) • [@TrueCharts Bot] (2024-10-22)
 
 ## 1.8.0 • [Train: premium]
 
