@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.19.28 • [Train: ]
 
+- chore(python-dep): update ghcr.io/trueforge-org/python:3.14.6 docker digest digest to ded4553 (#2778) • [`1c064e9`](https://github.com/trueforge-org/truecharts/commit/1c064e9c3c13c91e0c5d84afb24700268f9cc4ea) • [@TrueCharts Bot] (2026-07-14)
 - fix(deps): update flexget/flexget v3.19.27 → v3.19.28 (#2769) • [`f8cc105`](https://github.com/trueforge-org/truecharts/commit/f8cc105c684619820b194738f83e1b9c7f5ff314) • [@TrueCharts Bot] (2026-07-13)
 
 ## 3.19.27 • [Train: ]

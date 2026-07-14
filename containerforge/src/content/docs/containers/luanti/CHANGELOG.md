@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.16.1 • [Train: ]
 
+- chore(python-dep): update ghcr.io/trueforge-org/python:3.14.6 docker digest digest to ded4553 (#2778) • [`1c064e9`](https://github.com/trueforge-org/truecharts/commit/1c064e9c3c13c91e0c5d84afb24700268f9cc4ea) • [@TrueCharts Bot] (2026-07-14)
 - chore(python-dep): update ghcr.io/trueforge-org/python:3.14.6 docker digest digest to ec53f98 (#2658) • [`112821c`](https://github.com/trueforge-org/truecharts/commit/112821ca5eca6ccb0b41239a1f7f2610429bf9fa) • [@TrueCharts Bot] (2026-07-02)
 - fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.14.5 → 3.14.6 (#2502) • [`2ea5fc8`](https://github.com/trueforge-org/truecharts/commit/2ea5fc845864083f2b3e7099a07f26dcc1e0892e) • [@TrueCharts Bot] (2026-06-27)
 - fix(python-dep): update ghcr.io/trueforge-org/python docker tag 3.14.4 → 3.14.5 (#2375) • [`65af60a`](https://github.com/trueforge-org/truecharts/commit/65af60a10dbd6733d8e52f8eba9564091bdfe5a2) • [@TrueCharts Bot] (2026-06-08)
