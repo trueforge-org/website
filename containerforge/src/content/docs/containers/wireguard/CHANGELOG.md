@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.20260223 • [Train: ]
 
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 68e4815 (#2803) • [`a42791b`](https://github.com/trueforge-org/truecharts/commit/a42791ba8da1db1878f5ca327538ba30837cc4a9) • [@TrueCharts Bot] (2026-07-16)
 - fix(deps): update linuxserver/wireguard docker tag 1.0.20250521 → 1.0.20260223 (#2724) • [`cffe499`](https://github.com/trueforge-org/truecharts/commit/cffe499e04e73566ff337c461cbece3bb7815c52) • [@TrueCharts Bot] (2026-07-09)
 
 ## 1.0.20250521 • [Train: ]
