@@ -35,11 +35,11 @@ services:
     environment:
       FG_CONFIG_FILE: /config/config.yml
       FG_LOG_LEVEL: info
-      FG_WEBUI_PASSWORD: 8d6af71215697abb9934ec912498fc4cWORD
+      FG_WEBUI_PASSWORD: e24c121d12796036773d526979adbfaeWORD
       TZ: Etc/UTC
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/flexget:3.19.28
+    image: ghcr.io/trueforge-org/flexget:3.19.29
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
