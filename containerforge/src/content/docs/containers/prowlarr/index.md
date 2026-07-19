@@ -2,7 +2,7 @@
 title: prowlarr
 ---
 
-![Version: 2.5.1.5464](https://img.shields.io/badge/Version-2.5.1.5464-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 2.5.2.5483](https://img.shields.io/badge/Version-2.5.2.5483-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **prowlarr**, including upstream 
 | Field | Value |
 | --- | --- |
 | App | prowlarr |
-| Version | 2.5.1.5464 |
+| Version | 2.5.2.5483 |
 | License | AGPL--3.0--or--later |
 
 ## Source
