@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 43.272.5 • [Train: ]
+
+- fix(deps): update renovate/renovate docker tag 43.272.4 → 43.272.5 (#2865) • [`98b333e`](https://github.com/trueforge-org/truecharts/commit/98b333ed14ebdad6deb07537f6a2d8ec18f9e8b9) • [@TrueCharts Bot] (2026-07-21)
+
 ## 43.272.4 • [Train: ]
 
 - fix(deps): update renovate/renovate docker tag 43.272.3 → 43.272.4 (#2861) • [`8115d58`](https://github.com/trueforge-org/truecharts/commit/8115d586ce8783fe94d0539763e1bce20172750b) • [@TrueCharts Bot] (2026-07-20)
@@ -686,9 +690,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 43.129.1 • [Train: ]
 
-- Update FORGETOOL_VERSION to 4.0.0-ALPHA25 • [`fb81432`](https://github.com/trueforge-org/truecharts/commit/fb81432e5932b6fb756b0ca335f4b9c37b3e2324) • [@Kjeld Schouten] (2026-04-19)
 - fix(deps): update renovate/renovate docker tag 43.129.0 → 43.129.1 (#1887) • [`0a3a387`](https://github.com/trueforge-org/truecharts/commit/0a3a387cba1f45a487688c99c8d911ab626595f6) • [@TrueCharts Bot] (2026-04-19)
 - try loose versioning on forgetool renovate to force prereleases • [`4bc7a1a`](https://github.com/trueforge-org/truecharts/commit/4bc7a1a066f88fe80b36762e0a51c80961060e44) • [@Kjeld Schouten] (2026-04-19)
+- Update FORGETOOL_VERSION to 4.0.0-ALPHA25 • [`fb81432`](https://github.com/trueforge-org/truecharts/commit/fb81432e5932b6fb756b0ca335f4b9c37b3e2324) • [@Kjeld Schouten] (2026-04-19)
 
 ## 43.129.0 • [Train: ]
 
@@ -807,8 +811,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 43.16.0 • [Train: ]
 
-- feat(deps): update renovate/renovate docker tag 43.15.3 → 43.16.0 (#1222) • [`37f4bc0`](https://github.com/trueforge-org/truecharts/commit/37f4bc0ef6e96f1005fff3447a3517ad02f019cf) • [@TrueCharts Bot] (2026-02-16)
 - feat: python update and test fix (#1231) • [`6726e6e`](https://github.com/trueforge-org/truecharts/commit/6726e6e27dd2429860696d81844654f9f6e88611) • [@Kjeld Schouten] (2026-02-16)
+- feat(deps): update renovate/renovate docker tag 43.15.3 → 43.16.0 (#1222) • [`37f4bc0`](https://github.com/trueforge-org/truecharts/commit/37f4bc0ef6e96f1005fff3447a3517ad02f019cf) • [@TrueCharts Bot] (2026-02-16)
 
 ## 43.15.3 • [Train: ]
 
@@ -935,8 +939,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 43.3.0 • [Train: ]
 
-- fix(renovate): Update Forgetool version (#1043) • [`930e5ab`](https://github.com/trueforge-org/truecharts/commit/930e5ab5bec52bc0915908956d1006f0a25963c5) • [@Alfred Göppel] (2026-02-04)
 - feat(deps): update renovate/renovate docker tag 43.2.8 → 43.3.0 (#1042) • [`ce47ab1`](https://github.com/trueforge-org/truecharts/commit/ce47ab199014af3a35aa6d4d18f808d03dfc0a1b) • [@TrueCharts Bot] (2026-02-04)
+- fix(renovate): Update Forgetool version (#1043) • [`930e5ab`](https://github.com/trueforge-org/truecharts/commit/930e5ab5bec52bc0915908956d1006f0a25963c5) • [@Alfred Göppel] (2026-02-04)
 
 ## 43.2.8 • [Train: ]
 
@@ -1485,5 +1489,5 @@ If you need more than 2 scrolls to find your current version, please consider up
 - fix more build issues • [`5386b66`](https://github.com/trueforge-org/truecharts/commit/5386b66814a4296f6282b463678213b7948967a0) • [@Kjeld Schouten] (2025-09-29)
 - and cleanup some more • [`bbe4f1b`](https://github.com/trueforge-org/truecharts/commit/bbe4f1b23054b5eb74b5a7719395bd46127024b5) • [@Kjeld Schouten] (2025-09-29)
 - fix targetarch for renovate • [`cccec29`](https://github.com/trueforge-org/truecharts/commit/cccec2917d3dce9306e0f584edf38aefe43a6a68) • [@Kjeld Schouten] (2025-09-29)
-- hmm • [`e1edfe7`](https://github.com/trueforge-org/truecharts/commit/e1edfe73b16b4cd3705c25828393851b656e44ae) • [@Kjeld Schouten] (2025-09-29)
 - more fixes • [`d36deb3`](https://github.com/trueforge-org/truecharts/commit/d36deb361bd1c8b6fca5a23e8f16b48666767e80) • [@Kjeld Schouten] (2025-09-29)
+- hmm • [`e1edfe7`](https://github.com/trueforge-org/truecharts/commit/e1edfe73b16b4cd3705c25828393851b656e44ae) • [@Kjeld Schouten] (2025-09-29)
