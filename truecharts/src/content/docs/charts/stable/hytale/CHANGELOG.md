@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.6.3 • [Train: stable]
+
+- chore(hytale): update image oci.trueforge.org/containerforge/hytale digest to 89c2678 (#50496) • [`927218d`](https://github.com/trueforge-org/truecharts/commit/927218dcbb9ebc59319a40cf91ff2a44161196f3) • [@TrueCharts Bot] (2026-07-20)
+
 ## 2.6.2 • [Train: stable]
 
 - chore(hytale): update image oci.trueforge.org/containerforge/hytale digest to af501d0 (#50334) • [`b355939`](https://github.com/trueforge-org/truecharts/commit/b355939d756e21864ae5b95683b14b9ea70bd840) • [@TrueCharts Bot] (2026-07-16)
