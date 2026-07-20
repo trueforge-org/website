@@ -14,10 +14,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 5.0.2 • [Train: ]
 
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to c17d482 (#2827) • [`9fa7995`](https://github.com/trueforge-org/truecharts/commit/9fa799526c7c9d3b95b4a001dda7fe1fd3a95473) • [@TrueCharts Bot] (2026-07-17)
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 68e4815 (#2803) • [`a42791b`](https://github.com/trueforge-org/truecharts/commit/a42791ba8da1db1878f5ca327538ba30837cc4a9) • [@TrueCharts Bot] (2026-07-16)
 - chore(golang-dep): update ghcr.io/trueforge-org/golang:1.26.4 docker digest digest to 3fd10a3 (#2807) • [`49e46cb`](https://github.com/trueforge-org/truecharts/commit/49e46cb9b5b28b584065ebddcdac6e9b3ae66eb1) • [@TrueCharts Bot] (2026-07-16)
-- chore(golang-dep): update ghcr.io/trueforge-org/golang:1.26.4 docker digest digest to 2b01c63 (#2659) • [`7060b8c`](https://github.com/trueforge-org/truecharts/commit/7060b8ca4321460ac2e99ba5a7c533bebec49885) • [@TrueCharts Bot] (2026-07-02)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 68e4815 (#2803) • [`a42791b`](https://github.com/trueforge-org/truecharts/commit/a42791ba8da1db1878f5ca327538ba30837cc4a9) • [@TrueCharts Bot] (2026-07-16)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to a79e218 (#2654) • [`14128ad`](https://github.com/trueforge-org/truecharts/commit/14128adf023faac3f2783f4cbe6c5800bb2969c7) • [@TrueCharts Bot] (2026-07-02)
+- chore(golang-dep): update ghcr.io/trueforge-org/golang:1.26.4 docker digest digest to 2b01c63 (#2659) • [`7060b8c`](https://github.com/trueforge-org/truecharts/commit/7060b8ca4321460ac2e99ba5a7c533bebec49885) • [@TrueCharts Bot] (2026-07-02)
 - fix(deps): update pydio/cells v5.0.1 → v5.0.2 (#2633) • [`b9831f1`](https://github.com/trueforge-org/truecharts/commit/b9831f15c89a17fabfa49bf6115f6da695941ead) • [@TrueCharts Bot] (2026-06-30)
 
 ## 5.0.1 • [Train: ]
@@ -42,5 +42,5 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.4.15 • [Train: ]
 
-- Promote 18 verified-green containers from porting/queues/passing/ to apps/ &#43; fix failing containers (#2124) • [`6bfac98`](https://github.com/trueforge-org/truecharts/commit/6bfac988abc9dd6f7d1b84bc670f36b1f19e9233) • [@Copilot] (2026-04-27)
 - chore(golang-dep): pin ghcr.io/trueforge-org/golang docker tag digest to 66c4ecd (#2137) • [`0652e6c`](https://github.com/trueforge-org/truecharts/commit/0652e6cf5509d76876b006b2231ae36a840044c7) • [@TrueCharts Bot] (2026-04-27)
+- Promote 18 verified-green containers from porting/queues/passing/ to apps/ &#43; fix failing containers (#2124) • [`6bfac98`](https://github.com/trueforge-org/truecharts/commit/6bfac988abc9dd6f7d1b84bc670f36b1f19e9233) • [@Copilot] (2026-04-27)
