@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.6.3 • [Train: ]
 
+- chore(node-dep): update node.js digest to 62add29 (#2804) • [`3b3b5ff`](https://github.com/trueforge-org/truecharts/commit/3b3b5ffe522a0db79cd09b9acf5039370e3bee3a) • [@TrueCharts Bot] (2026-07-21)
 - chore(node-dep): update node.js digest to 6ec4fab (#2657) • [`890ca0a`](https://github.com/trueforge-org/truecharts/commit/890ca0a8f1a9ee6461236d754964aa5479132e97) • [@TrueCharts Bot] (2026-07-06)
 - fix(deps): update mastodon/mastodon v4.6.2 → v4.6.3 (#2679) • [`e258641`](https://github.com/trueforge-org/truecharts/commit/e258641795fb03f258c4efc3041663c99f9d7c28) • [@TrueCharts Bot] (2026-07-03)
 

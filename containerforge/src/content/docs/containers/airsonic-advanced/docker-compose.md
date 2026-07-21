@@ -34,7 +34,7 @@ services:
           memory: 4G
     environment:
       SPRING_DATASOURCE_DRIVER_CLASS_NAME: org.postgresql.Driver
-      SPRING_DATASOURCE_PASSWORD: ff0e5c0cf2da5c8cb68045686e9fdd2fWORD
+      SPRING_DATASOURCE_PASSWORD: 31f324a3ce5dcd9e439432a715c66091WORD
       SPRING_DATASOURCE_URL: jdbc:postgresql://postgresql:5432/airsonic-advanced
       SPRING_DATASOURCE_USERNAME: airsonic-advanced
       TZ: Etc/UTC
@@ -71,7 +71,7 @@ services:
 #           memory: "4294967296"
 #     environment:
 #       POSTGRES_DB: airsonic-advanced
-#       POSTGRES_PASSWORD: ff0e5c0cf2da5c8cb68045686e9fdd2fWORD
+#       POSTGRES_PASSWORD: 31f324a3ce5dcd9e439432a715c66091WORD
 #       POSTGRES_USER: airsonic-advanced
 #       TZ: Etc/UTC
 #     group_add:
