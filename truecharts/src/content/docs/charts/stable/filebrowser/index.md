@@ -2,7 +2,7 @@
 title: filebrowser
 ---
 
-![Version: 13.7.1](https://img.shields.io/badge/Version-13.7.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.63.18](https://img.shields.io/badge/AppVersion-2.63.18-informational?style=flat-square)
+![Version: 13.7.2](https://img.shields.io/badge/Version-13.7.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.63.19](https://img.shields.io/badge/AppVersion-2.63.19-informational?style=flat-square)
 
 Filebrowser provides a file managing interface within a specified directory
 
