@@ -2,7 +2,7 @@
 title: sonarr
 ---
 
-![Version: 4.0.18.2978](https://img.shields.io/badge/Version-4.0.18.2978-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 4.0.19.2991](https://img.shields.io/badge/Version-4.0.19.2991-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **sonarr**, including upstream so
 | Field | Value |
 | --- | --- |
 | App | sonarr |
-| Version | 4.0.18.2978 |
+| Version | 4.0.19.2991 |
 | License | AGPL--3.0--or--later |
 
 ## Source
