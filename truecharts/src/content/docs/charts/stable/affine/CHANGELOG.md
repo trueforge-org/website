@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.8.0 • [Train: stable]
+
+- feat(helm-deps): update chart common 29.7.1 → 29.10.4 (#50726) • [`0c27960`](https://github.com/trueforge-org/truecharts/commit/0c27960675992b171f6f0e5bae2a6133eee7d941) • [@TrueCharts Bot] (2026-07-26)
+
 ## 1.7.5 • [Train: stable]
 
 - fix(affine): update image ghcr.io/toeverything/affine 0.27.2 → 0.27.3 (#50650) • [`c7f33ed`](https://github.com/trueforge-org/truecharts/commit/c7f33ed37435f9dff7e305d050f61d920016fae5) • [@TrueCharts Bot] (2026-07-23)

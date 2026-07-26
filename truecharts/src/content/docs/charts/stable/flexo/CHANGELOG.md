@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.7.0 • [Train: stable]
+
+- feat(helm-deps): update chart common 29.7.1 → 29.10.4 (#50726) • [`0c27960`](https://github.com/trueforge-org/truecharts/commit/0c27960675992b171f6f0e5bae2a6133eee7d941) • [@TrueCharts Bot] (2026-07-26)
+
 ## 3.6.1 • [Train: stable]
 
 - fix(flexo): update image docker.io/nroi/flexo 1.6.12 → 1.6.13 (#49885) • [`44d3867`](https://github.com/trueforge-org/truecharts/commit/44d38671e2bea7de67be81003fa2abeb19862588) • [@TrueCharts Bot] (2026-07-04)

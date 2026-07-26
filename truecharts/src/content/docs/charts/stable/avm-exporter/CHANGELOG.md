@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.6.0 • [Train: stable]
+
+- feat(helm-deps): update chart common 29.7.1 → 29.10.4 (#50726) • [`0c27960`](https://github.com/trueforge-org/truecharts/commit/0c27960675992b171f6f0e5bae2a6133eee7d941) • [@TrueCharts Bot] (2026-07-26)
+
 ## 3.5.1 • [Train: stable]
 
 - fix(avm-exporter): update image docker.io/pdreker/fritz_exporter 3.3.1 → 3.3.2 (#50733) • [`402c4f7`](https://github.com/trueforge-org/truecharts/commit/402c4f718b7ae795bab2ff57e9edcca12f1de2c1) • [@TrueCharts Bot] (2026-07-26)
