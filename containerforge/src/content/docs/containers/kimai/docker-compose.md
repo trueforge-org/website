@@ -33,7 +33,7 @@ services:
           cpus: 4
           memory: 4G
     environment:
-      DATABASE_URL: mysql://kimai:e4aee9ccad8459c3ec5049cbf693dceeWORD@mariadb:3306/kimai
+      DATABASE_URL: mysql://kimai:1bacbbc83bbb5a5838812756eabafad9WORD@mariadb:3306/kimai
       TZ: Etc/UTC
     group_add:
       - "568"
@@ -68,8 +68,8 @@ services:
           memory: 4G
     environment:
       MARIADB_DATABASE: kimai
-      MARIADB_PASSWORD: e4aee9ccad8459c3ec5049cbf693dceeWORD
-      MARIADB_ROOT_PASSWORD: f1f08774f67602162629cc0da1b2479bWORD
+      MARIADB_PASSWORD: 1bacbbc83bbb5a5838812756eabafad9WORD
+      MARIADB_ROOT_PASSWORD: 6b92aa0688f1f4734ee2bb8f72d01264WORD
       MARIADB_USER: kimai
       TZ: Etc/UTC
     group_add:
