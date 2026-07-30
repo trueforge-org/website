@@ -50,7 +50,7 @@ services:
       WIREGUARD_PRIVATE_KEY: ""
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/gluetun:v3.41.2
+    image: ghcr.io/trueforge-org/gluetun:v3.41.3
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1

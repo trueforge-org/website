@@ -2,7 +2,7 @@
 title: gluetun
 ---
 
-![Version: v3.41.2](https://img.shields.io/badge/Version-v3.41.2-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: v3.41.3](https://img.shields.io/badge/Version-v3.41.3-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **gluetun**, including upstream s
 | Field | Value |
 | --- | --- |
 | App | gluetun |
-| Version | v3.41.2 |
+| Version | v3.41.3 |
 | License | AGPL--3.0--or--later |
 
 ## Source
