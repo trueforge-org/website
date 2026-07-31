@@ -41,7 +41,7 @@ services:
       UMASK: "002"
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/kometa:2.4.5
+    image: ghcr.io/trueforge-org/kometa:2.4.6
     restart: unless-stopped
     shm_size: 256M
     volumes:
