@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.5.2 • [Train: stable]
+
+- fix(docuseal): update image docker.io/docuseal/docuseal 3.1.6 → 3.1.7 (#51019) • [`256203c`](https://github.com/trueforge-org/truecharts/commit/256203c856770891b0ed3f0a686575620d7c65f9) • [@TrueCharts Bot] (2026-08-03)
+
 ## 7.5.1 • [Train: stable]
 
 - fix(docuseal): update image docker.io/docuseal/docuseal 3.1.5 → 3.1.6 (#50788) • [`68eb0cd`](https://github.com/trueforge-org/truecharts/commit/68eb0cd7ded1da6ad1eae4601b1533461668a44c) • [@TrueCharts Bot] (2026-07-27)
