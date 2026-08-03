@@ -33,11 +33,11 @@ services:
           cpus: 4
           memory: 4G
     environment:
-      DATABASE_URL: mysql://kimai:160e20c128922175632436aa5288f93cWORD@mariadb:3306/kimai
+      DATABASE_URL: mysql://kimai:d86c349dba54b12046b462e92a03b2beWORD@mariadb:3306/kimai
       TZ: Etc/UTC
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/kimai:2.62.0
+    image: ghcr.io/trueforge-org/kimai:2.63.0
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
@@ -68,8 +68,8 @@ services:
           memory: 4G
     environment:
       MARIADB_DATABASE: kimai
-      MARIADB_PASSWORD: 160e20c128922175632436aa5288f93cWORD
-      MARIADB_ROOT_PASSWORD: c29f851fb846298384bf89bdd31ca3c2WORD
+      MARIADB_PASSWORD: d86c349dba54b12046b462e92a03b2beWORD
+      MARIADB_ROOT_PASSWORD: 6cae4942c18b5c61f87568f92e677841WORD
       MARIADB_USER: kimai
       TZ: Etc/UTC
     group_add:
