@@ -2,7 +2,7 @@
 title: streamystats
 ---
 
-![Version: 0.5.0](https://img.shields.io/badge/Version-0.5.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.18.0](https://img.shields.io/badge/AppVersion-2.18.0-informational?style=flat-square)
+![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.18.0](https://img.shields.io/badge/AppVersion-2.18.0-informational?style=flat-square)
 
 Streamystats aggregates and visualizes watch history from Jellyfin, Emby and Plex.
 
@@ -11,7 +11,7 @@ Streamystats aggregates and visualizes watch history from Jellyfin, Emby and Ple
 - https://ghcr.io/fredrikburmester/streamystats-job-server
 - https://ghcr.io/fredrikburmester/streamystats-nextjs
 - https://github.com/fredrikburmester/streamystats
-- https://github.com/trueforge-org/truecharts/tree/master/charts/incubator/streamystats
+- https://github.com/trueforge-org/truecharts/tree/master/charts/stable/streamystats
 
 ## Available Documentation
 
