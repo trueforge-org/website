@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.0.0 • [Train: stable]
+
+- feat(bookorbit): promote bookorbit to stable (#51030) • [`a363a6c`](https://github.com/trueforge-org/truecharts/commit/a363a6c262be57e9d3e53967e85d54a2a8ed3170) • [@Gene Liu] (2026-08-04)
+
 ## 0.0.1 • [Train: incubator]
 
 - Commit daily changes • [`982ef2e`](https://github.com/trueforge-org/truecharts/commit/982ef2e135a673d22c92769d75aae76a10c49f0e) • [@TrueCharts-Bot] (2026-08-04)
