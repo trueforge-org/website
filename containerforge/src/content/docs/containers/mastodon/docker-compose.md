@@ -36,9 +36,9 @@ services:
       ACTIVE_RECORD_ENCRYPTION_DETERMINISTIC_KEY: ""
       ACTIVE_RECORD_ENCRYPTION_KEY_DERIVATION_SALT: ""
       ACTIVE_RECORD_ENCRYPTION_PRIMARY_KEY: ""
-      DATABASE_URL: postgresql://mastodon:973f6729a6cf3115a90990930741a9ddWORD@postgresql:5432/mastodon
+      DATABASE_URL: postgresql://mastodon:1927db516eb14a208fa2a1cd0da836c4WORD@postgresql:5432/mastodon
       OTP_SECRET: ""
-      REDIS_URL: redis://:ac1151e3151901b241ed17f254da6f2cWORD@valkey:6379
+      REDIS_URL: redis://:43c073c769451be68fb8c27a7079f159WORD@valkey:6379
       RUN_DB_PREPARE: "false"
       SECRET_KEY_BASE: ""
       TZ: Etc/UTC
@@ -69,7 +69,7 @@ services:
 #           memory: "4294967296"
 #     environment:
 #       POSTGRES_DB: mastodon
-#       POSTGRES_PASSWORD: 973f6729a6cf3115a90990930741a9ddWORD
+#       POSTGRES_PASSWORD: 1927db516eb14a208fa2a1cd0da836c4WORD
 #       POSTGRES_USER: mastodon
 #       TZ: Etc/UTC
 #     group_add:
