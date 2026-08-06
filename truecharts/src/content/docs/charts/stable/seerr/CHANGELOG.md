@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 16.4.3 • [Train: stable]
+
+- chore(seerr): update image oci.trueforge.org/containerforge/seerr digest to 3b26cf6 (#51139) • [`717721b`](https://github.com/trueforge-org/truecharts/commit/717721b3a2586e26a8516f361e9cf9b7954ec60a) • [@TrueCharts Bot] (2026-08-06)
+
 ## 16.4.2 • [Train: stable]
 
 - chore(seerr): update image oci.trueforge.org/containerforge/seerr digest to 0596771 (#51000) • [`8d23ba9`](https://github.com/trueforge-org/truecharts/commit/8d23ba9bdc16ee70639d6a3723bcb962febc3240) • [@TrueCharts Bot] (2026-08-03)
