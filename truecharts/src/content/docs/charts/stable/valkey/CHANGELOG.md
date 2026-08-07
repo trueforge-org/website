@@ -15,6 +15,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - feat: Add incubator `valkey` chart scaffolded from stable `redis` (#44984) • [`b21ce0e`](https://github.com/trueforge-org/truecharts/commit/b21ce0e1f5056e51481b8627d3813eec0b1bb9d2) • [@Copilot] (2026-02-15)
 
+## 2.7.2 • [Train: stable]
+
+- chore(valkey): update image docker.io/bitnamisecure/valkey digest to ea5af77 (#51171) • [`1a3b5ea`](https://github.com/trueforge-org/truecharts/commit/1a3b5ea5cce99dcc9d17517010d42ed3b6052a8c) • [@TrueCharts Bot] (2026-08-07)
+
 ## 2.7.1 • [Train: stable]
 
 - chore(valkey): update image docker.io/bitnamisecure/valkey digest to 4a1c16e (#51025) • [`02aefd0`](https://github.com/trueforge-org/truecharts/commit/02aefd0a231aa862e429f3334be0bc6f8f90033c) • [@TrueCharts Bot] (2026-08-04)
@@ -198,8 +202,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.2 • [Train: incubator]
 
-- chore(valkey): pin image docker.io/bitnamisecure/valkey digest to 14dc12c (#44989) • [`f74af0f`](https://github.com/trueforge-org/truecharts/commit/f74af0f85c4bceaf11b7df0078ad12e15c6b3f4a) • [@TrueCharts Bot] (2026-02-15)
 - Bump version from 0.0.1 to 0.0.2 • [`96b77fa`](https://github.com/trueforge-org/truecharts/commit/96b77fa49ea4353bb67175707c3151d75e1e5d0e) • [@Kjeld Schouten] (2026-02-15)
+- chore(valkey): pin image docker.io/bitnamisecure/valkey digest to 14dc12c (#44989) • [`f74af0f`](https://github.com/trueforge-org/truecharts/commit/f74af0f85c4bceaf11b7df0078ad12e15c6b3f4a) • [@TrueCharts Bot] (2026-02-15)
 
 ## 0.0.1 • [Train: incubator]
 
