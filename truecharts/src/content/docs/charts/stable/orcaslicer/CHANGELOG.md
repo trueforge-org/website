@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.8.3 • [Train: stable]
+
+- chore(orcaslicer): update image ghcr.io/linuxserver/orcaslicer digest to 5e6c993 (#51340) • [`ab3ae52`](https://github.com/trueforge-org/truecharts/commit/ab3ae52a7ce0a7b496ea0a49615812a054050df3) • [@TrueCharts Bot] (2026-08-12)
+
 ## 3.8.2 • [Train: stable]
 
 - chore(orcaslicer): update image ghcr.io/linuxserver/orcaslicer digest to 2060b4f (#51113) • [`c0738d9`](https://github.com/trueforge-org/truecharts/commit/c0738d96aa3c5f614bdb362b18d2e1afb787108e) • [@TrueCharts Bot] (2026-08-05)
@@ -124,8 +128,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 3.0.7 • [Train: stable]
 
 - Commit daily changes • [`9164213`](https://github.com/trueforge-org/truecharts/commit/91642136a277b0c184949ca0ab22b2db5054a0dd) • [@TrueCharts-Bot] (2026-04-18)
-- more fixes • [`fcbe54c`](https://github.com/trueforge-org/truecharts/commit/fcbe54ccf432624561323b218f6ed825eabf7b2d) • [@Kjeld Schouten] (2026-04-17)
 - Commit daily changes • [`ce6c266`](https://github.com/trueforge-org/truecharts/commit/ce6c26633182ca95a2af3382c6dfe6a5b4bec08a) • [@TrueCharts-Bot] (2026-04-17)
+- more fixes • [`fcbe54c`](https://github.com/trueforge-org/truecharts/commit/fcbe54ccf432624561323b218f6ed825eabf7b2d) • [@Kjeld Schouten] (2026-04-17)
 - fix(helm-deps): update chart common 29.0.10 → 29.0.15 (#47022) • [`509cd59`](https://github.com/trueforge-org/truecharts/commit/509cd59e0a295ff1da8221fe7749adf27d36ecf3) • [@TrueCharts Bot] (2026-04-15)
 
 ## 3.0.6 • [Train: stable]
@@ -168,8 +172,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.17.2 • [Train: stable]
 
-- fix(helm-deps): update chart common 28.33.0 → 28.33.3 (#45974) • [`7727607`](https://github.com/trueforge-org/truecharts/commit/77276072da04092d5ba9072ff6456dffdb9d680a) • [@TrueCharts Bot] (2026-03-12)
 - chore(orcaslicer): update image ghcr.io/linuxserver/orcaslicer digest to 3448b73 (#45969) • [`6347900`](https://github.com/trueforge-org/truecharts/commit/63479001bfc80a9a39d380ffd84007adbee21893) • [@TrueCharts Bot] (2026-03-12)
+- fix(helm-deps): update chart common 28.33.0 → 28.33.3 (#45974) • [`7727607`](https://github.com/trueforge-org/truecharts/commit/77276072da04092d5ba9072ff6456dffdb9d680a) • [@TrueCharts Bot] (2026-03-12)
 
 ## 2.17.1 • [Train: stable]
 
@@ -182,8 +186,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.16.1 • [Train: stable]
 
-- chore(orcaslicer): update image ghcr.io/linuxserver/orcaslicer digest to 38f6620 (#45499) • [`023b3bb`](https://github.com/trueforge-org/truecharts/commit/023b3bb8d0fbdbb6da4f356b0b6bc50297421a15) • [@TrueCharts Bot] (2026-02-24)
 - fix(helm-deps): update chart common 28.32.2 → 28.32.5 (#45514) • [`772ec1b`](https://github.com/trueforge-org/truecharts/commit/772ec1b1b4c77761674586d56cb4615b653c9699) • [@TrueCharts Bot] (2026-02-24)
+- chore(orcaslicer): update image ghcr.io/linuxserver/orcaslicer digest to 38f6620 (#45499) • [`023b3bb`](https://github.com/trueforge-org/truecharts/commit/023b3bb8d0fbdbb6da4f356b0b6bc50297421a15) • [@TrueCharts Bot] (2026-02-24)
 
 ## 2.16.0 • [Train: stable]
 
