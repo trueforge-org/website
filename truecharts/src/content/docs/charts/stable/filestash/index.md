@@ -2,7 +2,7 @@
 title: filestash
 ---
 
-![Version: 10.7.9](https://img.shields.io/badge/Version-10.7.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 10.7.10](https://img.shields.io/badge/Version-10.7.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 A Dropbox-like file manager that let you manage your data anywhere it is located.
 
