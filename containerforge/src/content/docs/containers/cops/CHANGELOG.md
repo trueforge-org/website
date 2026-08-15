@@ -41,8 +41,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to 8b0b1f0 (#1905) • [`20a527b`](https://github.com/trueforge-org/truecharts/commit/20a527bd40e7ba2654b000ee00636a54cd8e42e9) • [@TrueCharts Bot] (2026-04-19)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to bec52e9 (#1929) • [`5d334f4`](https://github.com/trueforge-org/truecharts/commit/5d334f478dcb81a0f8560e9c158c650cd1a6d8f0) • [@TrueCharts Bot] (2026-04-19)
 - fix(ubuntu): fix yaml and update ubuntu tests (#1902) • [`91b5362`](https://github.com/trueforge-org/truecharts/commit/91b5362fc0dacdd7d544f9457e5826f99a70c16f) • [@Alfred Göppel] (2026-04-19)
-- BREAKING CHANGE(deps): Update mikespub-org/seblucas-cops 3.8.2 → 4.3.1 (#1644) • [`caec934`](https://github.com/trueforge-org/truecharts/commit/caec934f2e8202c3892bc12d4cd91eccf34eea1b) • [@TrueCharts Bot] (2026-04-18)
 - fix(containers): fix spaces to asciii -&gt; renovate errors (#1849) • [`899bc8c`](https://github.com/trueforge-org/truecharts/commit/899bc8c975e664b60ed52e85b1f84a3b07144e87) • [@Alfred Göppel] (2026-04-18)
+- BREAKING CHANGE(deps): Update mikespub-org/seblucas-cops 3.8.2 → 4.3.1 (#1644) • [`caec934`](https://github.com/trueforge-org/truecharts/commit/caec934f2e8202c3892bc12d4cd91eccf34eea1b) • [@TrueCharts Bot] (2026-04-18)
 
 ## 3.8.2 • [Train: ]
 
