@@ -152,8 +152,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 18.1.2 • [Train: stable]
 
 - Commit daily changes • [`9164213`](https://github.com/trueforge-org/truecharts/commit/91642136a277b0c184949ca0ab22b2db5054a0dd) • [@TrueCharts-Bot] (2026-04-18)
-- more fixes • [`fcbe54c`](https://github.com/trueforge-org/truecharts/commit/fcbe54ccf432624561323b218f6ed825eabf7b2d) • [@Kjeld Schouten] (2026-04-17)
 - Commit daily changes • [`ce6c266`](https://github.com/trueforge-org/truecharts/commit/ce6c26633182ca95a2af3382c6dfe6a5b4bec08a) • [@TrueCharts-Bot] (2026-04-17)
+- more fixes • [`fcbe54c`](https://github.com/trueforge-org/truecharts/commit/fcbe54ccf432624561323b218f6ed825eabf7b2d) • [@Kjeld Schouten] (2026-04-17)
 - fix(helm-deps): update chart common 29.0.10 → 29.0.15 (#47022) • [`509cd59`](https://github.com/trueforge-org/truecharts/commit/509cd59e0a295ff1da8221fe7749adf27d36ecf3) • [@TrueCharts Bot] (2026-04-15)
 
 ## 18.1.1 • [Train: stable]
@@ -221,8 +221,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 16.51.1 • [Train: stable]
 
-- fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
 - Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
+- fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
 
 ## 16.51.0 • [Train: stable]
 
@@ -630,10 +630,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 11.14.2 • [Train: stable]
 
+- chore(deps): update container image docker.io/localai/localai to v2.21.0-cublas-cuda12-ffmpeg-core@d820afd by renovate (#26879) • [`00a085d`](https://github.com/trueforge-org/truecharts/commit/00a085d2b3959983c843f67fbbafdabd77a0c935) • [@TrueCharts Bot] (2024-09-26)
 - chore(deps): update container image docker.io/localai/localai to v2.21.0-cublas-cuda11-ffmpeg-core@97a44c5 by renovate (#26878) • [`989a7b1`](https://github.com/trueforge-org/truecharts/commit/989a7b105f352621ee1d99a68bbb9e0ad8e0938d) • [@TrueCharts Bot] (2024-09-26)
 - chore(deps): update container image docker.io/localai/localai to v2.21.1-cublas-cuda11-core@210ed44 by renovate (#26880) • [`b585a05`](https://github.com/trueforge-org/truecharts/commit/b585a0577d4431192b13b19b770eed3c8384e45f) • [@TrueCharts Bot] (2024-09-26)
 - chore(deps): update container image docker.io/localai/localai to v2.21.1-cublas-cuda12-core@523cdd0 by renovate (#26881) • [`b974d98`](https://github.com/trueforge-org/truecharts/commit/b974d988191e1849135169e55050bc19d21c0c89) • [@TrueCharts Bot] (2024-09-26)
-- chore(deps): update container image docker.io/localai/localai to v2.21.0-cublas-cuda12-ffmpeg-core@d820afd by renovate (#26879) • [`00a085d`](https://github.com/trueforge-org/truecharts/commit/00a085d2b3959983c843f67fbbafdabd77a0c935) • [@TrueCharts Bot] (2024-09-26)
 
 ## 11.14.1 • [Train: stable]
 
