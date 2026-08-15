@@ -134,6 +134,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.4.4 • [Train: ]
 
+- first work on docker-compose-file generation • [`5392444`](https://github.com/trueforge-org/truecharts/commit/53924449b9d4138344b638061563b5a788f59ea1) • [@Kjeld Schouten] (2026-04-23)
 - improve settings.yaml quality • [`ba4f7a3`](https://github.com/trueforge-org/truecharts/commit/ba4f7a37bc156ef1ac9823442e179284fa5af871) • [@Kjeld Schouten] (2026-04-23)
 - fix(deps): update irosthebeggar/mstream v6.4.3 → v6.4.4 (#2020) • [`3c9c15d`](https://github.com/trueforge-org/truecharts/commit/3c9c15d1bb04da871226a801b1883ac4efe02c3a) • [@TrueCharts Bot] (2026-04-22)
 
