@@ -2,7 +2,7 @@
 title: kometa
 ---
 
-![Version: 2.4.7](https://img.shields.io/badge/Version-2.4.7-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 2.4.8](https://img.shields.io/badge/Version-2.4.8-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **kometa**, including upstream so
 | Field | Value |
 | --- | --- |
 | App | kometa |
-| Version | 2.4.7 |
+| Version | 2.4.8 |
 | License | AGPL--3.0--or--later |
 
 ## Source
