@@ -2,7 +2,7 @@
 title: friendica
 ---
 
-![Version: 23.16.11](https://img.shields.io/badge/Version-23.16.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2026.05.0](https://img.shields.io/badge/AppVersion-2026.05.0-informational?style=flat-square)
+![Version: 23.16.12](https://img.shields.io/badge/Version-23.16.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2026.05.0](https://img.shields.io/badge/AppVersion-2026.05.0-informational?style=flat-square)
 
 Welcome to the free social web
 
