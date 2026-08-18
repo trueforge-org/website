@@ -439,8 +439,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.40.7 • [Train: stable]
 
-- fix(helm-deps): update chart common 28.29.23 → 28.29.24 (#43809) • [`d70fdda`](https://github.com/trueforge-org/truecharts/commit/d70fdda0290a948b573d38f0f30e866ea0afb878) • [@TrueCharts Bot] (2026-01-19)
 - fix(helm-deps): update chart redis 17.15.10 → 17.15.11 (#43813) • [`5a0b09a`](https://github.com/trueforge-org/truecharts/commit/5a0b09a8ba98842cce2967a6ec56911e55ef6a1e) • [@TrueCharts Bot] (2026-01-19)
+- fix(helm-deps): update chart common 28.29.23 → 28.29.24 (#43809) • [`d70fdda`](https://github.com/trueforge-org/truecharts/commit/d70fdda0290a948b573d38f0f30e866ea0afb878) • [@TrueCharts Bot] (2026-01-19)
 
 ## 4.40.6 • [Train: stable]
 
@@ -533,8 +533,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.37.0 • [Train: stable]
 
-- chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
 - fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
+- chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
 
 ## 4.36.0 • [Train: stable]
 
@@ -654,9 +654,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.25.0 • [Train: stable]
 
+- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 - More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
-- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 
 ## 4.24.0 • [Train: stable]
 
@@ -1050,8 +1050,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.5.1 • [Train: stable]
 
-- chore(helm): update chart redis 15.6.6 → 15.6.7 (#34045) • [`1adbdd6`](https://github.com/trueforge-org/truecharts/commit/1adbdd6ec178b879e39cf60026513d2d6a595f4c) • [@TrueCharts Bot] (2025-04-07)
 - feat(common): remove portal and ensure appUrl is used for notes.txt (#34047) • [`f8e3376`](https://github.com/trueforge-org/truecharts/commit/f8e33766bfc580b0cfa1ebbda93e110c98209022) • [@Kjeld Schouten] (2025-04-07)
+- chore(helm): update chart redis 15.6.6 → 15.6.7 (#34045) • [`1adbdd6`](https://github.com/trueforge-org/truecharts/commit/1adbdd6ec178b879e39cf60026513d2d6a595f4c) • [@TrueCharts Bot] (2025-04-07)
 
 ## 2.5.0 • [Train: stable]
 
@@ -1315,8 +1315,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 0.1.2 • [Train: incubator]
 
 - Commit daily changes • [`5f7c608`](https://github.com/trueforge-org/truecharts/commit/5f7c608042c44783d9a0864853f6e411d5c5d1b9) • [@TrueCharts-Bot] (2024-09-03)
-- chore(deps): update container image ghcr.io/manyfold3d/manyfold to v0.76.1@d376fd4 by renovate (#25824) • [`586c885`](https://github.com/trueforge-org/truecharts/commit/586c885412040320e6c70f4bc77724c160647e42) • [@TrueCharts Bot] (2024-09-02)
 - chore(deps): update container image common to v24.1.14@d84223d by renovate (#25822) • [`fbc7fb3`](https://github.com/trueforge-org/truecharts/commit/fbc7fb3b892a40759462311f94fe8913352a0020) • [@TrueCharts Bot] (2024-09-02)
+- chore(deps): update container image ghcr.io/manyfold3d/manyfold to v0.76.1@d376fd4 by renovate (#25824) • [`586c885`](https://github.com/trueforge-org/truecharts/commit/586c885412040320e6c70f4bc77724c160647e42) • [@TrueCharts Bot] (2024-09-02)
 
 ## 0.1.1 • [Train: incubator]
 
