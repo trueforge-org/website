@@ -2,7 +2,7 @@
 title: plex
 ---
 
-![Version: 1.43.3.10861-07dfddaeb](https://img.shields.io/badge/Version-1.43.3.10861-07dfddaeb-informational?style=flat-square) ![License: MIT](https://img.shields.io/badge/License-MIT-informational?style=flat-square)
+![Version: 1.43.3.10896-cb3ebc72d](https://img.shields.io/badge/Version-1.43.3.10896-cb3ebc72d-informational?style=flat-square) ![License: MIT](https://img.shields.io/badge/License-MIT-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **plex**, including upstream sour
 | Field | Value |
 | --- | --- |
 | App | plex |
-| Version | 1.43.3.10861-07dfddaeb |
+| Version | 1.43.3.10896-cb3ebc72d |
 | License | MIT |
 
 ## Source
