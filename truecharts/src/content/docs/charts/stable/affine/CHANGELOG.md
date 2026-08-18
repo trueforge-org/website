@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.9.5 • [Train: stable]
+
+- fix(affine): update image ghcr.io/toeverything/affine 0.27.3 → 0.27.4 (#51554) • [`6c27434`](https://github.com/trueforge-org/truecharts/commit/6c274340278b4f4ec4e3e025a69620ce223e34dc) • [@TrueCharts Bot] (2026-08-18)
+
 ## 1.9.4 • [Train: stable]
 
 - fix(helm-deps): update chart valkey 2.7.3 → 2.7.4 (#51501) • [`1b2f49c`](https://github.com/trueforge-org/truecharts/commit/1b2f49cc29445e3ab870f07dc743dfd73ac9291b) • [@TrueCharts Bot] (2026-08-17)
