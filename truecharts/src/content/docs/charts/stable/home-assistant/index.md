@@ -2,7 +2,7 @@
 title: home-assistant
 ---
 
-![Version: 30.12.3](https://img.shields.io/badge/Version-30.12.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2026.8.2](https://img.shields.io/badge/AppVersion-2026.8.2-informational?style=flat-square)
+![Version: 30.12.4](https://img.shields.io/badge/Version-30.12.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2026.8.2](https://img.shields.io/badge/AppVersion-2026.8.2-informational?style=flat-square)
 
 Open source home automation that puts local control and privacy first.
 
