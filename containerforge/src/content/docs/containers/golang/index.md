@@ -2,7 +2,7 @@
 title: golang
 ---
 
-![Version: 1.26.6](https://img.shields.io/badge/Version-1.26.6-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 1.26.7](https://img.shields.io/badge/Version-1.26.7-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **golang**, including upstream so
 | Field | Value |
 | --- | --- |
 | App | golang |
-| Version | 1.26.6 |
+| Version | 1.26.7 |
 | License | AGPL--3.0--or--later |
 
 ## Source
