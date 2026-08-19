@@ -20,8 +20,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to c17d482 (#2827) • [`9fa7995`](https://github.com/trueforge-org/truecharts/commit/9fa799526c7c9d3b95b4a001dda7fe1fd3a95473) • [@TrueCharts Bot] (2026-07-17)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 68e4815 (#2803) • [`a42791b`](https://github.com/trueforge-org/truecharts/commit/a42791ba8da1db1878f5ca327538ba30837cc4a9) • [@TrueCharts Bot] (2026-07-16)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to a79e218 (#2654) • [`14128ad`](https://github.com/trueforge-org/truecharts/commit/14128adf023faac3f2783f4cbe6c5800bb2969c7) • [@TrueCharts Bot] (2026-07-02)
-- feat(deps): update mikespub-org/seblucas-cops 4.3.5 → 4.5.2 (#2552) • [`73c35ba`](https://github.com/trueforge-org/truecharts/commit/73c35bae2ad0c6c9a1aeaead8f131a6ddda79225) • [@TrueCharts Bot] (2026-06-26)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to e566b6c (#2578) • [`699b1a8`](https://github.com/trueforge-org/truecharts/commit/699b1a887a97f5ea3d60396382655b32f1489928) • [@TrueCharts Bot] (2026-06-26)
+- feat(deps): update mikespub-org/seblucas-cops 4.3.5 → 4.5.2 (#2552) • [`73c35ba`](https://github.com/trueforge-org/truecharts/commit/73c35bae2ad0c6c9a1aeaead8f131a6ddda79225) • [@TrueCharts Bot] (2026-06-26)
 
 ## 4.3.5 • [Train: ]
 
@@ -42,10 +42,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 - first work on docker-compose-file generation • [`5392444`](https://github.com/trueforge-org/truecharts/commit/53924449b9d4138344b638061563b5a788f59ea1) • [@Kjeld Schouten] (2026-04-23)
 - improve settings.yaml quality • [`ba4f7a3`](https://github.com/trueforge-org/truecharts/commit/ba4f7a37bc156ef1ac9823442e179284fa5af871) • [@Kjeld Schouten] (2026-04-23)
 - fix(ubuntu): fix yaml and update ubuntu tests (#1902) • [`91b5362`](https://github.com/trueforge-org/truecharts/commit/91b5362fc0dacdd7d544f9457e5826f99a70c16f) • [@Alfred Göppel] (2026-04-19)
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to bec52e9 (#1929) • [`5d334f4`](https://github.com/trueforge-org/truecharts/commit/5d334f478dcb81a0f8560e9c158c650cd1a6d8f0) • [@TrueCharts Bot] (2026-04-19)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to 8b0b1f0 (#1905) • [`20a527b`](https://github.com/trueforge-org/truecharts/commit/20a527bd40e7ba2654b000ee00636a54cd8e42e9) • [@TrueCharts Bot] (2026-04-19)
-- BREAKING CHANGE(deps): Update mikespub-org/seblucas-cops 3.8.2 → 4.3.1 (#1644) • [`caec934`](https://github.com/trueforge-org/truecharts/commit/caec934f2e8202c3892bc12d4cd91eccf34eea1b) • [@TrueCharts Bot] (2026-04-18)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:24.04 docker digest digest to bec52e9 (#1929) • [`5d334f4`](https://github.com/trueforge-org/truecharts/commit/5d334f478dcb81a0f8560e9c158c650cd1a6d8f0) • [@TrueCharts Bot] (2026-04-19)
 - fix(containers): fix spaces to asciii -&gt; renovate errors (#1849) • [`899bc8c`](https://github.com/trueforge-org/truecharts/commit/899bc8c975e664b60ed52e85b1f84a3b07144e87) • [@Alfred Göppel] (2026-04-18)
+- BREAKING CHANGE(deps): Update mikespub-org/seblucas-cops 3.8.2 → 4.3.1 (#1644) • [`caec934`](https://github.com/trueforge-org/truecharts/commit/caec934f2e8202c3892bc12d4cd91eccf34eea1b) • [@TrueCharts Bot] (2026-04-18)
 
 ## 3.8.2 • [Train: ]
 
