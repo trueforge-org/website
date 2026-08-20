@@ -19,8 +19,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to b38871f (#3201) • [`e1ec714`](https://github.com/trueforge-org/truecharts/commit/e1ec714f9d4a03d0ffdb783c2dea679a3c1b048c) • [@TrueCharts Bot] (2026-08-19)
 - chore(golang-dep): update ghcr.io/trueforge-org/golang:1.26.6 docker digest digest to ed5f924 (#3217) • [`4134cba`](https://github.com/trueforge-org/truecharts/commit/4134cbaab6f80edfed7b815b5fc72109fb8026aa) • [@TrueCharts Bot] (2026-08-19)
 - fix(golang-dep): update ghcr.io/trueforge-org/golang docker tag 1.26.5 → 1.26.6 (#3155) • [`5dc3c67`](https://github.com/trueforge-org/truecharts/commit/5dc3c673b6e1b1e6ec76a04b2ecf3516d33a8650) • [@TrueCharts Bot] (2026-08-14)
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to e855efe (#3034) • [`d286596`](https://github.com/trueforge-org/truecharts/commit/d28659641d45e6e8f912c6b124fd43bd6adec5c6) • [@TrueCharts Bot] (2026-08-04)
 - chore(golang-dep): update ghcr.io/trueforge-org/golang:1.26.5 docker digest digest to 6cf588e (#3036) • [`5d63ead`](https://github.com/trueforge-org/truecharts/commit/5d63eadb07757d8a9100d3c5134a6fc4c3cd056c) • [@TrueCharts Bot] (2026-08-04)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to e855efe (#3034) • [`d286596`](https://github.com/trueforge-org/truecharts/commit/d28659641d45e6e8f912c6b124fd43bd6adec5c6) • [@TrueCharts Bot] (2026-08-04)
 - fix(golang-dep): update ghcr.io/trueforge-org/golang docker tag 1.26.4 → 1.26.5 (#2883) • [`984e610`](https://github.com/trueforge-org/truecharts/commit/984e610b16e632621663ec976e2c7b0faaf3cf6a) • [@TrueCharts Bot] (2026-07-25)
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 2b0e3e5 (#2871) • [`af989e3`](https://github.com/trueforge-org/truecharts/commit/af989e37ab15235dc1c742e6f9b21838ec8bbac6) • [@TrueCharts Bot] (2026-07-21)
 - chore(golang-dep): update ghcr.io/trueforge-org/golang:1.26.4 docker digest digest to b085b40 (#2830) • [`4079659`](https://github.com/trueforge-org/truecharts/commit/4079659abe63ccdd0db774f483a45d7bb636f209) • [@TrueCharts Bot] (2026-07-21)
@@ -34,9 +34,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 5.0.1 • [Train: ]
 
 - chore(golang-dep): update ghcr.io/trueforge-org/golang:1.26.4 docker digest digest to 6dd4067 (#2585) • [`4c22a05`](https://github.com/trueforge-org/truecharts/commit/4c22a051a42d8d489b88d97dddc2e4db9582a0ec) • [@TrueCharts Bot] (2026-06-27)
+- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to e566b6c (#2578) • [`699b1a8`](https://github.com/trueforge-org/truecharts/commit/699b1a887a97f5ea3d60396382655b32f1489928) • [@TrueCharts Bot] (2026-06-26)
 - chore(golang-dep): update ghcr.io/trueforge-org/golang:1.26.4 docker digest digest to 670dd56 (#2543) • [`9dc8c59`](https://github.com/trueforge-org/truecharts/commit/9dc8c596901c2f9d545277c20000e12337389e8c) • [@TrueCharts Bot] (2026-06-26)
 - BREAKING CHANGE(deps): Update pydio/cells v4.4.17 → v5.0.1 (#2562) • [`feb335a`](https://github.com/trueforge-org/truecharts/commit/feb335a25f05bb4321bfec274b54f92b62b673d9) • [@TrueCharts Bot] (2026-06-26)
-- chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to e566b6c (#2578) • [`699b1a8`](https://github.com/trueforge-org/truecharts/commit/699b1a887a97f5ea3d60396382655b32f1489928) • [@TrueCharts Bot] (2026-06-26)
 
 ## 4.4.17 • [Train: ]
 

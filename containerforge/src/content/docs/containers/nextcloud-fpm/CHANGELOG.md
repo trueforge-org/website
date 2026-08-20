@@ -97,10 +97,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 31.0.9 • [Train: ]
 
-- Migrate to new Testing backend (#47) • [`4eb3d6f`](https://github.com/trueforge-org/truecharts/commit/4eb3d6ff2cfac84140972f9fdfd726f444b9d270) • [@Kjeld Schouten] (2025-10-03)
 - More tests (#48) • [`fa56996`](https://github.com/trueforge-org/truecharts/commit/fa569962f22ea864ec71870bcef047610f19da59) • [@Kjeld Schouten] (2025-10-03)
+- Migrate to new Testing backend (#47) • [`4eb3d6f`](https://github.com/trueforge-org/truecharts/commit/4eb3d6ff2cfac84140972f9fdfd726f444b9d270) • [@Kjeld Schouten] (2025-10-03)
 - nextcloud readme update • [`63a0e7d`](https://github.com/trueforge-org/truecharts/commit/63a0e7de2cec28eb2d6926b41e5322c486151680) • [@Kjeld Schouten] (2025-10-01)
 - add empty test files where needed • [`8625972`](https://github.com/trueforge-org/truecharts/commit/862597210eded9c4ec153a08f54cf22060aa58b6) • [@Kjeld Schouten] (2025-10-01)
-- fix arm build for nextcloud-fpm • [`935a73f`](https://github.com/trueforge-org/truecharts/commit/935a73f889cfe0625886e90ab9dbe58178ee8e64) • [@Kjeld Schouten] (2025-09-30)
 - whoops fix • [`9d1ce6a`](https://github.com/trueforge-org/truecharts/commit/9d1ce6ad69086229943b8f916e281c04a09aac9d) • [@Kjeld Schouten] (2025-09-30)
 - rerun nextcloud fpm • [`a2f57c8`](https://github.com/trueforge-org/truecharts/commit/a2f57c8a45188daf00aaae8f9fe09e4c00a36372) • [@Kjeld Schouten] (2025-09-30)
+- fix arm build for nextcloud-fpm • [`935a73f`](https://github.com/trueforge-org/truecharts/commit/935a73f889cfe0625886e90ab9dbe58178ee8e64) • [@Kjeld Schouten] (2025-09-30)
