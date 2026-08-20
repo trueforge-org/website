@@ -34,8 +34,8 @@ services:
           memory: 4G
     environment:
       MARIADB_DATABASE: xbackbone
-      MARIADB_PASSWORD: 3bcf7cd201536613fc25d620b5c0d7dfWORD
-      MARIADB_ROOT_PASSWORD: 0eddeccc4ae911ca8caa0fad8a0f0a40WORD
+      MARIADB_PASSWORD: 5de879695f057dae309406ce380daaccWORD
+      MARIADB_ROOT_PASSWORD: 8e1b0f641c5a2aa6d0b681228d3ad082WORD
       MARIADB_USER: xbackbone
       TZ: Etc/UTC
     group_add:
@@ -68,7 +68,7 @@ services:
       DB_CONNECTION: mysql
       DB_DATABASE: xbackbone
       DB_HOST: mariadb
-      DB_PASSWORD: 3bcf7cd201536613fc25d620b5c0d7dfWORD
+      DB_PASSWORD: 5de879695f057dae309406ce380daaccWORD
       DB_PORT: "3306"
       DB_USERNAME: xbackbone
       TZ: Etc/UTC
