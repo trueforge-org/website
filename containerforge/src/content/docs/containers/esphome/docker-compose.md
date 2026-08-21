@@ -38,7 +38,7 @@ services:
       TZ: Etc/UTC
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/esphome:2026.7.4
+    image: ghcr.io/trueforge-org/esphome:2026.8.0
     ports:
       - mode: ingress
         # host_ip: 127.0.0.1
