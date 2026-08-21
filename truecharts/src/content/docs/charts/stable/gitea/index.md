@@ -2,7 +2,7 @@
 title: gitea
 ---
 
-![Version: 24.16.6](https://img.shields.io/badge/Version-24.16.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.27.2](https://img.shields.io/badge/AppVersion-1.27.2-informational?style=flat-square)
+![Version: 24.16.7](https://img.shields.io/badge/Version-24.16.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.27.2](https://img.shields.io/badge/AppVersion-1.27.2-informational?style=flat-square)
 
 Self hosted GIT repositories
 
