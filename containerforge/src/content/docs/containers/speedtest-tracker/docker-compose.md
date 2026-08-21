@@ -38,7 +38,7 @@ services:
       DB_CONNECTION: sqlite
       DB_DATABASE: ""
       DB_HOST: ""
-      DB_PASSWORD: 85da6acc52066bda099e0f3895268a2dWORD
+      DB_PASSWORD: f2b2a89f677f337a2b5d2d5a62428948WORD
       DB_PORT: ""
       DB_USERNAME: ""
       TZ: Etc/UTC
@@ -63,7 +63,7 @@ services:
 #           memory: "4294967296"
 #     environment:
 #       POSTGRES_DB: speedtest-tracker
-#       POSTGRES_PASSWORD: 85da6acc52066bda099e0f3895268a2dWORD
+#       POSTGRES_PASSWORD: f2b2a89f677f337a2b5d2d5a62428948WORD
 #       POSTGRES_USER: speedtest-tracker
 #       TZ: Etc/UTC
 #     group_add:
