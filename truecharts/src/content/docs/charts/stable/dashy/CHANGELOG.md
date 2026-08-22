@@ -272,8 +272,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 10.13.19 • [Train: stable]
 
-- Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
 - fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
+- Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
 
 ## 10.13.18 • [Train: stable]
 
@@ -284,11 +284,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 10.13.17 • [Train: stable]
 
 - Commit daily changes • [`bf152c8`](https://github.com/trueforge-org/truecharts/commit/bf152c8e746c6568782467d57483768b4b89a6c4) • [@TrueCharts-Bot] (2026-02-01)
+- Commit daily changes • [`5aef95e`](https://github.com/trueforge-org/truecharts/commit/5aef95e6ad29dfcd85b5ecbaf25bc7fb6c8873cb) • [@TrueCharts-Bot] (2026-01-31)
 - fix(all-charts): Fix chart.yaml &amp; add missing icons (#44393) • [`a802ce6`](https://github.com/trueforge-org/truecharts/commit/a802ce64e922757d94500d369fd1de25ffd69e5e) • [@Alfred Göppel] (2026-01-31)
 - fix(charts): remove old annotations &amp; add proper category  (#44376) • [`a855dd6`](https://github.com/trueforge-org/truecharts/commit/a855dd67f77f3353f4e70fa506d3ded479abd8c8) • [@Alfred Göppel] (2026-01-31)
 - Commit daily changes • [`d2de50f`](https://github.com/trueforge-org/truecharts/commit/d2de50f17ea2800d3a87690c06fe721280ed6e30) • [@TrueCharts-Bot] (2026-01-31)
 - Commit daily changes • [`f8c1ee7`](https://github.com/trueforge-org/truecharts/commit/f8c1ee7bdf3fbb09f34358af18d4cd2a3fb5acd3) • [@TrueCharts-Bot] (2026-01-31)
-- Commit daily changes • [`5aef95e`](https://github.com/trueforge-org/truecharts/commit/5aef95e6ad29dfcd85b5ecbaf25bc7fb6c8873cb) • [@TrueCharts-Bot] (2026-01-31)
 - fix(helm-deps): update chart common 28.29.37 → 28.29.40 (#44167) • [`09e7d81`](https://github.com/trueforge-org/truecharts/commit/09e7d81949c4fcf2049ea2213a6e8acbc115c618) • [@TrueCharts Bot] (2026-01-27)
 
 ## 10.13.16 • [Train: stable]
@@ -357,8 +357,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 10.13.0 • [Train: stable]
 
-- chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
 - fix(everything): bump common • [`65cb46d`](https://github.com/trueforge-org/truecharts/commit/65cb46df35c0a8aa571ad381d2d7a4feab28e09b) • [@Kjeld Schouten] (2025-11-27)
+- chore(helm): update chart common 28.27.4 → 28.29.0 (#42071) • [`a717259`](https://github.com/trueforge-org/truecharts/commit/a7172590798e9e1148ec5934df16450a69ead94a) • [@TrueCharts Bot] (2025-11-27)
 
 ## 10.12.0 • [Train: stable]
 
@@ -688,8 +688,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 8.0.7 • [Train: stable]
 
-- Commit daily changes • [`460ce98`](https://github.com/trueforge-org/truecharts/commit/460ce98e609cda3c2b24a7f670cd204abb4a2123) • [@TrueCharts-Bot] (2024-05-06)
 - chore(docs): exclude changelog from pagefind (#21693) • [`f91c384`](https://github.com/trueforge-org/truecharts/commit/f91c384060835b0cff91205b8ee00de36b10d689) • [@Stavros Kois] (2024-05-06)
+- Commit daily changes • [`460ce98`](https://github.com/trueforge-org/truecharts/commit/460ce98e609cda3c2b24a7f670cd204abb4a2123) • [@TrueCharts-Bot] (2024-05-06)
 - chore(deps): update container image lissy93/dashy to v3.0.1@509ed71 by renovate (#21583) • [`ec81e23`](https://github.com/trueforge-org/truecharts/commit/ec81e2332a242996d7838152484c337e139fb627) • [@TrueCharts Bot] (2024-05-05)
 
 ## 8.0.6 • [Train: stable]
@@ -1059,8 +1059,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.0.0 • [Train: stable]
 
-- Commit daily changes • [`1b4ce58`](https://github.com/trueforge-org/truecharts/commit/1b4ce58b07af1529cb62f6554febbdc1f797ddb6) • [@TrueCharts-Bot] (2023-12-20)
 - chore(deps): update helm general major by renovate (major) (#14631) • [`49e418b`](https://github.com/trueforge-org/truecharts/commit/49e418b48889cb85206afcb8bcc4edef31a6303e) • [@TrueCharts Bot] (2023-12-20)
+- Commit daily changes • [`1b4ce58`](https://github.com/trueforge-org/truecharts/commit/1b4ce58b07af1529cb62f6554febbdc1f797ddb6) • [@TrueCharts-Bot] (2023-12-20)
 
 ## 3.0.36 • [Train: stable]
 
@@ -1248,8 +1248,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.0.19 • [Train: incubator]
 
-- chore(deps): update container image tccr.io/truecharts/dashy to 2.1.1 • [`70326e4`](https://github.com/trueforge-org/truecharts/commit/70326e4747dc37a9c704d3569238f32c2221e872) • [@TrueCharts-Admin] (2023-02-27)
 - Merge pull request #7608 from truecharts/renovate/tccr.io-truecharts-dashy-2.1.1 • [`bed8fe1`](https://github.com/trueforge-org/truecharts/commit/bed8fe1b26aa82ffe9df5d909503dd57ab7bd564) • [@TrueCharts Bot] (2023-02-27)
+- chore(deps): update container image tccr.io/truecharts/dashy to 2.1.1 • [`70326e4`](https://github.com/trueforge-org/truecharts/commit/70326e4747dc37a9c704d3569238f32c2221e872) • [@TrueCharts-Admin] (2023-02-27)
 - Merge branch &#39;master&#39; into pgadmin • [`6d46662`](https://github.com/trueforge-org/truecharts/commit/6d466629f13446c3aa4c1706c08d8f073aacacb9) • [@StevenMcElligott] (2023-02-26)
 - Commit bumped Chart Version • [`8833b44`](https://github.com/trueforge-org/truecharts/commit/8833b44aec975bde83604afce368825850c3c530) • [@TrueCharts-Bot] (2023-02-26)
 
@@ -1263,16 +1263,16 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 2.0.17 • [Train: incubator]
 
 - Commit daily changes • [`3c21085`](https://github.com/trueforge-org/truecharts/commit/3c21085dcaf868d5d18a05311f9f24b7ff0ca5d2) • [@TrueCharts-Bot] (2023-02-10)
-- Merge pull request #7025 from truecharts/renovate/tccr.io-truecharts-dashy-2.1.1 • [`5f57a86`](https://github.com/trueforge-org/truecharts/commit/5f57a864a40529a865e4208bfcf3e867200ac8d8) • [@TrueCharts Bot] (2023-02-06)
 - Commit bumped Chart Version • [`f1edb7a`](https://github.com/trueforge-org/truecharts/commit/f1edb7a7d17832dabb5f72203952f78024bc0a79) • [@TrueCharts-Bot] (2023-02-06)
+- Merge pull request #7025 from truecharts/renovate/tccr.io-truecharts-dashy-2.1.1 • [`5f57a86`](https://github.com/trueforge-org/truecharts/commit/5f57a864a40529a865e4208bfcf3e867200ac8d8) • [@TrueCharts Bot] (2023-02-06)
 
 ## 2.0.16 • [Train: incubator]
 
 - chore(deps): update container image tccr.io/truecharts/dashy to 2.1.1 • [`d41e953`](https://github.com/trueforge-org/truecharts/commit/d41e9536b8fd6567098f5d75af84f00eb7c559f4) • [@TrueCharts-Admin] (2023-02-06)
-- Commit bumped Chart Version • [`621450b`](https://github.com/trueforge-org/truecharts/commit/621450bd8d4aef83a745d90e9e27b5acd0dc4eae) • [@TrueCharts-Bot] (2023-02-03)
-- Merge pull request #6846 from truecharts/renovate/tccr.io-truecharts-dashy-2.1.1 • [`6f763fd`](https://github.com/trueforge-org/truecharts/commit/6f763fd44eeacad5504fe8a08785374e00fdca2c) • [@TrueCharts Bot] (2023-02-03)
 - Revert &#34;Commit daily changes&#34; • [`110ae61`](https://github.com/trueforge-org/truecharts/commit/110ae6125b24f4a5def05781696141f3ff44ed12) • [@Kjeld Schouten-Lebbing] (2023-02-03)
 - Commit daily changes • [`208c291`](https://github.com/trueforge-org/truecharts/commit/208c2919fec945cc14276a229222915ae0ec50b4) • [@TrueCharts-Bot] (2023-02-03)
+- Commit bumped Chart Version • [`621450b`](https://github.com/trueforge-org/truecharts/commit/621450bd8d4aef83a745d90e9e27b5acd0dc4eae) • [@TrueCharts-Bot] (2023-02-03)
+- Merge pull request #6846 from truecharts/renovate/tccr.io-truecharts-dashy-2.1.1 • [`6f763fd`](https://github.com/trueforge-org/truecharts/commit/6f763fd44eeacad5504fe8a08785374e00fdca2c) • [@TrueCharts Bot] (2023-02-03)
 
 ## 2.0.15 • [Train: incubator]
 
@@ -1287,14 +1287,14 @@ If you need more than 2 scrolls to find your current version, please consider up
 - Commit daily changes • [`ed66075`](https://github.com/trueforge-org/truecharts/commit/ed660759772ba0148d1e6de709596011b2ceee63) • [@TrueCharts-Bot] (2023-01-31)
 - Commit daily changes • [`0fb22dd`](https://github.com/trueforge-org/truecharts/commit/0fb22dd1e2a9fe895502d16547469e94a3d706c9) • [@TrueCharts-Bot] (2023-01-31)
 - Commit daily changes • [`3f63d20`](https://github.com/trueforge-org/truecharts/commit/3f63d20af933f7fb1f1dc555ed585f475a4eb92f) • [@TrueCharts-Bot] (2023-01-31)
-- Merge pull request #6627 from truecharts/renovate/tccr.io-truecharts-dashy-2.1.1 • [`7241e28`](https://github.com/trueforge-org/truecharts/commit/7241e28425e51016d9340243af4e7210509e9457) • [@TrueCharts Bot] (2023-01-24)
 - Commit bumped Chart Version • [`d9709ea`](https://github.com/trueforge-org/truecharts/commit/d9709eae7f7e512722953615993bdb4475eb756e) • [@TrueCharts-Bot] (2023-01-24)
+- Merge pull request #6627 from truecharts/renovate/tccr.io-truecharts-dashy-2.1.1 • [`7241e28`](https://github.com/trueforge-org/truecharts/commit/7241e28425e51016d9340243af4e7210509e9457) • [@TrueCharts Bot] (2023-01-24)
 
 ## 2.0.13 • [Train: incubator]
 
 - chore(deps): update container image tccr.io/truecharts/dashy to 2.1.1 • [`a68dbfd`](https://github.com/trueforge-org/truecharts/commit/a68dbfd0264fbaa0fff74a3cbafc6f6a4a079f9f) • [@TrueCharts-Admin] (2023-01-24)
-- Commit bumped Chart Version • [`d6d228d`](https://github.com/trueforge-org/truecharts/commit/d6d228d0a4e4cf4918078fac6852477bbffa1f8c) • [@TrueCharts-Bot] (2023-01-12)
 - Merge pull request #6277 from truecharts/renovate/tccr.io-truecharts-dashy-2.1.1 • [`df268c5`](https://github.com/trueforge-org/truecharts/commit/df268c5f29443437ef29771259c9ca505510ff64) • [@TrueCharts Bot] (2023-01-12)
+- Commit bumped Chart Version • [`d6d228d`](https://github.com/trueforge-org/truecharts/commit/d6d228d0a4e4cf4918078fac6852477bbffa1f8c) • [@TrueCharts-Bot] (2023-01-12)
 
 ## 2.0.12 • [Train: incubator]
 
@@ -1309,9 +1309,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.0.10 • [Train: incubator]
 
+- Commit daily changes • [`d478e84`](https://github.com/trueforge-org/truecharts/commit/d478e848ceecae24ece77717cb807e86b330b95a) • [@TrueCharts-Bot] (2022-12-26)
 - chore(deps): update helm general non-major (#5839) • [`3a29755`](https://github.com/trueforge-org/truecharts/commit/3a29755f395e41b8dee8c6f2802243869346e7ea) • [@TrueCharts Bot] (2022-12-26)
 - Commit daily changes • [`927ca59`](https://github.com/trueforge-org/truecharts/commit/927ca5989df40c942f283bbf39d8b61c5e6505c9) • [@TrueCharts-Bot] (2022-12-26)
-- Commit daily changes • [`d478e84`](https://github.com/trueforge-org/truecharts/commit/d478e848ceecae24ece77717cb807e86b330b95a) • [@TrueCharts-Bot] (2022-12-26)
 
 ## 2.0.9 • [Train: incubator]
 
@@ -1350,8 +1350,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 2.0.2 • [Train: incubator]
 
 - Update container image tccr.io/truecharts/dashy to 2.1.1 • [`ffcc6e5`](https://github.com/trueforge-org/truecharts/commit/ffcc6e53c1585b639278045e5d56076708329f0a) • [@TrueCharts-Admin] (2022-11-29)
-- Commit bumped Chart Version • [`f702a6e`](https://github.com/trueforge-org/truecharts/commit/f702a6e967630bad570f8f84c333df4b9beaeb24) • [@TrueCharts-Bot] (2022-11-28)
 - Merge pull request #4918 from truecharts/renovate/tccr.io-truecharts-dashy-2.1.1 • [`7348947`](https://github.com/trueforge-org/truecharts/commit/73489477381a7592c77a48e6ede7f6a4c64654be) • [@TrueCharts Bot] (2022-11-28)
+- Commit bumped Chart Version • [`f702a6e`](https://github.com/trueforge-org/truecharts/commit/f702a6e967630bad570f8f84c333df4b9beaeb24) • [@TrueCharts-Bot] (2022-11-28)
 
 ## 2.0.1 • [Train: incubator]
 
@@ -1439,8 +1439,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 0.0.4 • [Train: incubator]
 
 - chore: Auto-update chart README [skip ci] • [`952fa74`](https://github.com/trueforge-org/truecharts/commit/952fa7491ebe18849e10bbb428b574e5e8b12a08) • [@truecharts-bot] (2022-10-08)
-- chore(deps): update helm general non-major • [`6761b13`](https://github.com/trueforge-org/truecharts/commit/6761b1362d6f9b8d21406c65617445a990e32cce) • [@TrueCharts-Admin] (2022-10-07)
 - chore: Auto-update chart README [skip ci] • [`9783dd2`](https://github.com/trueforge-org/truecharts/commit/9783dd2bb730cfa98f23579c7b75a615124e89bd) • [@truecharts-bot] (2022-10-07)
+- chore(deps): update helm general non-major • [`6761b13`](https://github.com/trueforge-org/truecharts/commit/6761b1362d6f9b8d21406c65617445a990e32cce) • [@TrueCharts-Admin] (2022-10-07)
 
 ## 0.0.3 • [Train: incubator]
 
@@ -1456,6 +1456,6 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.1 • [Train: incubator]
 
-- chore: Auto-update chart README [skip ci] • [`2a58797`](https://github.com/trueforge-org/truecharts/commit/2a58797973b9ed1475ba442fafa35e731bb2e71f) • [@truecharts-bot] (2022-09-25)
 - chore: Auto-update chart README [skip ci] • [`6053186`](https://github.com/trueforge-org/truecharts/commit/60531868921f9735f782d7a5e5af0a1a3e6d1291) • [@truecharts-bot] (2022-09-25)
 - feat(dashy): add dashy (#3887) • [`86a66e1`](https://github.com/trueforge-org/truecharts/commit/86a66e1415bf52481ff03699a5ba71f79ef9532d) • [@Stavros Kois] (2022-09-25)
+- chore: Auto-update chart README [skip ci] • [`2a58797`](https://github.com/trueforge-org/truecharts/commit/2a58797973b9ed1475ba442fafa35e731bb2e71f) • [@truecharts-bot] (2022-09-25)
