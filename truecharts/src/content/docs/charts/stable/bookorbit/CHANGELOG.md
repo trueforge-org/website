@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.4.0 • [Train: stable]
+
+- feat(bookorbit): update image ghcr.io/bookorbit/bookorbit 2.6.0 → 2.7.0 (#51722) • [`61e0abe`](https://github.com/trueforge-org/truecharts/commit/61e0abe783cb8dc6b4b4e36d5fd22a9a563c08df) • [@TrueCharts Bot] (2026-08-23)
+
 ## 1.3.0 • [Train: stable]
 
 - feat(bookorbit): update image ghcr.io/bookorbit/bookorbit 2.5.0 → 2.6.0 (#51398) • [`be82a83`](https://github.com/trueforge-org/truecharts/commit/be82a8387b98b0a425d077fc97e9d0cd5c7fd2fc) • [@TrueCharts Bot] (2026-08-14)
