@@ -36,7 +36,7 @@ services:
       DB_DATABASE: radarr
       DB_HOST: postgresql
       DB_LOGSDB: radarr-log
-      DB_PASSWORD: 344717cdfb8eda105a899da441c028ecWORD
+      DB_PASSWORD: cb194df47fda96491d3ee06052e59cf3WORD
       DB_PORT: "5432"
       DB_TYPE: sqlite
       DB_USER: radarr
@@ -69,7 +69,7 @@ services:
 #           memory: "4294967296"
 #     environment:
 #       POSTGRES_DB: radarr
-#       POSTGRES_PASSWORD: 344717cdfb8eda105a899da441c028ecWORD
+#       POSTGRES_PASSWORD: cb194df47fda96491d3ee06052e59cf3WORD
 #       POSTGRES_USER: radarr
 #       TZ: Etc/UTC
 #     group_add:
