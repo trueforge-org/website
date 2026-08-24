@@ -34,7 +34,7 @@ services:
           memory: 4G
     group_add:
       - "568"
-    image: ghcr.io/trueforge-org/mariadb-client:12.3.2
+    image: ghcr.io/trueforge-org/mariadb-client:12.3.3
     restart: unless-stopped
     shm_size: 256M
     volumes:
