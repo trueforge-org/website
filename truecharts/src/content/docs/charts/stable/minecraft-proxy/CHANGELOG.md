@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.4.4 • [Train: stable]
+
+- fix(minecraft-proxy): update image ghcr.io/itzg/mc-proxy 2026.8.0 → 2026.8.1 (#51742) • [`0034110`](https://github.com/trueforge-org/truecharts/commit/0034110656c91dca3f870aec69d1f53c8541a520) • [@TrueCharts Bot] (2026-08-24)
+
 ## 7.4.0 • [Train: stable]
 
 - feat(minecraft-proxy): update image ghcr.io/itzg/mc-proxy 2026.7.1 → 2026.8.0 (#51290) • [`93dc90c`](https://github.com/trueforge-org/truecharts/commit/93dc90c12b4cca667c4ee77f72782cb86e3ab26e) • [@TrueCharts Bot] (2026-08-10)
