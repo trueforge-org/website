@@ -34,8 +34,8 @@ services:
           memory: 4G
     environment:
       MARIADB_DATABASE: mariadb
-      MARIADB_PASSWORD: aec03f9354dadbf241201cb634ccd79aWORD
-      MARIADB_ROOT_PASSWORD: 2f43fcb84b7532beab5792ba49677b32WORD
+      MARIADB_PASSWORD: 82c5e7852c15db2153b28b88c7528217WORD
+      MARIADB_ROOT_PASSWORD: 7925bb4af5d5af41b6ec363053aee3e3WORD
       MARIADB_USER: mariadb
       TZ: Etc/UTC
     group_add:
