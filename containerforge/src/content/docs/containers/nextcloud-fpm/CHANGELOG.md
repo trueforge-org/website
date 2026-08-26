@@ -79,8 +79,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 32.0.3 • [Train: ]
 
-- Update regex for Nextcloud versioning (#731) • [`b31458d`](https://github.com/trueforge-org/truecharts/commit/b31458dff7194f597c53d8915960ba01cd8e286d) • [@Alfred Göppel] (2025-12-13)
 - fix(nextcloud): Update VERSION variable regex for Nextcloud image (#728) • [`f5b3447`](https://github.com/trueforge-org/truecharts/commit/f5b344730763c5b25d5044df34c41b82249070a6) • [@Alfred Göppel] (2025-12-13)
+- Update regex for Nextcloud versioning (#731) • [`b31458d`](https://github.com/trueforge-org/truecharts/commit/b31458dff7194f597c53d8915960ba01cd8e286d) • [@Alfred Göppel] (2025-12-13)
 - release(nextcloud-fpm): update image public.ecr.aws/docker/library/nextcloud (32.0.1-fpm@sha256:1b7786935321e01a689affccb48a5845ed800184aa50c1b0c50d4aa75693e27f → 32.0.3) (#693) • [`387e8d3`](https://github.com/trueforge-org/truecharts/commit/387e8d31b399bfcf10e448ef5fbc05c4e4c471ad) • [@TrueCharts Bot] (2025-12-12)
 
 ## 32.0.1 • [Train: ]
