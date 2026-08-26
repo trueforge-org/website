@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.15.0 • [Train: stable]
+
+- feat(atuin): update image ghcr.io/atuinsh/atuin 18.19.0 → 18.20.0 (#51815) • [`eaa4b13`](https://github.com/trueforge-org/truecharts/commit/eaa4b135d95a4cc978b3d5fd38f43a94856deb60) • [@TrueCharts Bot] (2026-08-26)
+
 ## 7.14.0 • [Train: stable]
 
 - feat(atuin): update image ghcr.io/atuinsh/atuin 18.18.1 → 18.19.0 (#51038) • [`45b1cf1`](https://github.com/trueforge-org/truecharts/commit/45b1cf182fcbb66903b1789464cb5ed8fb4d458c) • [@TrueCharts Bot] (2026-08-04)
@@ -149,8 +153,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.19.1 • [Train: stable]
 
-- Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
 - fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
+- Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
 
 ## 6.19.0 • [Train: stable]
 
@@ -295,8 +299,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.8.1 • [Train: stable]
 
-- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 - chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
+- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 
 ## 6.8.0 • [Train: stable]
 
