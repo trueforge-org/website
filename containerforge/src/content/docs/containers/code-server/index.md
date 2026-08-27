@@ -2,7 +2,7 @@
 title: code-server
 ---
 
-![Version: 4.134.0](https://img.shields.io/badge/Version-4.134.0-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 4.135.0](https://img.shields.io/badge/Version-4.135.0-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **code-server**, including upstre
 | Field | Value |
 | --- | --- |
 | App | code-server |
-| Version | 4.134.0 |
+| Version | 4.135.0 |
 | License | AGPL--3.0--or--later |
 
 ## Source
