@@ -2,7 +2,7 @@
 title: reaparr
 ---
 
-![Version: 2.9.0](https://img.shields.io/badge/Version-2.9.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.38.3](https://img.shields.io/badge/AppVersion-0.38.3-informational?style=flat-square)
+![Version: 2.10.0](https://img.shields.io/badge/Version-2.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.39.0](https://img.shields.io/badge/AppVersion-0.39.0-informational?style=flat-square)
 
 Plex downloader that brings content from any server to yours!
 
