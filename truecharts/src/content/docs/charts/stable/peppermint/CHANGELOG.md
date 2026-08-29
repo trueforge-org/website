@@ -398,8 +398,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 2.2.16 • [Train: incubator]
 
 - fix(website): remove references to deprecated guides • [`d25d00b`](https://github.com/trueforge-org/truecharts/commit/d25d00b9c237f6cbe63941158ccffe03ed9943e9) • [@Kjeld Schouten] (2024-11-04)
-- chore(helm): update image docker.io/pepperlabs/peppermint digest to 9f031c3 (#28744) • [`43590cc`](https://github.com/trueforge-org/truecharts/commit/43590cc9745d7858e76bb9d40c49e50d977e2905) • [@TrueCharts Bot] (2024-11-03)
 - Commit daily changes • [`b70a504`](https://github.com/trueforge-org/truecharts/commit/b70a504cf21acb2c97518fb6fb1b8ee135e7742d) • [@TrueCharts-Bot] (2024-11-03)
+- chore(helm): update image docker.io/pepperlabs/peppermint digest to 9f031c3 (#28744) • [`43590cc`](https://github.com/trueforge-org/truecharts/commit/43590cc9745d7858e76bb9d40c49e50d977e2905) • [@TrueCharts Bot] (2024-11-03)
 
 ## 2.2.15 • [Train: incubator]
 
@@ -448,8 +448,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.2.4 • [Train: incubator]
 
-- chore(container): update image pepperlabs/peppermint → by renovate (#27935) • [`9846e30`](https://github.com/trueforge-org/truecharts/commit/9846e308dc9c3e1b787eeeea563f8502711ad4eb) • [@TrueCharts Bot] (2024-10-18)
 - chore(helm): update chart common 25.0.0 → 25.1.0 by renovate (#27948) • [`37bd2b6`](https://github.com/trueforge-org/truecharts/commit/37bd2b67d5bdb5ac56a2f3d3f82a16353275ab67) • [@TrueCharts Bot] (2024-10-18)
+- chore(container): update image pepperlabs/peppermint → by renovate (#27935) • [`9846e30`](https://github.com/trueforge-org/truecharts/commit/9846e308dc9c3e1b787eeeea563f8502711ad4eb) • [@TrueCharts Bot] (2024-10-18)
 
 ## 2.2.3 • [Train: incubator]
 
@@ -559,8 +559,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 1.0.6 • [Train: incubator]
 
 - Commit daily changes • [`ca008eb`](https://github.com/trueforge-org/truecharts/commit/ca008eb2afe01c75e63679218a2f8514f756d67e) • [@TrueCharts-Bot] (2024-06-01)
-- chore(deps): update container image pepperlabs/peppermint to latest@7b6818a by renovate (#22674) • [`f3b6de5`](https://github.com/trueforge-org/truecharts/commit/f3b6de50410b18b403b6525d3533813f38a43c5f) • [@TrueCharts Bot] (2024-05-31)
 - Commit daily changes • [`4357b53`](https://github.com/trueforge-org/truecharts/commit/4357b533a97aa77ffa16998ce8b568336e3892a9) • [@TrueCharts-Bot] (2024-05-31)
+- chore(deps): update container image pepperlabs/peppermint to latest@7b6818a by renovate (#22674) • [`f3b6de5`](https://github.com/trueforge-org/truecharts/commit/f3b6de50410b18b403b6525d3533813f38a43c5f) • [@TrueCharts Bot] (2024-05-31)
 
 ## 1.0.5 • [Train: incubator]
 
