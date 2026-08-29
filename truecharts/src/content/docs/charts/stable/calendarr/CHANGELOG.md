@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.8.0 • [Train: stable]
+
+- feat(helm-deps): update chart common 29.10.4 → 29.16.0 (#51936) • [`295b925`](https://github.com/trueforge-org/truecharts/commit/295b925e6216994cda6cfc31cf72381ef6707dc2) • [@TrueCharts Bot] (2026-08-29)
+
 ## 2.7.1 • [Train: stable]
 
 - chore(calendarr): update image ghcr.io/jordanlambrecht/calendarr digest to d3f05a9 (#51923) • [`b422f2b`](https://github.com/trueforge-org/truecharts/commit/b422f2b531ad04021d91819168a84ca972d9550b) • [@TrueCharts Bot] (2026-08-29)
@@ -260,8 +264,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.2.5 • [Train: stable]
 
-- chore(helm): update chart common 28.16.5 → 28.16.6 (#39145) • [`827fa3c`](https://github.com/trueforge-org/truecharts/commit/827fa3cc55b82b3d292228d8b331331b863ffb3b) • [@TrueCharts Bot] (2025-09-07)
 - chore: fix links • [`1c28a12`](https://github.com/trueforge-org/truecharts/commit/1c28a127898e7db3a350e07a42810acd8eaa4c30) • [@Kjeld Schouten] (2025-09-07)
+- chore(helm): update chart common 28.16.5 → 28.16.6 (#39145) • [`827fa3c`](https://github.com/trueforge-org/truecharts/commit/827fa3cc55b82b3d292228d8b331331b863ffb3b) • [@TrueCharts Bot] (2025-09-07)
 
 ## 1.2.4 • [Train: stable]
 

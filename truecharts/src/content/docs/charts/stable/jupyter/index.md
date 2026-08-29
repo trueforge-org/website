@@ -2,7 +2,7 @@
 title: jupyter
 ---
 
-![Version: 13.7.0](https://img.shields.io/badge/Version-13.7.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 7.4.7](https://img.shields.io/badge/AppVersion-7.4.7-informational?style=flat-square)
+![Version: 13.8.0](https://img.shields.io/badge/Version-13.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 7.4.7](https://img.shields.io/badge/AppVersion-7.4.7-informational?style=flat-square)
 
 Jupyter a web based IDE
 

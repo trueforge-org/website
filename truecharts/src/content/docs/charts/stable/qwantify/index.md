@@ -2,7 +2,7 @@
 title: qwantify
 ---
 
-![Version: 7.7.0](https://img.shields.io/badge/Version-7.7.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 20.04.0](https://img.shields.io/badge/AppVersion-20.04.0-informational?style=flat-square)
+![Version: 7.8.0](https://img.shields.io/badge/Version-7.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 20.04.0](https://img.shields.io/badge/AppVersion-20.04.0-informational?style=flat-square)
 
 Play games with your friends right from the browser.
 
