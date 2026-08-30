@@ -2,7 +2,7 @@
 title: lidarr
 ---
 
-![Version: 3.1.3.4987](https://img.shields.io/badge/Version-3.1.3.4987-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 3.1.4.5029](https://img.shields.io/badge/Version-3.1.4.5029-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **lidarr**, including upstream so
 | Field | Value |
 | --- | --- |
 | App | lidarr |
-| Version | 3.1.3.4987 |
+| Version | 3.1.4.5029 |
 | License | AGPL--3.0--or--later |
 
 ## Source
