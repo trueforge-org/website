@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.8.0 • [Train: stable]
+
+- feat(helm-deps): update chart common 29.16.0 → 29.17.0 (#51942) • [`9fdc9c2`](https://github.com/trueforge-org/truecharts/commit/9fdc9c2eb39cc3e011f6a1f154e387e0165d8379) • [@TrueCharts Bot] (2026-08-30)
+
 ## 7.7.0 • [Train: stable]
 
 - feat(helm-deps): update chart common 29.10.4 → 29.16.0 (#51936) • [`295b925`](https://github.com/trueforge-org/truecharts/commit/295b925e6216994cda6cfc31cf72381ef6707dc2) • [@TrueCharts Bot] (2026-08-29)
@@ -732,8 +736,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.3.2 • [Train: incubator]
 
-- chore(deps): update container image docuseal/docuseal to v1.7.1@8328035 by renovate (#26153) • [`2129d1e`](https://github.com/trueforge-org/truecharts/commit/2129d1efc3c68d23fb87614d34e05e6f2570e8c2) • [@TrueCharts Bot] (2024-09-09)
 - chore(deps): update container image common to v24.1.15@0763087 by renovate (#26098) • [`5fca841`](https://github.com/trueforge-org/truecharts/commit/5fca8413569321d0bb70e2e788319c99151f624f) • [@TrueCharts Bot] (2024-09-09)
+- chore(deps): update container image docuseal/docuseal to v1.7.1@8328035 by renovate (#26153) • [`2129d1e`](https://github.com/trueforge-org/truecharts/commit/2129d1efc3c68d23fb87614d34e05e6f2570e8c2) • [@TrueCharts Bot] (2024-09-09)
 
 ## 2.3.1 • [Train: incubator]
 
