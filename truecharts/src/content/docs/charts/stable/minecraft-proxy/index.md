@@ -2,7 +2,7 @@
 title: minecraft-proxy
 ---
 
-![Version: 7.6.0](https://img.shields.io/badge/Version-7.6.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2026.8.2](https://img.shields.io/badge/AppVersion-2026.8.2-informational?style=flat-square)
+![Version: 7.10.0](https://img.shields.io/badge/Version-7.10.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2026.9.0](https://img.shields.io/badge/AppVersion-2026.9.0-informational?style=flat-square)
 
 the front-end of a cluster of minecraft-java containers.
 

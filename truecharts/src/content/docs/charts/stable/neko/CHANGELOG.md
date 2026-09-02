@@ -59,8 +59,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 11.10.11 • [Train: stable]
 
 - Commit daily changes • [`9164213`](https://github.com/trueforge-org/truecharts/commit/91642136a277b0c184949ca0ab22b2db5054a0dd) • [@TrueCharts-Bot] (2026-04-18)
-- Commit daily changes • [`ce6c266`](https://github.com/trueforge-org/truecharts/commit/ce6c26633182ca95a2af3382c6dfe6a5b4bec08a) • [@TrueCharts-Bot] (2026-04-17)
 - more fixes • [`fcbe54c`](https://github.com/trueforge-org/truecharts/commit/fcbe54ccf432624561323b218f6ed825eabf7b2d) • [@Kjeld Schouten] (2026-04-17)
+- Commit daily changes • [`ce6c266`](https://github.com/trueforge-org/truecharts/commit/ce6c26633182ca95a2af3382c6dfe6a5b4bec08a) • [@TrueCharts-Bot] (2026-04-17)
 - fix(helm-deps): update chart common 29.0.10 → 29.0.15 (#47022) • [`509cd59`](https://github.com/trueforge-org/truecharts/commit/509cd59e0a295ff1da8221fe7749adf27d36ecf3) • [@TrueCharts Bot] (2026-04-15)
 
 ## 11.10.10 • [Train: stable]
@@ -255,8 +255,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 10.6.1 • [Train: stable]
 
-- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 - chore(helm): update chart common 28.20.0 → 28.20.1 (#40097) • [`e3b2820`](https://github.com/trueforge-org/truecharts/commit/e3b28200893d37af8566599140ea85de3230fc68) • [@TrueCharts Bot] (2025-09-27)
+- Commit daily changes • [`481370b`](https://github.com/trueforge-org/truecharts/commit/481370b41a9e6071387724ef9463385cd1c1711b) • [@TrueCharts-Bot] (2025-09-27)
 
 ## 10.6.0 • [Train: stable]
 
@@ -368,9 +368,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 9.0.12 • [Train: stable]
 
 - Commit daily changes • [`8cb809b`](https://github.com/trueforge-org/truecharts/commit/8cb809b51f12feaf132263dd76fad67f0566bbfa) • [@TrueCharts-Bot] (2025-06-04)
-- chore(helm): update image ghcr.io/m1k1o/neko/remmina 3.0.5 → 3.0.6 (#35742) • [`1bb9931`](https://github.com/trueforge-org/truecharts/commit/1bb99316a57ec53829d9612cbbfbb86c35d0645c) • [@TrueCharts Bot] (2025-05-29)
 - chore(helm): update image ghcr.io/m1k1o/neko/brave 3.0.5 → 3.0.6 (#35737) • [`882775e`](https://github.com/trueforge-org/truecharts/commit/882775ef8d42b6af75cbfad82207ac5d4ca340a2) • [@TrueCharts Bot] (2025-05-29)
 - chore(helm): update image ghcr.io/m1k1o/neko/google-chrome 3.0.5 → 3.0.6 (#35740) • [`e439933`](https://github.com/trueforge-org/truecharts/commit/e43993387eb454e1981e19a0c4b2d5d1c05b32b2) • [@TrueCharts Bot] (2025-05-29)
+- chore(helm): update image ghcr.io/m1k1o/neko/remmina 3.0.5 → 3.0.6 (#35742) • [`1bb9931`](https://github.com/trueforge-org/truecharts/commit/1bb99316a57ec53829d9612cbbfbb86c35d0645c) • [@TrueCharts Bot] (2025-05-29)
 
 ## 9.0.11 • [Train: stable]
 
@@ -378,12 +378,12 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 9.0.8 • [Train: stable]
 
-- chore(helm): update image ghcr.io/m1k1o/neko/firefox 3.0.5 → 3.0.6 (#35739) • [`4cd1be2`](https://github.com/trueforge-org/truecharts/commit/4cd1be2b89bb6667f146d51583208a6ca2c9a6f9) • [@TrueCharts Bot] (2025-05-29)
-- chore(helm): update image ghcr.io/m1k1o/neko/tor-browser 3.0.5 → 3.0.6 (#35743) • [`6e8bc5f`](https://github.com/trueforge-org/truecharts/commit/6e8bc5f07d8251b29b8a01c40939fcdb0640c17e) • [@TrueCharts Bot] (2025-05-29)
 - chore(helm): update image ghcr.io/m1k1o/neko/vivaldi 3.0.3 → 3.0.6 (#35744) • [`7da75fc`](https://github.com/trueforge-org/truecharts/commit/7da75fce13da5c4b22ba771383dda8040ea53413) • [@TrueCharts Bot] (2025-05-29)
 - chore(helm): update image ghcr.io/m1k1o/neko/microsoft-edge 3.0.5 → 3.0.6 (#35741) • [`a626372`](https://github.com/trueforge-org/truecharts/commit/a62637270c326b044fe0a9c43bb0631a64c48025) • [@TrueCharts Bot] (2025-05-29)
 - chore(helm): update image ghcr.io/m1k1o/neko/vlc 3.0.5 → 3.0.6 (#35745) • [`b749c7f`](https://github.com/trueforge-org/truecharts/commit/b749c7f043e02b3f40f8dcc645e4d371b9e88a64) • [@TrueCharts Bot] (2025-05-29)
 - chore(helm): update image ghcr.io/m1k1o/neko/xfce 3.0.5 → 3.0.6 (#35746) • [`c132c92`](https://github.com/trueforge-org/truecharts/commit/c132c92c231d76574f2930b39b06b7545c98bfe4) • [@TrueCharts Bot] (2025-05-29)
+- chore(helm): update image ghcr.io/m1k1o/neko/firefox 3.0.5 → 3.0.6 (#35739) • [`4cd1be2`](https://github.com/trueforge-org/truecharts/commit/4cd1be2b89bb6667f146d51583208a6ca2c9a6f9) • [@TrueCharts Bot] (2025-05-29)
+- chore(helm): update image ghcr.io/m1k1o/neko/tor-browser 3.0.5 → 3.0.6 (#35743) • [`6e8bc5f`](https://github.com/trueforge-org/truecharts/commit/6e8bc5f07d8251b29b8a01c40939fcdb0640c17e) • [@TrueCharts Bot] (2025-05-29)
 
 ## 9.0.7 • [Train: stable]
 
@@ -392,20 +392,20 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 9.0.6 • [Train: stable]
 
-- chore(helm): update image ghcr.io/m1k1o/neko/xfce 3.0.4 → 3.0.5 (#35196) • [`ed53878`](https://github.com/trueforge-org/truecharts/commit/ed538789719afeae1bf33995cb15628a7eeb0b8b) • [@TrueCharts Bot] (2025-05-10)
 - chore(helm): update image ghcr.io/m1k1o/neko/vlc 3.0.4 → 3.0.5 (#35195) • [`83beca2`](https://github.com/trueforge-org/truecharts/commit/83beca258ebacdb3689b74b30dd84aa400ec32fc) • [@TrueCharts Bot] (2025-05-10)
+- chore(helm): update image ghcr.io/m1k1o/neko/xfce 3.0.4 → 3.0.5 (#35196) • [`ed53878`](https://github.com/trueforge-org/truecharts/commit/ed538789719afeae1bf33995cb15628a7eeb0b8b) • [@TrueCharts Bot] (2025-05-10)
 
 ## 9.0.5 • [Train: stable]
 
-- chore(helm): update image ghcr.io/m1k1o/neko/chromium 3.0.4 → 3.0.5 (#35189) • [`e5e1945`](https://github.com/trueforge-org/truecharts/commit/e5e1945de6b665fa0a1440efbed85116d8e55b42) • [@TrueCharts Bot] (2025-05-10)
 - chore(helm): update image ghcr.io/m1k1o/neko/microsoft-edge 3.0.4 → 3.0.5 (#35192) • [`2d0d592`](https://github.com/trueforge-org/truecharts/commit/2d0d5924d520e1fcea8940bd3d8fcfff90d9a4f3) • [@TrueCharts Bot] (2025-05-10)
 - chore(helm): update image ghcr.io/m1k1o/neko/brave 3.0.4 → 3.0.5 (#35188) • [`d566245`](https://github.com/trueforge-org/truecharts/commit/d5662458f6d2196e735f1d582ada2e85418f7a3a) • [@TrueCharts Bot] (2025-05-10)
+- chore(helm): update image ghcr.io/m1k1o/neko/chromium 3.0.4 → 3.0.5 (#35189) • [`e5e1945`](https://github.com/trueforge-org/truecharts/commit/e5e1945de6b665fa0a1440efbed85116d8e55b42) • [@TrueCharts Bot] (2025-05-10)
 
 ## 9.0.4 • [Train: stable]
 
-- chore(helm): update image ghcr.io/m1k1o/neko/remmina 3.0.4 → 3.0.5 (#35193) • [`515c1e9`](https://github.com/trueforge-org/truecharts/commit/515c1e9df7099231ddc401ac286042f3dc7f9fe8) • [@TrueCharts Bot] (2025-05-09)
 - chore(helm): update image ghcr.io/m1k1o/neko/google-chrome 3.0.4 → 3.0.5 (#35191) • [`c1bd708`](https://github.com/trueforge-org/truecharts/commit/c1bd708705fc505a568d08c2c8d3fc42a2754821) • [@TrueCharts Bot] (2025-05-09)
 - chore(helm): update image ghcr.io/m1k1o/neko/tor-browser 3.0.4 → 3.0.5 (#35194) • [`e12b5af`](https://github.com/trueforge-org/truecharts/commit/e12b5afda979d2519c8da4c1841f9a803616cbfd) • [@TrueCharts Bot] (2025-05-09)
+- chore(helm): update image ghcr.io/m1k1o/neko/remmina 3.0.4 → 3.0.5 (#35193) • [`515c1e9`](https://github.com/trueforge-org/truecharts/commit/515c1e9df7099231ddc401ac286042f3dc7f9fe8) • [@TrueCharts Bot] (2025-05-09)
 
 ## 9.0.3 • [Train: stable]
 
@@ -425,11 +425,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 9.0.1 • [Train: stable]
 
 - Commit daily changes • [`81131bc`](https://github.com/trueforge-org/truecharts/commit/81131bc7f2a3f63487ba9bff2396ea05abbba2ba) • [@TrueCharts-Bot] (2025-04-10)
-- chore(helm): update image ghcr.io/m1k1o/neko/firefox 2.9.0 → 3.0.3 (#34079) • [`75e5ad5`](https://github.com/trueforge-org/truecharts/commit/75e5ad54dfb11f781c306b973543278d8add7168) • [@TrueCharts Bot] (2025-04-09)
-- chore(helm): update image ghcr.io/m1k1o/neko/brave 2.9.0 → 3.0.3 (#34077) • [`91398b9`](https://github.com/trueforge-org/truecharts/commit/91398b9beaabcc3026d2c7e41040c647854ae62d) • [@TrueCharts Bot] (2025-04-09)
 - chore(helm): update image ghcr.io/m1k1o/neko/microsoft-edge 2.9.0 → 3.0.3 (#34081) • [`d632f99`](https://github.com/trueforge-org/truecharts/commit/d632f9978011e3707973e6fae1c60ec40fe50c93) • [@TrueCharts Bot] (2025-04-09)
 - chore(helm): update image ghcr.io/m1k1o/neko/google-chrome 2.9.0 → 3.0.3 (#34080) • [`e2bb189`](https://github.com/trueforge-org/truecharts/commit/e2bb1898cb53ba4229765c39beaff7b9dae055a3) • [@TrueCharts Bot] (2025-04-09)
 - chore(helm): update image ghcr.io/m1k1o/neko/chromium 2.9.0 → 3.0.3 (#34078) • [`fc4d6b7`](https://github.com/trueforge-org/truecharts/commit/fc4d6b7a53b7b65f745b7549478d650f10428d65) • [@TrueCharts Bot] (2025-04-09)
+- chore(helm): update image ghcr.io/m1k1o/neko/firefox 2.9.0 → 3.0.3 (#34079) • [`75e5ad5`](https://github.com/trueforge-org/truecharts/commit/75e5ad54dfb11f781c306b973543278d8add7168) • [@TrueCharts Bot] (2025-04-09)
+- chore(helm): update image ghcr.io/m1k1o/neko/brave 2.9.0 → 3.0.3 (#34077) • [`91398b9`](https://github.com/trueforge-org/truecharts/commit/91398b9beaabcc3026d2c7e41040c647854ae62d) • [@TrueCharts Bot] (2025-04-09)
 
 ## 9.0.0 • [Train: stable]
 
@@ -442,29 +442,29 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 8.6.0 • [Train: stable]
 
 - feat(common): remove portal and ensure appUrl is used for notes.txt (#34047) • [`f8e3376`](https://github.com/trueforge-org/truecharts/commit/f8e33766bfc580b0cfa1ebbda93e110c98209022) • [@Kjeld Schouten] (2025-04-07)
+- chore(helm): update image ghcr.io/m1k1o/neko/chromium 2.8.13 → 2.9.0 (#32448) • [`08feaf1`](https://github.com/trueforge-org/truecharts/commit/08feaf162db70ae785f68c1acae3d8b108d8a45d) • [@TrueCharts Bot] (2025-02-23)
 - chore(helm): update image ghcr.io/m1k1o/neko/google-chrome 2.8.13 → 2.9.0 (#32450) • [`0a2b81f`](https://github.com/trueforge-org/truecharts/commit/0a2b81f2a136d21d554b84e01daa9cd7f753c812) • [@TrueCharts Bot] (2025-02-23)
-- chore(helm): update image ghcr.io/m1k1o/neko/xfce 2.8.13 → 2.9.0 (#32456) • [`50a61b5`](https://github.com/trueforge-org/truecharts/commit/50a61b58c8586d16d6b057ff454b38d26efb0c7e) • [@TrueCharts Bot] (2025-02-23)
-- chore(helm): update image ghcr.io/m1k1o/neko/tor-browser 2.8.13 → 2.9.0 (#32453) • [`8412ba7`](https://github.com/trueforge-org/truecharts/commit/8412ba757fb2fa8ba9e04444b7649bff7fdeebf1) • [@TrueCharts Bot] (2025-02-23)
+- chore(helm): update image ghcr.io/m1k1o/neko/vivaldi 2.8.13 → 2.9.0 (#32454) • [`24c0a58`](https://github.com/trueforge-org/truecharts/commit/24c0a587767fc17d1d919ca9a0efb4adc6be904b) • [@TrueCharts Bot] (2025-02-23)
 - chore(helm): update image ghcr.io/m1k1o/neko/brave 2.8.13 → 2.9.0 (#32447) • [`9707c5a`](https://github.com/trueforge-org/truecharts/commit/9707c5afeb4f813722464840419f10b614053a3c) • [@TrueCharts Bot] (2025-02-23)
 - chore(helm): update image ghcr.io/m1k1o/neko/microsoft-edge 2.8.13 → 2.9.0 (#32451) • [`e60ca6c`](https://github.com/trueforge-org/truecharts/commit/e60ca6c406299bfeec3f828b66c2b51c4f6cd331) • [@TrueCharts Bot] (2025-02-23)
-- chore(helm): update image ghcr.io/m1k1o/neko/chromium 2.8.13 → 2.9.0 (#32448) • [`08feaf1`](https://github.com/trueforge-org/truecharts/commit/08feaf162db70ae785f68c1acae3d8b108d8a45d) • [@TrueCharts Bot] (2025-02-23)
-- chore(helm): update image ghcr.io/m1k1o/neko/vivaldi 2.8.13 → 2.9.0 (#32454) • [`24c0a58`](https://github.com/trueforge-org/truecharts/commit/24c0a587767fc17d1d919ca9a0efb4adc6be904b) • [@TrueCharts Bot] (2025-02-23)
+- chore(helm): update image ghcr.io/m1k1o/neko/xfce 2.8.13 → 2.9.0 (#32456) • [`50a61b5`](https://github.com/trueforge-org/truecharts/commit/50a61b58c8586d16d6b057ff454b38d26efb0c7e) • [@TrueCharts Bot] (2025-02-23)
 - chore(helm): update image ghcr.io/m1k1o/neko/remmina 2.8.13 → 2.9.0 (#32452) • [`74083ac`](https://github.com/trueforge-org/truecharts/commit/74083acbd044f170ad1d873fcb38d71da56a5a6e) • [@TrueCharts Bot] (2025-02-23)
 - chore(helm): update image ghcr.io/m1k1o/neko/vlc 2.8.13 → 2.9.0 (#32455) • [`74324b9`](https://github.com/trueforge-org/truecharts/commit/74324b92523a7747108c8549b50f7d3df553ed77) • [@TrueCharts Bot] (2025-02-23)
+- chore(helm): update image ghcr.io/m1k1o/neko/tor-browser 2.8.13 → 2.9.0 (#32453) • [`8412ba7`](https://github.com/trueforge-org/truecharts/commit/8412ba757fb2fa8ba9e04444b7649bff7fdeebf1) • [@TrueCharts Bot] (2025-02-23)
 - chore(helm): update image ghcr.io/m1k1o/neko/firefox 2.8.13 → 2.9.0 (#32449) • [`9cd02ad`](https://github.com/trueforge-org/truecharts/commit/9cd02ad9df876eef8f58f106b5d5311f7c8fa362) • [@TrueCharts Bot] (2025-02-23)
 
 ## 8.5.2 • [Train: stable]
 
-- chore(helm): update image ghcr.io/m1k1o/neko/remmina 2.8.12 → 2.8.13 (#31989) • [`b73d0a6`](https://github.com/trueforge-org/truecharts/commit/b73d0a66bc5d359bf6bbb351d9fbc5b0fd4ce628) • [@TrueCharts Bot] (2025-02-12)
-- chore(helm): update image ghcr.io/m1k1o/neko/vlc 2.8.12 → 2.8.13 (#31992) • [`bad060f`](https://github.com/trueforge-org/truecharts/commit/bad060f507d1c59b998876538b55513ac9023e8d) • [@TrueCharts Bot] (2025-02-12)
+- chore(helm): update image ghcr.io/m1k1o/neko/google-chrome 2.8.12 → 2.8.13 (#31987) • [`317063c`](https://github.com/trueforge-org/truecharts/commit/317063c670ec13a56a029e7866ad4796ec9ff676) • [@TrueCharts Bot] (2025-02-12)
 - chore(helm): update image ghcr.io/m1k1o/neko/brave 2.8.12 → 2.8.13 (#31984) • [`481c3c7`](https://github.com/trueforge-org/truecharts/commit/481c3c7dda464ba43f3be7c52d3f2d78ad55c4d4) • [@TrueCharts Bot] (2025-02-12)
-- chore(helm): update image ghcr.io/m1k1o/neko/microsoft-edge 2.8.12 → 2.8.13 (#31988) • [`5bf3164`](https://github.com/trueforge-org/truecharts/commit/5bf31642b67e6810020d3b117244f7d5bd6c912d) • [@TrueCharts Bot] (2025-02-12)
-- chore(helm): update image ghcr.io/m1k1o/neko/firefox 2.8.12 → 2.8.13 (#31986) • [`7429520`](https://github.com/trueforge-org/truecharts/commit/7429520084670e6f90d879ccf7be60599ca09592) • [@TrueCharts Bot] (2025-02-12)
 - chore(helm): update image ghcr.io/m1k1o/neko/tor-browser 2.8.12 → 2.8.13 (#31990) • [`8848346`](https://github.com/trueforge-org/truecharts/commit/8848346f62b592afa74ea16e086efcbf5d32d520) • [@TrueCharts Bot] (2025-02-12)
 - chore(helm): update image ghcr.io/m1k1o/neko/vivaldi 2.8.12 → 2.8.13 (#31991) • [`94e2f21`](https://github.com/trueforge-org/truecharts/commit/94e2f216c95833d6704497c36bb3bd5d73781484) • [@TrueCharts Bot] (2025-02-12)
+- chore(helm): update image ghcr.io/m1k1o/neko/remmina 2.8.12 → 2.8.13 (#31989) • [`b73d0a6`](https://github.com/trueforge-org/truecharts/commit/b73d0a66bc5d359bf6bbb351d9fbc5b0fd4ce628) • [@TrueCharts Bot] (2025-02-12)
 - chore(helm): update image ghcr.io/m1k1o/neko/xfce 2.8.12 → 2.8.13 (#31993) • [`c40a763`](https://github.com/trueforge-org/truecharts/commit/c40a763e5356fd2acf7864a5b9b6b5eec0a12ade) • [@TrueCharts Bot] (2025-02-12)
+- chore(helm): update image ghcr.io/m1k1o/neko/microsoft-edge 2.8.12 → 2.8.13 (#31988) • [`5bf3164`](https://github.com/trueforge-org/truecharts/commit/5bf31642b67e6810020d3b117244f7d5bd6c912d) • [@TrueCharts Bot] (2025-02-12)
+- chore(helm): update image ghcr.io/m1k1o/neko/firefox 2.8.12 → 2.8.13 (#31986) • [`7429520`](https://github.com/trueforge-org/truecharts/commit/7429520084670e6f90d879ccf7be60599ca09592) • [@TrueCharts Bot] (2025-02-12)
+- chore(helm): update image ghcr.io/m1k1o/neko/vlc 2.8.12 → 2.8.13 (#31992) • [`bad060f`](https://github.com/trueforge-org/truecharts/commit/bad060f507d1c59b998876538b55513ac9023e8d) • [@TrueCharts Bot] (2025-02-12)
 - chore(helm): update image ghcr.io/m1k1o/neko/chromium 2.8.12 → 2.8.13 (#31985) • [`22bd4d7`](https://github.com/trueforge-org/truecharts/commit/22bd4d7a439ca6b292f5c7272df98f9021fe357b) • [@TrueCharts Bot] (2025-02-12)
-- chore(helm): update image ghcr.io/m1k1o/neko/google-chrome 2.8.12 → 2.8.13 (#31987) • [`317063c`](https://github.com/trueforge-org/truecharts/commit/317063c670ec13a56a029e7866ad4796ec9ff676) • [@TrueCharts Bot] (2025-02-12)
 
 ## 8.5.1 • [Train: stable]
 
@@ -541,15 +541,15 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 8.0.3 • [Train: stable]
 
+- chore(deps): update container image ghcr.io/m1k1o/neko/firefox to v2.8.12@a6ccd71 by renovate (#23392) • [`7f94f97`](https://github.com/trueforge-org/truecharts/commit/7f94f9735e56c9656de1d80648b8f0fbcc3f466f) • [@TrueCharts Bot] (2024-06-15)
 - chore(deps): update container image ghcr.io/m1k1o/neko/xfce to v2.8.12@9e22037 by renovate (#23399) • [`d62e49a`](https://github.com/trueforge-org/truecharts/commit/d62e49a5764a88ab7da74173e686e4ae291cb1e5) • [@TrueCharts Bot] (2024-06-15)
 - chore(deps): update container image ghcr.io/m1k1o/neko/google-chrome to v2.8.12@5b9c75b by renovate (#23393) • [`dbbbf4d`](https://github.com/trueforge-org/truecharts/commit/dbbbf4da84fe5d0de31d5f07a7676bb60a72ff40) • [@TrueCharts Bot] (2024-06-15)
-- chore(deps): update container image ghcr.io/m1k1o/neko/chromium to v2.8.12@8d9d431 by renovate (#23391) • [`072bc1d`](https://github.com/trueforge-org/truecharts/commit/072bc1dd6fd872137c0cc5f79f0e71636b06b720) • [@TrueCharts Bot] (2024-06-15)
 - chore(deps): update container image ghcr.io/m1k1o/neko/tor-browser to v2.8.12@16e985d by renovate (#23396) • [`1c708b0`](https://github.com/trueforge-org/truecharts/commit/1c708b042cfcd58d0aad3b461bef9044b4338c82) • [@TrueCharts Bot] (2024-06-15)
-- chore(deps): update container image ghcr.io/m1k1o/neko/microsoft-edge to v2.8.12@c93e3cd by renovate (#23394) • [`38dca0e`](https://github.com/trueforge-org/truecharts/commit/38dca0e00732920fef73c533c7c3197f31bed676) • [@TrueCharts Bot] (2024-06-15)
-- chore(deps): update container image ghcr.io/m1k1o/neko/vivaldi to v2.8.12@158d1e1 by renovate (#23397) • [`007f8d0`](https://github.com/trueforge-org/truecharts/commit/007f8d03f876680b46e7d845cf2f2af510a513fc) • [@TrueCharts Bot] (2024-06-15)
-- chore(deps): update container image ghcr.io/m1k1o/neko/firefox to v2.8.12@a6ccd71 by renovate (#23392) • [`7f94f97`](https://github.com/trueforge-org/truecharts/commit/7f94f9735e56c9656de1d80648b8f0fbcc3f466f) • [@TrueCharts Bot] (2024-06-15)
 - chore(deps): update container image ghcr.io/m1k1o/neko/remmina to v2.8.12@9a60e2a by renovate (#23395) • [`93a7b38`](https://github.com/trueforge-org/truecharts/commit/93a7b382887b195a000aac2790a7b177ca5967d3) • [@TrueCharts Bot] (2024-06-15)
 - chore(deps): update container image ghcr.io/m1k1o/neko/vlc to v2.8.12@bd5448e by renovate (#23398) • [`bbe04b2`](https://github.com/trueforge-org/truecharts/commit/bbe04b2957a8d37a89c4efe36d5ac942b9c33ec6) • [@TrueCharts Bot] (2024-06-15)
+- chore(deps): update container image ghcr.io/m1k1o/neko/vivaldi to v2.8.12@158d1e1 by renovate (#23397) • [`007f8d0`](https://github.com/trueforge-org/truecharts/commit/007f8d03f876680b46e7d845cf2f2af510a513fc) • [@TrueCharts Bot] (2024-06-15)
+- chore(deps): update container image ghcr.io/m1k1o/neko/chromium to v2.8.12@8d9d431 by renovate (#23391) • [`072bc1d`](https://github.com/trueforge-org/truecharts/commit/072bc1dd6fd872137c0cc5f79f0e71636b06b720) • [@TrueCharts Bot] (2024-06-15)
+- chore(deps): update container image ghcr.io/m1k1o/neko/microsoft-edge to v2.8.12@c93e3cd by renovate (#23394) • [`38dca0e`](https://github.com/trueforge-org/truecharts/commit/38dca0e00732920fef73c533c7c3197f31bed676) • [@TrueCharts Bot] (2024-06-15)
 
 ## 8.0.2 • [Train: stable]
 
@@ -610,8 +610,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 - Commit daily changes • [`6e72827`](https://github.com/trueforge-org/truecharts/commit/6e728271ad5ff1a3cbf3ce945fcb7f056a556484) • [@TrueCharts-Bot] (2024-05-09)
 - Commit daily changes • [`7bac265`](https://github.com/trueforge-org/truecharts/commit/7bac265a259104ead30b5c1fababc2fc0a869620) • [@TrueCharts-Bot] (2024-05-08)
 - Commit daily changes • [`410bacb`](https://github.com/trueforge-org/truecharts/commit/410bacb1c125e67432259a71529f46c58054e4ef) • [@TrueCharts-Bot] (2024-05-07)
-- chore(docs): exclude changelog from pagefind (#21693) • [`f91c384`](https://github.com/trueforge-org/truecharts/commit/f91c384060835b0cff91205b8ee00de36b10d689) • [@Stavros Kois] (2024-05-06)
 - Commit daily changes • [`460ce98`](https://github.com/trueforge-org/truecharts/commit/460ce98e609cda3c2b24a7f670cd204abb4a2123) • [@TrueCharts-Bot] (2024-05-06)
+- chore(docs): exclude changelog from pagefind (#21693) • [`f91c384`](https://github.com/trueforge-org/truecharts/commit/f91c384060835b0cff91205b8ee00de36b10d689) • [@Stavros Kois] (2024-05-06)
 - Commit daily changes • [`7c14a14`](https://github.com/trueforge-org/truecharts/commit/7c14a140bf31434604ff24044519b2d613a56a02) • [@TrueCharts-Bot] (2024-05-05)
 - Commit daily changes • [`ebbf540`](https://github.com/trueforge-org/truecharts/commit/ebbf540352a08b8beb3252b2d2c0b4a56845ca02) • [@TrueCharts-Bot] (2024-05-04)
 - Commit daily changes • [`44512eb`](https://github.com/trueforge-org/truecharts/commit/44512eb63d963c9d88e603e3e4e4aa8db2186c55) • [@TrueCharts-Bot] (2024-05-03)
@@ -678,8 +678,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.1.6 • [Train: stable]
 
-- Commit daily changes • [`4379eea`](https://github.com/trueforge-org/truecharts/commit/4379eea4a153b83005c9243245c951638fc2ee83) • [@TrueCharts-Bot] (2024-04-20)
 - Commit daily changes • [`5f6f1c9`](https://github.com/trueforge-org/truecharts/commit/5f6f1c96b4e8011db5c39a38330035cfc0d2ccd1) • [@TrueCharts-Bot] (2024-04-20)
+- Commit daily changes • [`4379eea`](https://github.com/trueforge-org/truecharts/commit/4379eea4a153b83005c9243245c951638fc2ee83) • [@TrueCharts-Bot] (2024-04-20)
 - Commit daily changes • [`5cb9e7a`](https://github.com/trueforge-org/truecharts/commit/5cb9e7abfd9f7569e9fe8905433b0422aa2c502c) • [@TrueCharts-Bot] (2024-04-19)
 - Commit daily changes • [`dd036eb`](https://github.com/trueforge-org/truecharts/commit/dd036eb75382bb8ae09c8ce995a99cb045d85d54) • [@TrueCharts-Bot] (2024-04-18)
 - Commit daily changes • [`26af685`](https://github.com/trueforge-org/truecharts/commit/26af68565949440123d8ba215a7e8544ec455067) • [@TrueCharts-Bot] (2024-04-17)
@@ -1002,15 +1002,15 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.0.20 • [Train: stable]
 
-- chore(deps): update container image m1k1o/neko to firefox@721d433 by renovate (#16509) • [`0b573b6`](https://github.com/trueforge-org/truecharts/commit/0b573b6a03615c643ca54aee673bd73188328070) • [@TrueCharts Bot] (2023-12-25)
-- chore(deps): update container image m1k1o/neko to xfce@71ea720 by renovate (#16516) • [`0b59657`](https://github.com/trueforge-org/truecharts/commit/0b596572f135c4b995d0df0ae25f23efa9923abf) • [@TrueCharts Bot] (2023-12-25)
-- chore(deps): update container image m1k1o/neko to chromium@6d58fb5 by renovate (#16508) • [`454d93d`](https://github.com/trueforge-org/truecharts/commit/454d93d903d60ede7b2d8d73e2005c8cde7d8349) • [@TrueCharts Bot] (2023-12-25)
-- chore(deps): update container image m1k1o/neko to remmina@707cb4e by renovate (#16512) • [`5cfc0e9`](https://github.com/trueforge-org/truecharts/commit/5cfc0e96dce30284eb4d791968c76e1fc28b0672) • [@TrueCharts Bot] (2023-12-25)
 - chore(deps): update container image m1k1o/neko to google-chrome@c81e1b2 by renovate (#16510) • [`094e8eb`](https://github.com/trueforge-org/truecharts/commit/094e8eb013319e76ab289ef918de26acad1199fe) • [@TrueCharts Bot] (2023-12-25)
-- chore(deps): update container image m1k1o/neko to vlc@51d1719 by renovate (#16515) • [`153ac91`](https://github.com/trueforge-org/truecharts/commit/153ac9156764488816099589cdbb4361ed7630df) • [@TrueCharts Bot] (2023-12-25)
+- chore(deps): update container image m1k1o/neko to firefox@721d433 by renovate (#16509) • [`0b573b6`](https://github.com/trueforge-org/truecharts/commit/0b573b6a03615c643ca54aee673bd73188328070) • [@TrueCharts Bot] (2023-12-25)
 - chore(deps): update container image m1k1o/neko to tor-browser@8f7cea0 by renovate (#16513) • [`37f2461`](https://github.com/trueforge-org/truecharts/commit/37f246145d09ec4e8e8dfd285fa9d4e1ad59d3e3) • [@TrueCharts Bot] (2023-12-25)
-- chore(deps): update container image m1k1o/neko to vivaldi@4d0f7db by renovate (#16514) • [`3c6168f`](https://github.com/trueforge-org/truecharts/commit/3c6168f726970cba9d8c3dd719b330b6257927ba) • [@TrueCharts Bot] (2023-12-25)
+- chore(deps): update container image m1k1o/neko to chromium@6d58fb5 by renovate (#16508) • [`454d93d`](https://github.com/trueforge-org/truecharts/commit/454d93d903d60ede7b2d8d73e2005c8cde7d8349) • [@TrueCharts Bot] (2023-12-25)
 - chore(deps): update container image m1k1o/neko to brave@fd89115 by renovate (#16507) • [`d2fe79f`](https://github.com/trueforge-org/truecharts/commit/d2fe79f067dccd72940e1a424bb9ce61fa3b0764) • [@TrueCharts Bot] (2023-12-25)
+- chore(deps): update container image m1k1o/neko to xfce@71ea720 by renovate (#16516) • [`0b59657`](https://github.com/trueforge-org/truecharts/commit/0b596572f135c4b995d0df0ae25f23efa9923abf) • [@TrueCharts Bot] (2023-12-25)
+- chore(deps): update container image m1k1o/neko to vlc@51d1719 by renovate (#16515) • [`153ac91`](https://github.com/trueforge-org/truecharts/commit/153ac9156764488816099589cdbb4361ed7630df) • [@TrueCharts Bot] (2023-12-25)
+- chore(deps): update container image m1k1o/neko to vivaldi@4d0f7db by renovate (#16514) • [`3c6168f`](https://github.com/trueforge-org/truecharts/commit/3c6168f726970cba9d8c3dd719b330b6257927ba) • [@TrueCharts Bot] (2023-12-25)
+- chore(deps): update container image m1k1o/neko to remmina@707cb4e by renovate (#16512) • [`5cfc0e9`](https://github.com/trueforge-org/truecharts/commit/5cfc0e96dce30284eb4d791968c76e1fc28b0672) • [@TrueCharts Bot] (2023-12-25)
 
 ## 3.0.19 • [Train: stable]
 
@@ -1076,26 +1076,26 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.0.5 • [Train: incubator]
 
+- chore(deps): update container image m1k1o/neko to vlc@cc5f2f9 by renovate (#16298) • [`0da7ad6`](https://github.com/trueforge-org/truecharts/commit/0da7ad6c10eebdbfb6b8ac7b8b7bec3952d2296b) • [@TrueCharts Bot] (2023-12-18)
 - chore(deps): update container image m1k1o/neko to tor-browser@0da1510 by renovate (#16297) • [`2803217`](https://github.com/trueforge-org/truecharts/commit/280321750d6618b28f5cbc5b6f1865b0b1033e55) • [@TrueCharts Bot] (2023-12-18)
 - chore(deps): update container image m1k1o/neko to microsoft-edge@cfebc5f by renovate (#16295) • [`3e788a2`](https://github.com/trueforge-org/truecharts/commit/3e788a24b87ee566b1c67c15b9c571a3c8d1caf9) • [@TrueCharts Bot] (2023-12-18)
+- chore(deps): update container image m1k1o/neko to vivaldi@cfbee00 by renovate (#16239) • [`b33457d`](https://github.com/trueforge-org/truecharts/commit/b33457d0c2ee14f25313b995d793a943aceb149e) • [@TrueCharts Bot] (2023-12-18)
+- chore(deps): update container image m1k1o/neko to xfce@e154770 by renovate (#16241) • [`ea13c5b`](https://github.com/trueforge-org/truecharts/commit/ea13c5bd6e3d78f02e697343f7e3fcb8e3cb2bb6) • [@TrueCharts Bot] (2023-12-18)
 - chore(deps): update container image m1k1o/neko to brave@5d853c2 by renovate (#16291) • [`3f2f734`](https://github.com/trueforge-org/truecharts/commit/3f2f73422594cf679e3bdb42dfbc787906e85942) • [@TrueCharts Bot] (2023-12-18)
 - chore(deps): update container image m1k1o/neko to google-chrome@abdedb3 by renovate (#16294) • [`c216efc`](https://github.com/trueforge-org/truecharts/commit/c216efcb0e4740566c521b5f546884a6d00ec89e) • [@TrueCharts Bot] (2023-12-18)
 - chore(deps): update container image m1k1o/neko to firefox@5c2d1c0 by renovate (#16293) • [`c58ee55`](https://github.com/trueforge-org/truecharts/commit/c58ee55b1a27b8ed0e52abc68962b2e8acb90757) • [@TrueCharts Bot] (2023-12-18)
-- chore(deps): update container image m1k1o/neko to xfce@e154770 by renovate (#16241) • [`ea13c5b`](https://github.com/trueforge-org/truecharts/commit/ea13c5bd6e3d78f02e697343f7e3fcb8e3cb2bb6) • [@TrueCharts Bot] (2023-12-18)
-- chore(deps): update container image m1k1o/neko to vlc@cc5f2f9 by renovate (#16298) • [`0da7ad6`](https://github.com/trueforge-org/truecharts/commit/0da7ad6c10eebdbfb6b8ac7b8b7bec3952d2296b) • [@TrueCharts Bot] (2023-12-18)
-- chore(deps): update container image m1k1o/neko to vivaldi@cfbee00 by renovate (#16239) • [`b33457d`](https://github.com/trueforge-org/truecharts/commit/b33457d0c2ee14f25313b995d793a943aceb149e) • [@TrueCharts Bot] (2023-12-18)
 - chore(deps): update container image m1k1o/neko to remmina@0c51262 by renovate (#16296) • [`ec0306b`](https://github.com/trueforge-org/truecharts/commit/ec0306b4e5624064a3473d5def1fc0af72d01cba) • [@TrueCharts Bot] (2023-12-18)
 
 ## 3.0.4 • [Train: incubator]
 
-- chore(deps): update container image m1k1o/neko to google-chrome@e453501 by renovate (#16235) • [`0123fbd`](https://github.com/trueforge-org/truecharts/commit/0123fbdcf814e4fb1686eb737a5860b70b9003ff) • [@TrueCharts Bot] (2023-12-18)
-- chore(deps): update container image m1k1o/neko to firefox@1c95a8b by renovate (#16234) • [`2edd3a8`](https://github.com/trueforge-org/truecharts/commit/2edd3a8fa880703a09ca2bb1ebbbd5200b585466) • [@TrueCharts Bot] (2023-12-18)
-- chore(deps): update container image m1k1o/neko to brave@9b0b138 by renovate (#16232) • [`302414d`](https://github.com/trueforge-org/truecharts/commit/302414d680c880dbb2b73e3a63647059379ff8c6) • [@TrueCharts Bot] (2023-12-18)
-- chore(deps): update container image m1k1o/neko to remmina@cfc3d5e by renovate (#16237) • [`32a0bb3`](https://github.com/trueforge-org/truecharts/commit/32a0bb31df2a0d1120a46f9d3cb237ad46f96e46) • [@TrueCharts Bot] (2023-12-18)
 - chore(deps): update container image m1k1o/neko to vlc@1313b3c by renovate (#16240) • [`9850486`](https://github.com/trueforge-org/truecharts/commit/9850486c228b7f31a579c3b098085f4c8622eb9b) • [@TrueCharts Bot] (2023-12-18)
 - chore(deps): update container image m1k1o/neko to microsoft-edge@37822e9 by renovate (#16236) • [`a938ea8`](https://github.com/trueforge-org/truecharts/commit/a938ea885c1b1760d117f7a8ed064fa9df766e57) • [@TrueCharts Bot] (2023-12-18)
 - chore(deps): update container image m1k1o/neko to chromium@b650898 by renovate (#16233) • [`bbab8a6`](https://github.com/trueforge-org/truecharts/commit/bbab8a65e42c0b3322ac1b3ba2bff58814513353) • [@TrueCharts Bot] (2023-12-18)
 - chore(deps): update container image m1k1o/neko to tor-browser@1cbd01b by renovate (#16238) • [`eb0cc14`](https://github.com/trueforge-org/truecharts/commit/eb0cc14b5d1ac19f6af1e5939a8383621acd8780) • [@TrueCharts Bot] (2023-12-18)
+- chore(deps): update container image m1k1o/neko to google-chrome@e453501 by renovate (#16235) • [`0123fbd`](https://github.com/trueforge-org/truecharts/commit/0123fbdcf814e4fb1686eb737a5860b70b9003ff) • [@TrueCharts Bot] (2023-12-18)
+- chore(deps): update container image m1k1o/neko to firefox@1c95a8b by renovate (#16234) • [`2edd3a8`](https://github.com/trueforge-org/truecharts/commit/2edd3a8fa880703a09ca2bb1ebbbd5200b585466) • [@TrueCharts Bot] (2023-12-18)
+- chore(deps): update container image m1k1o/neko to brave@9b0b138 by renovate (#16232) • [`302414d`](https://github.com/trueforge-org/truecharts/commit/302414d680c880dbb2b73e3a63647059379ff8c6) • [@TrueCharts Bot] (2023-12-18)
+- chore(deps): update container image m1k1o/neko to remmina@cfc3d5e by renovate (#16237) • [`32a0bb3`](https://github.com/trueforge-org/truecharts/commit/32a0bb31df2a0d1120a46f9d3cb237ad46f96e46) • [@TrueCharts Bot] (2023-12-18)
 
 ## 3.0.3 • [Train: incubator]
 
@@ -1129,8 +1129,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.0.27 • [Train: incubator]
 
-- chore: fix annotations again • [`968da8e`](https://github.com/trueforge-org/truecharts/commit/968da8ed456fb6015744404b9cd21b832b0f9b38) • [@Kjeld Schouten] (2023-12-02)
 - chore: update annotations • [`5e194fb`](https://github.com/trueforge-org/truecharts/commit/5e194fb0bb5e2db19f02aac9cfd3cf32f28694f2) • [@Kjeld Schouten] (2023-12-02)
+- chore: fix annotations again • [`968da8e`](https://github.com/trueforge-org/truecharts/commit/968da8ed456fb6015744404b9cd21b832b0f9b38) • [@Kjeld Schouten] (2023-12-02)
 - chore: cleanup chart.yaml and add min-max scale version • [`286f68a`](https://github.com/trueforge-org/truecharts/commit/286f68aed0da4d274bcd7e7266934adee6667c6c) • [@Kjeld Schouten] (2023-11-30)
 - Commit daily changes • [`d1c2213`](https://github.com/trueforge-org/truecharts/commit/d1c22138f95fdb77ed67ed1702ac71741ce17f1b) • [@TrueCharts-Bot] (2023-11-28)
 - Commit daily changes • [`0027f37`](https://github.com/trueforge-org/truecharts/commit/0027f3756f8bc222b262970613f7465d746b0548) • [@TrueCharts-Bot] (2023-11-28)
@@ -1147,8 +1147,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 2.0.25 • [Train: incubator]
 
 - fix(incubator): fix indentation (#8536) • [`1259a29`](https://github.com/trueforge-org/truecharts/commit/1259a29e6097220dfc086853343e7a76ecd8ae8a) • [@Stavros Kois] (2023-04-30)
-- adapt workload and container questions for all apps • [`3c47107`](https://github.com/trueforge-org/truecharts/commit/3c471071cc485e386195989e12a1c45af51d67ac) • [@Kjeld Schouten-Lebbing] (2023-03-01)
 - update security context questions • [`893b55d`](https://github.com/trueforge-org/truecharts/commit/893b55dc56a6a658d921b59ec48696c23cb21926) • [@Kjeld Schouten-Lebbing] (2023-03-01)
+- adapt workload and container questions for all apps • [`3c47107`](https://github.com/trueforge-org/truecharts/commit/3c471071cc485e386195989e12a1c45af51d67ac) • [@Kjeld Schouten-Lebbing] (2023-03-01)
 - Merge pull request #7718 from truecharts/renovate/neko • [`b81b40d`](https://github.com/trueforge-org/truecharts/commit/b81b40d2886984c976799599c0b19f1f12cdb017) • [@TrueCharts Bot] (2023-02-27)
 - Commit bumped Chart Version • [`189c7e7`](https://github.com/trueforge-org/truecharts/commit/189c7e7453a56dc8be2e2abc4d4c2e033b00e93a) • [@TrueCharts-Bot] (2023-02-27)
 
@@ -1194,15 +1194,15 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.0.17 • [Train: incubator]
 
-- Commit bumped Chart Version • [`3577b87`](https://github.com/trueforge-org/truecharts/commit/3577b87376c59acb1e29bae68dab11388db8a136) • [@TrueCharts-Bot] (2023-01-12)
 - Merge pull request #6296 from truecharts/renovate/tccr.io-truecharts-neko-firefox-latest • [`f082afb`](https://github.com/trueforge-org/truecharts/commit/f082afb91e36cea8b7e8691a87543a28e7f1fcf8) • [@TrueCharts Bot] (2023-01-12)
+- Commit bumped Chart Version • [`3577b87`](https://github.com/trueforge-org/truecharts/commit/3577b87376c59acb1e29bae68dab11388db8a136) • [@TrueCharts-Bot] (2023-01-12)
 
 ## 2.0.16 • [Train: incubator]
 
 - chore(deps): update container image tccr.io/truecharts/neko-firefox to latest • [`4ed9c90`](https://github.com/trueforge-org/truecharts/commit/4ed9c90db1ae052b7b132f6cc84cbd684e8444c0) • [@TrueCharts-Admin] (2023-01-12)
-- Merge pull request #6062 from truecharts/renovate/tccr.io-truecharts-neko-firefox-latest • [`866d18c`](https://github.com/trueforge-org/truecharts/commit/866d18cd4e772ffede1d1a1ff9863d5c03f7b8dd) • [@TrueCharts Bot] (2023-01-07)
 - Commit bumped Chart Version • [`bc498c3`](https://github.com/trueforge-org/truecharts/commit/bc498c38a1d966cdc44182034ca37e684396c45a) • [@TrueCharts-Bot] (2023-01-07)
 - Merge branch &#39;master&#39; into renovate/tccr.io-truecharts-jupyter-r-v2022-09 • [`75a3505`](https://github.com/trueforge-org/truecharts/commit/75a3505a192743d6ac96360d0af92ef322511b05) • [@Stavros Kois] (2023-01-07)
+- Merge pull request #6062 from truecharts/renovate/tccr.io-truecharts-neko-firefox-latest • [`866d18c`](https://github.com/trueforge-org/truecharts/commit/866d18cd4e772ffede1d1a1ff9863d5c03f7b8dd) • [@TrueCharts Bot] (2023-01-07)
 
 ## 2.0.15 • [Train: incubator]
 
@@ -1252,8 +1252,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.0.6 • [Train: incubator]
 
-- Commit bumped Chart Version • [`253df74`](https://github.com/trueforge-org/truecharts/commit/253df74270958de55e5d642b04026a6fecbe6936) • [@TrueCharts-Bot] (2022-11-29)
 - Merge pull request #4948 from truecharts/renovate/tccr.io-truecharts-neko-firefox-latest • [`e835bd2`](https://github.com/trueforge-org/truecharts/commit/e835bd2045d03df6ed490e0017f19479986cfcf3) • [@TrueCharts Bot] (2022-11-29)
+- Commit bumped Chart Version • [`253df74`](https://github.com/trueforge-org/truecharts/commit/253df74270958de55e5d642b04026a6fecbe6936) • [@TrueCharts-Bot] (2022-11-29)
 
 ## 2.0.5 • [Train: incubator]
 
@@ -1275,8 +1275,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 2.0.2 • [Train: incubator]
 
 - chore(deps): update container image tccr.io/truecharts/neko-firefox to latest • [`3365a52`](https://github.com/trueforge-org/truecharts/commit/3365a523fac8b47609e55445c79d0beb45d0ccea) • [@TrueCharts-Admin] (2022-11-20)
-- Commit bumped Chart Version • [`f439026`](https://github.com/trueforge-org/truecharts/commit/f439026579c13d70f78cfcef06ec83b1bcbd903e) • [@TrueCharts-Bot] (2022-11-19)
 - Merge pull request #4602 from truecharts/renovate/tccr.io-truecharts-neko-firefox-latest • [`18652f0`](https://github.com/trueforge-org/truecharts/commit/18652f04d62acb95f8cc4499611e66c268661990) • [@TrueCharts Bot] (2022-11-19)
+- Commit bumped Chart Version • [`f439026`](https://github.com/trueforge-org/truecharts/commit/f439026579c13d70f78cfcef06ec83b1bcbd903e) • [@TrueCharts-Bot] (2022-11-19)
 
 ## 2.0.1 • [Train: incubator]
 
@@ -1313,11 +1313,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.0 • [Train: incubator]
 
-- fix(apps): remove references to targetPort • [`800312b`](https://github.com/trueforge-org/truecharts/commit/800312b29574d87c6591fa5590b8028da3e6d5b9) • [@Kjeld Schouten-Lebbing] (2022-11-11)
 - fix(apps): remove removed includes • [`f4fb894`](https://github.com/trueforge-org/truecharts/commit/f4fb8943e1f46b3ba2f705aac6792ad3bc1337d2) • [@Kjeld Schouten-Lebbing] (2022-11-11)
+- fix(apps): remove references to targetPort • [`800312b`](https://github.com/trueforge-org/truecharts/commit/800312b29574d87c6591fa5590b8028da3e6d5b9) • [@Kjeld Schouten-Lebbing] (2022-11-11)
+- fix(apps): change container config label • [`16f46e1`](https://github.com/trueforge-org/truecharts/commit/16f46e1db86182b9402b9c4a132884a0b10378a1) • [@Kjeld Schouten-Lebbing] (2022-11-10)
 - chore(apps): Major Change to GUI • [`2ef737f`](https://github.com/trueforge-org/truecharts/commit/2ef737f7d3d8fbb7a1ffe46456963004f37d9f45) • [@Kjeld Schouten-Lebbing] (2022-11-10)
 - chore: Auto-update chart README [skip ci] • [`ba9389e`](https://github.com/trueforge-org/truecharts/commit/ba9389e4da8aa4bab028f912000dbd4e975f99fb) • [@truecharts-bot] (2022-11-10)
-- fix(apps): change container config label • [`16f46e1`](https://github.com/trueforge-org/truecharts/commit/16f46e1db86182b9402b9c4a132884a0b10378a1) • [@Kjeld Schouten-Lebbing] (2022-11-10)
 
 ## 0.0.57 • [Train: incubator]
 
@@ -1345,8 +1345,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.53 • [Train: incubator]
 
-- chore(deps): update helm general non-major (#4308) • [`f04cc8f`](https://github.com/trueforge-org/truecharts/commit/f04cc8f6d8dc2fc8f554237763faadf5f745a068) • [@TrueCharts Bot] (2022-11-05)
 - chore: Auto-update chart README [skip ci] • [`8e3cdbf`](https://github.com/trueforge-org/truecharts/commit/8e3cdbfade5ef7a3e0edaf828006e728b99b9816) • [@truecharts-bot] (2022-11-05)
+- chore(deps): update helm general non-major (#4308) • [`f04cc8f`](https://github.com/trueforge-org/truecharts/commit/f04cc8f6d8dc2fc8f554237763faadf5f745a068) • [@TrueCharts Bot] (2022-11-05)
 
 ## 0.0.52 • [Train: incubator]
 
@@ -1401,8 +1401,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.42 • [Train: incubator]
 
-- Merge branch &#39;renovate/helm-general-non-major&#39; • [`4983f98`](https://github.com/trueforge-org/truecharts/commit/4983f98ea8c3789c1373889db5b6727df9dc4339) • [@Kjeld Schouten-Lebbing] (2022-10-06)
 - chore: Auto-update chart README [skip ci] • [`4cb54af`](https://github.com/trueforge-org/truecharts/commit/4cb54af1ba8d56067960772c50bfa2e053216683) • [@truecharts-bot] (2022-10-06)
+- Merge branch &#39;renovate/helm-general-non-major&#39; • [`4983f98`](https://github.com/trueforge-org/truecharts/commit/4983f98ea8c3789c1373889db5b6727df9dc4339) • [@Kjeld Schouten-Lebbing] (2022-10-06)
 - chore(deps): update helm general non-major • [`5e88a86`](https://github.com/trueforge-org/truecharts/commit/5e88a86bff586d09fb8a6a913dc0c788e7d3bf95) • [@TrueCharts-Admin] (2022-10-05)
 
 ## 0.0.41 • [Train: incubator]
@@ -1424,26 +1424,26 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.38 • [Train: incubator]
 
-- chore: Auto-update chart README [skip ci] • [`4f374f8`](https://github.com/trueforge-org/truecharts/commit/4f374f8a8bec7fa2a894be71f606a865eda824c0) • [@truecharts-bot] (2022-09-26)
 - chore(deps): update docker general non-major (#3906) • [`4458d3c`](https://github.com/trueforge-org/truecharts/commit/4458d3c58bbff42379e558efd82e69152a3dc46f) • [@TrueCharts Bot] (2022-09-26)
+- chore: Auto-update chart README [skip ci] • [`4f374f8`](https://github.com/trueforge-org/truecharts/commit/4f374f8a8bec7fa2a894be71f606a865eda824c0) • [@truecharts-bot] (2022-09-26)
 
 ## 0.0.37 • [Train: incubator]
 
-- chore(deps): update helm general non-major (#3898) • [`cb5a369`](https://github.com/trueforge-org/truecharts/commit/cb5a369c9690db68402b06d06125a2e5bb1ce490) • [@TrueCharts Bot] (2022-09-25)
 - chore: Auto-update chart README [skip ci] • [`6053186`](https://github.com/trueforge-org/truecharts/commit/60531868921f9735f782d7a5e5af0a1a3e6d1291) • [@truecharts-bot] (2022-09-25)
+- chore(deps): update helm general non-major (#3898) • [`cb5a369`](https://github.com/trueforge-org/truecharts/commit/cb5a369c9690db68402b06d06125a2e5bb1ce490) • [@TrueCharts Bot] (2022-09-25)
 
 ## 0.0.36 • [Train: incubator]
 
+- chore: Auto-update chart README [skip ci] • [`dea0e08`](https://github.com/trueforge-org/truecharts/commit/dea0e08738b4722f1c8b4af51115d835d1dd24b8) • [@truecharts-bot] (2022-09-22)
 - chore: Auto-update chart README [skip ci] • [`922a198`](https://github.com/trueforge-org/truecharts/commit/922a198480d8fad5c247ef8ede6ee9b726285a98) • [@truecharts-bot] (2022-09-22)
 - chore(deps): update docker general non-major (#3839) • [`b0b6066`](https://github.com/trueforge-org/truecharts/commit/b0b6066eff1112753abaf697bdcea9c7e1c1cc60) • [@TrueCharts Bot] (2022-09-22)
-- chore: Auto-update chart README [skip ci] • [`dea0e08`](https://github.com/trueforge-org/truecharts/commit/dea0e08738b4722f1c8b4af51115d835d1dd24b8) • [@truecharts-bot] (2022-09-22)
 
 ## 0.0.35 • [Train: incubator]
 
 - chore: Auto-update chart README [skip ci] • [`27eaf3c`](https://github.com/trueforge-org/truecharts/commit/27eaf3cd8ebf915df61e1b78ae62f925d0d0d33d) • [@truecharts-bot] (2022-09-21)
 - chore: Auto-update chart README [skip ci] • [`f2be506`](https://github.com/trueforge-org/truecharts/commit/f2be506cef39683b2cdcae6850e015c7d1b5d018) • [@truecharts-bot] (2022-09-21)
-- chore: Auto-update chart README [skip ci] • [`f71bda7`](https://github.com/trueforge-org/truecharts/commit/f71bda701953f94e4e49e480471dcd61d0239b12) • [@truecharts-bot] (2022-09-20)
 - chore(deps): update docker general non-major (#3818) • [`517b365`](https://github.com/trueforge-org/truecharts/commit/517b36567c9ce053dd5f4f94aceb3d002b399b19) • [@TrueCharts Bot] (2022-09-20)
+- chore: Auto-update chart README [skip ci] • [`f71bda7`](https://github.com/trueforge-org/truecharts/commit/f71bda701953f94e4e49e480471dcd61d0239b12) • [@truecharts-bot] (2022-09-20)
 
 ## 0.0.34 • [Train: incubator]
 
@@ -1460,9 +1460,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 - chore(Apps): refactor Services SCALE GUI • [`7be0dcb`](https://github.com/trueforge-org/truecharts/commit/7be0dcbe6d5d235f67c6b69a361d1ca2d1abb677) • [@Kjeld Schouten-Lebbing] (2022-09-17)
 - chore: Auto-update chart README [skip ci] • [`c99b62f`](https://github.com/trueforge-org/truecharts/commit/c99b62f699113e678af5efdfa633e298f9f55ae6) • [@truecharts-bot] (2022-09-16)
 - chore: Auto-update chart README [skip ci] • [`4a7979b`](https://github.com/trueforge-org/truecharts/commit/4a7979b1bd9f1a5263c7f991fe61d7c0a85a04b8) • [@truecharts-bot] (2022-09-16)
+- chore(deps): update docker general non-major (#3772) • [`f0757f0`](https://github.com/trueforge-org/truecharts/commit/f0757f0e2c8bc8effa6294b0ae37949caf041f77) • [@TrueCharts Bot] (2022-09-15)
 - chore(deps): update helm general non-major (#3767) • [`48e5471`](https://github.com/trueforge-org/truecharts/commit/48e5471458985ee1f873de03ebeb17415eea5575) • [@TrueCharts Bot] (2022-09-15)
 - chore: Auto-update chart README [skip ci] • [`682efa1`](https://github.com/trueforge-org/truecharts/commit/682efa11c4aed3ea9e4b4fd7b409c43e40cb9407) • [@truecharts-bot] (2022-09-15)
-- chore(deps): update docker general non-major (#3772) • [`f0757f0`](https://github.com/trueforge-org/truecharts/commit/f0757f0e2c8bc8effa6294b0ae37949caf041f77) • [@TrueCharts Bot] (2022-09-15)
 
 ## 0.0.32 • [Train: incubator]
 
@@ -1479,11 +1479,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.30 • [Train: incubator]
 
-- chore(deps): update helm general non-major (#3711) • [`845ea2d`](https://github.com/trueforge-org/truecharts/commit/845ea2d896360075af8c1b78e2421931b22aa31b) • [@TrueCharts Bot] (2022-09-11)
 - chore: Auto-update chart README [skip ci] • [`a23c49a`](https://github.com/trueforge-org/truecharts/commit/a23c49adc9ca593586f8a4b6f23d202cbba351ce) • [@truecharts-bot] (2022-09-11)
 - chore: Auto-update chart README [skip ci] • [`44a77cd`](https://github.com/trueforge-org/truecharts/commit/44a77cd0ddf59c2a29e472b72ee068832e5aee8d) • [@truecharts-bot] (2022-09-11)
 - chore(deps): update docker general non-major (#3736) • [`4dc32a9`](https://github.com/trueforge-org/truecharts/commit/4dc32a9142d92bed95853065bf7ef56e9bf4ba5f) • [@TrueCharts Bot] (2022-09-11)
 - chore: Auto-update chart README [skip ci] • [`5ac2a97`](https://github.com/trueforge-org/truecharts/commit/5ac2a97847c332e170723527708a74d52153b457) • [@truecharts-bot] (2022-09-11)
+- chore(deps): update helm general non-major (#3711) • [`845ea2d`](https://github.com/trueforge-org/truecharts/commit/845ea2d896360075af8c1b78e2421931b22aa31b) • [@TrueCharts Bot] (2022-09-11)
 
 ## 0.0.29 • [Train: incubator]
 
@@ -1518,8 +1518,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.22 • [Train: incubator]
 
-- chore(deps): update helm general non-major helm releases (#3545) • [`b51c98b`](https://github.com/trueforge-org/truecharts/commit/b51c98bb4a1163649f2ec46716e7e15a124cff43) • [@TrueCharts Bot] (2022-08-23)
 - chore: Auto-update chart README [skip ci] • [`e204b0e`](https://github.com/trueforge-org/truecharts/commit/e204b0e08e14cd39958f767a0f788e8c12bd1847) • [@truecharts-bot] (2022-08-23)
+- chore(deps): update helm general non-major helm releases (#3545) • [`b51c98b`](https://github.com/trueforge-org/truecharts/commit/b51c98bb4a1163649f2ec46716e7e15a124cff43) • [@TrueCharts Bot] (2022-08-23)
 
 ## 0.0.21 • [Train: incubator]
 
@@ -1538,8 +1538,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.18 • [Train: incubator]
 
-- chore: Auto-update chart README [skip ci] • [`9602f60`](https://github.com/trueforge-org/truecharts/commit/9602f608a7bdd35ab771c0fd87b1d9828b265b9c) • [@truecharts-bot] (2022-08-14)
 - chore(deps): update docker general non-major docker tags (#3465) • [`f0a4bd5`](https://github.com/trueforge-org/truecharts/commit/f0a4bd52cd38b4f23ab71baa8a797565164dd8cb) • [@TrueCharts Bot] (2022-08-14)
+- chore: Auto-update chart README [skip ci] • [`9602f60`](https://github.com/trueforge-org/truecharts/commit/9602f608a7bdd35ab771c0fd87b1d9828b265b9c) • [@truecharts-bot] (2022-08-14)
 
 ## 0.0.17 • [Train: incubator]
 
@@ -1548,11 +1548,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.16 • [Train: incubator]
 
-- fix(neko): cleanup (#3390) • [`7bf4eab`](https://github.com/trueforge-org/truecharts/commit/7bf4eabc040c81c11472578c5fa69af0dcc8ad6e) • [@Stavros Kois] (2022-08-12)
 - chore(charts): add documentation checkbox/section to all SCALE Apps • [`c5b2f8f`](https://github.com/trueforge-org/truecharts/commit/c5b2f8f13fed522864da2b29417f5875eca79216) • [@Kjeld Schouten-Lebbing] (2022-08-12)
 - fix(templates): move extraArgs from .Values.controller to .Values (#3447) • [`16fbffb`](https://github.com/trueforge-org/truecharts/commit/16fbffb9619eabdcd61815fb4ba05befd3b3a445) • [@Stavros Kois] (2022-08-12)
-- chore(deps): update helm general non-major helm releases (#3376) • [`763af7a`](https://github.com/trueforge-org/truecharts/commit/763af7a7b93f1b94e173589f8cd9b03282720bd3) • [@TrueCharts Bot] (2022-08-08)
+- fix(neko): cleanup (#3390) • [`7bf4eab`](https://github.com/trueforge-org/truecharts/commit/7bf4eabc040c81c11472578c5fa69af0dcc8ad6e) • [@Stavros Kois] (2022-08-12)
 - chore: Auto-update chart README [skip ci] • [`aa39c09`](https://github.com/trueforge-org/truecharts/commit/aa39c09e86340c2132beb50bf5a7195b6e84b1a3) • [@truecharts-bot] (2022-08-08)
+- chore(deps): update helm general non-major helm releases (#3376) • [`763af7a`](https://github.com/trueforge-org/truecharts/commit/763af7a7b93f1b94e173589f8cd9b03282720bd3) • [@TrueCharts Bot] (2022-08-08)
 
 ## 0.0.15 • [Train: incubator]
 
@@ -1561,9 +1561,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.14 • [Train: incubator]
 
-- chore(deps): update helm general non-major helm releases (#3302) • [`54e805a`](https://github.com/trueforge-org/truecharts/commit/54e805ab4d77ef20d2d0c1dd77d3f2d9c80e4094) • [@TrueCharts Bot] (2022-07-26)
 - chore(apps): update home links (#3291) • [`714090a`](https://github.com/trueforge-org/truecharts/commit/714090aa6e3881bd932c1acabd322435cdd2f4fd) • [@Stavros Kois] (2022-07-26)
 - chore: Auto-update chart README [skip ci] • [`80ef023`](https://github.com/trueforge-org/truecharts/commit/80ef02312bb72c092162318261a699904ed89d4a) • [@truecharts-bot] (2022-07-26)
+- chore(deps): update helm general non-major helm releases (#3302) • [`54e805a`](https://github.com/trueforge-org/truecharts/commit/54e805ab4d77ef20d2d0c1dd77d3f2d9c80e4094) • [@TrueCharts Bot] (2022-07-26)
 
 ## 0.0.13 • [Train: incubator]
 
@@ -1580,8 +1580,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.11 • [Train: incubator]
 
-- chore(charts): Bump all charts to generate config and container references due to huge increase of repository • [`2c844c4`](https://github.com/trueforge-org/truecharts/commit/2c844c4b818963dcfcfdbffb0c204585ba8d678b) • [@Kjeld Schouten-Lebbing] (2022-07-23)
 - chore: Auto-update chart README [skip ci] • [`28f252b`](https://github.com/trueforge-org/truecharts/commit/28f252b3f6e8c398d3fcb987f34d72edf42ca57a) • [@truecharts-bot] (2022-07-23)
+- chore(charts): Bump all charts to generate config and container references due to huge increase of repository • [`2c844c4`](https://github.com/trueforge-org/truecharts/commit/2c844c4b818963dcfcfdbffb0c204585ba8d678b) • [@Kjeld Schouten-Lebbing] (2022-07-23)
 
 ## 0.0.10 • [Train: dev]
 
