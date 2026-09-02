@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 44.57.3 • [Train: ]
+
+- fix(deps): update renovate/renovate docker tag 44.57.2 → 44.57.3 (#3414) • [`2481196`](https://github.com/trueforge-org/truecharts/commit/24811964e27209677a2982c790a01e19f82cc583) • [@TrueCharts Bot] (2026-09-02)
+
 ## 44.57.2 • [Train: ]
 
 - feat(deps): update renovate/renovate docker tag 44.56.3 → 44.57.2 (#3413) • [`482141b`](https://github.com/trueforge-org/truecharts/commit/482141b1f7f6e21eab60f9b1373a8fc42b178dcc) • [@TrueCharts Bot] (2026-09-02)
@@ -1105,8 +1109,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 43.141.1 • [Train: ]
 
-- refactor(settings): audit env/ports/volumes across all apps (#2090) • [`6249d10`](https://github.com/trueforge-org/truecharts/commit/6249d10f99fc4515d01a965daf511ca00eb2b3ba) • [@Copilot] (2026-04-24)
 - feat(deps): update renovate/renovate docker tag 43.140.0 → 43.141.1 (#2089) • [`ef38722`](https://github.com/trueforge-org/truecharts/commit/ef38722b6f0a255d25943dde34ae7f67edb82726) • [@TrueCharts Bot] (2026-04-24)
+- refactor(settings): audit env/ports/volumes across all apps (#2090) • [`6249d10`](https://github.com/trueforge-org/truecharts/commit/6249d10f99fc4515d01a965daf511ca00eb2b3ba) • [@Copilot] (2026-04-24)
 
 ## 43.140.0 • [Train: ]
 
@@ -1447,8 +1451,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 43.3.0 • [Train: ]
 
-- feat(deps): update renovate/renovate docker tag 43.2.8 → 43.3.0 (#1042) • [`ce47ab1`](https://github.com/trueforge-org/truecharts/commit/ce47ab199014af3a35aa6d4d18f808d03dfc0a1b) • [@TrueCharts Bot] (2026-02-04)
 - fix(renovate): Update Forgetool version (#1043) • [`930e5ab`](https://github.com/trueforge-org/truecharts/commit/930e5ab5bec52bc0915908956d1006f0a25963c5) • [@Alfred Göppel] (2026-02-04)
+- feat(deps): update renovate/renovate docker tag 43.2.8 → 43.3.0 (#1042) • [`ce47ab1`](https://github.com/trueforge-org/truecharts/commit/ce47ab199014af3a35aa6d4d18f808d03dfc0a1b) • [@TrueCharts Bot] (2026-02-04)
 
 ## 43.2.8 • [Train: ]
 
@@ -1992,10 +1996,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - Migrate to new Testing backend (#47) • [`4eb3d6f`](https://github.com/trueforge-org/truecharts/commit/4eb3d6ff2cfac84140972f9fdfd726f444b9d270) • [@Kjeld Schouten] (2025-10-03)
 - add empty test files where needed • [`8625972`](https://github.com/trueforge-org/truecharts/commit/862597210eded9c4ec153a08f54cf22060aa58b6) • [@Kjeld Schouten] (2025-10-01)
+- renovate/clustertool targetarch • [`3742238`](https://github.com/trueforge-org/truecharts/commit/3742238e96cfd7cf307c23335581e172170ed7e9) • [@Kjeld Schouten] (2025-09-29)
+- fix targetarch for renovate • [`cccec29`](https://github.com/trueforge-org/truecharts/commit/cccec2917d3dce9306e0f584edf38aefe43a6a68) • [@Kjeld Schouten] (2025-09-29)
+- more fixes • [`d36deb3`](https://github.com/trueforge-org/truecharts/commit/d36deb361bd1c8b6fca5a23e8f16b48666767e80) • [@Kjeld Schouten] (2025-09-29)
 - hmm • [`e1edfe7`](https://github.com/trueforge-org/truecharts/commit/e1edfe73b16b4cd3705c25828393851b656e44ae) • [@Kjeld Schouten] (2025-09-29)
 - fix more build issues • [`5386b66`](https://github.com/trueforge-org/truecharts/commit/5386b66814a4296f6282b463678213b7948967a0) • [@Kjeld Schouten] (2025-09-29)
-- fix targetarch for renovate • [`cccec29`](https://github.com/trueforge-org/truecharts/commit/cccec2917d3dce9306e0f584edf38aefe43a6a68) • [@Kjeld Schouten] (2025-09-29)
-- some more work on migrating existing containers • [`1f5b4bb`](https://github.com/trueforge-org/truecharts/commit/1f5b4bb49a6ca79c94490c7b1a59f7410709764b) • [@Kjeld Schouten] (2025-09-29)
-- renovate/clustertool targetarch • [`3742238`](https://github.com/trueforge-org/truecharts/commit/3742238e96cfd7cf307c23335581e172170ed7e9) • [@Kjeld Schouten] (2025-09-29)
 - and cleanup some more • [`bbe4f1b`](https://github.com/trueforge-org/truecharts/commit/bbe4f1b23054b5eb74b5a7719395bd46127024b5) • [@Kjeld Schouten] (2025-09-29)
-- more fixes • [`d36deb3`](https://github.com/trueforge-org/truecharts/commit/d36deb361bd1c8b6fca5a23e8f16b48666767e80) • [@Kjeld Schouten] (2025-09-29)
+- some more work on migrating existing containers • [`1f5b4bb`](https://github.com/trueforge-org/truecharts/commit/1f5b4bb49a6ca79c94490c7b1a59f7410709764b) • [@Kjeld Schouten] (2025-09-29)
