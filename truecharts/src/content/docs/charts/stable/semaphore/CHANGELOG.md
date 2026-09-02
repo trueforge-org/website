@@ -221,8 +221,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.19.4 • [Train: stable]
 
-- fix(semaphore): update image docker.io/semaphoreui/semaphore v2.17.21 → v2.17.22 (#45992) • [`14c1e50`](https://github.com/trueforge-org/truecharts/commit/14c1e50ca1638145d61a0661a16b1d3e710a2c2e) • [@TrueCharts Bot] (2026-03-12)
 - fix(helm-deps): update chart common 28.33.3 → 28.33.4 (#45987) • [`465db91`](https://github.com/trueforge-org/truecharts/commit/465db91ac6853d102ac8bb2ffd731d1b01168a02) • [@TrueCharts Bot] (2026-03-12)
+- fix(semaphore): update image docker.io/semaphoreui/semaphore v2.17.21 → v2.17.22 (#45992) • [`14c1e50`](https://github.com/trueforge-org/truecharts/commit/14c1e50ca1638145d61a0661a16b1d3e710a2c2e) • [@TrueCharts Bot] (2026-03-12)
 
 ## 6.19.3 • [Train: stable]
 
@@ -275,8 +275,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.15.2 • [Train: stable]
 
-- fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
 - Commit daily changes • [`fe6ee7e`](https://github.com/trueforge-org/truecharts/commit/fe6ee7ee60f05364a2b37184357765fccf370201) • [@TrueCharts-Bot] (2026-02-15)
+- fix(helm-deps): update chart common 28.29.49 → 28.29.59 (#44970) • [`3d99f58`](https://github.com/trueforge-org/truecharts/commit/3d99f5804aa193d5f01f86bbbe8dd96d1d173318) • [@TrueCharts Bot] (2026-02-15)
 
 ## 6.15.1 • [Train: stable]
 
