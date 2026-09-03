@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.6.1 • [Train: ]
+
+- fix(deps): update linuxserver/webgrabplus docker tag 5.6.0 → 5.6.1 (#3430) • [`1f92be8`](https://github.com/trueforge-org/truecharts/commit/1f92be8efe6f253503318a143e7e1b80ca90c220) • [@TrueCharts Bot] (2026-09-03)
+
 ## 5.6.0 • [Train: ]
 
 - chore(ubuntu-dep): update ghcr.io/trueforge-org/ubuntu:26.04 docker digest digest to 24efb13 (#3274) • [`757da61`](https://github.com/trueforge-org/truecharts/commit/757da619634bab38971e7dde42bc716287d187b3) • [@TrueCharts Bot] (2026-08-21)
