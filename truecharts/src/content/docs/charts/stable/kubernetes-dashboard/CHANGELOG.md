@@ -346,8 +346,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.0.0 • [Train: stable]
 
-- Commit daily changes • [`92e9b4a`](https://github.com/trueforge-org/truecharts/commit/92e9b4afa1d752349b847bb6a59fce207405de08) • [@TrueCharts-Bot] (2025-11-06)
 - chore!: move non-common containers from tccr to containerforge (#41408) • [`bbff07c`](https://github.com/trueforge-org/truecharts/commit/bbff07c7978f171e134de3a3ca32dd1c056edd3e) • [@Kjeld Schouten] (2025-11-06)
+- Commit daily changes • [`92e9b4a`](https://github.com/trueforge-org/truecharts/commit/92e9b4afa1d752349b847bb6a59fce207405de08) • [@TrueCharts-Bot] (2025-11-06)
 
 ## 2.12.2 • [Train: stable]
 
@@ -360,8 +360,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.12.0 • [Train: stable]
 
-- chore(helm): update image docker.io/kubernetesui/dashboard-api 1.13.0 → 1.14.0 (#41259) • [`cadf0c9`](https://github.com/trueforge-org/truecharts/commit/cadf0c99168b4054037ccdd641b07eccf282328c) • [@TrueCharts Bot] (2025-10-30)
 - chore(helm): update image docker.io/kubernetesui/dashboard-auth 1.3.0 → 1.4.0 (#41260) • [`f67fb3e`](https://github.com/trueforge-org/truecharts/commit/f67fb3ec780e58c461d096fa942f818ced1f23a6) • [@TrueCharts Bot] (2025-10-30)
+- chore(helm): update image docker.io/kubernetesui/dashboard-api 1.13.0 → 1.14.0 (#41259) • [`cadf0c9`](https://github.com/trueforge-org/truecharts/commit/cadf0c99168b4054037ccdd641b07eccf282328c) • [@TrueCharts Bot] (2025-10-30)
 
 ## 2.11.1 • [Train: stable]
 
@@ -377,9 +377,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.9.0 • [Train: stable]
 
+- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 - More fixes • [`7ba53d4`](https://github.com/trueforge-org/truecharts/commit/7ba53d4a8d11546a5b96b98a1472e6f6094d8e36) • [@Kjeld Schouten] (2025-10-12)
 - chore(helm): update chart common to v28.24.0 (#40646) • [`bbc0a7e`](https://github.com/trueforge-org/truecharts/commit/bbc0a7e4c9814a6d7405c1b8f9eb1448648b5736) • [@TrueCharts Bot] (2025-10-12)
-- more fixes again • [`bfe01f9`](https://github.com/trueforge-org/truecharts/commit/bfe01f93014c6f29f14dbd673273c4741dcabe33) • [@Kjeld Schouten] (2025-10-12)
 
 ## 2.8.0 • [Train: premium]
 
@@ -525,9 +525,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.16.0 • [Train: premium]
 
+- chore(helm): update image docker.io/kubernetesui/dashboard-web 1.6.2 → 1.7.0 (#35904) • [`0553f9b`](https://github.com/trueforge-org/truecharts/commit/0553f9b2ddfa04d9793c5eea98b254df1828cb74) • [@TrueCharts Bot] (2025-06-03)
 - chore(helm): update image docker.io/kubernetesui/dashboard-auth 1.2.4 → 1.3.0 (#35903) • [`1190eb8`](https://github.com/trueforge-org/truecharts/commit/1190eb84da58e115049442c7581e0e43029aa104) • [@TrueCharts Bot] (2025-06-03)
 - chore(helm): update image docker.io/kubernetesui/dashboard-api 1.12.0 → 1.13.0 (#35902) • [`17be35a`](https://github.com/trueforge-org/truecharts/commit/17be35af5795f862b424e6ba4f28d9ae142c908e) • [@TrueCharts Bot] (2025-06-03)
-- chore(helm): update image docker.io/kubernetesui/dashboard-web 1.6.2 → 1.7.0 (#35904) • [`0553f9b`](https://github.com/trueforge-org/truecharts/commit/0553f9b2ddfa04d9793c5eea98b254df1828cb74) • [@TrueCharts Bot] (2025-06-03)
 
 ## 1.15.0 • [Train: premium]
 
@@ -568,10 +568,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.12.1 • [Train: premium]
 
-- chore(helm): update image docker.io/kubernetesui/dashboard-auth 1.2.2 → 1.2.3 (#30838) • [`28c8fa4`](https://github.com/trueforge-org/truecharts/commit/28c8fa41475f457bb2a14aa9688dca159562bf07) • [@TrueCharts Bot] (2025-01-12)
-- chore(helm): update image docker.io/kubernetesui/dashboard-web 1.6.0 → 1.6.1 (#30840) • [`48b6411`](https://github.com/trueforge-org/truecharts/commit/48b641184bdac9c159dbe600fd49e175028a961d) • [@TrueCharts Bot] (2025-01-12)
 - chore(helm): update image docker.io/kubernetesui/dashboard-api 1.10.1 → 1.10.2 (#30837) • [`c5398ce`](https://github.com/trueforge-org/truecharts/commit/c5398ce152ebff239c138e8e1ba3f8844488ed65) • [@TrueCharts Bot] (2025-01-12)
 - chore(helm): update image docker.io/kubernetesui/dashboard-metrics-scraper 1.2.1 → 1.2.2 (#30839) • [`d852d10`](https://github.com/trueforge-org/truecharts/commit/d852d10afe205474db0947b7502896d1e2861586) • [@TrueCharts Bot] (2025-01-12)
+- chore(helm): update image docker.io/kubernetesui/dashboard-auth 1.2.2 → 1.2.3 (#30838) • [`28c8fa4`](https://github.com/trueforge-org/truecharts/commit/28c8fa41475f457bb2a14aa9688dca159562bf07) • [@TrueCharts Bot] (2025-01-12)
+- chore(helm): update image docker.io/kubernetesui/dashboard-web 1.6.0 → 1.6.1 (#30840) • [`48b6411`](https://github.com/trueforge-org/truecharts/commit/48b641184bdac9c159dbe600fd49e175028a961d) • [@TrueCharts Bot] (2025-01-12)
 
 ## 1.12.0 • [Train: premium]
 
@@ -617,8 +617,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.8.1 • [Train: premium]
 
-- chore(helm): update image docker.io/kubernetesui/dashboard-auth 1.2.0 → 1.2.1 (#28167) • [`081386d`](https://github.com/trueforge-org/truecharts/commit/081386d5347703c4816539d124c229416b873f32) • [@TrueCharts Bot] (2024-10-22)
 - chore(helm): update image docker.io/kubernetesui/dashboard-web 1.5.0 → 1.5.1 (#28169) • [`57b8bae`](https://github.com/trueforge-org/truecharts/commit/57b8bae4499f45ca5f712c9b506bd26c0c245d99) • [@TrueCharts Bot] (2024-10-22)
+- chore(helm): update image docker.io/kubernetesui/dashboard-auth 1.2.0 → 1.2.1 (#28167) • [`081386d`](https://github.com/trueforge-org/truecharts/commit/081386d5347703c4816539d124c229416b873f32) • [@TrueCharts Bot] (2024-10-22)
 
 ## 1.8.0 • [Train: premium]
 
@@ -686,8 +686,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.2.0 • [Train: premium]
 
-- Update values.yaml • [`65c6cf4`](https://github.com/trueforge-org/truecharts/commit/65c6cf4560f46988bbe99141c6f6855a21303173) • [@Kjeld Schouten] (2024-06-27)
 - feat(kubernetes-dashboard): Allow kubernetes-dashboard without token login (#23841) • [`ec6c812`](https://github.com/trueforge-org/truecharts/commit/ec6c812e19b8fcbea2c39989b06b7f979b27a396) • [@Kjeld Schouten] (2024-06-27)
+- Update values.yaml • [`65c6cf4`](https://github.com/trueforge-org/truecharts/commit/65c6cf4560f46988bbe99141c6f6855a21303173) • [@Kjeld Schouten] (2024-06-27)
 
 ## 1.1.0 • [Train: premium]
 
