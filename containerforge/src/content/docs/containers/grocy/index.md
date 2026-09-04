@@ -2,7 +2,7 @@
 title: grocy
 ---
 
-![Version: 4.7.0](https://img.shields.io/badge/Version-4.7.0-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 4.7.1](https://img.shields.io/badge/Version-4.7.1-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **grocy**, including upstream sou
 | Field | Value |
 | --- | --- |
 | App | grocy |
-| Version | 4.7.0 |
+| Version | 4.7.1 |
 | License | AGPL--3.0--or--later |
 
 ## Source
