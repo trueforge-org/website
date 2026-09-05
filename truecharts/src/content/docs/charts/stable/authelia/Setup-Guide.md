@@ -95,7 +95,7 @@ ingress:
 middlewares:
   forwardAuth:
     - name: auth
-      address: http://authelia.authelia.svc.cluster.local:9091/api/verify?rd=https://auth.example.com/truecharts
+      address: http://authelia.authelia.svc.cluster.local:9091/api/verify?rd=https://auth.example.com/
       authResponseHeaders:
         - Remote-User
         - Remote-Group
