@@ -2,7 +2,7 @@
 title: sealskin
 ---
 
-![Version: 0.1.39](https://img.shields.io/badge/Version-0.1.39-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
+![Version: 0.3.0](https://img.shields.io/badge/Version-0.3.0-informational?style=flat-square) ![License: AGPL--3.0--or--later](https://img.shields.io/badge/License-AGPL--3.0--or--later-informational?style=flat-square)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This page contains the container reference for **sealskin**, including upstream 
 | Field | Value |
 | --- | --- |
 | App | sealskin |
-| Version | 0.1.39 |
+| Version | 0.3.0 |
 | License | AGPL--3.0--or--later |
 
 ## Source
